@@ -16,13 +16,37 @@ save_as: data_products.html
 
 <h2>Types of TESS Data Products</h2>
 <br>
-TESS identifies targets from a target list onboard the computer, and selects small pixel cut outs around those regions. The FFIs and pixel cut outs are downlinked. The FFIs are then sent to the MAST archive; the pixel cut outs are processed by SPOC into TPFs, and then LCFS. The process is illustrated below. To learn more about these data product, explore the tabs below.</br> 
+TESS identifies targets from a target list onboard the computer, and selects small pixel cut outs around those regions. The FFIs and pixel cut outs are downlinked. The FFIs are then sent to the MAST archive; the pixel cut outs are processed by <a class='nav-lin' href="{{SITE_URL}}/data_pipeline.html">SPOC</a> into TPFs, and then LCFS. The process is illustrated below. To learn more about these data product, explore the tabs below.</br> 
 <img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/tess_ffi_phot.png" class="img-responsive"><figcaption>Pictoral representation of the different TESS data product types. Note that 30-minute FFIs were provided for the primary mission (Cycles 1 and 2). This cadence of FFI images was reduced during subsequent mission extensions. </figcaption></img>
 <br></br>
 
 
 <div class="accordion" id="accordionDataTypes">
   <div class="accordion" id="accordionDataTypes">
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingTIC">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTIC" aria-expanded="true" aria-controls="collapseTIC">Target Catalogs</button>
+      </h2>
+      <div id="collapseTIC" class="accordion-collapse collapse" aria-labelledby="headingTIC" data-bs-parent="#accordionDataTypes" style="">
+        <div class="accordion-body">
+          <h1> TESS Input Catalog (TIC) </h1>
+          <p>To meet the goals of the primary mission, an all-sky catalog was generated to act as a basis for target selection. The TESS Target Selection Working Group (TSWG) was tasked with the creation and maintenance of the catalog with the aim of compiling every optically luminous, persistent object in the sky down to the limits of available wide-field photometric catalogs including both point sources and extended sources. This enables the selection of optimal targets to search for small transiting planets and allows flux contamination to be calculated in an optimal aperture for each target (critical due to the 21 arcsec TESS pixels). The resulting <a href = 'https://arxiv.org/pdf/1905.10694.pdf'> "The Revised Tess Input Catalog And Candidate Target List" </a> is the source from which the >200,000 primary mission targets were selected and is known as the TESS Input Catalog (TIC).</p>
+          <p>The TIC was assembled based on the Gaia DR2 catalog, and augmented with data from many additional catalogs to create a full list of point sources and extended sources that could be observed by TESS. The input catalog data are used to determine the physical and observational parameters of many of the TIC stars, including stellar radius, stellar mass, and effective temperature. TIC-8 includes 1.7 billion point sources and about 100 million extended sources. A visual overview of the input catalogs and methodology used to construct the TIC is shown in the schematic below.</p>
+          <br/>
+          <img class="img-responsive" style="max-width:90%;" src="https://heasarc.gsfc.nasa.gov/docs/tess/images/giprogram/tic8_overview_figure2.png"><figcaption>Overview of the photometric catalogs used to construct the TESS Input Catalog (TIC). Yellow arrows depict the order that catalogs are cross-matched and/or merged. The final TIC (TIC-8 as of 2019-06-01) is represented by the green box at the upper right. Image Credit: [Stassun et al. 2019](https://ui.adsabs.harvard.edu/abs/2019arXiv190510694S/abstract).</figcaption>
+          <br/>
+          <p>The TIC can be directly accessed through the <a href = 'https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html'>MAST Portal </a> by first selecting MAST Catalogs as the collection and then TESS Input v8 as the Mission. A full description of the assembly, content, and properties of the TIC can be found in the <a href = 'https://arxiv.org/pdf/1905.10694.pdf'> Stassun et al. (2019) </a> paper. </p>
+
+          <h1> The Candidate Target List (CTL) </h1>
+          <p>The Candidate Target List (CTL) is a subset of the TIC. This is a set of targets selected as likely good targets for transit detection and consists of two main components.
+
+            - All TIC stars brighter than TESS magnitude = 13, and an estimated stellar radii smaller than RSun.
+            - All stars included in the <a href = 'https://arxiv.org/abs/1710.00193'> curated Cool Dwarf Catalog (CDC) </a>.</p>
+
+          <p>The CTL is a list of about 9.5 million stars, each evaluated according to a metric that prioritizes the star for transit detection, which incorporate the TESS magnitude, stellar radius, estimated flux contamination, and number of sectors of observation. You can search the CTL datatabe please at the MAST Portal by selecting MAST Catalogs as the collection and then TESS CTL v8.01 as the Mission. For more information on the TIC and CTL please visit the <a href = 'https://tess.mit.edu/science/tess-input-catalogue/'> MIT page</a>.</p>
+        </div>
+      </div>
+    </div>
     <div class="accordion-item">
       <h2 class="accordion-header" id="headingFFI">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFFI" aria-expanded="true" aria-controls="collapseWhy">Full Frame Images (FFIs)</button>
@@ -213,6 +237,88 @@ TESS identifies targets from a target list onboard the computer, and selects sma
       </div>
     </div>
   </div>
+  <div class="accordion" id="accordionDataTypes">
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="headingAccess">
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseAccess" aria-expanded="true" aria-controls="collapseAccess">Accessing Data</button>
+      </h2>
+      <div id="collapseAccess" class="accordion-collapse collapse" aria-labelledby="headingAccess" data-bs-parent="#accordionDataTypes" style="">
+        <div class="accordion-body">
+          <h1>The Mikulski Archive for Space Telescopes (MAST)</h1>
+            The official archive for TESS mission data products is the Mikulski Archive for Space Telescopes (MAST) which is hosted at the Space Telescope Science Institute (STScI).
+
+            MAST has created a Summary page with information on data access, tools, and resources for TESS data. Brief descriptions are provided below,
+
+
+
+          <h3> <a href = 'https://astroquery.readthedocs.io/en/latest/mast/mast.html'> MAST API/astroquery </a> </h3>
+          <p>This allows the user to search for, and retrieve, TESS data products programmatically based on a list of coordinates or target names, interact with observational data, TIC, and CTL catalogs in custom programs.</p>
+
+          <h3> <a href = 'https://exo.mast.stsci.edu/'> exo.MAST </a> </h3> 
+          <p>Here you can find MAST data (including TESS) for known planets and TOIs, matched to orbital phase.
+          You can also plot sector-stitched Data Validation light curves, as well as access exoplanet parameters with references.</p>
+
+          <h3> <a href = 'https://exofop.ipac.caltech.edu/tess/index.php'> ExoFOP-TESS </a> </h3> 
+          <p>ExoFOP-TESS optimizes resources and facilitates collaboration in follow-up studies of targets observed by TESS. The portal provides stellar parameters from the TESS Input Catalog (TIC), which is served by the MAST archive, and planet parameters from the <a href = 'https://exoplanetarchive.ipac.caltech.edu'> NASA Exoplanet Archive</a>. </p>
+
+          <h3> <a href = 'https://mast.stsci.edu/tesscut/'> TESSCut </a> </h3> 
+          <p>TESSCut allows the user to create custom time series pixel cutouts from the TESS full frame images and find out what sectors / cameras / detectors a target was observed in. Further information about TESSCut can be found <a href = 'https://astroquery.readthedocs.io/en/latest/mast/mast.html#tesscut'> here</a>.</p>
+
+          <h3> <a href = 'http://archive.stsci.edu/tess/bulk_downloads.html'> Bulk downloads </a> </h3> 
+          <p>Here, you can:
+
+          <li>Download all light curves / target pixel files for a given sector.</li>
+          <li>Download all light curves / target pixel files for a given GI program.</li>
+          <li>Download all full frame images for a given sector.</li>
+          <li>Download the entire TOI or TCE table.</li>
+          <li>Download the current TIC and CTL.</p></li>
+
+          <h3> <a href = 'https://outerspace.stsci.edu/display/TESS/TESS+Archive+Manual'> Archive manual </a> </h3> 
+          <p>The manual provides step-by-step instructions on how to:
+
+          <li>use MAST web interfaces for TESS</li>
+          <li>obtain Python notebook tutorials on using TESS data and MAST tools</li>
+          <li>access the TIC and CTL "live" release notes</li>
+          <li>learn how to contribute TESS-related data products to MAST</p></li>
+
+          <h3> Data products at MAST </h3> 
+          <p>The following TESS data products and catalogs are currently available at MAST:
+
+          <li>Two-minute cadence target pixel files</li>
+          <li>Two-minute cadence light curves</li>
+          <li>Twenty-second cadence target pixel files</li>
+          <li>Twenty-second cadence light curves</li>
+          <li>Data validation time series files</li>
+          <li>Full frame images (calibrated and uncertainty files)</li>
+          <li>Cotrending basis vectors files</li>
+          <li>Simulated Data files</li>
+          <li>Artifact removal pixel files</li>
+          <li>Background pixel files</li>
+          <li>Auxiliary data for calibration</li>
+          <li>Collateral data files</li>
+          <li>Reverse clock files</li>
+          <li>Ancillary engineering files</li>
+          <li>Latest SPICE kernels (bsp and tsc binary files)</li>
+
+          <h3> Catalogs at MAST </h3> 
+
+          <li>TESS Input Catalog (TIC)</li>
+          <li>Candidate Target List (CTL)</li>
+          <li>Revised stellar parameters of Kepler targets (Q1-Q16)</li>
+          <li>Revised stellar parameters of Kepler targets (Q1-Q17)</li>
+          <li>Kepler Objects of Interest (KOI)</li>
+          <li>Kepler/GALEX cross match catalog</li>
+          <li>False positive working group tables</li>
+          <li>Observed targets by quarter</li>
+          </p>
+        
+          <h3><a href="https://registry.opendata.aws/collab/stsci/">MAST Amazon Web Services</a></h3>
+          In addition to hosting TESS data on local servers, MAST now hosts many of the data products using Amazon Web Services (AWS), enabling fast, reliable access to large datasets. In addition, this has enabled the development of <a href="https://outerspace.stsci.edu/display/MASTDOCS/Cloud+Science+Platforms">cloud-based science platforms</a>. 
+        </div>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 
