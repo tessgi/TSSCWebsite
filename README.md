@@ -5,12 +5,12 @@
 
 Live URL: https://heasarc.gsfc.nasa.gov/docs/tess/
 
-Test URL: http://tessgi.github.io/TessGiWebsite/
+Test URL: http://tessgi.github.io/TSSCWebsite/
 
 
 ## Quickstart
 
-TESS's Guest Investigator Program Website can be edited
+TESS's Science Support Website Website can be edited
 by modifying the text files in the `content` sub-directory of this repository,
 compiling them using `make html` (or `make devserver`),
 and sending them to the server using `make live`.
@@ -149,30 +149,9 @@ Note: `make quick` and `make devserver` both use agressive caching which allows 
 
 This site started off as the Kepler/K2 website, created by Thomas Barclay, Geert Barentsen, and Knicole Colón for the Kepler/K2 Guest Observer Office at NASA Ames.
 
-The TESS GI website is developed and maintained by Thomas Barclay, Knicole Colón, and Rebekah Hounsell at NASA Goddard
+The TESS GI website is developed and maintained by Christina Hedges, Nicole Schanche, Veselin Kostov, Tyler Pritchard, and Rebekah Hounsell at NASA Goddard.
 
 Created using the [Pelican package](getpelican.com) and the
 [pelican-bootstrap3 theme](https://github.com/DandyDev/pelican-bootstrap3).
 
-
-## Citation
-
-You can cite the TESS Science Support Center Website in your publications using its [DOI identifier](https://doi.org/10.5281/zenodo.4156283)
-or using the following BibTex code:
-```
-@software{tom_barclay_2020_4156283,
-  author       = {Tom Barclay and
-                  Geert Barentsen and
-                  Knicole Colon and
-                  Elisa Quintana and
-                  Rebekah Hounsell},
-  title        = {tessgi/TessGiWebsite: First v2.0 website build},
-  month        = oct,
-  year         = 2020,
-  publisher    = {Zenodo},
-  version      = {2.0},
-  doi          = {10.5281/zenodo.4156283},
-  url          = {https://doi.org/10.5281/zenodo.4156283}
-}
-```
 
