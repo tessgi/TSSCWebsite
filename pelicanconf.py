@@ -61,6 +61,11 @@ LINKS = (
 #    ("You can add links in your config file", "#"),
 #    ("Another social link", "#"),
 #)
+
+IGNORE_FILES = [
+    "README.md","make_static_plots.py", "make-approved-programs.py",
+]
+
 MD_INCLUDE_BASE_PATH = 'htmlcontent'
 '''MARKDOWN = {
   'extension_configs': {
