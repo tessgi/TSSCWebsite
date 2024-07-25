@@ -1,0 +1,160 @@
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 2.0rem;
+    margin-bottom: 1.0rem;
+}
+
+.navbar-brand {
+    float: left;
+    min-height: 40px;
+    padding: 12px;
+    font-size: 20px;
+    line-height: 25px; 
+
+}
+
+.navbar {
+    position: relative;
+    height: 40px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    padding: 12 px;
+    line-height: 25px;
+}
+
+.dropdown-menu {
+
+    font-size: .9em; 
+
+}
+
+.btn {
+
+    font-size: 1em;
+
+}
+
+.nav-item {
+    font-size: 18px;
+    min-height: 50px;
+    padding: 12px;
+    line-height: 25px; 
+}
+
+.nav-link {
+    font-size: 18px;
+    padding: 12px;
+    line-height: 25px; 
+    vertical-align: center;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+body {
+    font-size: 16px;
+}
+
+.form-control {
+    font-size: 1em;
+ }
+
+ .accordion-button {
+    font-size: 1.5rem;
+    border: 2.0rem;
+    border-radius: 1rem;
+    overflow-anchor: none;
+    margin-top: 0;
+    height: auto;
+}
+.accordion-header {
+    margin-bottom: .1em;
+    margin-top: .1em;
+}
+
+.accordion {
+    --bs-accordion-color: var(--bs-body-color);
+    --bs-accordion-bg: var(--bs-body-bg);
+    --bs-accordion-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, border-radius 0.15s ease;
+    --bs-accordion-border-color: var(--bs-border-color);
+    --bs-accordion-border-width: var(--bs-border-width);
+    --bs-accordion-border-radius: var(--bs-border-radius);
+    --bs-accordion-inner-border-radius: calc(var(--bs-border-radius) - (var(--bs-border-width)));
+    --bs-accordion-btn-padding-x: 1.25rem;
+    --bs-accordion-btn-padding-y: 1rem;
+    --bs-accordion-btn-color: var(--bs-body-color);
+    --bs-accordion-btn-bg: var(--bs-accordion-bg);
+    --bs-accordion-btn-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%23495057' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+    --bs-accordion-btn-icon-width: 1.25rem;
+    --bs-accordion-btn-icon-transform: rotate(-180deg);
+    --bs-accordion-btn-icon-transition: transform 0.2s ease-in-out;
+    --bs-accordion-btn-active-icon: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='none' stroke='%2313425c' stroke-linecap='round' stroke-linejoin='round'%3e%3cpath d='M2 5L8 11L14 5'/%3e%3c/svg%3e");
+    --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem rgba(47, 164, 231, 0.25);
+    --bs-accordion-body-padding-x: 1.25rem;
+    --bs-accordion-body-padding-y: 1.5rem;
+    --bs-accordion-active-color: var(--bs-primary-text-emphasis);
+    --bs-accordion-active-bg: var(--bs-primary-bg-subtle);
+    margin-top:0;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+figcaption {
+    font-size: 80%;
+    font-style: italic;
+    text-align: left;
+}
+
+img {
+    max-width: 100%;
+    margin:auto;
+}
+
+
+td img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.drn{
+    display:none;
+  }
+  .drnalert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+  }
+  
+  /* The close button */
+  .drnclosebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  /* When moving the mouse over the close button */
+  .drnclosebtn:hover {
+    color: black;
+  }

@@ -1,0 +1,233 @@
+{% extends "base.html" %}
+
+{% block canonical_rel %}
+<link rel="canonical" href="{{ SITEURL }}">
+{% endblock %}
+
+<!--
+{% block banner %}
+{% include 'includes/banner_new2.html' %}
+{% endblock %}
+-->
+
+
+{% block core %}
+
+<header class="main-header" role="banner">
+  <img src="images/Mission_Posters_header.png" alt="Banner Image" ; height="auto"; style=" width:100% !important ;border:2px solid "/>
+</header>
+
+<!--<div class="container-fluid" style="margin-top:2em;background: linear-gradient(to left top, 
+  #c9d6ff,
+  #e2e2e2);">
+  <div class="container col-xxl px-4 py-5">
+    <div class="row flex-lg-row align-items-center g-5 py-5">
+      <div id=pc1 class="col-10 col-sm-8 col-lg-6">
+        
+
+      </div>
+      <div class="col-lg-10">
+        <h1 class="display-5 fw-bold lh-6 mb-3">NASA TESS Science Support Center</h1>
+        <p class="lead"></p>
+      </div>
+    </div>
+  </div>
+</div>-->
+
+{% if DISPLAY_ALERT %}
+<div class="alert alert-{{ ALERT_TYPE }} alert-dismissible fade show" role="alert">
+  <strong>{{ ALERT_TITLE }}</strong> {{ ALERT_TEXT }}
+  <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+</div>
+{% endif %}
+
+
+
+<div class="container">
+  <div class="row">
+    <p class="h1 text-left"> TESS at a glance </p>
+
+  {% include 'includes/planet_counter.html' %}
+  </div>
+</div>
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8">
+      <h1 style="padding-bottom:0.5em; padding-top:1.0em;">Latest TESS News Bulletins</h1>
+      {% if articles %}
+      {% for article in (articles_page.object_list if articles_page else articles) %}
+      <article>
+        <div><b><a href="{{ SITEURL }}/{{ article.url }}" style="font-size: 1.3em;">{{ article.title }}</a></b>
+        </div>
+        <span class="categories-timestamp"><time datetime="{{ article.date.isoformat() }}">{{ article.date.strftime("%d
+            %b %Y") }}</time></span>
+        <div class="summary entry-content" style="padding-top: 0.5em; ">{{ article.summary|replace("…","...")}}
+          {% include 'includes/comment_count.html' %}
+          <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">More &raquo;</a>
+        </div>
+      </article>
+      <hr />
+      {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
+</div>
+
+
+<div class="container px-4 py-5" id="hanging-icons">
+  <h1 class="pb-2 border-bottom">Want to stay up to date with the latest TESS science?</h1>
+  <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+    <div class="col d-flex align-items-start">
+      <div class="icon-square bg-light text-dark flex-shrink-0 me-3">
+        <svg class="bi" width="1em" height="1em">
+          <use xlink:href="#tools"></use>
+        </svg>
+      </div>
+      <div>
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-envelope-o fa-lg"></i><span class="icon-label"><strong>Subscribe to
+                our mailing list</strong></span></h4>
+        </div>
+        <div class="panel-body entry-content">
+          <!-- Begin MailChimp Signup Form -->
+          <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+          <div id="mc_embed_signup">
+            <form action="//nasa.us15.list-manage.com/subscribe/post?u=157ce755ac3a9b51b8ab7373b&amp;id=c62f997f18"
+              method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscri\
+be-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll">
+                <div class="mc-field-group">
+                  <label for="mce-EMAIL">Email address </label>
+                  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+                </div>
+                <div id="mce-responses" class="clear">
+                  <div class="response" id="mce-error-response" style="display:none"></div>
+                  <div class="response" id="mce-success-response" style="display:none"></div>
+                </div>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
+                    name="b_157ce755ac3a9b51b8ab7373b_c62f997f18" tabindex="-1" value=""></div>
+                <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe"
+                    class="button"></div>
+              </div>
+            </form>
+          </div>
+          <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+          <script type='text/javascript'>(function ($) {
+              window.fnames = new Arr\
+              ay(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text';
+            }(jQuery)); var $mcj = jQuery.noConflict\
+            (true);</script>
+          <!--End mc_embed_signup-->
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+
+
+
+
+<!-- Upcoming Meetings panel -->
+<!-- <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label"><strong>Upcoming
+                meetings</strong></span></h4>
+        </div>
+        <div class="panel-body">
+          <ul class="list-group">
+            {% for date, name, link in MEETINGS %}
+            <li class="list-group-item">
+              {{ date }}<br>
+              <a href="{{ link }}">
+                {{ name }}
+              </a>
+            </li>
+            {% endfor %}
+
+            <li class="list-group-item">
+              <a href="conferences.html">View past meetings &raquo;</a>
+            </li>
+          </ul>
+        </div>
+      </div> -->
+
+
+<!-- Twitter panel -->
+<!-- <div>
+        <a class="twitter-timeline" data-width="360" data-height="400" href="https://twitter.com/tesshelp">Tweets by
+          us</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div> -->
+
+<!-- Dashboard -->
+<!-- <div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-dashboard fa-lg"></i><span class="icon-label">Science dashboard</span></h4>
+  </div>
+  <div class="panel-body entry-content">
+    <ul class="list-group">
+      <li class="list-group-item">
+          Candidate planets: <span id="kepler_candidates_count"></span><br>
+          Confirmed planets: <span id="kepler_confirmed_count"></span><br>
+          Papers: <span id="kepler_count"></span>
+      </li> -->
+<!--
+      <li class="list-group-item">
+        <a href="/dashboard">View more stats &raquo;</a>
+      </li> -->
+<!--
+    </ul>
+  </div>
+</div> -->
+
+
+<!-- Special-purpose panel -->
+<!--
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title"><i class="fa fa-group fa-lg"></i><span class="icon-label">Upcoming conference</span></h4>
+  </div>
+  <div class="panel-body" style="padding:0;">
+    <a href='/save-the-date-for-kepler-k2-scicon-iv-june-19-23-2017.html'>
+    <img src="images/scicon2017-slide.jpg" class='img-responsive'/></a>
+  </div>
+</div>
+-->
+
+
+
+<!-- </div> -->
+
+
+<!-- </div> -->
+{% endblock core %}
+
+
+<!-- {% block scripts %}
+    <script>
+    var url = "https://cdn.rawgit.com/barentsen/kepler-dashboard/master/kepler-dashboard.json";
+    $.ajax({
+        type: 'GET',
+        dataType: 'json',
+        crossDomain: true,
+        url: url,
+        success: function (resp, textStatus, jqXHR) {
+           $('#kepler_candidates_count').text(resp.planets.kepler_candidates_count.toLocaleString('en-US'));
+           $('#kepler_confirmed_count').text(resp.planets.kepler_confirmed_count.toLocaleString('en-US'));
+           $('#k2_candidates_count').text(resp.planets.k2_candidates_count.toLocaleString('en-US'));
+           $('#k2_confirmed_count').text(resp.planets.k2_confirmed_count.toLocaleString('en-US'));
+           $('#kepler_count').text(resp.publications.kepler_count.toLocaleString('en-US'));
+           $('#k2_count').text(resp.publications.k2_count.toLocaleString('en-US'));
+        }
+    });
+    </script>
+{% endblock %} -->

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container-fluid" style="margin-top:2em;">
+	<div class="row flex-lg-row-reverse align-items-center g-4 py-5">
+		<div id=plot1 class="col-4 col-lg-8 col-md-offset-1">
+  		{% include 'includes/papers_over_time.html' %}
+		</div>
+		<div class="col-lg-4">
+			<h1 class="display-5 fw-bold lh-1 mb-8">TESS Publications</h1>
+			<p class="lead">This plot shows the number of peer-reviewed journal articles utilizing TESS data over time. The TESS papers are further broken up into papers related to exoplanets or astrophysics, which in this context is all applications outside of exoplanets. The trend indicates that TESS is being increasingly used for purposes outside of the primary mission goal. </p>
+		</div>
+	</div>
+
+	<div class="row flex-lg-row-reverse align-items-center g-4 py-5">
+		<div id=plot1 class="col-4 col-lg-8 col-md-offset-1">
+  		{% include 'includes/US_author_count.html' %}
+		</div>
+		<div class="col-lg-4">
+			<h1 class="display-5 fw-bold lh-1 mb-8">
+		Contributing Authors in the USA </h1>
+			<p class="lead">This map shows the location of
+		US-based authors contributing to TESS
+		publications. States containing institutions heavily
+		involved with the development and operation of TESS
+		(California, Massachusetts, and Maryland) show a
+		strong concentration of authors, but the reach of TESS
+		has extended to nearly every state. </p>
+		</div>
+	</div>
+	<div class="row flex-lg-row-reverse align-items-center g-4 py-5">
+		<div id=plot1 class="col-4 col-lg-8 col-md-offset-1">
+  		{% include 'includes/Lead_author_affiliation.html' %}
+		</div>
+		<div class="col-lg-4">
+			<h1 class="display-5 fw-bold lh-1 mb-8">TESS
+		Around the World</h1>
+			<p class="lead">TESS data has reached users
+		around the globe. This plot shows the location of lead (first)
+		authors on publications utilizing TESS data. Hover
+		your mouse over the countries to see the breakdown
+		around the world. </p>
+		</div>
+	</div>		
+</div>
+
+{% endblock %}
