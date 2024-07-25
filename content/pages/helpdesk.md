@@ -15,8 +15,13 @@ The members of the TESS GI office are listed below.
         Project Scientist 
     </div>
     
-    
-     <div class="col-sm-3 text-center">
+    <div class="col-sm-3 text-center"> 
+        <img src="images/faces/knicole.jpg" style="max-width:80%;" class="img-circle"><br>
+        Dr. Knicole Colón<br>
+        Deputy Project Scientist 
+    </div>
+
+    <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Christina Hedges<br>
         Director of the Guest Investigator Office
