@@ -12,3 +12,4 @@ jobs:
       id-token: "write"
     with:
       settings: "publishconf.py"
+      requirements: "pelican[markdown] autoloader i18n_subsites jinja2content jinja_filters photos render_math theme_config search md_include"
