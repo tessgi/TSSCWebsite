@@ -5,10 +5,11 @@
 
 .navbar-brand {
     float: left;
-    min-height: 40px;
-    padding: 12px;
+    /*min-height: 40px;*/
+    padding-top: 10px;
+    vertical-align: center;
     font-size: 20px;
-    line-height: 25px; 
+    /*line-height: 25px; */
 
 }
 
