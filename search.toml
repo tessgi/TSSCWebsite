@@ -1,0 +1,118 @@
+[input]
+html_selector = "main"
+base_directory = "/Users/nthom/website_revamp/TSSCWeb/output"
+
+[[input.files]]
+path = "approved-programs.html"
+url = "/pages/tess-approved-programs.html"
+title = "TESS Approved Programs"
+
+[[input.files]]
+path = "citizen_science.html"
+url = "/pages/citizen-science.html"
+title = "Citizen Science"
+
+[[input.files]]
+path = "community.html"
+url = "/pages/tess-data-analysis-tools.html"
+title = "TESS Data Analysis Tools"
+
+[[input.files]]
+path = "data_pipeline.html"
+url = "/pages/tess-data-pipeline-spoc.html"
+title = "TESS Data Pipeline (SPOC)"
+
+[[input.files]]
+path = "data_products.html"
+url = "/pages/tess-data-products-information.html"
+title = "TESS Data Products Information"
+
+[[input.files]]
+path = "data_release_notes.html"
+url = "/pages/condensed-tess-data-release-notes.html"
+title = "Condensed TESS Data Release Notes"
+
+[[input.files]]
+path = "ddt.html"
+url = "/pages/directors-discretionary-target-ddt-program.html"
+title = "Director's Discretionary Target (DDT) program"
+
+[[input.files]]
+path = "faq.html"
+url = "/pages/frequently-asked-questions.html"
+title = "Frequently Asked Questions"
+
+[[input.files]]
+path = "helpdesk.html"
+url = "/pages/tess-helpdesk.html"
+title = "TESS Helpdesk"
+
+[[input.files]]
+path = "mediarequest.html"
+url = "/pages/media-requests.html"
+title = "Media Requests"
+
+[[input.files]]
+path = "outreach.html"
+url = "/pages/outreach-materials.html"
+title = "Outreach Materials"
+
+[[input.files]]
+path = "proposing.html"
+url = "/pages/proposing-to-the-tess-general-investigator-program.html"
+title = "Proposing to the TESS General Investigator program"
+
+[[input.files]]
+path = "proposing_tools.html"
+url = "/pages/propose-for-upcoming-cycle-7.html"
+title = "Propose for Upcoming Cycle 7"
+
+[[input.files]]
+path = "sector.html"
+url = "/pages/tess-observations.html"
+title = "TESS Observations"
+
+[[input.files]]
+path = "statistics.html"
+url = "/pages/tess-statistics.html"
+title = "TESS statistics"
+
+[[input.files]]
+path = "telescope_information.html"
+url = "/pages/tess-telescope-information.html"
+title = "TESS Telescope Information"
+
+[[input.files]]
+path = "tfop.html"
+url = "/pages/tess-follow-up-program.html"
+title = "TESS Follow-up Program"
+
+[[input.files]]
+path = "tuc.html"
+url = "/pages/tess-users-committee.html"
+title = "TESS Users Committee"
+
+[[input.files]]
+path = "tutorial_landing.html"
+url = "/pages/a-guide-to-tess-data.html"
+title = "A Guide to TESS Data"
+
+[[input.files]]
+path = "what-is-tess.html"
+url = "/pages/what-is-tess.html"
+title = "What is TESS?"
+
+[[input.files]]
+path = "my-first-article.html"
+url = "/my-first-article.html"
+title = "My First Article"
+
+[[input.files]]
+path = "tess-special-bulletin-may-15th.html"
+url = "/tess-special-bulletin-may-15th.html"
+title = "TESS Special Bulletin: May 15th"
+
+[[input.files]]
+path = "the-tess-extended-mission.html"
+url = "/the-tess-extended-mission.html"
+title = "The TESS Extended Mission"
