@@ -102,7 +102,7 @@ MENUITEMS = (
         ('Science Resources', (
             #('TESS Statistics', 'statistics.html'),
             ('Telescope Information', 'telescope_information.html'),
-            ('Observation Dates', 'sector.html'),
+            ('Sector Information', 'sector.html'),
             #('TESS Data', 'data_pipeline.html'),
             ('Data Products', 'data_products.html'),
             ('Follow-up Program', 'TFOP.html'),
@@ -115,9 +115,9 @@ MENUITEMS = (
              )
         ),
         ('Tools and Tutorials', (
-            ('TESS tutorials', 'tutorial_landing.html'),
-            ('TESS Data Analysis Tools', 'community.html'),
-            ('TESS Proposal Tools', 'proposing_tools.html'),
+            ('Tutorials', 'tutorial_landing.html'),
+            ('Data Analysis Tools', 'community.html'),
+            ('Proposal Tools', 'proposing_tools.html'),
             ('TESS-point Web Tool', 'https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py'), #'tesspoint.html'),
             #('Work with TESS Data online with TiKE', 'new_proposing.html'),
                     )

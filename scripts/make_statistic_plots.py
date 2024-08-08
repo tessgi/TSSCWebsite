@@ -19,7 +19,7 @@ from collections import defaultdict
 from collections import Counter
 
 
-def get_tpub(tpub_path="htmlcontent/statistics/data/tpub.db"):
+def get_tpub(tpub_path="../htmlcontent/statistics/data/tpub.db"):
     """
     Read in the latest database file from tpub (Note that this is static for now, but can be adjusted later when we decide how we want to get tpub data for the website.)
 
@@ -41,7 +41,7 @@ def get_tpub(tpub_path="htmlcontent/statistics/data/tpub.db"):
 
 
 # We will want to pull in some information on the author's affiliation (country and state (if applicable))
-def get_countries(country_path="htmlcontent/statistics/data/countries_codes_and_coordinates.csv"):
+def get_countries(country_path="../htmlcontent/statistics/data/countries_codes_and_coordinates.csv"):
     """
     Function to read in the csv file containing country names, codes, and lat/long coordinates
 
@@ -55,16 +55,14 @@ def get_countries(country_path="htmlcontent/statistics/data/countries_codes_and_
     """
 
     # CSV from Christina
-    countries = pd.read_csv("htmlcontent/statistics/data/countries_codes_and_coordinates.csv")
+    countries = pd.read_csv("../htmlcontent/statistics/data/countries_codes_and_coordinates.csv")
     for column in countries.columns[1:]:
         countries[column] = [c.strip().replace('"', "") for c in countries[column]]
-    countries["Country"].replace(
-        "Jersey", "Bailiwick of Jersey", inplace=True
-    )  # Getting confused with New Jersey
+    countries['Country'] = countries['Country'].replace('Jersey','Bailiwick of Jersey') # Getting confused with New Jersey
     return countries
 
 
-def get_states(state_path="htmlcontent/statistics/data/states.csv"):
+def get_states(state_path="../htmlcontent/statistics/data/states.csv"):
     """
     Function to read in the csv file containing US state names, postal codes, and lat/long coordinates
 
@@ -112,7 +110,8 @@ def get_articles(tpub_results):
 
 def make_interactive_paper_plot(
     article, 
-    image_path="htmlcontent/statistics/images/"
+    html_path="../htmlcontent/statistics/images/",
+    image_path="../content/images/statistics/"
 ):
     """
     Function to make an interactive plot that shows the number of journal publications for TESS
@@ -127,7 +126,7 @@ def make_interactive_paper_plot(
     None
     """
 
-    start_date = datetime(2018, 4, 1)  # Month of TESS launch
+    start_date = pd.to_datetime('2018-04-01 00:00:00', format="%Y-%m-%d %H:%M:%S", errors='coerce') #datetime(2018, 4, 1)  # Month of TESS launch
     end_date = max(article["month"]) # Latest article on tpub
     
     #Easy way to handle recurring events (such as in a calendar) where the number of days etc are not always the same
@@ -205,7 +204,7 @@ def make_interactive_paper_plot(
 
     # Save the file as an html. Include a pointer to plotly-latest.min.js.
     fig.write_html(
-        image_path + "papers_over_time.html",
+        html_path + "papers_over_time.html",
         include_plotlyjs="{{ SITEURL }}/theme/js/plotly-latest.min.js",
         default_width="100%",
         default_height="100%",
@@ -220,7 +219,7 @@ def make_interactive_paper_plot(
 ###################################################################
 
 # Makes a plot of the number of refereed papers over time, broken up by tpub category
-def make_static_publication_bar_chart(results, image_path="htmlcontent/statistics/images/"):
+def make_static_publication_bar_chart(results, image_path="../content/images/statistics/"):
     """
     Function to make a static plot that shows the number of publications for TESS, extrapolating to the end of the current year
 
@@ -241,11 +240,11 @@ def make_static_publication_bar_chart(results, image_path="htmlcontent/statistic
     #)
 
     
-    start_date = pd.to_datetime('2013-01-01 00:00:00', format="%Y-%m", errors='coerce')
+    start_date = pd.to_datetime('2013-01-01 00:00:00', format="%Y-%m-%d %H:%M:%S", errors='coerce')
     
     # Occasionally tpub gets a publication listed in the future which messus up this extrapolation. 
-    max_date = pd.to_datetime(f"{int(max(publications['year']))}-01-01 00:00:00", format="%Y-%m", errors='coerce')
-    today = pd.to_datetime('today', format="%Y-%m", errors='coerce')
+    max_date =pd.to_datetime(f"{int(max(publications['year']))+1}-01-01 00:00:00", format="%Y-%m-%d %H:%M:%S", errors='coerce')
+    today = pd.to_datetime('today', format="%Y-%m-%d %H:%M:%S", errors='coerce')
     if max_date > today:
     	end_date = today 
     else:
@@ -290,7 +289,7 @@ def make_static_publication_bar_chart(results, image_path="htmlcontent/statistic
         zorder=3,
     )
     ax.tick_params(axis="both", which="major", labelsize=18)
-    ax.set_xticks(plot_years, fontsize=22)
+    ax.set_xticks(plot_years)
     ax.set_ylabel("Publications per year", fontsize=22)
     plt.legend(
         bbox_to_anchor=(0.3, 1.04, 0.45, 0.06),
@@ -310,7 +309,7 @@ def make_static_publication_bar_chart(results, image_path="htmlcontent/statistic
 ###################################################################
 
 
-def make_subject_piechart(results, image_path="htmlcontent/statistics/images/"):
+def make_subject_piechart(results, image_path="../content/images/statistics/"):
     """
     Function to make a static pie chart that shows the subject breakdown of TESS publications (astrophysics vs exoplanets)
 
@@ -658,7 +657,8 @@ def make_author_group(author_list):
 def plot_American_authors(
     author_list,
     states,
-    image_path="htmlcontent/statistics/images/"
+    html_path="../htmlcontent/statistics/images/",
+    image_path="../content/images/statistics/"
 ):
     """
     Creates an html interactive plot showing the number of unique TESS authors (from any position on the author list) affiliated with a US institution from each state
@@ -725,7 +725,7 @@ def plot_American_authors(
     fig.update_coloraxes(colorbar_ticktext=["0","20","40","60","80","100+"]) 
 
     fig.write_html(
-        image_path + "US_author_count.html",
+        html_path + "US_author_count.html",
         include_plotlyjs="{{ SITEURL }}/theme/js/plotly-latest.min.js",
         default_width="80vw",
         default_height="80vh",
@@ -737,7 +737,8 @@ def plot_American_authors(
 def plot_Global_authors(
     author_list,
     countries,
-    image_path="htmlcontent/statistics/images/"
+    html_path="../htmlcontent/statistics/images/",
+    image_path="../content/images/statistics/"
 ):
     """
     Creates an html interactive plot showing the number of unique TESS authors (first authors only) affiliated with a US institution from each state
@@ -796,7 +797,7 @@ def plot_Global_authors(
     fig.update_coloraxes(colorbar_ticktext=["0","20","40","60","80","100+"])
     
     fig.write_html(
-        image_path + "Lead_author_affiliation.html",
+        html_path + "Lead_author_affiliation.html",
         include_plotlyjs="{{ SITEURL }}/theme/js/plotly-latest.min.js",
         default_width="80vw",
         default_height="80vh",
@@ -827,7 +828,7 @@ def make_paper_list(results, countries, states):
     return paper_list
 
 
-def plot_author_connections(paper_list, countries, image_path="htmlcontent/statistics/images/"):
+def plot_author_connections(paper_list, countries, image_path="../content/images/statistics/"):
     """
     Creates a static world map with a line connecting the affiliated location of the first author with all of their collaborating authors.
 
