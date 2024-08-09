@@ -318,7 +318,7 @@ each 20 second frame</p>
 <pre class="literal-block">
 &lt;matplotlib.legend.Legend at 0x11da401f0&gt;
 </pre>
-<img alt="" src="images/CRM_demo.png" />
+<img alt="" src="images/Cosmic-Ray-Primer/CRM_demo.png" />
 <p>CRM is “baked in” to the data, it can not be removed, and it can not be
 reversed.</p>
 <p><strong>Crucially, for 20-second TPF data taken by the mission and delivered,
@@ -438,7 +438,7 @@ tutorial</a>.</p>
 <pre class="literal-block">
 &lt;AxesSubplot:title={'center':'Target ID: 377780790, Cadence: 5025018'}, xlabel='Pixel Column Number', ylabel='Pixel Row Number'&gt;
 </pre>
-<img alt="" src="images/TPF_cosmic_ray_primer.png" />
+<img alt="" src="images/Cosmic-Ray-Primer/TPF_cosmic_ray_primer.png" />
 <pre class="code ipython3 literal-block">
 <span class="c1">#Get the cosmic ray data using the function we defined above</span><span class="w">
 </span><span class="n">cosmic_ray_cube</span> <span class="o">=</span> <span class="n">load_cosmicray_extension</span><span class="p">(</span><span class="n">tpf</span><span class="p">)</span>
@@ -461,7 +461,7 @@ tutorial</a>.</p>
 
 </span><span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
 </pre>
-<img alt="" src="images/Cosmic_ray_examplegrid.png" />
+<img alt="" src="images/Cosmic-Ray-Primer/Cosmic_ray_examplegrid.png" />
 <p>The cosmic ray extension can be used to re-inject the cosmic rays into
 the pixel data. For example, using the pipeline processed pixels we can
 simply add the cosmic rays back into the simple aperture photometry
@@ -473,7 +473,7 @@ simply add the cosmic rays back into the simple aperture photometry
 <pre class="literal-block">
 &lt;AxesSubplot:xlabel='Time - 2457000 [BTJD days]', ylabel='Flux [$\mathrm{e^{-}\,s^{-1}}$]'&gt;
 </pre>
-<img alt="" src="images/SAP_without_CR.png" />
+<img alt="" src="images/Cosmic-Ray-Primer/SAP_without_CR.png" />
 <pre class="code ipython3 literal-block">
 <span class="n">tpf_with_cr</span> <span class="o">=</span> <span class="p">(</span><span class="n">tpf</span> <span class="o">+</span> <span class="n">cosmic_ray_cube</span><span class="p">)</span><span class="w">
 </span><span class="n">lc_with_cr</span> <span class="o">=</span> <span class="n">tpf_with_cr</span><span class="o">.</span><span class="n">to_lightcurve</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">)</span><span class="w">
