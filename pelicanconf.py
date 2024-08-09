@@ -29,6 +29,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+#Value for the front page counter 
+from datetime import date
+SCIENCE_DAYS = (date.today() - date.fromisoformat('2018-07-18')).days
+
 PLUGINS = [
     # list of plugins I have enabled
     'autoloader',                                                                                                           
