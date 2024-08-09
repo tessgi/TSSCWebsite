@@ -36,6 +36,6 @@ This paper presents a new pipeline called Nigraha which uses a combination of tr
 
 **Fig 1.** *Taken from Leleu et. al., (2021).  The light curves from TESS Sector 2 and described in sections 2 and 4.1.1 of the paper. The un-binned data is given via the grey points, and data in 30-minute bins are shown as black circles. The best fitting transit model for the system is shown in black. The positions of the transits are marked with lines colored according to the legend. The photometry before and after the mid-sector gap are shown in the top and bottom panels, respectively. The first transit of planet f (thick teal line) occurred precisely between the two transits of the similarly sized planet g (period of 20.71 d - red lines), the three transits were originally thought to have arisen due to a single planet, which was originally designated TOI-178.02 with a period of 10.35 d.*
 
-![](images/news/Ripepi_2021.png)
+![Ripepi](images/news/Ripepi_2021.png)
 
 **Fig 2.** *Taken from Ripepi et. al., (2021). The TESS light curve of HD344787, as derived from the full-frame images with the FITSH differential image photometry pipeline. The top panel shows the light curve in mmag after subtracting the average value (mT ES S =8.1055 mag); the bottom panel shows the light curve after re-moving the first three instrumental frequencies.*
