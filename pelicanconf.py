@@ -38,7 +38,7 @@ PLUGINS = [
     'photos',                                                                                                          
     'render_math',                                                                                                  
     'theme_config',
-    'search',
+    #'search',
     'md_include',
 ]
 

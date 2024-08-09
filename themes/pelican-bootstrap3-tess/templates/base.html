@@ -205,14 +205,14 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                 </ul>
                 <!--<form class="d-flex">-->
-                <!--<form class="form-inline my-2 my-lg-0">-->
-                    <!--<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
-                    <button class="btn btn-secondary" type="submit">Search</button>
-                </form>-->
-                <form class="d-flex my-2 my-lg-0">
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
+                    <!--<button class="btn btn-secondary" type="submit">Search</button>-->
+                </form>
+                <!--<form class="d-flex my-2 my-lg-0">
                     <input data-stork="sitesearch" class="stork-input" placeholder="Search"/>
                     <div data-stork="sitesearch-output" class="stork-output"></div>
-                </form>
+                </form>-->
             </div>
         </div>
     </nav>
@@ -257,12 +257,12 @@ in 2024, using pelican-bootstrap and flatly.
     <script src="{{ SITEURL }}/theme/js/bootstrap-table.min.js"></script>
 
 
-    <script src="{{ SITEURL }}/theme/js/stork.js"></script>
+    <!--<script src="{{ SITEURL }}/theme/js/stork.js"></script>
     <script>
         stork.initialize("{{ SITEURL }}/theme/js/stork.wasm")
         stork.downloadIndex("sitesearch", "{{ SITEURL }}/search-index.st")
         stork.attach("sitesearch")
-    </script>
+    </script>-->
 
 
     {% include 'includes/github-js.html' %}
