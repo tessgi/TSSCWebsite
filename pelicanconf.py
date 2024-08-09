@@ -40,9 +40,9 @@ PLUGINS = [
     'theme_config',
     'search',
     'md_include',
-
-
 ]
+
+
 
 # Blogroll
 LINKS = (
@@ -63,7 +63,7 @@ LINKS = (
 #)
 
 IGNORE_FILES = [
-    "README.md","make_static_plots.py", "make-approved-programs.py",
+    "README.md","make_static_plots.py", "make-approved-programs.py", "tpub.db"
 ]
 
 MD_INCLUDE_BASE_PATH = 'htmlcontent'

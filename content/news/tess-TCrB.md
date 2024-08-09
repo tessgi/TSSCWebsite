@@ -15,7 +15,7 @@ T CrB is also interesting in that it has a pre-outburst tell, alerting the commu
 If the event happens between April 23rd and May 21st it will also be observed serendipitously by TESS in Sector 78.
 TESS has already observed the system in quiescence during Sectors 24, 25, and 51 (see Fig 1), but if the nova has an outburst in S78, TESS will obtain a wonderful light curve of its rise and decline.
 
-![TCrB](images/articles/TCrb.png)
+![TCrB](images/news/TCrb.png)
 
 **Fig. 1:** *Plot of TCr B data taken by TESS and the [All-Sky Automated Survey for Supernovae](https://www.astronomy.ohio-state.edu/asassn/) (ASAS-SN).*
 
