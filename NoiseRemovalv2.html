@@ -371,7 +371,7 @@ function.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8da8e321d0&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_10_1.png" />
+<img alt="KT Eri Target Pixel File" src="images/NoiseRemoval/output_10_1.png" />
 <p>Note that this cut out is much larger than a typical FFI, this is
 because when calculating our noise and systematics, we want a larger
 sample of pixels from which the correction will be applied.</p>
@@ -389,7 +389,7 @@ aperture as shown below.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8dd96dcfd0&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_13_1.png" />
+<img alt="KT Eri Target Pixel File with target aperture" src="images/NoiseRemoval/output_13_1.png" />
 <p>Excellent it covers our object! Let’s now make our light curve using
 this aperture and plot the result.</p>
 <pre class="code ipython3 literal-block">
@@ -399,7 +399,7 @@ this aperture and plot the result.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8dd96dccd0&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_15_1.png" />
+<img alt="KT Eri simple aperture lightcurve" src="images/NoiseRemoval/output_15_1.png" />
 </div>
 <div class="section" id="how-to-account-for-instrumental-and-noise-effects-within-your-data-using-the-corrector-class">
 <h3>2. How to account for instrumental and noise effects within your data using the Corrector class</h3>
@@ -435,7 +435,7 @@ Single-Scale CBVs, which contain all systematics combined.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8dd99f8810&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_19_1.png" />
+<img alt="Cotrending basis vectors" src="images/NoiseRemoval/output_19_1.png" />
 <p>The first several CBVs contain most of the systematics. The latter CBVs
 pose a greater risk of injecting more noise than helping. The default
 behavior in CBVCorrector is to use the first 8 CBVs.</p>
@@ -463,7 +463,7 @@ and above tends to indicate a good fit to the data.</p>
 <pre class="literal-block">
 [&lt;matplotlib.lines.Line2D at 0x7f8d8a297290&gt;]
 </pre>
-<img alt="" src="images/NoiseRemoval/output_25_1.png" />
+<img alt="CBV metrics" src="images/NoiseRemoval/output_25_1.png" />
 <p>The above plot indicates that a regularization factor alpha value of
 1.5e-1 is appropriate for our data. We can now specify this and check it
 via a diagnose method.</p>
@@ -474,7 +474,7 @@ via a diagnose method.</p>
 </span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
 </span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
 </pre>
-<img alt="" src="output_27_0.png" />
+<img alt="CBV correction" src="output_27_0.png" />
 <pre class="code ipython3 literal-block">
 <span class="n">cbvcorrector_lc</span> <span class="o">=</span> <span class="n">cbvcorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="w">
 </span><span class="n">cbvcorrector_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
@@ -482,7 +482,7 @@ via a diagnose method.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8debd37ad0&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_28_1.png" />
+<img alt="CBV corrected lightcurve" src="images/NoiseRemoval/output_28_1.png" />
 <p>We can see that a correction was applied which has removed some of the
 slope from our data and also labeled the big spike as an outlier.</p>
 <p>The above method can be adjusted more, but for now, let’s move onto our
@@ -509,7 +509,7 @@ principle componant (PCA) as follows,</p>
 <span class="n">dm</span> <span class="o">=</span> <span class="n">dm</span><span class="o">.</span><span class="n">pca</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="w">
 </span><span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">S32</span><span class="o">.</span><span class="n">time</span><span class="o">.</span><span class="n">value</span><span class="p">,</span> <span class="n">dm</span><span class="o">.</span><span class="n">values</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">arange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span><span class="o">*</span><span class="mf">0.2</span><span class="p">,</span> <span class="s1">'.'</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/NoiseRemoval/output_35_0.png" />
+<img alt="Top ten principle components" src="images/NoiseRemoval/output_35_0.png" />
 <p>From this we can see that 10 is excessive and we should probably use
 only 5. Let’s do this and plot it up.</p>
 <pre class="code ipython3 literal-block">
@@ -519,7 +519,7 @@ only 5. Let’s do this and plot it up.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8db9fa0750&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_37_1.png" />
+<img alt="correction vectors" src="images/NoiseRemoval/output_37_1.png" />
 <p><em>Lightkurve’s RegressionCorrector</em> uses linear algebra to find the
 combination of vectors that makes the input light curve closest to zero.
 We therefore needed to add one more component - an “offset” term, to be
@@ -539,7 +539,7 @@ de-trends the light curves against the vectors.</p>
 
 </span><span class="n">corrected_ffi_lc</span> <span class="o">=</span> <span class="n">rc</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">dm</span><span class="p">)</span>
 </pre>
-<img alt="" src="images/NoiseRemoval/output_41_0.png" />
+<img alt="Trends in lightcurve" src="images/NoiseRemoval/output_41_0.png" />
 <p><strong>HOWEVER!</strong> The <em>RegressionCorrector</em> assumes that you want to remove
 the trend and set the light curve to the mean level.</p>
 <p>This isn’t true for <em>TESS</em> scattered light, as the <em>TESS</em> FFI light
@@ -556,7 +556,7 @@ following code,</p>
 </span><span class="n">corrected_ffi_lc</span> <span class="o">=</span> <span class="n">lc_S32</span> <span class="o">-</span> <span class="n">rc</span><span class="o">.</span><span class="n">model_lc</span> <span class="o">+</span> <span class="n">np</span><span class="o">.</span><span class="n">percentile</span><span class="p">(</span><span class="n">rc</span><span class="o">.</span><span class="n">model_lc</span><span class="o">.</span><span class="n">flux</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span><span class="w">
 </span><span class="n">corrected_ffi_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'Corrected light curve'</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/NoiseRemoval/output_43_0.png" />
+<img alt="Lightcurve with removed Scattered light" src="images/NoiseRemoval/output_43_0.png" />
 <p>This has removed all the scattered light and the slope, but again could
 be adjusted further. However, we will move onto our final tool.</p>
 </div>
@@ -582,7 +582,7 @@ PLDCorrector.correct to remove this scattered light background.</p>
 
 </span><span class="n">corrected_pldlc</span> <span class="o">=</span> <span class="n">pld_S32</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
 </pre>
-<img alt="" src="images/NoiseRemoval/output_45_0.png" />
+<img alt="PLD and scattered light removal" src="images/NoiseRemoval/output_45_0.png" />
 <p>We can also examine the apertures used to perform this correction. For
 <em>TESS</em>, the dominant source of noise is the scattered light background,
 so by default only those pixels will be used. In the third panel, we can
@@ -591,7 +591,7 @@ reducing the risk of contamination by neighboring stars.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">pld_S32</span><span class="o">.</span><span class="n">diagnose_masks</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/NoiseRemoval/output_47_0.png" />
+<img alt="Target pixel file background aperture" src="images/NoiseRemoval/output_47_0.png" />
 <p>Now lets specifically look at our corrected light curve.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">corrected_pldlc</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
@@ -599,7 +599,7 @@ reducing the risk of contamination by neighboring stars.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8d9df0c690&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_49_1.png" />
+<img alt="Background subtracted lightcurve" src="images/NoiseRemoval/output_49_1.png" />
 <p>The large spike from the scattered light has sucessfully been identified
 and removed, but there is a slope in our data still. We can determine
 from the diagnostic plots that this is due to the application of a flat
@@ -626,7 +626,7 @@ light curve originally derived from the FFI’s, and compare our results.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7f8d8bb519d0&gt;
 </pre>
-<img alt="" src="images/NoiseRemoval/output_52_1.png" />
+<img alt="Lightcurve correction comparison" src="images/NoiseRemoval/output_52_1.png" />
 </div>
 <div class="section" id="summary">
 <h3>Summary</h3>

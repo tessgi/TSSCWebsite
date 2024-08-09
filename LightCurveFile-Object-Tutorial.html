@@ -373,7 +373,7 @@ table contains the SAP flux and PDCSAP flux!</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_17_0.png" />
+<img alt="SPOC lightcurve" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_17_0.png" />
 <div class="section" id="sap-and-pdcsap-light-curves">
 <h4>SAP and PDCSAP light curves</h4>
 <p>By default, a
@@ -387,7 +387,7 @@ keyword while plotting.</p>
 <span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s1">'PDCSAP Flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span><span class="w">
 </span><span class="n">lcf</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'SAP Flux'</span><span class="p">,</span> <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_19_0.png" />
+<img alt="Simple and corrected lightcurve comparison" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_19_0.png" />
 <p>In brief:</p>
 <ul class="simple">
 <li>The SAP light curve is calculated by summing together the brightness
@@ -429,14 +429,14 @@ example, we can set the title as follow:</p>
 <pre class="literal-block">
 Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
 </pre>
-<img alt="" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_21_1.png" />
+<img alt="PDCSAP lightcurve" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_21_1.png" />
 <p>Now lets fold and bin our data to look at the transit as we did in the
 <a class="reference external" href="LightCurve-object-Tutorial.html">LightCurve object tutorial</a>. Remember the
 <tt class="docutils literal">lcf.flux</tt> default is the PDCSAP flux this time!</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lcf</span><span class="o">.</span><span class="n">remove_nans</span><span class="p">()</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">,</span>  <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1367.2755</span><span class="p">)</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_23_0.png" />
+<img alt="Flattened lightcurve folded on transit period" src="images/LightCurveFile-Objects_files/LightCurveFile-Objects_23_0.png" />
 </div>
 </div>
 </div>

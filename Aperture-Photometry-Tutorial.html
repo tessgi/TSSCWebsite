@@ -350,7 +350,7 @@ keyword.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">tpf_file</span><span class="o">.</span><span class="n">pipeline_mask</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_13_0.png" />
+<img alt="Target pixel file with pipeline mask" src="images/Aperture-Photometry_files/Aperture-Photometry_13_0.png" />
 <p>We now see the SPOC <em>optimal</em> aperture mask overlaid on top of our
 object of interest.</p>
 <p>Using the provided optimal aperture in <tt class="docutils literal">pipeline_mask</tt> and the TPF we
@@ -416,7 +416,7 @@ up and see what it looks like.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_21_0.png" />
+<img alt="Target pixel file with threshold mask" src="images/Aperture-Photometry_files/Aperture-Photometry_21_0.png" />
 <p>We see that this is slightly different to the <em>optimal</em> aperture
 previously defined. It also looks like there might be too many
 background pixels included. Lets see if we can adjust this.</p>
@@ -433,7 +433,7 @@ within boolean arrays, based on this lets make up a new array.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fa1790b85c0&gt;
 </pre>
-<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_24_1.png" />
+<img alt="Target pixel file with custom mask" src="images/Aperture-Photometry_files/Aperture-Photometry_24_1.png" />
 <p>OK great, it looks like we have covered our object,but not included too
 much background. Lets now make this into a light curve.</p>
 <pre class="code ipython3 literal-block">
@@ -475,11 +475,11 @@ and examine the difference.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_29_0.png" />
+<img alt="Lightcurve using SPOC aperture mask" src="images/Aperture-Photometry_files/Aperture-Photometry_29_0.png" />
 <pre class="code ipython3 literal-block">
 <span class="n">target_lc_new</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/Aperture-Photometry_files/Aperture-Photometry_30_0.png" />
+<img alt="Lightcurve using custom aperture mask" src="images/Aperture-Photometry_files/Aperture-Photometry_30_0.png" />
 <p>As you can see the light curves from the two apertures look very
 different. It looks as if the aperture we have defined manually may have
 less background or contaminating flux from scattered than the SPOC

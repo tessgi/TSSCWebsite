@@ -371,7 +371,7 @@ plot the data, also using <em>Lightkurve</em>.</p>
 <span class="o">%</span><span class="k">matplotlib</span> inline
 <span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/Target-Pixel-Files_files/Target-Pixel-Files_13_0.png" />
+<img alt="TESS target pixel file" src="images/Target-Pixel-Files_files/Target-Pixel-Files_13_0.png" />
 <p>The above figure indicates the pixels on the CCD camera, with which L
 98-59 was observed. The color indicates the amount of flux in each
 pixel, in electrons per second. The y-axis shows the pixel row, and the
@@ -948,7 +948,7 @@ from each TPF in that CCD.</p>
 </span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_ERR'</span><span class="p">)</span><span class="w">
 </span><span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span> <span class="o">=</span> <span class="n">axes</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">1</span><span class="p">],</span> <span class="n">column</span> <span class="o">=</span> <span class="s1">'FLUX_BKG_ERR'</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/Target-Pixel-Files_files/Target-Pixel-Files_52_0.png" />
+<img alt="TESS target pixel file and background plot" src="images/Target-Pixel-Files_files/Target-Pixel-Files_52_0.png" />
 <p>From looking at the color scale on both plots, you may see that the
 background flux is very low compared to the total flux emitted by a
 star, maximum of ~320 e-/s. This is expected — stars are bright! But
@@ -964,7 +964,7 @@ spacecraft.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">tpf_file</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">bkg</span><span class="o">=</span><span class="kc">True</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/Target-Pixel-Files_files/Target-Pixel-Files_54_0.png" />
+<img alt="Background subtracted target pixel file" src="images/Target-Pixel-Files_files/Target-Pixel-Files_54_0.png" />
 <p>In this case the background is low and the star is bright, so it doesn’t
 appear to make much difference.</p>
 </div>

@@ -224,7 +224,7 @@ in 2024, using pelican-bootstrap and flatly.
 <p>When a planet passes in front of its host star, from a certain view
 point, it causes the light of that star to dim. This is known as a
 transit.</p>
-<img alt="" src="images/mission/transit_white.png" />
+<img alt="Exoplanet transit graphic" src="images/mission/transit_white.png" />
 <p>Many space missions have been specifically designed to detect planets
 using the transit method. One such mission is the <a class="reference external" href="https://heasarc.gsfc.nasa.gov/docs/tess/">Transiting Exoplanet
 Survey Satellite (TESS)</a>.</p>
@@ -234,11 +234,11 @@ stars. The mission observes from a unique elliptical high Earth orbit
 (HEO) that provides an unobstructed view of its field to obtain
 continuous light curves and a more stable platform for precise
 photometry than a low Earth orbit.</p>
-<img alt="" src="images/mission/tess_lava_planet_rotated.jpg" />
+<img alt="TESS glamour image" src="images/mission/tess_lava_planet_rotated.jpg" />
 <p><em>TESS</em> is equipped with four CCD cameras that have adjacent
 field-of-views to produce a 4 x 1 array, or ‘observing Sector’, yielding
 a combined field-of-view of 96 x 24 degrees, as illustrated below.</p>
-<img alt="" src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg" />
+<img alt="TESS prime mission observing sectors" src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg" />
 <p>Each hemisphere is split into these observing Sectors, and each Sector
 is observed for ~27 days. Since 2018, TESS has observed approximately
 80% of the sky, mapping both the northern and southern hemispheres, and
@@ -555,7 +555,7 @@ look like.</p>
 <span class="n">ax</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">column</span><span class="o">=</span><span class="s1">'sap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;SAP&quot;</span><span class="p">);</span><span class="w">
 </span><span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">column</span><span class="o">=</span><span class="s1">'pdcsap_flux'</span><span class="p">,</span> <span class="n">normalize</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s2">&quot;PDCSAP&quot;</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_21_0.png" />
+<img alt="TESS SPOC lightcurves" src="images/HowToFindAnExoplanet-UserVersion/output_21_0.png" />
 <p>There are some big differences between these two light curves,
 specifically the dips in the SAP light curve and its overall gradent.
 These differences will be discussed later in the tutorial. For now,
@@ -587,7 +587,7 @@ let’s stick with the PDCSAP flux.</p>
 <pre class="literal-block">
 Text(0.5, 1.0, 'PDCSAP light curve of  Pi Mensae')
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_23_1.png" />
+<img alt="Pi Mensae lightcurve" src="images/HowToFindAnExoplanet-UserVersion/output_23_1.png" />
 <p>We can kind of make out a possible transit but let us manipulate the
 light curve some more to see if we can pull it out.</p>
 </div>
@@ -598,7 +598,7 @@ light curve some more to see if we can pull it out.</p>
 <span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lcf</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">1001</span><span class="p">)</span><span class="w">
 </span><span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_25_0.png" />
+<img alt="Flattened lightcurve" src="images/HowToFindAnExoplanet-UserVersion/output_25_0.png" />
 <p>The light curve looks much flatter. Unfortunately, there is a portion of
 the light curve that is very noisy, due to a jitter in the TESS
 spacecraft. We can remove this simply by masking the light curve. First,
@@ -614,7 +614,7 @@ we’ll select the times that had the jitter.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb070571ed0&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_28_1.png" />
+<img alt="Flattened lightcurve with mask" src="images/HowToFindAnExoplanet-UserVersion/output_28_1.png" />
 <p>We can use Lightkurve to plot these two light curves over each other to
 see the difference.</p>
 <pre class="code ipython3 literal-block">
@@ -624,7 +624,7 @@ see the difference.</p>
 </span><span class="c1"># Pass that axis to the next plot</span><span class="w">
 </span><span class="n">masked_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">label</span><span class="o">=</span><span class="s1">'masked'</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_30_0.png" />
+<img alt="Flattened lightcurve mask comparison" src="images/HowToFindAnExoplanet-UserVersion/output_30_0.png" />
 <p>This looks much better. Now we might want to clip out some outliers from
 the light curve. We can do that with a simple <em>Lightkurve</em> function
 remove_outliers().</p>
@@ -635,7 +635,7 @@ remove_outliers().</p>
 <span class="n">clipped_lc</span> <span class="o">=</span> <span class="n">masked_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">(</span><span class="n">sigma</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span><span class="w">
 </span><span class="n">clipped_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_33_0.png" />
+<img alt="Lightcurve with outliers removed" src="images/HowToFindAnExoplanet-UserVersion/output_33_0.png" />
 <p>Finally, let’s use <em>Lightkurve</em> to fold the data at the exoplanet
 orbital period and see if we can detect the transit.</p>
 </div>
@@ -648,7 +648,7 @@ as shown below.</p>
 <span class="n">folded_lc</span> <span class="o">=</span> <span class="n">clipped_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">6.27</span><span class="p">,</span> <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1325.504</span><span class="p">)</span><span class="w">
 </span><span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_36_0.png" />
+<img alt="Lightcurve folded on transit" src="images/HowToFindAnExoplanet-UserVersion/output_36_0.png" />
 <p>It looks like there’s something there, but it’s hard to see. Let’s bin
 the light curve to reduce the number of points, but also reduce the
 uncertainty of those points.</p>
@@ -660,7 +660,7 @@ uncertainty of those points.</p>
 </span><span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mi">5</span><span class="o">*</span><span class="n">u</span><span class="o">.</span><span class="n">minute</span><span class="p">)</span><span class="w">
 </span><span class="n">binned_lc</span><span class="o">.</span><span class="n">errorbar</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_38_0.png" />
+<img alt="Binned lightcurve folded on transit" src="images/HowToFindAnExoplanet-UserVersion/output_38_0.png" />
 <p>And now we can see the transit of Pi Mensae c!</p>
 </div>
 <div class="section" id="creating-a-light-curve-using-ffi-data">
@@ -684,7 +684,7 @@ object is at the center of it.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0945b2190&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_43_1.png" />
+<img alt="Target Pixel File of Pi Mensae" src="images/HowToFindAnExoplanet-UserVersion/output_43_1.png" />
 <p>The above figure indicates the pixels on the CCD camera, with which <em>Pi
 Men</em> was observed. The color indicates the amount of flux in each pixel,
 in electrons per second. The y-axis shows the pixel row, and the x-axis
@@ -721,7 +721,7 @@ covered by this mask using plot.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0d19c3e90&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_47_1.png" />
+<img alt="Target Pixel File with Pi Mensae target aperture" src="images/HowToFindAnExoplanet-UserVersion/output_47_1.png" />
 <p>Nice! We see our target mask centered on the 18 brightest pixels in the
 center of the image. Let’s see what the light curve looks like. Note
 that this light curve will be uncorrected for any anomalies or noise,
@@ -771,7 +771,7 @@ the SAP flux.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0d1babc50&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_53_1.png" />
+<img alt="Pi Mensae raw lightcurve" src="images/HowToFindAnExoplanet-UserVersion/output_53_1.png" />
 <p>We can see that there are problematic data points in this light curve
 which are probably due to jitter. Once again, we can remove these data
 points via creating and applying a mask.</p>
@@ -783,13 +783,13 @@ points via creating and applying a mask.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0d1bab050&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_55_1.png" />
+<img alt="Pi Mensae lightcurve with removed bad data" src="images/HowToFindAnExoplanet-UserVersion/output_55_1.png" />
 <p>OK, this looks a bit better but we should also clip the data again.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">clipped_ffi</span> <span class="o">=</span> <span class="n">masked_lc_ffi</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">(</span><span class="n">sigma</span><span class="o">=</span><span class="mi">6</span><span class="p">)</span><span class="w">
 </span><span class="n">clipped_ffi</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_57_0.png" />
+<img alt="Pi Mensae lightcurve with outliers removed" src="images/HowToFindAnExoplanet-UserVersion/output_57_0.png" />
 <p>Looking at the above light curve, we can see that there are still a few
 odd trends that need to be addressed, but there is also strong evidence
 for the previously observed transit! We can try to clean up our data a
@@ -815,7 +815,7 @@ curve. We can apply it to our data using the code shown below.</p>
 
 </span><span class="n">corrected_ffi</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_59_0.png" />
+<img alt="Pi Mensae lightcurve with PLD correction" src="images/HowToFindAnExoplanet-UserVersion/output_59_0.png" />
 <p>The above plots indicate the corrections applied to our light curve. It
 removed a background and applied a spline; outliers are also presented.
 Let’s now plot up our corrected light curve and compare to the corrected
@@ -828,7 +828,7 @@ flux to the non-corrected flux.</p>
 <pre class="literal-block">
 (0.9975, 1.0025)
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_61_1.png" />
+<img alt="Pi Mensae lightcurve comparison" src="images/HowToFindAnExoplanet-UserVersion/output_61_1.png" />
 <p>We can see that the corrector removed a lot of the trends that we were
 seeing. Let’s now proceed as we did before and compare the results.
 First we need to <tt class="docutils literal">flatten()</tt>.</p>
@@ -839,7 +839,7 @@ First we need to <tt class="docutils literal">flatten()</tt>.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb09473f4d0&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_63_1.png" />
+<img alt="Pi Mensae flattened lightcurve" src="images/HowToFindAnExoplanet-UserVersion/output_63_1.png" />
 <p>Now we need to <tt class="docutils literal">fold()</tt>.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">folded_ffi</span> <span class="o">=</span> <span class="n">ffi_flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">6.27</span><span class="p">,</span> <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1325.504</span><span class="p">)</span><span class="w">
@@ -849,7 +849,7 @@ First we need to <tt class="docutils literal">flatten()</tt>.</p>
 <pre class="literal-block">
 (0.999, 1.001)
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_65_1.png" />
+<img alt="Pi Mensae folded lightcurve" src="images/HowToFindAnExoplanet-UserVersion/output_65_1.png" />
 <p>It is a little noiser than before and a bit more difficult to see due to
 the longer cadence (30-min), but we can clearly make out the transit
 again. Let’s compare this to our earlier light curve.</p>
@@ -860,7 +860,7 @@ again. Let’s compare this to our earlier light curve.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fb0a1d59890&gt;
 </pre>
-<img alt="" src="images/HowToFindAnExoplanet-UserVersion/output_67_1.png" />
+<img alt="Pi Mensae FFI lightcurve comparison" src="images/HowToFindAnExoplanet-UserVersion/output_67_1.png" />
 <p>Great! The transit is shown in both cases. It is clear more work needs
 to be done on the FFI to remove noise and instrumental trends from the
 data, but this is a good start!</p>

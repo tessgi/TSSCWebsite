@@ -290,7 +290,7 @@ TessTargetPixelFile(TICID: Gaia DR25290850609994130560)
 <pre class="code ipython3 literal-block">
 <span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_11_0.png" />
+<img alt="Target pixel file plot" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_11_0.png" />
 <p>Our object of interest should be located at the center of the image.
 There however appears to be a bright star near by, is this our object?
 We can check by using the
@@ -334,7 +334,7 @@ example we will pick 10 as our threshold.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">tpfs</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">,</span> <span class="n">mask_color</span><span class="o">=</span><span class="s1">'r'</span><span class="p">);</span>
 </pre>
-<img alt="" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_17_0.png" />
+<img alt="Target pixel file with threshold aperture" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_17_0.png" />
 <p>Oh no! It looks like the bright object next to our object of interest
 was covered, not our object. We have to correct this. We can do this K
 it looks like our object is covered nicely by the aperture, lets see
@@ -353,7 +353,7 @@ aperture arrays are boolean, based on this lets make up a new array.</p>
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fa9d0b49278&gt;
 </pre>
-<img alt="" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_20_1.png" />
+<img alt="Target pixel file with custom aperture" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_20_1.png" />
 <p>Ok that is much better. Lets take a look at the light curve data using
 this aperture.</p>
 <pre class="code ipython3 literal-block">
@@ -394,7 +394,7 @@ Length = 963 rows
 <pre class="literal-block">
 &lt;matplotlib.axes._subplots.AxesSubplot at 0x7fa9a0840630&gt;
 </pre>
-<img alt="" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_24_1.png" />
+<img alt="Lightcurve from target pixel file custom aperture" src="images/Making-Custom-Apertures_files/Making-Custom-Apertures_24_1.png" />
 <p>Above we see that the object looks to have some sort of variability.
 There also appears to be some sort of data gap. What is this caused by?
 Lets check the <a class="reference external" href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_08_drn10_v02.pdf">TESS Data Release

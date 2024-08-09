@@ -397,7 +397,7 @@ would normally pass to
 <span class="o">%</span><span class="k">matplotlib</span> inline
 <span class="n">lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurve-objects_files/LightCurve-objects_23_0.png" />
+<img alt="Plotted Lightcurve" src="images/LightCurve-objects_files/LightCurve-objects_23_0.png" />
 </div>
 <div class="section" id="manipulating-the-light-curve">
 <h3>Manipulating the light curve</h3>
@@ -423,7 +423,7 @@ each bin.</p>
 <span class="n">flat_lc</span> <span class="o">=</span> <span class="n">lc</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span><span class="w">
 </span><span class="n">flat_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurve-objects_files/LightCurve-objects_25_0.png" />
+<img alt="Normalized lightcurve" src="images/LightCurve-objects_files/LightCurve-objects_25_0.png" />
 <div class="section" id="folding-the-light-curve">
 <h4>Folding the light curve</h4>
 <p>From the <a class="reference external" href="https://arxiv.org/pdf/1903.08017.pdf">L 98-59 System</a> paper
@@ -434,7 +434,7 @@ use the <tt class="docutils literal">fold()</tt> function to find the transit in
 <span class="n">folded_lc</span> <span class="o">=</span> <span class="n">flat_lc</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">,</span>  <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1367.2755</span><span class="p">)</span><span class="w">
 </span><span class="n">folded_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurve-objects_files/LightCurve-objects_27_0.png" />
+<img alt="Folded lightcurve" src="images/LightCurve-objects_files/LightCurve-objects_27_0.png" />
 </div>
 <div class="section" id="binning-data">
 <h4>Binning data</h4>
@@ -444,14 +444,14 @@ achieved via the <tt class="docutils literal">bin()</tt> function.</p>
 <span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span><span class="w">
 </span><span class="n">binned_lc</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurve-objects_files/LightCurve-objects_29_0.png" />
+<img alt="Binned lightcurve" src="images/LightCurve-objects_files/LightCurve-objects_29_0.png" />
 <p>We can now see our transit very clearly! Note that we can achieve the
 same plot from our data using one line of code instead of several, see
 below.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">lc</span><span class="o">.</span><span class="n">remove_nans</span><span class="p">()</span><span class="o">.</span><span class="n">flatten</span><span class="p">(</span><span class="n">window_length</span><span class="o">=</span><span class="mi">401</span><span class="p">)</span><span class="o">.</span><span class="n">fold</span><span class="p">(</span><span class="n">period</span><span class="o">=</span><span class="mf">3.690621</span><span class="p">,</span>  <span class="n">epoch_time</span><span class="o">=</span><span class="mf">1367.2755</span><span class="p">)</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span><span class="o">.</span><span class="n">plot</span><span class="p">();</span>
 </pre>
-<img alt="" src="images/LightCurve-objects_files/LightCurve-objects_31_0.png" />
+<img alt="Final folded and binned lightcurve" src="images/LightCurve-objects_files/LightCurve-objects_31_0.png" />
 </div>
 </div>
 </div>
