@@ -122,7 +122,7 @@ each 20 second frame
 
 
 
-.. image:: images/CRM_demo.png
+.. image:: images/Cosmic-Ray-Primer/CRM_demo.png
 
 
 CRM is “baked in” to the data, it can not be removed, and it can not be
@@ -260,7 +260,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
 
 
 
-.. image:: images/TPF_cosmic_ray_primer.png
+.. image:: images/Cosmic-Ray-Primer/TPF_cosmic_ray_primer.png
 
 
 .. code:: ipython3
@@ -289,7 +289,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
 
 
 
-.. image:: images/Cosmic_ray_examplegrid.png
+.. image:: images/Cosmic-Ray-Primer/Cosmic_ray_examplegrid.png
 
 
 The cosmic ray extension can be used to re-inject the cosmic rays into
@@ -312,7 +312,7 @@ simply add the cosmic rays back into the simple aperture photometry
 
 
 
-.. image:: images/SAP_without_CR.png
+.. image:: images/Cosmic-Ray-Primer/SAP_without_CR.png
 
 
 .. code:: ipython3
