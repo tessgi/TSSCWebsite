@@ -181,6 +181,7 @@ keyword.
 
 
 .. image:: images/Aperture-Photometry_files/Aperture-Photometry_13_0.png
+    :alt: Target pixel file with pipeline mask
 
 
 We now see the SPOC *optimal* aperture mask overlaid on top of our
@@ -275,6 +276,7 @@ up and see what it looks like.
 
 
 .. image:: images/Aperture-Photometry_files/Aperture-Photometry_21_0.png
+    :alt: Target pixel file with threshold mask
 
 
 We see that this is slightly different to the *optimal* aperture
@@ -305,6 +307,7 @@ within boolean arrays, based on this lets make up a new array.
 
 
 .. image:: images/Aperture-Photometry_files/Aperture-Photometry_24_1.png
+    :alt: Target pixel file with custom mask
 
 
 OK great, it looks like we have covered our object,but not included too
@@ -363,6 +366,7 @@ and examine the difference.
 
 
 .. image:: images/Aperture-Photometry_files/Aperture-Photometry_29_0.png
+    :alt: Lightcurve using SPOC aperture mask
 
 
 .. code:: ipython3
@@ -372,6 +376,7 @@ and examine the difference.
 
 
 .. image:: images/Aperture-Photometry_files/Aperture-Photometry_30_0.png
+    :alt: Lightcurve using custom aperture mask
 
 
 As you can see the light curves from the two apertures look very

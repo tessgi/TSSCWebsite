@@ -10,6 +10,7 @@ point, it causes the light of that star to dim. This is known as a
 transit.
 
 .. image:: images/mission/transit_white.png
+    :alt: Exoplanet transit graphic
 
 Many space missions have been specifically designed to detect planets
 using the transit method. One such mission is the `Transiting Exoplanet
@@ -23,12 +24,14 @@ continuous light curves and a more stable platform for precise
 photometry than a low Earth orbit.
 
 .. image:: images/mission/tess_lava_planet_rotated.jpg
+    :alt: TESS glamour image
 
 *TESS* is equipped with four CCD cameras that have adjacent
 field-of-views to produce a 4 x 1 array, or ‘observing Sector’, yielding
 a combined field-of-view of 96 x 24 degrees, as illustrated below.
 
 .. image:: images/mission/tess_observingsectorschematic_Winnpresentation.jpg
+    :alt: TESS prime mission observing sectors
 
 Each hemisphere is split into these observing Sectors, and each Sector
 is observed for ~27 days. Since 2018, TESS has observed approximately
@@ -442,6 +445,7 @@ look like.
 
 
 .. image::  images/HowToFindAnExoplanet-UserVersion/output_21_0.png
+    :alt: TESS SPOC lightcurves
 
 
 There are some big differences between these two light curves,
@@ -487,6 +491,7 @@ let’s stick with the PDCSAP flux.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_23_1.png
+    :alt: Pi Mensae lightcurve
 
 
 We can kind of make out a possible transit but let us manipulate the
@@ -503,6 +508,7 @@ Flattening
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_25_0.png
+    :alt: Flattened lightcurve
 
 
 The light curve looks much flatter. Unfortunately, there is a portion of
@@ -531,6 +537,7 @@ we’ll select the times that had the jitter.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_28_1.png
+    :alt: Flattened lightcurve with mask
 
 
 We can use Lightkurve to plot these two light curves over each other to
@@ -547,6 +554,7 @@ see the difference.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_30_0.png
+    :alt: Flattened lightcurve mask comparison
 
 
 This looks much better. Now we might want to clip out some outliers from
@@ -564,6 +572,7 @@ Remove outliers
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_33_0.png
+    :alt: Lightcurve with outliers removed
 
 
 Finally, let’s use *Lightkurve* to fold the data at the exoplanet
@@ -584,6 +593,7 @@ as shown below.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_36_0.png
+    :alt: Lightcurve folded on transit
 
 
 It looks like there’s something there, but it’s hard to see. Let’s bin
@@ -602,6 +612,7 @@ Binning the light curve
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_38_0.png
+    :alt: Binned lightcurve folded on transit
 
 
 And now we can see the transit of Pi Mensae c!
@@ -641,6 +652,7 @@ object is at the center of it.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_43_1.png
+    :alt: Target Pixel File of Pi Mensae
 
 
 The above figure indicates the pixels on the CCD camera, with which *Pi
@@ -700,6 +712,7 @@ covered by this mask using plot.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_47_1.png
+    :alt: Target Pixel File with Pi Mensae target aperture
 
 
 Nice! We see our target mask centered on the 18 brightest pixels in the
@@ -775,6 +788,7 @@ Let’s now plot this,
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_53_1.png
+    :alt: Pi Mensae raw lightcurve
 
 
 We can see that there are problematic data points in this light curve
@@ -798,6 +812,7 @@ points via creating and applying a mask.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_55_1.png
+    :alt: Pi Mensae lightcurve with removed bad data
 
 
 OK, this looks a bit better but we should also clip the data again.
@@ -810,6 +825,7 @@ OK, this looks a bit better but we should also clip the data again.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_57_0.png
+    :alt: Pi Mensae lightcurve with outliers removed
 
 
 Looking at the above light curve, we can see that there are still a few
@@ -843,6 +859,7 @@ curve. We can apply it to our data using the code shown below.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_59_0.png
+    :alt: Pi Mensae lightcurve with PLD correction
 
 
 The above plots indicate the corrections applied to our light curve. It
@@ -867,6 +884,7 @@ flux to the non-corrected flux.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_61_1.png
+    :alt: Pi Mensae lightcurve comparison
 
 
 We can see that the corrector removed a lot of the trends that we were
@@ -889,6 +907,7 @@ First we need to ``flatten()``.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_63_1.png
+    :alt: Pi Mensae flattened lightcurve
 
 
 Now we need to ``fold()``.
@@ -910,6 +929,7 @@ Now we need to ``fold()``.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_65_1.png
+    :alt: Pi Mensae folded lightcurve
 
 
 It is a little noiser than before and a bit more difficult to see due to
@@ -932,6 +952,7 @@ again. Let’s compare this to our earlier light curve.
 
 
 .. image:: images/HowToFindAnExoplanet-UserVersion/output_67_1.png
+    :alt: Pi Mensae FFI lightcurve comparison
 
 
 Great! The transit is shown in both cases. It is clear more work needs

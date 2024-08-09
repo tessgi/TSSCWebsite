@@ -123,6 +123,7 @@ each 20 second frame
 
 
 .. image:: images/Cosmic-Ray-Primer/CRM_demo.png
+    :alt: Cosmic ray rejection example
 
 
 CRM is “baked in” to the data, it can not be removed, and it can not be
@@ -261,6 +262,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
 
 
 .. image:: images/Cosmic-Ray-Primer/TPF_cosmic_ray_primer.png
+    :alt: Target pixel file
 
 
 .. code:: ipython3
@@ -290,6 +292,7 @@ tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targe
 
 
 .. image:: images/Cosmic-Ray-Primer/Cosmic_ray_examplegrid.png
+    :alt: Grid of six cosmic ray examples
 
 
 The cosmic ray extension can be used to re-inject the cosmic rays into
@@ -313,6 +316,7 @@ simply add the cosmic rays back into the simple aperture photometry
 
 
 .. image:: images/Cosmic-Ray-Primer/SAP_without_CR.png
+    :alt: Lightcurve with removed cosmic rays
 
 
 .. code:: ipython3
@@ -334,7 +338,7 @@ simply add the cosmic rays back into the simple aperture photometry
 
 
 .. image:: images/SAP_with_CR.png
-
+    :alt: Lightcurve with cosmic rays injected back in
 
 The cosmic rays that are removed are stored in the TPF files. In order
 to add CRs back into a LC directly, you would need to sum the CR flux in

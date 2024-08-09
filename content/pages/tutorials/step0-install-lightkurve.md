@@ -72,7 +72,7 @@ The most common way to do this is to open up our computers command line terminal
 
 You should see something like this: 
 
-![](images/step0/openterm.gif)
+![Terminal gif](images/step0/openterm.gif)
 
 Then, navigate to your target directory (it will open up in your 'home' directory, /Users/{username}), which is fine.  You can also make a new directory,  say TESS, and move into that directory using the command line,  e.g.
 

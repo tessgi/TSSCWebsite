@@ -119,6 +119,7 @@ using a threshold cut as shown below.
 
 
 .. image:: images/Visual-inspection_files/Visual-inspection_10_0.png
+    :alt: Target pixel file with threshold aperture
 
 
 Oh no! It looks like the bright object next to our object of interest
@@ -141,6 +142,7 @@ was covered. We have to correct this by specifying a mask array.
 
 
 .. image:: images/Visual-inspection_files/Visual-inspection_12_1.png
+    :alt: Target pixel file with custom aperture
 
 
 OK phew! Our object is now covered by the aperture. Lets take a look at
@@ -162,6 +164,7 @@ the light curve data using this aperture.
 
 
 .. image:: images/Visual-inspection_files/Visual-inspection_14_1.png
+    :alt: Simple lightcurve from custom aperture
 
 
 Above we see that the object looks to have some sort of variability.
@@ -424,6 +427,7 @@ it falls where we expect.
 
 
 .. image:: images/Visual-inspection_files/Visual-inspection_30_0.png
+    :alt: Target pixel file with selected aperture
 
 
 Our interactive aperture is exactly where we expect it to be. Lets now
@@ -479,6 +483,7 @@ look at the flux in that aperture and plot up its light curve.
 
 
 .. image:: images/Visual-inspection_files/Visual-inspection_33_1.png
+    :alt: Lightcurve from selected aperture
 
 
 We have now demonstrated how to interactively inspect TPF files and

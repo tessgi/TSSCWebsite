@@ -158,6 +158,7 @@ download this via the following functions,
 
 
 .. image:: images/UnderstandingCrowding/output_9_1.png
+    :alt: WR21a lightcurve
 
 
 This very clearly shows the transit of the system. The flux displayed is
@@ -182,6 +183,7 @@ in the plot function.
 
 
 .. image:: images/UnderstandingCrowding/output_11_1.png
+    :alt: SPOC lightcurve comparison
 
 
 The above plot clearly indicates the significant difference in amplitude
@@ -209,6 +211,7 @@ depth has changed.
 
 
 .. image:: images/UnderstandingCrowding/output_13_1.png
+    :alt: transit depth comparison
 
 
 The transit depth of the SAP flux is not the same as the PDCSAP. This
@@ -245,6 +248,7 @@ by the SPOC for our object of interest.
 
 
 .. image:: images/UnderstandingCrowding/output_18_1.png
+    :alt: Target pixel file with aperture
 
 
 The above plot indicates that we are focusing on the right object, but
@@ -273,6 +277,7 @@ default mask, as shown below.
 
 
 .. image:: images/UnderstandingCrowding/output_20_1.png
+    :alt: Lightcurve with noise
 
 
 A quick glance at this light curve indicates that there are also long
@@ -305,10 +310,12 @@ principal componants.
 
 
 .. image:: images/UnderstandingCrowding/output_23_1.png
+    :alt: Principle compnent analysis lightcurves
 
 
 
 .. image:: images/UnderstandingCrowding/output_23_2.png
+    :alt: Target pixel file backgrounds
 
 
 Lets compare this corrected light curve with our previous light curves.
@@ -331,6 +338,7 @@ Lets compare this corrected light curve with our previous light curves.
 
 
 .. image:: images/UnderstandingCrowding/output_25_1.png
+    :alt: PLD lightcurve comparison
 
 
 The depth of the PLD SAP light curve still does not match that of the
@@ -444,6 +452,7 @@ Let’s plot and compare to our previous light curves.
 
 
 .. image:: images/UnderstandingCrowding/output_45_1.png
+    :alt: PLDSAP lighrcurve comparison
 
 
 .. code:: ipython3
@@ -501,6 +510,7 @@ CBVCorrector
 
 
 .. image:: images/UnderstandingCrowding/output_49_0.png
+    :alt: CBV corrector
 
 
 Let’s check to see if we have over or underfit the data.
@@ -515,6 +525,7 @@ Let’s check to see if we have over or underfit the data.
 
 
 .. image:: images/UnderstandingCrowding/output_51_0.png
+    :alt: Goodness of fit metrics
 
 
 We might be slightly overfitting, so let’s adjust our alpha.
@@ -527,6 +538,7 @@ We might be slightly overfitting, so let’s adjust our alpha.
 
 
 .. image:: images/UnderstandingCrowding/output_53_0.png
+    :alt: CBV corrected lightcurve
 
 
 Now we can apply the crowding corrections.
@@ -553,6 +565,7 @@ We can now compare to the PDCSAP and SAP light curves.
 
 
 .. image:: images/UnderstandingCrowding/output_57_0.png
+    :alt: CBV lightcurve comparison
 
 
 Finally, we can compare our PLD and CBV corrected light curves.
@@ -568,6 +581,7 @@ Finally, we can compare our PLD and CBV corrected light curves.
 
 
 .. image:: images/UnderstandingCrowding/output_59_0.png
+    :alt: PLD and CBV comparison
 
 
 The CBV light curve might be a better match to the PDCSAP.

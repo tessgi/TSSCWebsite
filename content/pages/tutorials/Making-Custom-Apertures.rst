@@ -97,6 +97,7 @@ Lets plot the data.
 
 
 .. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_11_0.png
+    :alt: Target pixel file plot
 
 
 Our object of interest should be located at the center of the image.
@@ -168,6 +169,7 @@ Lets now plot this up and see what it looks like.
 
 
 .. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_17_0.png
+    :alt: Target pixel file with threshold aperture
 
 
 Oh no! It looks like the bright object next to our object of interest
@@ -199,6 +201,7 @@ aperture arrays are boolean, based on this lets make up a new array.
 
 
 .. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_20_1.png
+    :alt: Target pixel file with custom aperture
 
 
 Ok that is much better. Lets take a look at the light curve data using
@@ -256,6 +259,7 @@ Great! Now lets plot this light curve.
 
 
 .. image:: images/Making-Custom-Apertures_files/Making-Custom-Apertures_24_1.png
+    :alt: Lightcurve from target pixel file custom aperture
 
 
 Above we see that the object looks to have some sort of variability.

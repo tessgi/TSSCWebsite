@@ -94,6 +94,7 @@ southern hemispheres, with each hemisphere being split into ~13 sectors.
 Each sector is observed for ~27 days by *TESS’s* four cameras.
 
 .. image:: images/sector.png
+    :alt: TESS prime mission observing sectors
 
 The main data products collected by the *TESS* mission are described
 below.
@@ -456,6 +457,7 @@ look like.
 
 
 .. image:: images/TSC2-Intro/output_24_0.png
+    :alt: TESS SPOC lightcurve comparison
 
 
 There are some big differences between these two light curves,
@@ -503,6 +505,7 @@ stick with the PDCSAP flux.
 
 
 .. image:: images/TSC2-Intro/output_26_1.png
+    :alt: PDCSAP lightcurve
 
 
 Flattening
@@ -516,6 +519,7 @@ Flattening
 
 
 .. image:: images/TSC2-Intro/output_28_0.png
+    :alt: Flattened lightcurve
 
 
 Folding the light curve
@@ -533,6 +537,7 @@ the ``fold()`` function to find the transit in our data as shown below.
 
 
 .. image:: images/TSC2-Intro/output_30_0.png
+    :alt: Lightcurve folded on transit period
 
 
 Binning the light curve
@@ -549,6 +554,7 @@ achieved via the ``bin()`` function.
 
 
 .. image:: images/TSC2-Intro/output_32_0.png
+    :alt: Lightcurve folded on transit and binned
 
 
 Great, we can now see our transit very clearly! Note that we can achieve
@@ -641,6 +647,7 @@ object is at the center of it.
 
 
 .. image:: images/TSC2-Intro/output_40_1.png
+    :alt: TESS full frame image
 
 
 The above figure indicates the pixels on the CCD camera, with which *L
@@ -692,6 +699,7 @@ this mask using plot.
 
 
 .. image:: images/TSC2-Intro/output_44_0.png
+    :alt: TESS full frame image with target aperture
 
 
 Nice! We see our target mask centered on the 9 brightest pixels in the
@@ -767,6 +775,7 @@ Let’s now plot this.
 
 
 .. image:: images/TSC2-Intro/output_50_1.png
+    :alt: Simple aperture lightcurve
 
 
 Looking at the above light curve, we can see two dominant peaks and
@@ -799,6 +808,7 @@ the PDCSAP light curve derived from our Light Curve File.
 
 
 .. image:: images/TSC2-Intro/output_53_1.png
+    :alt: SPOC PDCSAP lightcurve compared to simple aperture from FFI
 
 
 Looking at the figure above, you can see that the SAP light curve has a
@@ -973,3 +983,4 @@ please visit the following pages.
    techniques for the advanced user.
 
 .. image:: images/helpdesk.png
+    :alt: TESS helpdesk staff

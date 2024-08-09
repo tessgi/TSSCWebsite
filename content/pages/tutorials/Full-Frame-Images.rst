@@ -137,6 +137,7 @@ tutorial <Target-Pixel-File-Tutorial.html>`__, for example lets plot the object.
 
 
 .. image:: images/Full-Frame-Images_files/Full-Frame-Images_11_0.png
+    :alt: TESS full frame image cutout
 
 
 Great we now see our object of interest and the surrounding region. As

@@ -213,6 +213,7 @@ plot the data, also using *Lightkurve*.
 
 
 .. image:: images/Target-Pixel-Files_files/Target-Pixel-Files_13_0.png
+    :alt: TESS target pixel file
 
 
 The above figure indicates the pixels on the CCD camera, with which L
@@ -931,6 +932,7 @@ from each TPF in that CCD.
 
 
 .. image:: images/Target-Pixel-Files_files/Target-Pixel-Files_52_0.png
+    :alt: TESS target pixel file and background plot
 
 
 From looking at the color scale on both plots, you may see that the
@@ -954,6 +956,7 @@ spacecraft.
 
 
 .. image:: images/Target-Pixel-Files_files/Target-Pixel-Files_54_0.png
+    :alt: Background subtracted target pixel file
 
 
 In this case the background is low and the star is bright, so it doesn’t

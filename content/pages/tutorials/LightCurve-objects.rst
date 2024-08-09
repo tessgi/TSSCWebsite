@@ -255,6 +255,7 @@ would normally pass to
 
 
 .. image:: images/LightCurve-objects_files/LightCurve-objects_23_0.png
+    :alt: Plotted Lightcurve
 
 
 Manipulating the light curve
@@ -288,6 +289,7 @@ We can use these simply on a light curve object
 
 
 .. image:: images/LightCurve-objects_files/LightCurve-objects_25_0.png
+    :alt: Normalized lightcurve
 
 
 Folding the light curve
@@ -306,6 +308,7 @@ use the ``fold()`` function to find the transit in our data.
 
 
 .. image:: images/LightCurve-objects_files/LightCurve-objects_27_0.png
+    :alt: Folded lightcurve
 
 
 Binning data
@@ -322,6 +325,7 @@ achieved via the ``bin()`` function.
 
 
 .. image:: images/LightCurve-objects_files/LightCurve-objects_29_0.png
+    :alt: Binned lightcurve
 
 
 We can now see our transit very clearly! Note that we can achieve the
@@ -335,4 +339,5 @@ below.
 
 
 .. image:: images/LightCurve-objects_files/LightCurve-objects_31_0.png
+    :alt: Final folded and binned lightcurve
 

@@ -212,6 +212,7 @@ Lets now plot the light curve up for the object.
 
 
 .. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_17_0.png
+    :alt: SPOC lightcurve
 
 
 SAP and PDCSAP light curves
@@ -235,6 +236,7 @@ keyword while plotting.
 
 
 .. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_19_0.png
+    :alt: Simple and corrected lightcurve comparison
 
 
 In brief:
@@ -294,6 +296,7 @@ example, we can set the title as follow:
 
 
 .. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_21_1.png
+    :alt: PDCSAP lightcurve
 
 
 Now lets fold and bin our data to look at the transit as we did in the
@@ -307,6 +310,7 @@ Now lets fold and bin our data to look at the transit as we did in the
 
 
 .. image:: images/LightCurveFile-Objects_files/LightCurveFile-Objects_23_0.png
+    :alt: Flattened lightcurve folded on transit period
 
 
 Metadata

@@ -199,6 +199,7 @@ function.
 
 
 .. image:: images/NoiseRemoval/output_10_1.png
+    :alt: KT Eri Target Pixel File
 
 
 Note that this cut out is much larger than a typical FFI, this is
@@ -230,6 +231,7 @@ aperture as shown below.
 
 
 .. image:: images/NoiseRemoval/output_13_1.png
+    :alt: KT Eri Target Pixel File with target aperture
 
 
 Excellent it covers our object! Let’s now make our light curve using
@@ -251,6 +253,7 @@ this aperture and plot the result.
 
 
 .. image:: images/NoiseRemoval/output_15_1.png
+    :alt: KT Eri simple aperture lightcurve
 
 
 2. How to account for instrumental and noise effects within your data using the Corrector class
@@ -310,6 +313,7 @@ Single-Scale CBVs, which contain all systematics combined.
 
 
 .. image:: images/NoiseRemoval/output_19_1.png
+    :alt: Cotrending basis vectors
 
 
 The first several CBVs contain most of the systematics. The latter CBVs
@@ -354,6 +358,7 @@ and above tends to indicate a good fit to the data.
 
 
 .. image:: images/NoiseRemoval/output_25_1.png
+    :alt: CBV metrics
 
 
 The above plot indicates that a regularization factor alpha value of
@@ -371,6 +376,7 @@ via a diagnose method.
 
 
 .. image:: output_27_0.png
+    :alt: CBV correction
 
 
 .. code:: ipython3
@@ -389,6 +395,7 @@ via a diagnose method.
 
 
 .. image:: images/NoiseRemoval/output_28_1.png
+    :alt: CBV corrected lightcurve
 
 
 We can see that a correction was applied which has removed some of the
@@ -428,6 +435,7 @@ principle componant (PCA) as follows,
 
 
 .. image:: images/NoiseRemoval/output_35_0.png
+    :alt: Top ten principle components
 
 
 From this we can see that 10 is excessive and we should probably use
@@ -449,6 +457,7 @@ only 5. Let’s do this and plot it up.
 
 
 .. image:: images/NoiseRemoval/output_37_1.png
+    :alt: correction vectors
 
 
 *Lightkurve’s RegressionCorrector* uses linear algebra to find the
@@ -478,6 +487,7 @@ de-trends the light curves against the vectors.
 
 
 .. image:: images/NoiseRemoval/output_41_0.png
+    :alt: Trends in lightcurve
 
 
 **HOWEVER!** The *RegressionCorrector* assumes that you want to remove
@@ -504,6 +514,7 @@ following code,
 
 
 .. image:: images/NoiseRemoval/output_43_0.png
+    :alt: Lightcurve with removed Scattered light
 
 
 This has removed all the scattered light and the slope, but again could
@@ -538,6 +549,7 @@ PLDCorrector.correct to remove this scattered light background.
 
 
 .. image:: images/NoiseRemoval/output_45_0.png
+    :alt: PLD and scattered light removal
 
 
 We can also examine the apertures used to perform this correction. For
@@ -553,6 +565,7 @@ reducing the risk of contamination by neighboring stars.
 
 
 .. image:: images/NoiseRemoval/output_47_0.png
+    :alt: Target pixel file background aperture
 
 
 Now lets specifically look at our corrected light curve.
@@ -572,6 +585,7 @@ Now lets specifically look at our corrected light curve.
 
 
 .. image:: images/NoiseRemoval/output_49_1.png
+    :alt: Background subtracted lightcurve
 
 
 The large spike from the scattered light has sucessfully been identified
@@ -611,6 +625,7 @@ light curve originally derived from the FFI’s, and compare our results.
 
 
 .. image:: images/NoiseRemoval/output_52_1.png
+    :alt: Lightcurve correction comparison
 
 
 Summary
