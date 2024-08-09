@@ -76,8 +76,8 @@ in 2024, using pelican-bootstrap and flatly.
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
-    <link rel="stylesheet" href="./theme/css/stork-basic.css">
-    <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="./theme/css/stork-dark.css">
+    <!--<link rel="stylesheet" href="./theme/css/stork-basic.css">
+    <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="./theme/css/stork-dark.css">-->
 
 <link href="./theme/css/reveal.css" rel="stylesheet">
 <link href="./theme/css/revealsimple.css" rel="stylesheet">
@@ -126,7 +126,7 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
-                            <li><a class="dropdown-item" href="./sector.html">Observation Dates</a></li>
+                            <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
                             <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./TFOP.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
@@ -136,7 +136,7 @@ in 2024, using pelican-bootstrap and flatly.
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
-                                    <li><a class="dropdown-item" href="./sector.html">Observation Dates</a></li>
+                                    <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
                                     <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./TFOP.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
@@ -152,15 +152,15 @@ in 2024, using pelican-bootstrap and flatly.
                             Tools and Tutorials
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./tutorial_landing.html">TESS tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">TESS Data Analysis Tools</a></li>
-                            <li><a class="dropdown-item" href="./proposing_tools.html">TESS Proposal Tools</a></li>
+                            <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
+                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./proposing_tools.html">Proposal Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./tutorial_landing.html">TESS tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">TESS Data Analysis Tools</a></li>
-                                    <li><a class="dropdown-item" href="./proposing_tools.html">TESS Proposal Tools</a></li>
+                                    <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
+                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./proposing_tools.html">Proposal Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                         </ul>
 
@@ -184,7 +184,13 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
 
                     <!--                    <li class="nav-item">
+                        <a class="nav-link" href="./category/extended-mission-news.html"> Extended-mission-news </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -193,14 +199,14 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                 </ul>
                 <!--<form class="d-flex">-->
-                <!--<form class="form-inline my-2 my-lg-0">-->
-                    <!--<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
-                    <button class="btn btn-secondary" type="submit">Search</button>
-                </form>-->
-                <form class="d-flex my-2 my-lg-0">
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
+                    <!--<button class="btn btn-secondary" type="submit">Search</button>-->
+                </form>
+                <!--<form class="d-flex my-2 my-lg-0">
                     <input data-stork="sitesearch" class="stork-input" placeholder="Search"/>
                     <div data-stork="sitesearch-output" class="stork-output"></div>
-                </form>
+                </form>-->
             </div>
         </div>
     </nav>
@@ -515,12 +521,12 @@ for (i = 0; i < coll.length; i++) {
     <script src="./theme/js/bootstrap-table.min.js"></script>
 
 
-    <script src="./theme/js/stork.js"></script>
+    <!--<script src="./theme/js/stork.js"></script>
     <script>
         stork.initialize("./theme/js/stork.wasm")
         stork.downloadIndex("sitesearch", "./search-index.st")
         stork.attach("sitesearch")
-    </script>
+    </script>-->
 
 
 <!-- Analytics scripts -->

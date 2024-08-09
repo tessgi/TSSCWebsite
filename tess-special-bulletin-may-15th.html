@@ -79,8 +79,8 @@ in 2024, using pelican-bootstrap and flatly.
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
-    <link rel="stylesheet" href="./theme/css/stork-basic.css">
-    <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="./theme/css/stork-dark.css">
+    <!--<link rel="stylesheet" href="./theme/css/stork-basic.css">
+    <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="./theme/css/stork-dark.css">-->
 
 </head>
 
@@ -127,7 +127,7 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
-                            <li><a class="dropdown-item" href="./sector.html">Observation Dates</a></li>
+                            <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
                             <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./TFOP.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
@@ -137,7 +137,7 @@ in 2024, using pelican-bootstrap and flatly.
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
-                                    <li><a class="dropdown-item" href="./sector.html">Observation Dates</a></li>
+                                    <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
                                     <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./TFOP.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
@@ -153,15 +153,15 @@ in 2024, using pelican-bootstrap and flatly.
                             Tools and Tutorials
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./tutorial_landing.html">TESS tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">TESS Data Analysis Tools</a></li>
-                            <li><a class="dropdown-item" href="./proposing_tools.html">TESS Proposal Tools</a></li>
+                            <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
+                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./proposing_tools.html">Proposal Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./tutorial_landing.html">TESS tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">TESS Data Analysis Tools</a></li>
-                                    <li><a class="dropdown-item" href="./proposing_tools.html">TESS Proposal Tools</a></li>
+                                    <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
+                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./proposing_tools.html">Proposal Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                         </ul>
 
@@ -185,7 +185,13 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
 
                     <!--                    <li class="nav-item">
+                        <a class="nav-link" href="./category/extended-mission-news.html"> Extended-mission-news </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -194,14 +200,14 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                 </ul>
                 <!--<form class="d-flex">-->
-                <!--<form class="form-inline my-2 my-lg-0">-->
-                    <!--<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
-                    <button class="btn btn-secondary" type="submit">Search</button>
-                </form>-->
-                <form class="d-flex my-2 my-lg-0">
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
+                    <!--<button class="btn btn-secondary" type="submit">Search</button>-->
+                </form>
+                <!--<form class="d-flex my-2 my-lg-0">
                     <input data-stork="sitesearch" class="stork-input" placeholder="Search"/>
                     <div data-stork="sitesearch-output" class="stork-output"></div>
-                </form>
+                </form>-->
             </div>
         </div>
     </nav>
@@ -243,7 +249,7 @@ in 2024, using pelican-bootstrap and flatly.
 <p>T CrB is also interesting in that it has a pre-outburst tell, alerting the community that it will soon go nova. This tell comes in the form of a dip in the light curve about a year before eruption. This dip was observed by Louisiana State scientists in March/April of last year, meaning that T CrB should go nova any day now.</p>
 <p>If the event happens between April 23rd and May 21st it will also be observed serendipitously by TESS in Sector 78.
 TESS has already observed the system in quiescence during Sectors 24, 25, and 51 (see Fig 1), but if the nova has an outburst in S78, TESS will obtain a wonderful light curve of its rise and decline.</p>
-<p><img alt="TCrB" src="images/articles/TCrb.png"></p>
+<p><img alt="TCrB" src="images/news/TCrb.png"></p>
 <p><strong>Fig. 1:</strong> <em>Plot of TCr B data taken by TESS and the <a href="https://www.astronomy.ohio-state.edu/asassn/">All-Sky Automated Survey for Supernovae</a> (ASAS-SN).</em></p></div>
         </div>
         <!-- /.entry-content -->
@@ -288,12 +294,12 @@ TESS has already observed the system in quiescence during Sectors 24, 25, and 51
     <script src="./theme/js/bootstrap-table.min.js"></script>
 
 
-    <script src="./theme/js/stork.js"></script>
+    <!--<script src="./theme/js/stork.js"></script>
     <script>
         stork.initialize("./theme/js/stork.wasm")
         stork.downloadIndex("sitesearch", "./search-index.st")
         stork.attach("sitesearch")
-    </script>
+    </script>-->
 
 
 <!-- Analytics scripts -->

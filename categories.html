@@ -76,8 +76,8 @@ in 2024, using pelican-bootstrap and flatly.
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
-    <link rel="stylesheet" href="./theme/css/stork-basic.css">
-    <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="./theme/css/stork-dark.css">
+    <!--<link rel="stylesheet" href="./theme/css/stork-basic.css">
+    <link rel="stylesheet" media="screen and (prefers-color-scheme: dark)" href="./theme/css/stork-dark.css">-->
 
 </head>
 
@@ -124,7 +124,7 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
-                            <li><a class="dropdown-item" href="./sector.html">Observation Dates</a></li>
+                            <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
                             <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./TFOP.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
@@ -134,7 +134,7 @@ in 2024, using pelican-bootstrap and flatly.
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
-                                    <li><a class="dropdown-item" href="./sector.html">Observation Dates</a></li>
+                                    <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
                                     <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./TFOP.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
@@ -150,15 +150,15 @@ in 2024, using pelican-bootstrap and flatly.
                             Tools and Tutorials
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./tutorial_landing.html">TESS tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">TESS Data Analysis Tools</a></li>
-                            <li><a class="dropdown-item" href="./proposing_tools.html">TESS Proposal Tools</a></li>
+                            <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
+                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./proposing_tools.html">Proposal Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./tutorial_landing.html">TESS tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">TESS Data Analysis Tools</a></li>
-                                    <li><a class="dropdown-item" href="./proposing_tools.html">TESS Proposal Tools</a></li>
+                                    <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
+                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./proposing_tools.html">Proposal Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                         </ul>
 
@@ -182,7 +182,13 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
 
                     <!--                    <li class="nav-item">
+                        <a class="nav-link" href="./category/extended-mission-news.html"> Extended-mission-news </a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -191,14 +197,14 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                 </ul>
                 <!--<form class="d-flex">-->
-                <!--<form class="form-inline my-2 my-lg-0">-->
-                    <!--<input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
-                    <button class="btn btn-secondary" type="submit">Search</button>
-                </form>-->
-                <form class="d-flex my-2 my-lg-0">
+                <form class="form-inline my-2 my-lg-0">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
+                    <!--<button class="btn btn-secondary" type="submit">Search</button>-->
+                </form>
+                <!--<form class="d-flex my-2 my-lg-0">
                     <input data-stork="sitesearch" class="stork-input" placeholder="Search"/>
                     <div data-stork="sitesearch-output" class="stork-output"></div>
-                </form>
+                </form>-->
             </div>
         </div>
     </nav>
@@ -215,14 +221,248 @@ in 2024, using pelican-bootstrap and flatly.
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-news">news <span class="badge pull-right">3</span></a>
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-extended-mission-news">extended-mission-news <span class="badge pull-right">3</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-extended-mission-news" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2024-06-13T10:00:00-04:00">Thu 13 June 2024</time></span> <a href="./deadline-extended-for-the-call-for-community-input-into-the-tess-extended-mission-planning.html">Deadline extended for the call for community input into the TESS Extended Mission Planning</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-04-30T10:00:00-04:00">Tue 30 April 2024</time></span> <a href="./notice-of-call-for-community-input-into-the-tess-extended-mission-planning.html">Notice of call for community input into the TESS Extended Mission Planning</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-03-04T10:00:00-05:00">Mon 04 March 2024</time></span> <a href="./notice-of-upcoming-call-for-community-input-into-the-tess-extended-mission-planning.html">Notice of upcoming call for community input into the TESS Extended Mission Planning</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-news">news <span class="badge pull-right">211</span></a>
                     </h4>
                 </div>
                 <div id="collapse-news" class="panel-collapse collapse">
                     <div class="panel-body">
-                        <p><span class="categories-timestamp"><time datetime="2024-05-16T01:51:00-04:00">Thu 16 May 2024</time></span> <a href="./my-first-article.html">My First Article</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-07-16T00:00:00-04:00">Tue 16 July 2024</time></span> <a href="./tess-weekly-bulletin-july-16th.html">TESS Weekly Bulletin: July 16th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-06-25T00:00:00-04:00">Tue 25 June 2024</time></span> <a href="./tess-weekly-bulletin-june-26th.html">TESS Weekly Bulletin: June 26th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-05-30T10:00:00-04:00">Thu 30 May 2024</time></span> <a href="./tess-weekly-bulletin-may-30th.html">TESS Weekly Bulletin: May 30th</a></p>
                         <p><span class="categories-timestamp"><time datetime="2024-05-15T10:00:00-04:00">Wed 15 May 2024</time></span> <a href="./tess-special-bulletin-may-15th.html">TESS Special Bulletin: May 15th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-05-10T10:00:00-04:00">Fri 10 May 2024</time></span> <a href="./tess-weekly-bulletin-may-10th.html">TESS Weekly Bulletin: May 10th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-04-11T10:00:00-04:00">Thu 11 April 2024</time></span> <a href="./tess-special-announcement.html">TESS Special Announcement</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-04-11T10:00:00-04:00">Thu 11 April 2024</time></span> <a href="./tess-weekly-bulletin-apr-11th.html">TESS Weekly Bulletin: Apr 11th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-03-19T10:00:00-04:00">Tue 19 March 2024</time></span> <a href="./tess-weekly-bulletin-mar-19th.html">TESS Weekly Bulletin: Mar 19th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-02-15T10:00:00-05:00">Thu 15 February 2024</time></span> <a href="./tess-weekly-bulletin-feb-15th.html">TESS Weekly Bulletin: Feb 15th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-02-13T11:00:00-05:00">Tue 13 February 2024</time></span> <a href="./tike-webinars.html">TIKE Webinars</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-02-13T10:00:00-05:00">Tue 13 February 2024</time></span> <a href="./tess-science-conference-iii.html">TESS Science conference III</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-02-12T10:00:00-05:00">Mon 12 February 2024</time></span> <a href="./tess-weekly-bulletin-feb-12th.html">TESS Weekly Bulletin: Feb 12th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2024-01-05T10:00:00-05:00">Fri 05 January 2024</time></span> <a href="./tess-special-bulletin-jan-5th.html">TESS Special Bulletin: Jan 5th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-12-13T10:00:00-05:00">Wed 13 December 2023</time></span> <a href="./tess-weekly-bulletin-dec-13th.html">TESS Weekly Bulletin: Dec 13th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-11-28T10:00:00-05:00">Tue 28 November 2023</time></span> <a href="./tess-weekly-bulletin-nov-28th.html">TESS Weekly Bulletin: Nov 28th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-10-30T10:00:00-04:00">Mon 30 October 2023</time></span> <a href="./tess-special-bulletin-oct-30th.html">TESS Special Bulletin: Oct 30th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-10-25T10:00:00-04:00">Wed 25 October 2023</time></span> <a href="./tess-weekly-bulletin-oct-25th.html">TESS Weekly Bulletin: Oct 25th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-09-21T10:00:00-04:00">Thu 21 September 2023</time></span> <a href="./tess-weekly-bulletin-sep-21st.html">TESS Weekly Bulletin: Sep 21st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-09-08T13:00:00-04:00">Fri 08 September 2023</time></span> <a href="./data-validation-products-updated-for-sector-66.html">Data Validation Products updated for Sector 66</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-08-22T10:00:00-04:00">Tue 22 August 2023</time></span> <a href="./tess-weekly-bulletin-aug-22nd.html">TESS Weekly Bulletin: Aug 22nd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-08-21T10:00:00-04:00">Mon 21 August 2023</time></span> <a href="./tess-cycle-6-selections.html">TESS Cycle 6 selections</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-08-10T10:00:00-04:00">Thu 10 August 2023</time></span> <a href="./tess-weekly-bulletin-aug-10th.html">TESS Weekly Bulletin: Aug 10th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-07-25T10:00:00-04:00">Tue 25 July 2023</time></span> <a href="./tess-weekly-bulletin-july-25th.html">TESS Weekly Bulletin: July 25th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-06-27T10:00:00-04:00">Tue 27 June 2023</time></span> <a href="./tess-weekly-bulletin-june-27th.html">TESS Weekly Bulletin: June 27th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-06-14T10:00:00-04:00">Wed 14 June 2023</time></span> <a href="./tess-weekly-bulletin-june-14th-2023.html">TESS Weekly Bulletin: June 14th 2023</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-05-19T10:00:00-04:00">Fri 19 May 2023</time></span> <a href="./tess-weekly-bulletin-may-19th.html">TESS Weekly Bulletin: May 19th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-04-14T09:00:00-04:00">Fri 14 April 2023</time></span> <a href="./tess-weekly-bulletin-apr-14th.html">TESS Weekly Bulletin: Apr 14th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-04-03T10:00:00-04:00">Mon 03 April 2023</time></span> <a href="./tess-weekly-bulletin-april-3rd.html">TESS Weekly Bulletin: April 3rd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-03-22T10:00:00-04:00">Wed 22 March 2023</time></span> <a href="./tess-weekly-bulletin-mar-22nd.html">TESS Weekly Bulletin: Mar 22nd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-02-28T10:00:00-05:00">Tue 28 February 2023</time></span> <a href="./tess-weekly-bulletin-feb-28th.html">TESS Weekly Bulletin: Feb 28th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-02-16T10:00:00-05:00">Thu 16 February 2023</time></span> <a href="./tess-weekly-bulletin-feb-16th.html">TESS Weekly Bulletin: Feb 16th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-02-02T10:00:00-05:00">Thu 02 February 2023</time></span> <a href="./tess-special-news-bulletin.html">TESS Special News Bulletin</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-01-27T10:00:00-05:00">Fri 27 January 2023</time></span> <a href="./tess-weekly-bulletin-jan-27th.html">TESS Weekly Bulletin: Jan 27th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-01-05T16:00:00-05:00">Thu 05 January 2023</time></span> <a href="./tess-interactive-data-workshop-materials.html">TESS Interactive Data Workshop Materials</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-01-03T14:00:00-05:00">Tue 03 January 2023</time></span> <a href="./tess-at-the-aas.html">TESS at the AAS!</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2023-01-02T12:00:00-05:00">Mon 02 January 2023</time></span> <a href="./cycle-6-call-for-proposals-is-now-live.html">Cycle 6 Call for Proposals is now Live!</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-12-15T10:00:00-05:00">Thu 15 December 2022</time></span> <a href="./tess-weekly-bulletin-dec-15th.html">TESS Weekly Bulletin: Dec 15th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-12-02T10:00:00-05:00">Fri 02 December 2022</time></span> <a href="./tess-splinter-session-at-aas-241.html">TESS Splinter Session at AAS 241</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-11-30T10:00:00-05:00">Wed 30 November 2022</time></span> <a href="./tess-weekly-bulletin-nov-30th.html">TESS Weekly Bulletin: Nov 30th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-11-28T10:00:00-05:00">Mon 28 November 2022</time></span> <a href="./tess-activities-at-agu-2022.html">TESS activities at AGU 2022</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-11-21T10:00:00-05:00">Mon 21 November 2022</time></span> <a href="./tess-weekly-bulletin-nov-21st.html">TESS Weekly Bulletin: Nov 21st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-11-04T10:00:00-04:00">Fri 04 November 2022</time></span> <a href="./tess-weekly-bulletin-nov-4th.html">TESS Weekly Bulletin: Nov 4th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-10-24T10:00:00-04:00">Mon 24 October 2022</time></span> <a href="./tess-interactive-data-workshop.html">TESS Interactive Data Workshop</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-10-20T10:00:00-04:00">Thu 20 October 2022</time></span> <a href="./tess-weekly-bulletin-oct-20th.html">TESS Weekly Bulletin: Oct 20th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-09-28T10:00:00-04:00">Wed 28 September 2022</time></span> <a href="./tess-weekly-bulletin-sep-28th.html">TESS Weekly Bulletin: Sep 28th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-09-14T10:00:00-04:00">Wed 14 September 2022</time></span> <a href="./tess-weekly-bulletin-sep-14th.html">TESS Weekly Bulletin: Sep 14th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-09-01T10:00:00-04:00">Thu 01 September 2022</time></span> <a href="./tess-weekly-bulletin-sep-1st.html">TESS Weekly Bulletin: Sep 1st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-08-25T10:00:00-04:00">Thu 25 August 2022</time></span> <a href="./tess-weekly-bulletin-aug-25th.html">TESS Weekly Bulletin: Aug 25th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-08-15T10:00:00-04:00">Mon 15 August 2022</time></span> <a href="./tess-weekly-bulletin-aug-15th.html">TESS Weekly Bulletin: Aug 15th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-08-05T10:00:00-04:00">Fri 05 August 2022</time></span> <a href="./tess-weekly-bulletin-aug-5th.html">TESS Weekly Bulletin: Aug 5th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-08-01T10:00:00-04:00">Mon 01 August 2022</time></span> <a href="./tess-cycle-5-selections.html">TESS Cycle 5 selections</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-07-22T10:00:00-04:00">Fri 22 July 2022</time></span> <a href="./tess-weekly-bulletin-july-22th.html">TESS Weekly Bulletin: July 22th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-07-07T10:00:00-04:00">Thu 07 July 2022</time></span> <a href="./tess-weekly-bulletin-july-7th-2022.html">TESS Weekly Bulletin: July 7th 2022</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-06-28T10:00:00-04:00">Tue 28 June 2022</time></span> <a href="./tess-weekly-bulletin-june-28th.html">TESS Weekly Bulletin: June 28th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-05-27T10:00:00-04:00">Fri 27 May 2022</time></span> <a href="./tess-weekly-bulletin-may-27th.html">TESS Weekly Bulletin: May 27th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-05-13T10:00:00-04:00">Fri 13 May 2022</time></span> <a href="./tess-weekly-bulletin-may-13th.html">TESS Weekly Bulletin: May 13th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-03-30T10:00:00-04:00">Wed 30 March 2022</time></span> <a href="./tess-weekly-bulletin-march-30th.html">TESS Weekly Bulletin: March 30th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-03-17T10:00:00-04:00">Thu 17 March 2022</time></span> <a href="./tess-weekly-bulletin-march-17th.html">TESS Weekly Bulletin: March 17th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-03-01T10:00:00-05:00">Tue 01 March 2022</time></span> <a href="./tess-weekly-bulletin-march-1st.html">TESS Weekly Bulletin: March 1st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-02-20T10:00:00-05:00">Sun 20 February 2022</time></span> <a href="./tess-weekly-bulletin-february-20th.html">TESS Weekly Bulletin: February 20th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-02-06T10:00:00-05:00">Sun 06 February 2022</time></span> <a href="./tess-weekly-bulletin-february-6th.html">TESS Weekly Bulletin: February 6th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-01-31T10:00:00-05:00">Mon 31 January 2022</time></span> <a href="./tess-aas-splinter-session.html">TESS AAS Splinter Session</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-01-21T10:00:00-05:00">Fri 21 January 2022</time></span> <a href="./tess-weekly-bulletin-january-21st.html">TESS Weekly Bulletin: January 21st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-01-10T10:00:00-05:00">Mon 10 January 2022</time></span> <a href="./tess-weekly-bulletin-january-10th.html">TESS Weekly Bulletin: January 10th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2022-01-03T10:00:00-05:00">Mon 03 January 2022</time></span> <a href="./tess-weekly-bulletin-january-3rd.html">TESS Weekly Bulletin: January 3rd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-12-06T10:00:00-05:00">Mon 06 December 2021</time></span> <a href="./tess-activities-at-agu.html">TESS activities at AGU</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-12-06T10:00:00-05:00">Mon 06 December 2021</time></span> <a href="./tess-weekly-bulletin-december-6th.html">TESS Weekly Bulletin: December 6th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-11-25T10:00:00-05:00">Thu 25 November 2021</time></span> <a href="./tess-weekly-bulletin-november-25th.html">TESS Weekly Bulletin: November 25th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-11-10T10:00:00-05:00">Wed 10 November 2021</time></span> <a href="./tess-weekly-bulletin-november-10th.html">TESS Weekly Bulletin: November 10th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-11-01T10:00:00-04:00">Mon 01 November 2021</time></span> <a href="./tess-weekly-bulletin-november-1st.html">TESS Weekly Bulletin: November 1st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-10-22T10:00:00-04:00">Fri 22 October 2021</time></span> <a href="./tess-weekly-bulletin-october-22nd.html">TESS Weekly Bulletin: October 22nd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-10-15T10:00:00-04:00">Fri 15 October 2021</time></span> <a href="./tess-sector-46-pointing.html">TESS Sector 46 pointing</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-10-04T10:00:00-04:00">Mon 04 October 2021</time></span> <a href="./tess-weekly-bulletin-october-4th.html">TESS Weekly Bulletin: October 4th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-09-20T10:00:00-04:00">Mon 20 September 2021</time></span> <a href="./tess-weekly-bulletin-september-20th.html">TESS Weekly Bulletin: September 20th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-09-10T10:00:00-04:00">Fri 10 September 2021</time></span> <a href="./tess-weekly-bulletin-september-10th.html">TESS Weekly Bulletin: September 10th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-08-18T10:00:00-04:00">Wed 18 August 2021</time></span> <a href="./tess-weekly-bulletin-august-18th.html">TESS Weekly Bulletin: August 18th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-08-10T10:00:00-04:00">Tue 10 August 2021</time></span> <a href="./tess-weekly-bulletin-august-10th.html">TESS Weekly Bulletin: August 10th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-07-29T10:00:00-04:00">Thu 29 July 2021</time></span> <a href="./tess-weekly-bulletin-july-28th.html">TESS Weekly Bulletin: July 28th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-07-28T10:00:00-04:00">Wed 28 July 2021</time></span> <a href="./tess-science-conference-ii-splinter-session.html">TESS Science Conference II - Splinter Session</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-07-19T10:00:00-04:00">Mon 19 July 2021</time></span> <a href="./tess-weekly-bulletin-july-19th.html">TESS Weekly Bulletin: July 19th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-07-13T10:00:00-04:00">Tue 13 July 2021</time></span> <a href="./archive-scientist-position.html">Archive Scientist Position</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-07-06T10:00:00-04:00">Tue 06 July 2021</time></span> <a href="./tess-weekly-bulletin-july-7th.html">TESS Weekly Bulletin: July 7th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-06-23T10:00:00-04:00">Wed 23 June 2021</time></span> <a href="./tess-weekly-bulletin-june-23rd.html">TESS Weekly Bulletin: June 23rd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-06-14T10:00:00-04:00">Mon 14 June 2021</time></span> <a href="./tess-weekly-bulletin-june-14th.html">TESS Weekly Bulletin: June 14th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-06-01T10:00:00-04:00">Tue 01 June 2021</time></span> <a href="./tess-weekly-bulletin-june-01st.html">TESS Weekly Bulletin: June 01st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-05-24T10:00:00-04:00">Mon 24 May 2021</time></span> <a href="./tess-weekly-bulletin-may-24th.html">TESS Weekly Bulletin: May 24th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-05-04T10:00:00-04:00">Tue 04 May 2021</time></span> <a href="./tess-cycle-4-selections.html">TESS Cycle 4 selections</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-04-30T10:00:00-04:00">Fri 30 April 2021</time></span> <a href="./tess-weekly-bulletin-april-30th.html">TESS Weekly Bulletin: April 30th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-04-19T10:00:00-04:00">Mon 19 April 2021</time></span> <a href="./tess-weekly-bulletin-april-19th.html">TESS Weekly Bulletin: April 19th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-04-12T10:00:00-04:00">Mon 12 April 2021</time></span> <a href="./tess-weekly-bulletin-april-12th.html">TESS Weekly Bulletin: April 12th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-04-01T10:00:00-04:00">Thu 01 April 2021</time></span> <a href="./tess-weekly-bulletin-april-1st.html">TESS Weekly Bulletin: April 1st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-03-23T10:00:00-04:00">Tue 23 March 2021</time></span> <a href="./tess-weekly-bulletin-match-18th.html">TESS Weekly Bulletin: Match 18th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-03-12T10:00:00-05:00">Fri 12 March 2021</time></span> <a href="./tess-weekly-bulletin-match-12th.html">TESS Weekly Bulletin: Match 12th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-03-04T10:00:00-05:00">Thu 04 March 2021</time></span> <a href="./a-beta-trial-of-quick-look-tess-orbit-data-early-release-of-sector-35-orbit-1-calibrated-full-frame-images.html">A “Beta” Trial of Quick-Look TESS Orbit Data: Early Release of Sector 35 Orbit 1 Calibrated Full Frame Images</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-03-01T10:00:00-05:00">Mon 01 March 2021</time></span> <a href="./tess-weekly-bulletin-match-1st.html">TESS Weekly Bulletin: Match 1st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-02-19T10:00:00-05:00">Fri 19 February 2021</time></span> <a href="./tess-weekly-bulletin-february-19th.html">TESS Weekly Bulletin: February 19th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-02-12T10:00:00-05:00">Fri 12 February 2021</time></span> <a href="./tess-weekly-bulletin-february-12th.html">TESS Weekly Bulletin: February 12th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-02-05T10:00:00-05:00">Fri 05 February 2021</time></span> <a href="./tess-science-conference-ii.html">TESS Science Conference II</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-02-05T10:00:00-05:00">Fri 05 February 2021</time></span> <a href="./tess-weekly-bulletin-february-5th.html">TESS Weekly Bulletin: February 5th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-01-26T10:00:00-05:00">Tue 26 January 2021</time></span> <a href="./2020-a-year-in-review.html">2020: A year in review</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-01-25T10:00:00-05:00">Mon 25 January 2021</time></span> <a href="./tess-weekly-bulletin-january-25th.html">TESS Weekly Bulletin: January 25th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-01-22T10:00:00-05:00">Fri 22 January 2021</time></span> <a href="./tess-weekly-bulletin-january-22nd.html">TESS Weekly Bulletin: January 22nd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2021-01-08T10:00:00-05:00">Fri 08 January 2021</time></span> <a href="./tess-weekly-bulletin-january-8th.html">TESS Weekly Bulletin: January 8th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-12-23T10:00:00-05:00">Wed 23 December 2020</time></span> <a href="./tess-weekly-bulletin-december-23rd.html">TESS Weekly Bulletin: December 23rd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-12-14T10:00:00-05:00">Mon 14 December 2020</time></span> <a href="./tess-weekly-bulletin-december-14th.html">TESS Weekly Bulletin: December 14th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-11-19T10:00:00-05:00">Thu 19 November 2020</time></span> <a href="./tess-weekly-bulletin-november-20th.html">TESS Weekly Bulletin: November 20th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-11-13T10:00:00-05:00">Fri 13 November 2020</time></span> <a href="./tess-weekly-bulletin-november-13th.html">TESS Weekly Bulletin: November 13th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-11-05T10:00:00-05:00">Thu 05 November 2020</time></span> <a href="./tess-weekly-bulletin-november-5th.html">TESS Weekly Bulletin: November 5th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-10-30T10:00:00-04:00">Fri 30 October 2020</time></span> <a href="./tess-weekly-bulletin-october-30th.html">TESS Weekly Bulletin: October 30th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-10-25T11:00:00-04:00">Sun 25 October 2020</time></span> <a href="./cycle-4-proposal-deadline-january-22.html">Cycle 4 Proposal Deadline January 22</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-10-23T10:00:00-04:00">Fri 23 October 2020</time></span> <a href="./tess-weekly-bulletin-october-23rd.html">TESS Weekly Bulletin: October 23rd</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-10-05T10:00:00-04:00">Mon 05 October 2020</time></span> <a href="./tess-weekly-bulletin-october-5th.html">TESS Weekly Bulletin: October 5th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-10-01T10:00:00-04:00">Thu 01 October 2020</time></span> <a href="./tess-weekly-bulletin-october-1st.html">TESS Weekly Bulletin: October 1st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-09-29T11:00:00-04:00">Tue 29 September 2020</time></span> <a href="./first-tess-extended-mission-now-available.html">First TESS Extended Mission now available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-09-29T10:00:00-04:00">Tue 29 September 2020</time></span> <a href="./talks-and-posters-wanted-for-aas-special-session-on-mining-tess-data.html">Talks and posters wanted for AAS Special Session on Mining TESS Data</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-09-25T10:00:00-04:00">Fri 25 September 2020</time></span> <a href="./tess-weekly-bulletin-september-25th.html">TESS Weekly Bulletin: September 25th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-09-18T10:00:00-04:00">Fri 18 September 2020</time></span> <a href="./tess-weekly-bulletin-september-18th.html">TESS Weekly Bulletin: September 18th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-09-11T10:00:00-04:00">Fri 11 September 2020</time></span> <a href="./tess-weekly-bulletin-september-11th.html">TESS Weekly Bulletin: September 11th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-08-31T10:00:00-04:00">Mon 31 August 2020</time></span> <a href="./tess-weekly-bulletin-august-31st.html">TESS Weekly Bulletin: August 31st</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-08-19T10:00:00-04:00">Wed 19 August 2020</time></span> <a href="./tess-weekly-bulletin-august-19th.html">TESS Weekly Bulletin: August 19th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-08-17T11:00:00-04:00">Mon 17 August 2020</time></span> <a href="./sector-27-and-28-20-second-cadence-target-lists.html">Sector 27 and 28 20-second cadence target lists</a></p>
                         <p><span class="categories-timestamp"><time datetime="2020-08-12T15:00:00-04:00">Wed 12 August 2020</time></span> <a href="./the-tess-extended-mission.html">The TESS Extended Mission</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-08-12T10:00:00-04:00">Wed 12 August 2020</time></span> <a href="./tess-weekly-bulletin-august-12th.html">TESS Weekly Bulletin: August 12th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-07-29T10:00:00-04:00">Wed 29 July 2020</time></span> <a href="./tess-weekly-bulletin-july-29th.html">TESS Weekly Bulletin: July 29th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-07-20T10:00:00-04:00">Mon 20 July 2020</time></span> <a href="./tess-weekly-bulletin-july-20th.html">TESS Weekly Bulletin: July 20th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-07-13T10:00:00-04:00">Mon 13 July 2020</time></span> <a href="./tess-weekly-bulletin-july-13th.html">TESS Weekly Bulletin: July 13th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-07-06T10:00:00-04:00">Mon 06 July 2020</time></span> <a href="./tess-weekly-bulletin-july-6th.html">TESS Weekly Bulletin: July 6th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-06-29T10:00:00-04:00">Mon 29 June 2020</time></span> <a href="./tess-weekly-bulletin-june-29th.html">TESS Weekly Bulletin: June 29th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-06-23T13:00:00-04:00">Tue 23 June 2020</time></span> <a href="./tess-weekly-bulletin-june-23th.html">TESS Weekly Bulletin: June 23th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-06-12T14:00:00-04:00">Fri 12 June 2020</time></span> <a href="./tess-weekly-bulletin-june-12th.html">TESS Weekly Bulletin: June 12th</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-06-12T12:00:00-04:00">Fri 12 June 2020</time></span> <a href="./reprocessed-tess-data-coming-soon.html">Reprocessed TESS data coming soon</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-06-03T22:00:00-04:00">Wed 03 June 2020</time></span> <a href="./fifth-tess-weekly-bulletin.html">Fifth TESS Weekly Bulletin</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-06-01T11:00:00-04:00">Mon 01 June 2020</time></span> <a href="./cycle-3-selected-programs-announced.html">Cycle 3 selected programs announced</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-05-27T22:00:00-04:00">Wed 27 May 2020</time></span> <a href="./fourth-tess-weekly-bulletin.html">Fourth TESS Weekly Bulletin</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-05-21T14:00:00-04:00">Thu 21 May 2020</time></span> <a href="./third-tess-weekly-bulletin.html">Third TESS Weekly Bulletin</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-05-13T14:00:00-04:00">Wed 13 May 2020</time></span> <a href="./second-tess-weekly-bulletin.html">Second TESS Weekly Bulletin</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-05-06T14:00:00-04:00">Wed 06 May 2020</time></span> <a href="./first-tess-weekly-bulletin.html">First TESS Weekly Bulletin</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-04-22T16:00:00-04:00">Wed 22 April 2020</time></span> <a href="./replacement-of-sectors-20-and-21-data.html">Replacement of Sectors 20 and 21 data</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-04-16T14:00:00-04:00">Thu 16 April 2020</time></span> <a href="./april-18th-marks-the-two-year-anniversary-of-tess-in-space.html">April 18th marks the two year anniversary of TESS in space</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-04-16T12:00:00-04:00">Thu 16 April 2020</time></span> <a href="./new-support-scientist-on-the-gi-team.html">New Support Scientist on the GI team</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2020-02-21T12:00:00-05:00">Fri 21 February 2020</time></span> <a href="./record-number-of-tess-gi-proposals-received.html">Record number of TESS GI proposals received</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-12-03T16:00:00-05:00">Tue 03 December 2019</time></span> <a href="./tess-activities-at-aas.html">TESS activities at AAS</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-12-03T15:00:00-05:00">Tue 03 December 2019</time></span> <a href="./volunteer-to-review-tess-proposals.html">Volunteer to review TESS proposals</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-12-03T12:00:00-05:00">Tue 03 December 2019</time></span> <a href="./updates-on-cycle-3-guest-investigator-program.html">Updates on Cycle 3 Guest Investigator Program</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-12-03T10:00:00-05:00">Tue 03 December 2019</time></span> <a href="./update-on-pointing-for-sectors-24-25-and-26.html">Update on pointing for Sectors 24, 25, and 26</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-11-06T11:00:00-05:00">Wed 06 November 2019</time></span> <a href="./full-frame-image-release-cadence-survey.html">Full-frame image release cadence survey</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-11-05T12:00:00-05:00">Tue 05 November 2019</time></span> <a href="./update-on-tess-data-availability-at-mast.html">Update on TESS data availability at MAST</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-10-21T15:00:00-04:00">Mon 21 October 2019</time></span> <a href="./cycle-3-guest-investigator-announcement.html">Cycle 3 Guest Investigator announcement</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-09-04T13:00:00-04:00">Wed 04 September 2019</time></span> <a href="./we-want-your-newsworthy-results-for-aas.html">We want your newsworthy results for AAS</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-09-03T13:00:00-04:00">Tue 03 September 2019</time></span> <a href="./announcement-of-the-tess-extended-mission.html">Announcement of the TESS Extended Mission</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-09-02T13:00:00-04:00">Mon 02 September 2019</time></span> <a href="./update-on-pointing-for-sector-16.html">Update on pointing for Sector 16</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-09-01T13:00:00-04:00">Sun 01 September 2019</time></span> <a href="./all-tess-cycle-1-data-available-at-mast.html">All TESS Cycle 1 data available at MAST</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-06-27T13:00:00-04:00">Thu 27 June 2019</time></span> <a href="./update-on-tess-pointing-in-year-2.html">Update on TESS pointing in Year 2</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-06-27T12:00:00-04:00">Thu 27 June 2019</time></span> <a href="./upcoming-tess-conferences.html">Upcoming TESS Conferences</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-06-21T10:00:00-04:00">Fri 21 June 2019</time></span> <a href="./guest-investigator-program-cycle-2-results-available.html">Guest Investigator Program Cycle 2 results available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-06-18T13:00:00-04:00">Tue 18 June 2019</time></span> <a href="./tess-input-catalog-version-8-tic-8-is-now-available-at-mast.html">TESS Input Catalog Version 8 (TIC-8) is now available at MAST</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-05-22T10:00:00-04:00">Wed 22 May 2019</time></span> <a href="./tess-pointing-during-year-2.html">TESS pointing during Year 2</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-05-15T10:00:00-04:00">Wed 15 May 2019</time></span> <a href="./hst-tess-advisory-committee-call-for-white-papers.html">HST-TESS Advisory Committee Call for White Papers</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-02-18T15:00:00-05:00">Mon 18 February 2019</time></span> <a href="./arkrps-submission-page-now-open.html">ARK/RPS submission page now open</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2019-01-31T10:00:00-05:00">Thu 31 January 2019</time></span> <a href="./guest-investigator-program-cycle-2-deadline-now-march-14.html">Guest Investigator Program Cycle 2 deadline now March 14</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-12-21T12:00:00-05:00">Fri 21 December 2018</time></span> <a href="./tess-sessions-at-the-aas-meeting-january-2019.html">TESS Sessions at the AAS Meeting January 2019</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-12-06T14:00:00-05:00">Thu 06 December 2018</time></span> <a href="./sector-1-and-2-data-now-available-at-mast.html">Sector 1 and 2 data now available at MAST</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-12-04T15:00:00-05:00">Tue 04 December 2018</time></span> <a href="./web-tess-viewing-tool-updated-for-cycle-2.html">Web TESS Viewing Tool updated for Cycle 2</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-12-03T15:00:00-05:00">Mon 03 December 2018</time></span> <a href="./tess-sector-1-and-2-data-to-be-available-on-december-6.html">TESS Sector 1 and 2 data to be available on December 6</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-11-19T10:00:00-05:00">Mon 19 November 2018</time></span> <a href="./data-from-first-two-tess-observation-sectors-to-be-released-in-early-december.html">Data from first two TESS Observation Sectors to be released in early December</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-11-18T08:00:00-05:00">Sun 18 November 2018</time></span> <a href="./tess-science-support-center-is-hiring.html">TESS Science Support Center is hiring</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-10-04T12:00:00-04:00">Thu 04 October 2018</time></span> <a href="./preliminary-target-pixel-files-from-tess-object-of-interest-alerts-now-public-at-mast.html">Preliminary Target Pixel Files from TESS Object of Interest Alerts Now Public at MAST</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-10-04T11:00:00-04:00">Thu 04 October 2018</time></span> <a href="./tess-special-session-at-winter-aas.html">TESS Special Session at Winter AAS</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-09-23T09:00:00-04:00">Sun 23 September 2018</time></span> <a href="./sector-3-guest-investigator-target-lists-available.html">Sector 3 Guest Investigator target lists available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-09-05T15:00:00-04:00">Wed 05 September 2018</time></span> <a href="./sector-1-data-are-being-processed-and-validated.html">Sector 1 data are being processed and validated</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-08-27T08:00:00-04:00">Mon 27 August 2018</time></span> <a href="./sector-2-gi-target-list-available.html">Sector 2 GI target list available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-08-17T08:00:00-04:00">Fri 17 August 2018</time></span> <a href="./changes-in-the-tess-team-at-goddard.html">Changes in the TESS team at Goddard</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-08-09T08:00:00-04:00">Thu 09 August 2018</time></span> <a href="./first-tess-downlink-successfully-completed.html">First TESS downlink successfully completed</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-08-06T08:00:00-04:00">Mon 06 August 2018</time></span> <a href="./sector-1-preliminary-gi-target-list-available.html">Sector 1 preliminary GI target list available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-07-27T13:00:00-04:00">Fri 27 July 2018</time></span> <a href="./tess-spacecraft-starts-science-operations.html">TESS Spacecraft Starts Science Operations</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-07-11T10:00:00-04:00">Wed 11 July 2018</time></span> <a href="./nasas-tess-spacecraft-continues-testing-prior-to-first-observations.html">NASA’s TESS spacecraft continues testing prior to first observations</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-06-22T02:01:00-04:00">Fri 22 June 2018</time></span> <a href="./tess-input-catalog-updated.html">TESS Input Catalog Updated</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-05-21T02:01:00-04:00">Mon 21 May 2018</time></span> <a href="./tess-successfully-completes-lunar-flyby.html">TESS successfully completes lunar flyby</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-05-15T10:00:00-04:00">Tue 15 May 2018</time></span> <a href="./tess-commissioning-nominal-and-on-track-for-lunar-encounter.html">TESS commissioning nominal and on track for lunar encounter</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-05-09T10:00:00-04:00">Wed 09 May 2018</time></span> <a href="./three-body-dynamics-in-the-tess-orbit.html">Three-body dynamics in the TESS orbit</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-04-19T13:00:00-04:00">Thu 19 April 2018</time></span> <a href="./successful-tess-launch.html">Successful TESS launch</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-04-16T13:00:00-04:00">Mon 16 April 2018</time></span> <a href="./tess-launch-today.html">TESS launch today!</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-04-12T13:00:00-04:00">Thu 12 April 2018</time></span> <a href="./watch-the-launch.html">Watch the launch</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-03-01T02:01:00-05:00">Thu 01 March 2018</time></span> <a href="./tess-simulated-data-available.html">TESS simulated data available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-02-15T02:01:00-05:00">Thu 15 February 2018</time></span> <a href="./tess-arrives-at-kennedy-space-center-and-updated-launch-date.html">TESS arrives at Kennedy Space Center and updated launch date</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-01-29T02:00:00-05:00">Mon 29 January 2018</time></span> <a href="./tess-highlights-at-aas-231.html">TESS Highlights at AAS 231</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-01-25T10:00:00-05:00">Thu 25 January 2018</time></span> <a href="./guest-investigator-program-cycle-1-results-available.html">Guest Investigator Program Cycle 1 results available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-01-23T13:00:00-05:00">Tue 23 January 2018</time></span> <a href="./tess-input-catalog-version-6-tic-6-is-now-online-at-mast.html">TESS Input Catalog Version 6 (TIC-6) is now online at MAST</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2018-01-04T10:00:00-05:00">Thu 04 January 2018</time></span> <a href="./tess-team-at-aas-231.html">TESS team at AAS 231</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-10-09T10:00:00-04:00">Mon 09 October 2017</time></span> <a href="./proposal-submission-now-closed.html">Proposal submission now closed</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-10-03T09:00:00-04:00">Tue 03 October 2017</time></span> <a href="./release-of-tess-cool-dwarf-catalog.html">Release of TESS cool dwarf catalog</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-09-26T10:00:00-04:00">Tue 26 September 2017</time></span> <a href="./target-list-pointers.html">Target list pointers</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-09-19T15:00:00-04:00">Tue 19 September 2017</time></span> <a href="./cycle-1-proposal-deadline-change.html">Cycle 1 proposal deadline change</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-09-14T10:00:00-04:00">Thu 14 September 2017</time></span> <a href="./release-of-web-tess-target-tool.html">Release of Web TESS Target Tool</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-09-10T10:00:00-04:00">Sun 10 September 2017</time></span> <a href="./release-of-a-software-tool-to-calculate-tess-magnitudes-and-noise-level.html">Release of a software tool to calculate TESS magnitudes and noise level</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-09-09T11:00:00-04:00">Sat 09 September 2017</time></span> <a href="./increase-in-target-allocation-for-gi-program.html">Increase in target allocation for GI Program</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-09-09T10:00:00-04:00">Sat 09 September 2017</time></span> <a href="./tess-to-observe-bright-stars-at-2-min-cadence.html">TESS to observe bright stars at 2-min cadence</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-08-24T13:00:00-04:00">Thu 24 August 2017</time></span> <a href="./tess-hermes-catalog-of-spectroscopic-stellar-parameters-is-now-available.html">TESS-HERMES catalog of spectroscopic stellar parameters is now available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-08-08T15:00:00-04:00">Tue 08 August 2017</time></span> <a href="./cycle-1-proposal-template-available.html">Cycle 1 proposal template available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-08-08T14:00:00-04:00">Tue 08 August 2017</time></span> <a href="./tess-guest-investigator-cycle-1-proposal-submission-page-open.html">TESS Guest Investigator Cycle 1 proposal submission page open</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-08-07T10:00:00-04:00">Mon 07 August 2017</time></span> <a href="./tess-passes-critical-review.html">TESS Passes Critical Review</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-08-01T14:00:00-04:00">Tue 01 August 2017</time></span> <a href="./error-in-a-small-number-of-tic-v5-surface-gravities.html">Error in a small number of TIC v5 surface gravities</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-08-01T10:00:00-04:00">Tue 01 August 2017</time></span> <a href="./exofop-tess-now-online.html">ExoFOP-TESS now online</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-06-29T10:00:00-04:00">Thu 29 June 2017</time></span> <a href="./tess-guest-investigator-cycle-1-released.html">TESS Guest Investigator Cycle 1 released</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-06-16T10:00:00-04:00">Fri 16 June 2017</time></span> <a href="./tess-science-support-center-at-kepscicon.html">TESS Science Support Center at KepSciCon</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-05-15T10:01:00-04:00">Mon 15 May 2017</time></span> <a href="./tess-team-at-aas-230.html">TESS team at AAS 230</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-04-28T10:00:00-04:00">Fri 28 April 2017</time></span> <a href="./tess-observatory-guide-now-available.html">TESS Observatory Guide now available</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-04-28T10:00:00-04:00">Fri 28 April 2017</time></span> <a href="./volunteer-to-review-proposals.html">Volunteer to review proposals</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-04-21T14:01:00-04:00">Fri 21 April 2017</time></span> <a href="./tell-us-about-the-software-tool-and-data-products-you-would-like.html">Tell us about the software tool and data products you would like</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-04-17T10:01:00-04:00">Mon 17 April 2017</time></span> <a href="./space-hardware-development-and-going-well.html">Space hardware development and going well</a></p>
+                        <p><span class="categories-timestamp"><time datetime="2017-04-17T10:00:00-04:00">Mon 17 April 2017</time></span> <a href="./development-of-new-tess-website.html">Development of new TESS website</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapse-tess_idea">tess_idea <span class="badge pull-right">1</span></a>
+                    </h4>
+                </div>
+                <div id="collapse-tess_idea" class="panel-collapse collapse">
+                    <div class="panel-body">
+                        <p><span class="categories-timestamp"><time datetime="2024-07-23T10:00:00-04:00">Tue 23 July 2024</time></span> <a href="./tess-idea-survey.html">TESS IDEA Survey</a></p>
                     </div>
                 </div>
             </div>
@@ -267,12 +507,12 @@ in 2024, using pelican-bootstrap and flatly.
     <script src="./theme/js/bootstrap-table.min.js"></script>
 
 
-    <script src="./theme/js/stork.js"></script>
+    <!--<script src="./theme/js/stork.js"></script>
     <script>
         stork.initialize("./theme/js/stork.wasm")
         stork.downloadIndex("sitesearch", "./search-index.st")
         stork.attach("sitesearch")
-    </script>
+    </script>-->
 
 
 <!-- Analytics scripts -->
