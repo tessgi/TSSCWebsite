@@ -32,7 +32,7 @@ In addition to the mission-supported pipeline and lightkurve package, a number o
         <tr>
           <td style="width: 15em;"><a
           href='https://github.com/waqasbhatti/astrobase'>astrobase</a></td>
-          <td> Light curve tools and analysis <a href='github.com/waqasbhatti/astrobase-notebooks'>A tutorial can be found here</a>.
+          <td> Light curve tools and analysis <a href='https://github.com/waqasbhatti/astrobase-notebooks'>A tutorial can be found here</a>.
           </td>
         </tr>
         <tr>

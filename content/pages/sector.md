@@ -11,7 +11,7 @@ The prime mission tiled the southern ecliptic hemisphere for the first year, the
 
 ## Sector Observation Dates
 
-The start and end dates for each sector are listed below. The MAST provides an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service). Information on how to access the data can be found [here](data-access.html). Note that the data for each new sector is typically available within 1 month of the end date for a given sector. <b> Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
+The start and end dates for each sector are listed below. The MAST provides an up to date [summary of TESS data available at the archive](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service). Information on how to access the data can be found [here](data_products.html). Note that the data for each new sector is typically available within 1 month of the end date for a given sector. <b> Users are encouraged to check the [MAST status page](https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service) to check on the data availability for particular sectors</b>.
 
 The spacecraft pointing positions are [available from MIT](https://tess.mit.edu/observations/).
 
