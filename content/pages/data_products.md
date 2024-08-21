@@ -16,7 +16,7 @@ save_as: data_products.html
 
 <h2>Types of TESS Data Products</h2>
 <br>
-TESS identifies targets from a target list onboard the computer, and selects small pixel cut outs around those regions. The FFIs and pixel cut outs are downlinked. The FFIs are then sent to the MAST archive; the pixel cut outs are processed by <a class='nav-lin' href="{{SITE_URL}}/data_pipeline.html">SPOC</a> into TPFs, and then LCFS. The process is illustrated below. To learn more about these data product, explore the tabs below.</br> 
+TESS identifies targets from a target list onboard the computer, and selects small pixel cut outs around those regions. The FFIs and pixel cut outs are downlinked. The FFIs are then sent to the MAST archive; the pixel cut outs are processed by <a class='nav-lin' href="data_pipeline.html">SPOC</a> into TPFs, and then LCFS. The process is illustrated below. To learn more about these data product, explore the tabs below.</br> 
 <img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/tess_ffi_phot.png" class="img-responsive"><figcaption>Pictoral representation of the different TESS data product types. Note that 30-minute FFIs were provided for the primary mission (Cycles 1 and 2). This cadence of FFI images was reduced during subsequent mission extensions. </figcaption></img>
 <br></br>
 
@@ -141,7 +141,7 @@ TESS identifies targets from a target list onboard the computer, and selects sma
             <li><a href='https://archive.stsci.edu/hlsp/tica'>TESS Image CAlibrator Full Frame Images (TICA)</a> (PI: Michael Fausnaugh)</li>
             <li><a href='https://archive.stsci.edu/hlsp/tess-svc'>The TESS Stellar Variability Catalog (TESS-SVC)</a> (PI: Tara Fetherolf)</li>
             <li><a href='https://archive.stsci.edu/hlsp/tglc'>TESS-Gaia Light Curve ("TGLC")</a> (PI: Timothy D. Brandt)</li>
-            <li><a href='https://archive.stsci.edu/hlsp/tess-ebs'>TESS Eclipsing Binaries ("TESS-EBs")</a> (PI: Andrej Prsa)/li>
+            <li><a href='https://archive.stsci.edu/hlsp/tess-ebs'>TESS Eclipsing Binaries ("TESS-EBs")</a> (PI: Andrej Prsa)</li>
             <li><a href='https://archive.stsci.edu/hlsp/gsfc-eleanor-lite'>TESS FFI-Based Light Curves from the GSFC Team (GSFC-ELEANOR-LITE)</a> (PI: Brian P. Powell)</li>
             <li><a href='https://archive.stsci.edu/hlsp/smarts'>Simulated TESS Light Curves for Measuring Rotation with Deep Learning ("SMARTS")</a> (PI: Zachary R. Claytor)</li>
             <li><a href='https://archive.stsci.edu/hlsp/tess-coadd-cutouts'>Cutouts from Wide-area TESS Coadded Images ("TESS-COADD-CUTOUTS")</a> (PI: G. Bruce Berriman)</li>

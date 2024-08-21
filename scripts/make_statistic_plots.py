@@ -217,7 +217,7 @@ def make_interactive_paper_plot(
     # Save the file as an html. Include a pointer to plotly-latest.min.js.
     fig.write_html(
         html_path + "papers_over_time.html",
-        include_plotlyjs="{{ SITEURL }}/theme/js/plotly-latest.min.js",
+        include_plotlyjs="./theme/js/plotly-latest.min.js",
         default_width="100%",
         default_height="100%",
     )
@@ -738,7 +738,7 @@ def plot_American_authors(
 
     fig.write_html(
         html_path + "US_author_count.html",
-        include_plotlyjs="{{ SITEURL }}/theme/js/plotly-latest.min.js",
+        include_plotlyjs="./theme/js/plotly-latest.min.js",
         default_width="80vw",
         default_height="80vh",
     )
@@ -810,7 +810,7 @@ def plot_Global_authors(
     
     fig.write_html(
         html_path + "Lead_author_affiliation.html",
-        include_plotlyjs="{{ SITEURL }}/theme/js/plotly-latest.min.js",
+        include_plotlyjs="./theme/js/plotly-latest.min.js",
         default_width="80vw",
         default_height="80vh",
     )

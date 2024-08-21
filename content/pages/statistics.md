@@ -13,11 +13,11 @@ On this page you can find some of the key statistics for TESS mission.
     <th colspan="2" style="font-size: 28px;"></th>
 </tr>
 <tr>
-    <td width="50%">
+    <td width="55%">
     <p>While TESS was origninally designed to find exoplanets, the required stable, high-cadence images that cover the entire sky have applications to many other fields of astronomy. Currently ~60% of publications using TESS data come from fields outside of exoplanet science, including stars, supernovae, and solar system objects. </p>
-    <p>The plot below shows the number of peer-reviewed journal articles utilizing TESS data over time. The TESS papers are further broken up into papers related to exoplanets or astrophysics, which in this context is all applications outside of exoplanets. While initially exoplanets and other science were roughly equally represented, the trend indicates that TESS is being increasingly used for purposes outside of the primary mission goal.</p>
+    <p>The plot below shows the cumulative number of peer-reviewed journal articles utilizing TESS data over time. The TESS papers are further broken up into papers related to exoplanets or astrophysics, which in this context is all applications outside of exoplanets. While initially exoplanets and other science were roughly equally represented, the trend indicates that TESS is being increasingly used for purposes outside of the primary mission goal.</p>
     </td>
-    <td width="50%"><img src="images/statistics/publications_piechart.png" class="center"></img></td>
+    <td width="45%"><img src="images/statistics/publications_piechart.png" class="center"></img></td>
 
 </tr>
 </table>

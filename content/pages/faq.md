@@ -32,7 +32,7 @@ Here we list some common questions. If you have a question not found here, you c
 <p style="margin-left: 2em">Some common sources of anomalous light curves features include the target star being on a bad CCD column, scattered light from the Earth and/or Moon, or asteroids quickly crossing your target. It is recommended that Full-Frame Images taken at the same time as the anomalous feature be checked to verify whether or not the interesting feature seen is astrophysical in nature. The <a href = "https://docs.lightkurve.org/tutorials/1-getting-started/interactively-inspecting-data.html"> lighkurve package</a> can also be used to interactively inspect the region surrounding your target.</p>
 
 **How does the TESS mission incorporate NASA's core values of Inclusion and Diversity?**
-<p style="margin-left: 2em">The TESS mission is committed to open and free access to all data products produced by the mission. In addition, the TESS team has formed an Inclusion, Diversity, Equity, and Accessibility <a href = "{{SITEURL}}/idea_wg.html">(IDEA)</a> working group. If you would like to learn more, please sign up for the IDEA mailing list following the instructions in the above link. </p>
+<p style="margin-left: 2em">The TESS mission is committed to open and free access to all data products produced by the mission. In addition, the TESS team has formed an Inclusion, Diversity, Equity, and Accessibility <a href = "idea_wg.html">(IDEA)</a> working group. If you would like to learn more, please sign up for the IDEA mailing list following the instructions in the above link. </p>
 
 **Is there a standard acknowledgement to use when publishing TESS data?**
 

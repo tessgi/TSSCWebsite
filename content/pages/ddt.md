@@ -1,7 +1,6 @@
 Title: Director's Discretionary Target (DDT) program
 Save_as: ddt.html
 
-[TOC]
 
 A number of targets per sector have been reserved for targets which are not covered in the GI target lists, yet may warrant inclusion as targets. The [DDT and out-of-cycle Target of Opportunity](https://tess.mit.edu/science/ddt/) processes for TESS draws on those used successfully for the NuStar Explorer mission. Requests and targets can be submitted through a form on the [MIT TESS website](https://tess.mit.edu/science/ddt/). 
 

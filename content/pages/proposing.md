@@ -271,23 +271,23 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
           <tr>
             <td>
             <td>Template for small, large, and key proposals</td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_smalllargekey_template_cycle6.tex" download>Latex</a></td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_smalllargekey_template_cycle6.docx" download>Word</a></td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_smalllargekey_template_cycle6.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle6.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle6.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle6.pdf" download>PDF</a></td>
           </tr>
           <tr>
             <td>
             <td>Template for mini proposals</td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_mini_template_cycle6.tex" download>Latex</a></td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_mini_template_cycle6.docx" download>Word</a></td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_mini_template_cycle6.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle7.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle7.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle7.pdf" download>PDF</a></td>
           </tr>
           <tr>
             <td>
             <td>Template for team expertise</td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_teamexpertise_template_cycle6.tex" download>Latex</a></td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_teamexpertise_template_cycle6.docx" download>Word</a></td>
-            <td><a href="https://heasarc.gsfc.nasa.gov/docs/proposal-templates/tessgi_teamexpertise_template_cycle6.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle7.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle7.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle7.pdf" download>PDF</a></td>
           </tr>
         </table>
       </div>

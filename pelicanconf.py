@@ -29,6 +29,10 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+#Value for the front page counter 
+from datetime import date
+SCIENCE_DAYS = (date.today() - date.fromisoformat('2018-07-18')).days
+
 PLUGINS = [
     # list of plugins I have enabled
     'autoloader',                                                                                                           
@@ -38,11 +42,11 @@ PLUGINS = [
     'photos',                                                                                                          
     'render_math',                                                                                                  
     'theme_config',
-    'search',
+    #'search',
     'md_include',
-
-
 ]
+
+
 
 # Blogroll
 LINKS = (
@@ -63,7 +67,7 @@ LINKS = (
 #)
 
 IGNORE_FILES = [
-    "README.md","make_static_plots.py", "make-approved-programs.py",
+    "README.md","make_static_plots.py", "make-approved-programs.py", "tpub.db"
 ]
 
 MD_INCLUDE_BASE_PATH = 'htmlcontent'
@@ -105,7 +109,7 @@ MENUITEMS = (
             ('Sector Information', 'sector.html'),
             #('TESS Data', 'data_pipeline.html'),
             ('Data Products', 'data_products.html'),
-            ('Follow-up Program', 'TFOP.html'),
+            ('Follow-up Program', 'tfop.html'),
             ('Users Committee', 'tuc.html'),
             ('Media Requests', 'mediarequest.html'),
             ('Data Release Notes', 'data_release_notes.html'),

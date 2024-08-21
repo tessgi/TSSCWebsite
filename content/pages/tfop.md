@@ -12,7 +12,7 @@ save_as: tfop.html
   - Precise Radial Velocities (SG4)
   - Space-Based Photometry (SG5)
 <p>TFOP observations are performed with committed time on the [Las Cumbres Observatory Network](https://lco.global) (for photometry and spectroscopy), the MEarth (photometry) and TRES (spectroscopy) facilities, and numerous other facilities through the usual telescope time allocation processes. </p>
-<p>There are currently dozens of working groups (each representing a team and facility from around the world) involved in TFOP and additional participation and follow-up programs are welcome. For more information and to apply to join TFOP, [check out the MIT website here](https://tess.mit.edu/followup/).
+<p>There are currently dozens of working groups (each representing a team and facility from around the world) involved in TFOP and additional participation and follow-up programs are welcome. For more information and to apply to join TFOP, <a href="https://tess.mit.edu/followup/">check out the MIT website here</a>.
 Observations acquired via the TFOP are uploaded to the ExoFOP Repository, described in further detail below.</p>
 
 
