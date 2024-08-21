@@ -17,26 +17,38 @@ from dateutil import rrule
 import matplotlib.pyplot as plt
 from collections import defaultdict
 from collections import Counter
+import urllib.request
+import os,sys
 
 
-def get_tpub(tpub_path="../htmlcontent/statistics/data/tpub.db"):
+def get_tpub(tpub_path="./tpub.db"):
     """
     Read in the latest database file from tpub (Note that this is static for now, but can be adjusted later when we decide how we want to get tpub data for the website.)
 
     Parameters
     ----------------
-    tpub_path (optional): File path to the tpub database
+    tpub_path: File path to the tpub database
 
     Returns
     ------------
     results: all entries in the tpub database that are from the TESS mission
     """
 
+    #Check to see if tpub.db exists here and if so remove
+    if os.path.exists(tpub_path):
+        os.remove(tpub_path)
+
+    #Get the tpub file
+    urllib.request.urlretrieve("https://github.com/tessgi/tpub/raw/master/data/tpub.db", filename=tpub_path)
+    
+
     query = sqlite3.connect(tpub_path).execute("SELECT * FROM pubs")
     cols = [column[0] for column in query.description]
     results = pd.DataFrame.from_records(data=query.fetchall(), columns=cols)
     results = results[results["mission"] == "tess"].reset_index(drop=True)
 
+    os.remove(tpub_path)
+    
     return results
 
 
