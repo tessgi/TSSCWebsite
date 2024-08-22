@@ -112,7 +112,7 @@ MENUITEMS = (
             ('Follow-up Program', 'tfop.html'),
             ('Users Committee', 'tuc.html'),
             ('Media Requests', 'mediarequest.html'),
-            ('Data Release Notes', 'data_release_notes.html'),
+            #('Data Release Notes', 'data_release_notes.html'),
             ('FAQ', 'faq.html'),
             #('Data Release Notes', 'drn.html'),
             #('Documentation Library', 'documentation.html'),
