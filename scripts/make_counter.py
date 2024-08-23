@@ -9,6 +9,7 @@ import urllib.request
 from datetime import date
 import requests
 from bs4 import BeautifulSoup
+import sqlite3
 
 def lines_that_contain(string, fp):
     return [line for line in fp if string in line]
@@ -33,18 +34,17 @@ delta_date = current_date - start_date
 
 
 #Get the number of publications
-
-
 pub_file = "./tpub.db"
 if os.path.exists(pub_file):
     os.remove(pub_file)
 #Get the tpub file
-urllib.request.urlretrieve("https://github.com/tessgi/tpub/raw/master/data/tpub.db", filename=tpub_path)
+urllib.request.urlretrieve("https://github.com/tessgi/tpub/raw/master/data/tpub.db", filename=pub_file)
 query = sqlite3.connect(pub_file).execute("SELECT * FROM pubs")
 cols = [column[0] for column in query.description]
 results = pd.DataFrame.from_records(data=query.fetchall(), columns=cols)
 results = results[results["mission"] == "tess"].reset_index(drop=True)
 pub_stat = len(results)
+
 
 #Now need to create the file
 #opens the template
@@ -56,7 +56,7 @@ with open(template_file, 'r') as file:
 
 #replace the target string
 filedata = filedata.replace("data-target=446", "data-target="+str(conf_planets))
-filedata = filedata.replace("data-target=2227", "data-target="+str(delta_date.days))
+#filedata = filedata.replace("data-target=2227", "data-target="+str(delta_date.days))
 filedata = filedata.replace("data-target=2106", "data-target="+str(pub_stat))
 
 if os.path.exists(file_out):
