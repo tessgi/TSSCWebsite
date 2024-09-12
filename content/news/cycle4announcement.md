@@ -2,7 +2,7 @@ Title: Cycle 4 Proposal Deadline January 22
 Date: 2020-10-25 11:00
 Author: Tom Barclay
 
-The Cycle 4 NASA Research Announcment has been release with details of the [upcoming proposal call](proposing-investigations.html). Proposals will be due at 4.30pm on January 22, 2021. Cycle 4 observations begin in June 2021 and end in September 2022, covering observing sectors 40-56. Observations in Cycle 4 will cover the Northern Ecliptic Hemisphere and the Ecliptic Plane.
+The Cycle 4 NASA Research Announcment has been release with details of the upcoming proposal call. Proposals will be due at 4.30pm on January 22, 2021. Cycle 4 observations begin in June 2021 and end in September 2022, covering observing sectors 40-56. Observations in Cycle 4 will cover the Northern Ecliptic Hemisphere and the Ecliptic Plane.
 
 The Cycle 4 solicitation can be found on [NSPIRES](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open). Cycle 4 is longer than a typical cycle and lasting approximately 15 months.
 

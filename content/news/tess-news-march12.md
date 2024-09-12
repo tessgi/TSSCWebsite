@@ -1,4 +1,4 @@
-Title: TESS Weekly Bulletin: Match 12th 
+Title: TESS Weekly Bulletin: March 12th 
 Date: 2021-03-12 10:00
 Author: Rebekah Hounsell
 

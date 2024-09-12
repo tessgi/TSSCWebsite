@@ -8,7 +8,7 @@ Hello TESS followers and welcome to the first news bulletin of the new year! Thi
 
 The Cycle 4 proposal deadline is on the 22nd of January, and remember this time we are following a dual anonymous process. For more information about the Cycle 4 call for proposals please view the [solicitation](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={4B9CAAB3-D398-183A-B1F3-EF963DF415C7}&path=open). We have also constructed several [templates](https://heasarc.gsfc.nasa.gov/docs/tess/proposal-templates.html) to help you with your proposals.
 
-Remember also that next week is the [237th AAS meeting](https://aas.org/meetings/aas237). TESS GI office members will be working in the exhibit booth "NASA Exoplanets: ExEP, NExScI, and TESS". If you are attending AAS feel free to stop by this booth and ask us any TESS related questions. Note that we also have a webinar on Monday January 11th, 12:30-1:00pm, see the advert below and our [webinar page](tess-at-aas.html), where you can download a copy of the tutorial we will be reviewing and get the dates of all of our AAS events. 
+Remember also that next week is the [237th AAS meeting](https://aas.org/meetings/aas237). TESS GI office members will be working in the exhibit booth "NASA Exoplanets: ExEP, NExScI, and TESS". If you are attending AAS feel free to stop by this booth and ask us any TESS related questions. Note that we also have a webinar on Monday January 11th, 12:30-1:00pm, see the advert below and our [webinar page](tess-at-aas237.html), where you can download a copy of the tutorial we will be reviewing and get the dates of all of our AAS events. 
 
 ![TESSWebinar-small](images/TESSWebinar-small.png)
 

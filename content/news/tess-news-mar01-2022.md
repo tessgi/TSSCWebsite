@@ -1,4 +1,4 @@
-Title: TESS Weekly Bulletin: March 1st  
+Title: TESS Weekly Bulletin: March 1st 2022
 Date: 2022-03-01 10:00
 Author: Rebekah Hounsell
 

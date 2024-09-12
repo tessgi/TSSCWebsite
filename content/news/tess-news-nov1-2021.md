@@ -40,11 +40,11 @@ The second planet, HD 73583 c, has an orbital period of 18.9 days, a mass of 9.6
 The planets are thought to have a solid core with a thick surrounding envelope. Due to the young age of the host star the system is prime candidate for follow up transmission spectroscopy and the search for mass-loss signatures. 
 
 
-![Prsa(images/news/Prsa.png)
+![Prsa(images/news/Prsa_2021.png)
 
 **Fig. 1:** *Taken from Prsa et. al., (2021). Map of TESS EBs observed in sectors 1–26 in the Galactic reference frame. Depicted in green are all vetted and validated EBs observed with the 2-min cadence. Depicted in cyan are the simulated EBs brighter than T = 12 (Wells & Prˇsa 2021). The dearth of systems in the region north of the ecliptic plane is due to the change in boresight in sectors 14-16 and 24-26, where the satellite was pointed at +85o instead of the nominal +54o to mitigate excessive contamination by stray Earthlight and Moonlight in cameras 1 and 2.*
 
-![Ward2](images/news/Ward2.png)
+![Ward2](images/news/Ward_2021.png)
 
 **Fig. 2:** *Taken from Ward et. al., (2021).  Even the morphologies of very large M-dwarf flares can be degenerate at 2 min cadence. While both flares appear similar when binned to 2 min cadence (green), 20 second cadence observations reveal the left flare actually emits at a near-constant level during peak while the right flare emits according to a classical impulsive profile. Since the high cadence behavior of flares is usually assumed to follow a classical emission profile in photo-chemical models of planetary atmospheres and other contexts (e.g. Howard et al. 2018; Tilley et al. 2019), alternate morphologies may change the rates of chemical reactions as compared to those modeled under classical flares.*
 

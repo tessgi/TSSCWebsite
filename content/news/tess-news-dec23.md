@@ -37,7 +37,7 @@ In the paper the authors predict a parallax of 1.52 mas, which concurs with the 
 
 **Fig 1.** *Taken from  Plachy et. al., (2020). Two min cadence TESS photometry	of β Dor from the SPOC pixel mask (red) and the authors  custom pixel mask (black). Lower panels show the differences in the maxima and minima of the custom light curves when folded with the pulsation period, for each sector. Colors indicate the progress of time (BJD−2458000) in days.*
 
-![Maryeva](images/news/Maryeva.png)
+![Maryeva](images/news/Maryeva_2020.png)
 
 **Fig 2.** *Taken from Maryeva et. al., (2020). Light curve of HD 36030 (B9V) with a clearly detected flare.*
 

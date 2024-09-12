@@ -17,7 +17,7 @@ We look forward to seeing you at the AAS!
 
 <p float="left">
 
-<img src="images/news/WorkShop2023.png" alt="WorkShop2023 flyer" width="45%"/>
+<img src="images/news/Workshop2023.png" alt="WorkShop2023 flyer" width="45%"/>
 
 <img src="images/news/SplinterSession2023.png" alt="SplinterSession2023 flyer" width="45%"/>
 

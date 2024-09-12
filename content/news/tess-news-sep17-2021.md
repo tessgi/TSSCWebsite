@@ -43,7 +43,7 @@ On fitting the TESS light curve the authors determined that the binary orbit has
 Both stars have been determined as chromospherically active, which means that the rotational periods could be obtained as P<sub>1</sub> = 1.52 days, P<sub>2</sub> = 1.79 days.
 
 
-![Molnár ](images/news/Molnár_2021.png)
+![Molnár](images/news/Molnar_2021.png)
 
 **Fig. 1:** *Taken from Molnár et., al., (2021).Comparison of the pulsation periods we derived from the TESS light curves and those calculated from the Gaia DR2 epoch photometry (grey) or present in VSX (red). Stars where two periods were identified only by either TESS or Gaia are connected with lines. The lower panel shows the difference values. Uncertainties are smaller than the symbols.*
 

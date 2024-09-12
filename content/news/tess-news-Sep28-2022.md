@@ -26,7 +26,7 @@ Delta Scuti stars are population I pulsators residing in the classical Cepheid i
 ![Zasche 2022](images/news/Zasche_2022_Fig2and3.png)
 **Fig. 1:** *Taken from Zasche \& Henzl (2022). Upper left panel: TESS lightcurve of TIC 452991707 and TIC 452991693 showing three sets of eclipses form binary A, B, and C. Lower left and right panels: Phase-folded lightcurves on the corresponding orbital periods.*
 
-![Thuillier 2022](images/news/Thuillier_2022_Fig1)
+![Thuillier 2022](images/news/Thuillier_2022_Fig1.png)
 **Fig. 2:** *Taken from Thuillier al. (2022). Results from their SHERLOCK pipeline. The upper panel shows the TESS lightcurve of TIC 142875987 observed in sectors 4. A clear secondary eclipse is seen in the data. The middle panel represents the phase-folded lightcurve zoomed-in on the primary eclipse. The lower panel represents the signal detection efficiency (SDE) as a function of the parched period.*
 
 ![Vaulato 2022](images/news/Vaulato_2022_Fig1.png)

@@ -1,7 +1,6 @@
 Title: Publications
 Save_as: publications.html
 
-[TOC]
 
 We request that scientific publications using data obtained from the TESS project include one of the following acknowledgments:
 
@@ -19,12 +18,12 @@ on astronomical research.
 
 You can access the full publication list:
 
- * [TESS publications >>](tpub.html)
+ * [TESS publications](tpub.html)
 
 Or seach by topic:
 
- * [Exoplanet publications >>](tpub-exoplanets.html)
- * [Astrophysics publications >>](tpub-astrophysics.html)
+ * [Exoplanet publications](tpub-exoplanets.html)
+ * [Astrophysics publications](tpub-astrophysics.html)
 
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.

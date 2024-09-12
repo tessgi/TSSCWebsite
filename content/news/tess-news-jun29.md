@@ -19,7 +19,7 @@ This paper uses TESS data to examine GD 394, a hot white dwarf which exhibits a 
 In Sectors 3 and 4 of TESS data a compact triple eclipsing star system was discovered by the authors. TIC 209409435 is a previously unknown eclipsing binary with a period of 5.717 days and a third star found in an eccentric orbit with a period of 121.872 days. This third star exhibits signatures of strong 3rd-body perturbations. After much analysis and study, the authors find that the inner binary consists of near twin stars of mass 0.9 M&#8857;, and radius 0.88 R&#8857;. The third star is 9% more massive and has and 18% larger radius. The eccentricity of the  inner binary is small while the outer orbit has e=0.40. The inner binary and outer orbit have inclination angles within 0.1&#176; and 0.2&#176; of 90&#176;, respectively. 
 
 
-![AUMic](images/news/AUMic.pdf)
+![AUMic](images/news/AUMic.png)
 
 **Fig 1:** *Image credit NASA-JPL/Caltech. Located less than 32 light-years from Earth, AU Microscopii is among the youngest planetary systems ever observed by astronomers, and its star throws vicious temper tantrums! You’ve heard of the “terrible twos”? Well, AU Mic is in the midst of its terrible 22 … millions! This devilish young system holds planet AU Mic b captive inside a looming disk of ghostly dust and ceaselessly torments it with deadly blasts of X-rays and other radiation, thwarting any chance of life… as we know it! Beware! There is no escaping the stellar fury of this system. The monstrous flares of AU Mic will have you begging for eternal darkness.*
 

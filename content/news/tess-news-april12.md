@@ -44,6 +44,6 @@ The authors then used hierarchical Bayesian modeling to find the preliminary ecc
 
 **Fig. 2:** *Taken from Bognár et. al., (2021). Fourier transform of the LP 119-10 TESS light curve. The authors marked the frequencies listed in Table 7 of the paper, with blue lines. The black line denotes the 4 S/N significance level*
 
-![Dong](images/news/Dong.png)
+![Dong](images/news/Dong_2021.png)
 
 **Fig. 3:** *Taken from Dong et. al., (2021). Warm Jupiter candidates discovered in Year 1 TESS Full-Frame Images around main-sequence host stars brighter than TESS-band magnitude of 12. The candidates are plotted in ecliptic coordinates (λ, β), where λ is the ecliptic longitude and β is the ecliptic latitude. The 55 candidates with well-constrained parameters, along with 11 candidates with well-fitted light curves but undetermined orbital periods and/or missing stellar parameters, are colored in their V-band magnitudes. The 19 possible candidates with unconstrained impact parameters and radii are colored in grey. Most of the targets are bright enough for ground-based follow-up observations.*

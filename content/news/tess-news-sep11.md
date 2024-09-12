@@ -20,11 +20,11 @@ A compact triply eclipsing triple star system has been discovered in TESS’s so
 In this paper the authors present a study of ASASSN-14ko. This object was originally classified as a supernova close to its hosts nucleus by the All-Sky Automated Survey for Supernovae. Further observation of the event has however revealed its true nature, as a nuclear flare occurring at regular intervals. There have been 17 further outburst, with the most recent in May 2020. Using these multiple events there is now evidence of a decreasing period over time, with a mean of P<sub>0</sub> = 114.2 days. TESS observed an outburst in sectors 4-6, revealing a rise time of 5.6 days in the optical and a decline that best fits an exponential model. Data combined from multiple facilities suggest that this is a repeated partial tidal disruption event. Further discussion of the possible scenarios for ASASSN-14ko are presented in this paper.
 
 
-![Demory](images/news/Demory.png)
+![Demory](images/news/Demory_2020.png)
 
 **Fig 1:** *Taken from Demory et. al., (2020). The TESS target pixel files for the four sectors that observed TOI-1266. The standard SPOC apertures which were used to extract photometry are shown by the red encompassed pixels. The Gaia DR2 catalog is over plotted, showing sources up to 8th magnitude in contrast with TOI-1266 as red circles. The size of the red circle is representative of the difference in magnitude.*
 
-![Payne](images/news/Payne.png)
+![Payne](images/news/Payne_2020.png)
 
 **Fig 2:** *Taken from Payne et. al., (2020). This figure presents the declining phase models of the TESS ASASSN-14ko light curve starting 5 days past peak. The best-fit power-law decline is shown in red and the best-fit exponential decline is shown in blue. The TESS data  is binned in 8 hour intervals and are shown by the turquoise squares. The bottom panel shows the residuals of the fits color-coded by model. Magenta and cyan squares show the residuals of the power-law decline and exponential decline compared to the binned TESS data, respectively.*
 
