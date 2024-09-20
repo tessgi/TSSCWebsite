@@ -1,0 +1,63 @@
+# TESS Program G03240
+
+Title: Short Period Cataclysmic Variables
+
+PI: Wood, Matt - Texas A&M University-Commerce
+
+Type: SMALL
+
+Summary: Cataclysmic variables provide the cleanest available natural laboratories to investigate the physics of accretion. The timing capabilities and sensitivity of TESS are well matched to the timescales and amplitudes of accretion variability in these sources. The combination provides an opportunity to test and refine the paradigms of stellar accretion with high-precision, uniform data containing no diurnal gaps. We propose a continuation of our multifaceted observational and modeling program that has the potential to measure the spatial structure of model dependent disk parameters. Like the Kepler/K2 mission, the analysis of TESS observations of CVs will significantly impact our understanding of accretion dynamics and the nature of astrophysical viscosity.
+
+
+# Sector 027 targets observed (2 min: 2, 20 s: 1)
+650005800,58.8251,-82.4363,18.56,G03240
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 2, 20 s: 0)
+650005800,58.8251,-82.4363,18.56,G03240
+369705840,32.4622,-63.311,14.28,G03240;G03071;G03044
+
+# Sector 029 targets observed (2 min: 3, 20 s: 3)
+183676876,358.2542,-38.8633,16.19,G03207;G03240;G03124;G03071;G03044;20SECONDTARGET
+369705840,32.4622,-63.311,14.28,G03240;G03071;G03044;20SECONDTARGET
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 030 targets observed (2 min: 2, 20 s: 2)
+650854785,43.8886,-47.8452,16.12,G03240;G03180;G03071;20SECONDTARGET
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 031 targets observed (2 min: 1, 20 s: 1)
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 032 targets observed (2 min: 2, 20 s: 2)
+24450633,82.3564,-32.8176,13.72,G03221;G03240;G03245;G03071;20SECONDTARGET
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 033 targets observed (2 min: 2, 20 s: 2)
+24450633,82.3564,-32.8176,13.72,G03221;G03240;G03245;G03071;20SECONDTARGET
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 034 targets observed (2 min: 1, 20 s: 1)
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 035 targets observed (2 min: 1, 20 s: 1)
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 036 targets observed (2 min: 1, 20 s: 1)
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 037 targets observed (2 min: 5, 20 s: 5)
+9560142,193.1001,-29.2487,13.04,G03240;G03245;G03124;G03071;G03274;20SECONDTARGET
+999085360,194.4636,-28.5043,17.76,G03240;20SECONDTARGET
+30988774,200.9356,-41.7415,14.23,G03180;G03240;G03071;20SECONDTARGET
+372519345,151.5913,-70.2346,15.4,G03240;G03124;G03071;20SECONDTARGET
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET
+
+# Sector 038 targets observed (2 min: 2, 20 s: 2)
+225798235,229.9801,-25.0067,16.42,G03207;G03240;G03124;G03071;G03044;20SECONDTARGET
+372519345,151.5913,-70.2346,15.4,G03240;G03124;G03071;20SECONDTARGET
+
+# Sector 039 targets observed (2 min: 3, 20 s: 3)
+1272367354,258.6777,-29.7293,17.1,G03240;20SECONDTARGET
+650005800,58.8251,-82.4363,18.56,G03240;20SECONDTARGET
+25133286,62.2984,-71.2948,13.58,G03284;G03240;G03124;G03071;G03044;20SECONDTARGET

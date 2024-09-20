@@ -1,0 +1,42 @@
+# TESS Program G022200
+
+Title: Are K Type Planet Hosts Good Parents For Potentially Habitable Exoplanets?
+
+PI: Airapetian, Vladimir - NASA/GSFC & Adnet
+
+Type: SMALL
+
+Summary: Recent data from Kepler mission revolutionized the exoplanetary science not only by providing exoplanet demography, but with discovery of starspots and superflares on diverse planet hosting stars. This opens up a new question on how these transient sources of ionizing radiation affect exoplanetary environments in the form of atmospheric erosion and atmospheric chemistry. Here we propose to extend our current project to observe and characterize young solar analogs to space weather environments of K type stars of various ages. This will be done with TESS 2-min cadence observations of a carefully selected sample of Late G to late K dwarfs and to focus on a single question with fundamental importance to search for life: What is the level of stellar activity in young and mature K stars and ho.
+
+
+# Sector 014 targets observed (1)
+28230919,297.7104,48.0821,8.51,G022062;G022200;G022053
+
+# Sector 015 targets observed (1)
+28230919,297.7104,48.0821,8.51,G022062;G022200;G022053
+
+# Sector 017 targets observed (1)
+434210589,9.8381,21.2484,5.12,G022092;G022200;G022187;G022103;G022053;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 018 targets observed (1)
+468723402,20.4955,76.7101,6.39,G022200;G022080;G022053
+
+# Sector 019 targets observed (1)
+468723402,20.4955,76.7101,6.39,G022200;G022080;G022053
+
+# Sector 021 targets observed (1)
+332064670,133.1461,28.3295,5.21,G022241;G022092;G022200;G022053;G022133;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+
+# Sector 022 targets observed (1)
+82308728,168.6375,25.7107,6.99,G022200;G022080;G022053
+
+# Sector 024 targets observed (1)
+198562505,255.6527,47.0867,6.09,G022200;G022052;G022080;G022053;G022062
+
+# Sector 025 targets observed (2)
+257715493,259.4182,29.2285,7.49,G022200;G022080;G022053
+198562505,255.6527,47.0867,6.09,G022200;G022052;G022080;G022053;G022062
+
+# Sector 026 targets observed (2)
+198562505,255.6527,47.0867,6.09,G022200;G022052;G022080;G022053;G022062
+257715493,259.4182,29.2285,7.49,G022200;G022080;G022053

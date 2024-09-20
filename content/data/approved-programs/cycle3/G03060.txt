@@ -1,0 +1,81 @@
+# TESS Program G03060
+
+Title: Why Do Some Am Stars Pulsate? Characterizing Variability For Am Stars Having Detailed Spectroscopic Abundances
+
+PI: Guzik, Joyce - New Mexico Consortium & Los Alamos National Laboratory
+
+Type: SMALL
+
+Summary: Metallic-line A (Am) stars show abundance anomalies produced by diffusive settling and radiative levitation which should reduce the He abundance in the pulsation driving region and inhibit pulsations. Nevertheless, many Am stars show gamma Dor, delta Sct, and higher frequency roAp-star like modes, and some also show magnetic activity. Neither the pulsation driving mechanisms, nor the origin of the magnetic fields or abundance anomalies are well understood. This proposal is a follow-on to our TESS Cycle 2 proposal, for which 2-min cadence data is being taken on Am stars having detailed spectroscopic abundance determinations. For Cycle 3, we propose to extend observations to 49 additional chemically-peculiar stars to provide a definitive set of constraints to address these problems.
+
+
+# Sector 027 targets observed (2 min: 2, 20 s: 0)
+1992751647,309.1312,-26.5414,9.55,G03255;G03060
+1992945158,311.8337,-26.4152,7.25,G03255;G03060
+
+# Sector 028 targets observed (2 min: 7, 20 s: 0)
+137837596,335.5904,-18.2772,9.85,G03060
+206464379,331.0413,-21.7799,7.64,G03060
+69750857,336.8,-19.4433,8.36,G03251;G03060
+1992873233,318.6896,-25.9113,8.31,G03060
+29671013,315.4388,-26.8811,6.02,G03060
+300272058,321.0626,-25.5613,7.82,G03060
+302334615,320.5273,-24.2259,9.16,G03060
+
+# Sector 029 targets observed (2 min: 2, 20 s: 0)
+176299362,1.8468,-11.613,8.04,G03255;G03251;G03060
+146165482,342.1489,-17.2563,8.13,G03255;G03060
+
+# Sector 030 targets observed (2 min: 3, 20 s: 0)
+248946257,20.4519,-1.9971,8.17,G03251;G03060
+212982053,9.7901,-3.9927,8.69,G03060
+333557388,11.9115,-4.4976,9.03,G03060
+
+# Sector 031 targets observed (2 min: 2, 20 s: 0)
+365425158,48.2266,11.1323,7.66,G03252;G03060
+416713269,53.1499,9.3732,5.84,G03060
+
+# Sector 032 targets observed (2 min: 5, 20 s: 0)
+436723855,73.959,15.0402,5.87,G03060
+245794190,67.2096,13.0475,4.86,G03255;G03156;G03252;G03060;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+245819988,67.6627,15.6917,5.27,G03255;G03060
+245911904,69.7887,15.7995,5.0,G03252;G03060
+245936817,70.0142,12.1975,5.56,G03060
+
+# Sector 033 targets observed (2 min: 2, 20 s: 0)
+155463738,103.6614,13.1774,4.41,G03156;G03251;G03060;G_NONSTANDARDMASK;G_NOPHOTOMETRY;G_SPECIAL_APERTURE_25_25
+437984134,94.5453,15.952,8.16,G03060
+
+# Sector 034 targets observed (2 min: 2, 20 s: 0)
+286055622,137.9812,5.4686,6.02,G03251;G03060
+334411408,122.8191,9.8211,6.17,G03060
+
+# Sector 035 targets observed (2 min: 2, 20 s: 0)
+277799104,155.8641,2.2539,8.39,G03060
+344859175,150.7216,1.4858,8.34,G03252;G03060
+
+# Sector 036 targets observed (2 min: 3, 20 s: 1)
+152803777,181.0013,-10.2961,6.3,G03060
+152828580,181.8412,-10.7395,7.89,G03251;G03060
+38116680,170.1334,-2.8982,8.87,G03278;G03060;20SECONDTARGET
+
+# Sector 037 targets observed (2 min: 4, 20 s: 0)
+203359870,204.5399,-19.1888,8.28,G03251;G03060
+220100344,209.3592,-22.3148,9.34,G03251;G03060
+220103475,209.311,-18.447,9.47,G03060
+32181648,203.6008,-20.4584,8.76,G03060
+
+# Sector 038 targets observed (2 min: 7, 20 s: 0)
+186695235,233.8356,-29.0507,7.43,G03251;G03060
+23441813,236.5531,-28.0616,6.06,G03251;G03252;G03060
+23757609,237.559,-29.4227,9.32,G03060
+442720907,238.2567,-30.2513,9.16,G03060
+322925297,218.6075,-25.2784,9.1,G03060
+48324,220.3538,-25.8384,9.35,G03060
+70022193,219.1079,-22.7343,9.36,G03251;G03060
+
+# Sector 039 targets observed (2 min: 4, 20 s: 0)
+191625825,252.8351,-30.081,8.0,G03060
+204723714,247.6748,-29.4832,7.48,G03251;G03060
+97329765,251.7204,-31.4531,7.54,G03060
+98316704,252.2964,-30.7809,8.3,G03060

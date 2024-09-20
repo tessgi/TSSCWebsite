@@ -1,0 +1,80 @@
+# TESS Program G03204
+
+Title: Investigating Temporal Variations In The Bright Rrc Stars
+
+PI: Wilhelm, Ronald - University Of Kentucky
+
+Type: SMALL
+
+Summary: Our Cycle 3 TESS GI proposal is to observe and analyze a sample of 31 bright, non-Blazhko, first-overtone (RRc), RR Lyrae variables with the 2-minute cadence program. Our goal is to investigate temporal variability in the primary radial pulsation mode, fo, and the well known non-radial pulsation mode, fx, found in most RRc stars (fo/fx ~ 0.61). For stars with the fx mode, we will also explore variability in any identifiable half-integer, sub-harmonic frequencies. Our ultimate goal is to compare the short-term and long-term variability in order to constrain the period-shifting effect seen in many RRc stars. We will also use the subset of our sample which has published kinematic observations to help constrain the physical properties that produce this non-radial mode.
+
+
+# Sector 027 targets observed (2 min: 4, 20 s: 0)
+101433435,301.1311,-53.872,10.85,G03204;G03169
+292826577,275.0021,-83.8346,11.28,G03204
+238870487,38.3282,-73.612,11.81,G03204;G03169
+30531417,74.8072,-69.5951,11.12,G03204;G03252;G03169
+
+# Sector 028 targets observed (2 min: 7, 20 s: 0)
+214912448,341.8947,-39.0593,10.3,G03204;G03169
+206460831,330.725,-21.5257,10.64,G03204;G03169
+209394970,325.5259,-25.4748,11.33,G03204;G03169
+201252114,1.0265,-59.4853,10.95,G03204;G03169
+52205451,19.6281,-67.9182,11.36,G03204;G03169
+238870487,38.3282,-73.612,11.81,G03204;G03169
+30531417,74.8072,-69.5951,11.12,G03204;G03252;G03169
+
+# Sector 029 targets observed (2 min: 2, 20 s: 0)
+238870487,38.3282,-73.612,11.81,G03204;G03169
+30531417,74.8072,-69.5951,11.12,G03204;G03252;G03169
+
+# Sector 030 targets observed (2 min: 3, 20 s: 0)
+32398153,26.2486,-30.0595,11.16,G03204;G03169
+142240683,39.2747,-42.9633,8.78,G03204;G03169
+30531417,74.8072,-69.5951,11.12,G03204;G03252;G03169
+
+# Sector 031 targets observed (2 min: 1, 20 s: 0)
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 032 targets observed (2 min: 1, 20 s: 0)
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 033 targets observed (2 min: 3, 20 s: 0)
+176762992,88.1608,-5.8597,11.51,G03204
+33740419,93.2328,-14.6686,11.53,G03204;G03169
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 034 targets observed (2 min: 4, 20 s: 0)
+93593996,114.4299,-7.7272,6.84,G03204
+153436251,120.8262,-25.502,10.83,G03204;G03169
+156465251,124.8869,-23.9696,10.34,G03204;G03169
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 035 targets observed (2 min: 5, 20 s: 0)
+280799052,137.2503,-4.1735,10.67,G03204;G03169
+96051791,146.4197,-6.7335,10.49,G03204
+26261539,153.3824,-7.0382,10.65,G03204
+275254541,148.3682,2.0572,9.76,G03204;G03169
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 036 targets observed (2 min: 3, 20 s: 0)
+168382153,166.3414,-26.6847,11.64,G03169;G03204
+53696303,158.0108,-30.1772,11.59,G03204;G03169
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 037 targets observed (2 min: 4, 20 s: 0)
+20541663,200.6053,-20.706,10.43,G03204
+181823258,189.5434,-15.0,11.36,G03204;G03169
+300892362,177.814,-55.8046,10.21,G03204;G03255;G03252
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
+
+# Sector 038 targets observed (2 min: 1, 20 s: 0)
+394896142,203.1051,-74.6098,7.8,G03204;G03251
+
+# Sector 039 targets observed (2 min: 6, 20 s: 0)
+103024917,263.7742,-34.3959,10.76,G03204
+76392012,269.6871,-55.2734,11.76,G03204
+447236438,250.7814,-61.0951,11.63,G03204
+292826577,275.0021,-83.8346,11.28,G03204
+394896142,203.1051,-74.6098,7.8,G03204;G03251
+30531417,74.8072,-69.595,11.12,G03204;G03252;G03169
