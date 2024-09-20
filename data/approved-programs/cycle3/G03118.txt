@@ -1,0 +1,62 @@
+# TESS Program G03118
+
+Title: Unveiling Blazar Variability On The Shortest Observable Time Scales. Ii
+
+PI: Raiteri, Claudia - Istituto Nazionale Di Astrofisica (Inaf)
+
+Type: SMALL
+
+Summary: Blazars are active galactic nuclei exhibiting extreme variability on different time scales, down to minutes. Their emission is dominated by non-thermal radiation from a relativistic jet pointing toward us, with consequent Doppler beaming. We propose 2 min cadence observations of a small sample of optically and gamma-ray bright blazars to investigate their variability on the shortest accessible time scales. We will analyse TESS light curves with time series methods to infer the most plausible scenarios for blazar variability in general, and microvariability in particular. Multiband photometric and polarimetric supporting observations by the WEBT Collaboration and other ground-based facilities, and space high-energy observations by Fermi and Swift will maximize the scientific return.
+
+
+# Sector 027 targets observed (2 min: 2, 20 s: 0)
+101620268,302.3558,-48.8316,14.28,G03026;G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 028 targets observed (2 min: 3, 20 s: 0)
+147285145,324.8507,-42.589,14.99,G03118
+229013191,329.7169,-30.2256,13.54,G03012;G03026;G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 029 targets observed (2 min: 2, 20 s: 0)
+220015266,32.3401,-52.4897,16.03,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 030 targets observed (2 min: 3, 20 s: 0)
+11570320,20.1319,-27.0235,15.48,G03118
+220015266,32.3401,-52.4897,16.03,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 031 targets observed (2 min: 2, 20 s: 0)
+88416580,45.8604,-24.1198,15.47,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 032 targets observed (2 min: 4, 20 s: 0)
+448808952,66.1952,0.6018,15.18,G03118
+455069576,77.3582,5.6931,14.76,G03012;G03118
+220619090,84.7098,-44.0858,16.88,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 033 targets observed (2 min: 2, 20 s: 0)
+220619090,84.7098,-44.0858,16.88,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 034 targets observed (2 min: 1, 20 s: 0)
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 035 targets observed (2 min: 1, 20 s: 0)
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 036 targets observed (2 min: 1, 20 s: 0)
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 037 targets observed (2 min: 2, 20 s: 0)
+258589521,196.9083,-42.9942,14.92,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 038 targets observed (2 min: 2, 20 s: 0)
+159713832,220.9883,-39.1445,14.95,G03118
+177181728,105.1302,-66.1792,14.86,G03118
+
+# Sector 039 targets observed (2 min: 1, 20 s: 0)
+177181728,105.1302,-66.1792,14.86,G03118

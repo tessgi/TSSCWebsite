@@ -1,0 +1,25 @@
+# TESS Program G03263
+
+Title: Mass Measurements Of TESS Transiting Candidate Companions
+
+PI: Plavchan, Peter - George Mason University
+
+Type: LARGE
+
+Summary: We propose to use the NASA Infrared Telescope Facility (IRTF) iSHELL spectrometer to confirm and with the radial velocity (RV) method measure the masses of planets discovered by NASA TESS mission orbiting bright K and M dwarf host stars. We also propose to make (mostly) 2 min cadence observations of confirmed and candidate planets identified in Cycle 1 that we are observing with iSHELL in order to confirm the candidates and to constrain bulk densities to inform the exoplanet mass-radius relation. For AU Mic and its planetary system, we propose a 20 second shared risk cadence to better time-resolve the frequent flares present.
+
+
+# Sector 027 targets observed (2 min: 1, 20 s: 1)
+441420236,311.2916,-31.343,6.75,G03263;G03273;G03141;G03063;G03205;G03272;G03227;G03228;G03226;G03202;20SECONDTARGET
+
+# Sector 031 targets observed (2 min: 1, 20 s: 0)
+4646810,38.271,-10.3523,8.87,G03263;G03278;G03272
+
+# Sector 033 targets observed (2 min: 1, 20 s: 0)
+34077285,94.1645,-13.9873,9.26,G03263;G03278
+
+# Sector 034 targets observed (2 min: 1, 20 s: 0)
+101011575,129.6882,-13.2565,8.59,G03263;G03278;G03227
+
+# Sector 035 targets observed (2 min: 1, 20 s: 0)
+296739893,142.1735,-12.1678,10.21,G03263;G03278

@@ -1,0 +1,52 @@
+# TESS Program G03180
+
+Title: Studying The Outbursting Behavior Of Am CVns With TESS
+
+PI: Rivera Sandoval, Liliana - Texas Tech University
+
+Type: SMALL
+
+Summary: AM CVns are binaries with 5<P_orb<66 mins in which a white dwarf accretes He-rich material from another WD. Only few systems are known so far and their outbursts not well understood. Recent studies that include more data and exclude upper limits have shown that the relation P_orb and superoutburst duration is much flatter than believed. Likely the relations between P_{orb} and recurrence time, and amplitude are strongly affected as well. This has implications for accretion models in AM CVns. For TESS Cycle 3 we request the monitoring of 5 systems at 2 mins cadence and 7 targets at 30 mins cadence to: 1) determine P_orb for 3 systems during outburst, 2) study the characteristics of the outbursts and test existing relations, 3) compare the outbursts of AM CVns and H-rich CVs.
+
+
+# Sector 027 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 028 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 029 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 030 targets observed (2 min: 2, 20 s: 1)
+650854785,43.8886,-47.8452,16.12,G03240;G03180;G03071;20SECONDTARGET
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 031 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 032 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 033 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 034 targets observed (2 min: 2, 20 s: 0)
+803566183,131.0569,-1.4689,20.26,G03180
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 035 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 036 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 037 targets observed (2 min: 2, 20 s: 1)
+30988774,200.9356,-41.7415,14.23,G03180;G03240;G03071;20SECONDTARGET
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 038 targets observed (2 min: 1, 20 s: 0)
+735229757,96.8354,-75.226,20.36,G03180
+
+# Sector 039 targets observed (2 min: 1, 20 s: 0)
+1425982692,267.7819,-29.6771,17.14,G03180

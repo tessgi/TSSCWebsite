@@ -1,0 +1,35 @@
+# TESS Program G03234
+
+Title: Searching Long Period Subdwarf B Binary Systems Using The Light Time Delay Method
+
+PI: Otani, Tomomi - Embry-Riddle Aeronautical University
+
+Type: SMALL
+
+Summary: We propose to observe pulsating subdwarf B (sdB) stars to determine orbital solutions for possible wide binary and/or substellar companions using the light-time delay in pulsation times, which is called the pulsation timing method. TESS is an ideal instrument to measure pulsation timings of pulsating sdB stars. Plausible sdB formation channels are common-envelope (CE) ejection, stable Roche-lobe overflow (RLOF), and binary white-dwarf merger. Among these, the CE channel results in short period binary systems (P < 10 days) and the RLOF channel results in long period binary systems (P > 500 days). About 150 short-period sdB systems were studied so far. However, not many long-period sdB systems were studied and more samples are needed to constrain the RLOF channel.
+
+
+# Sector 027 targets observed (2 min: 1, 20 s: 1)
+139723188,322.8862,-49.9525,15.45,G03234;G03221;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 2, 20 s: 2)
+139723188,322.8862,-49.9525,15.45,G03234;G03221;20SECONDTARGET
+220573709,47.46,-64.1757,14.95,G03234;G03221;20SECONDTARGET
+
+# Sector 030 targets observed (2 min: 2, 20 s: 2)
+248949857,20.9302,-5.0961,11.96,G03234;G03221;20SECONDTARGET
+220573709,47.46,-64.1757,14.95,G03234;G03221;20SECONDTARGET
+
+# Sector 032 targets observed (2 min: 1, 20 s: 1)
+167746025,80.8561,-39.1983,15.61,G03234;G03221;20SECONDTARGET
+
+# Sector 033 targets observed (2 min: 1, 20 s: 1)
+167746025,80.8561,-39.1983,15.61,G03234;G03221;20SECONDTARGET
+
+# Sector 035 targets observed (2 min: 1, 20 s: 1)
+47377536,162.5117,-0.0105,13.7,G03234;G03221;20SECONDTARGET
+
+# Sector 036 targets observed (2 min: 3, 20 s: 3)
+391825813,160.2204,-13.2928,15.98,G03234;G03221;20SECONDTARGET
+452718256,172.5111,-25.3468,14.19,G03234;G03221;20SECONDTARGET
+180205000,179.2643,-15.2696,15.91,G03234;G03221;20SECONDTARGET

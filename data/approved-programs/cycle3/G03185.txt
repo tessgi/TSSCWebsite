@@ -1,0 +1,37 @@
+# TESS Program G03185
+
+Title: Ngts M-Dwarfs Of Interest
+
+PI: Bayliss, Daniel - University Of Warwick
+
+Type: SMALL
+
+Summary: We propose to use TESS 2-min cadence data to investigate M-dwarfs of interest from the Next Generation Transit Survey (NGTS) that show short duration transits/eclipses. These include confirmed planets transiting M-dwarfs, m-dwarf/white dwarf systems, and MM eclipsing binaries. All targets show short timescale events that necessitate 2-minute cadence rather than the 10-minute cadence from the FFIs.
+
+
+# Sector 028 targets observed (2 min: 1, 20 s: 0)
+197570458,325.9944,-38.0177,13.08,G03185;G03052
+
+# Sector 029 targets observed (2 min: 1, 20 s: 0)
+2055733261,352.5216,-38.9699,13.89,G03185
+
+# Sector 031 targets observed (2 min: 1, 20 s: 0)
+77437461,73.1361,-36.5351,11.3,G03185;G03102
+
+# Sector 032 targets observed (2 min: 3, 20 s: 1)
+31054255,80.5758,-25.1196,13.83,G03185;G03052
+192826603,82.7142,-36.631,13.91,G03278;G03185;G03181;G03106;G03052;20SECONDTARGET
+77437461,73.1361,-36.5351,11.3,G03185;G03102
+
+# Sector 033 targets observed (2 min: 1, 20 s: 1)
+192826603,82.7142,-36.631,13.91,G03278;G03185;G03181;G03106;G03052;20SECONDTARGET
+
+# Sector 034 targets observed (2 min: 1, 20 s: 0)
+7216162,113.7527,-6.4773,18.59,G03185
+
+# Sector 035 targets observed (2 min: 1, 20 s: 0)
+176772671,142.5667,-18.8431,13.9,G03185
+
+# Sector 038 targets observed (2 min: 2, 20 s: 0)
+270348090,215.4821,-30.8428,14.21,G03185
+7439481,212.9286,-29.9739,14.06,G03185

@@ -1,0 +1,64 @@
+# TESS Program G03229
+
+Title: Photometric Follow-Up Of The Southern Post-Common Envelope Binaries
+
+PI: Merc, Jaroslav - Charles University In Prague
+
+Type: SMALL
+
+Summary: Eclipsing post-common envelope binaries (HW Vir systems) are highly important for resolving the poorly understood, very short-lived common envelope phase of stellar evolution. We apply for the time-resolved photometry of 18 known or newly discovered southern HW Vir systems in order to obtain light curves covering their complete orbit. A combination of the length of observations and 2-minute cadence mode of the TESS will allow to well sample the eclipses in these systems with a short duration. Obtained data will allow us to obtain the orbital parameters with the precision not achievable by the ground-based observations and will be used in the modeling of the unique reflection effect observed in these systems.
+
+
+# Sector 027 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 028 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 029 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 030 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 031 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 032 targets observed (2 min: 4, 20 s: 2)
+11197405,84.4719,-0.824,15.38,G03221;G03229
+311271081,80.5805,10.6719,14.43,G03221;G03229
+408187719,79.529,-23.1459,16.2,G03221;G03229;20SECONDTARGET
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 033 targets observed (2 min: 5, 20 s: 1)
+42566802,96.6239,-2.8463,16.11,G03229
+264749962,109.7403,7.6537,15.63,G03221;G03229
+60523137,96.5527,-21.1252,16.11,G03229
+317804295,89.3715,-14.1663,15.78,G03221;G03229
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 034 targets observed (2 min: 4, 20 s: 1)
+455206965,125.2231,0.1454,15.35,G03221;G03229;20SECONDTARGET
+51431668,129.0543,-8.0399,15.59,G03221;G03229
+800381314,126.3249,11.5184,14.56,G03229
+139785230,112.2727,-18.6176,15.92,G03221;G03229
+
+# Sector 035 targets observed (2 min: 2, 20 s: 1)
+54959205,159.8603,-7.1066,12.42,G03229
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 036 targets observed (2 min: 4, 20 s: 3)
+219249003,171.493,-20.1447,13.47,G03229
+73764693,155.841,-37.6168,11.78,G03221;G03229;20SECONDTARGET
+193092806,156.7353,-27.3826,14.7,G03221;G03229;20SECONDTARGET
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 037 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 038 targets observed (2 min: 2, 20 s: 1)
+440890339,225.0246,-28.6598,16.31,G03229
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET
+
+# Sector 039 targets observed (2 min: 1, 20 s: 1)
+425064757,82.918,-69.8836,11.36,G03221;G03229;20SECONDTARGET

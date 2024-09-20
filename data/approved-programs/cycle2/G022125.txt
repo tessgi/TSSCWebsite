@@ -1,0 +1,56 @@
+# TESS Program G022125
+
+Title: Characterizing The High-Energy Environments Of Exoplanets Orbiting Low-Mass Stars With TESS And Sparcs
+
+PI: Llama, Joe - Lowell Observatory
+
+Type: SMALL
+
+Summary: The atmospheres of planets evolve under the influence of their parent star. For planets orbiting within the habitable zone of low-mass stars, these effects can be magnified due to their proximity to the host star. We propose TESS two-minute light curves of the targets that will be observed by the NASA-funded Star-Planet Research CubeSat (SPARCS) to resolve the short-lived flares (typical lifetimes of a few hours), quantify the optical stellar rotational variability, and determine the flare-frequency distribution. There are 7 SPARCS target stars that will be observed by TESS in Cycle 2. The TESS and SPARCS data will provide multi-wavelength flare frequency distributions, rotational modulation, and total flare energies that will enable new scaling laws between the optical and UV.
+
+
+# Sector 014 targets observed (1)
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 015 targets observed (2)
+365670764,313.3325,62.1502,6.74,G022125;G022198;G022080
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 016 targets observed (2)
+365670764,313.3325,62.1502,6.74,G022125;G022198;G022080
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 017 targets observed (3)
+435160829,346.5224,63.9259,9.06,G022125;G022252;G022113;G022056;G022198
+365670764,313.3325,62.1501,6.74,G022125;G022198;G022080
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 018 targets observed (2)
+435160829,346.5224,63.9259,9.06,G022125;G022252;G022113;G022056;G022198
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 019 targets observed (1)
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 020 targets observed (1)
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 021 targets observed (3)
+251078595,138.5807,52.6834,5.94,G022125;G022187;G022238
+251078597,138.5884,52.6827,6.05,G022125;G022187;G022080;G022056
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 022 targets observed (2)
+97488127,165.6606,21.9668,7.81,G022125;G022038;G022080;G022198
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 023 targets observed (1)
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+
+# Sector 024 targets observed (3)
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
+365670764,313.3325,62.15,6.74,G022125;G022198;G022080
+435160829,346.5224,63.9259,9.06,G022125;G022252;G022056;G022113;G022198
+
+# Sector 026 targets observed (1)
+219790151,264.665,61.238,8.9,G022125;G022103;G022109;G022148
