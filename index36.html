@@ -85,20 +85,20 @@ in 2024, using pelican-bootstrap and flatly.
 <body>
     <!-- Print a warning message that this is not the official site -->
 
-    <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark" style="margin-bottom:0">
         <div class="container-fluid">
-            <a class="navbar-brand" href="./">
+            <a class="navbar-brand d-flex align-items-center" href="./">
 <img src="./images/logos/NASA_logo_vector_lg.png" height="32" alt=""
-                class="d-inline-block align-center"> TESS            </a>
+                class="d-inline-block "> TESS            </a>
 
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav me-auto">
+            <div class="collapse navbar-collapse" id="navbarSupportedContent" data-bs-theme="dark">
+                <ul class="navbar-nav me-auto" >
                     <li class="nav-item dropdown" data-bs-theme="light">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-bs-toggle="dropdown" aria-expanded="false">
@@ -197,26 +197,71 @@ in 2024, using pelican-bootstrap and flatly.
                             Helpdesk</span></a>
                     </li>
                 </ul>
-                <!--<form class="d-flex">-->
-                <form class="form-inline my-2 my-lg-0">
-                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" >
-                    <!--<button class="btn btn-secondary" type="submit">Search</button>-->
-                </form>
-                <!--<form class="d-flex my-2 my-lg-0">
-                    <input data-stork="sitesearch" class="stork-input" placeholder="Search"/>
-                    <div data-stork="sitesearch-output" class="stork-output"></div>
-                </form>-->
             </div>
         </div>
     </nav>
 
 
 
-<header class="main-header" role="banner">
+<div class="container-fluid" style="position:relative; margin-top:0em; background: linear-gradient(to left top, 
+  #c9d6ff,
+  #e2e2e2);">
+    <div class="container col-xxl px-4 py-3" style="position: relative; z-index: 2;">
+        <div class="row align-items-start g-5 py-5">
+            <div class="col-12 col-sm-8 col-lg-6">
+                <h1 class="display-2 fw-bold lh-1 mb-3" style="color: var(--bs-gray-dark)">NASA TESS Science Support Center</h1>
+                <p class="lead" style="font-size: 1.2em">TSSC supports the TESS Scientific community and provides information, tools, and
+                    helpdesk
+                    support for using TESS data.
+                </p>
+            </div>
+        </div>
+        <div class="row align-items-center py-3">
+            <div id="pc1" class="col-xxl col-sm-8 col-lg-6">
+<div class="container">
+    <div class="row" >
+        <div class="col-sm vertical-align" >
+            <div class="col-sm-6" style=" font-size:20px; display: flex; justify-content: right; align-items: center;">
+                    Confirmed Exoplanets
+            </div>
+            <div class="col-sm-3"> <i class="fa fa-lg fa-margin exoplanet-icon-transit-borderless fa-3x"></i>
+            </div>
+            <div class="col-sm-2 counter" data-target=5747>0</div>
+        </div>
+        
+
+        <div class="col-sm vertical-align">
+            <div class="col-sm-6" style="font-size:20px; display: flex; justify-content: center; align-items: center; ">
+                Scientific Papers
+            </div>
+            <div class="col-sm-3"> <i class="fa fa-lg fa-margin exoplanet-icon-light-curve fa-3x"></i>
+            </div>
+            <div class="col-sm-2 counter" style="vertical-align: center;" data-target=2229>0</div>
+        </div>
+
+
+        <div class="col-sm vertical-align" >
+            <div class="col-sm-6" style="font-size:20px; display: flex; justify-content: right; align-items: center;">
+                Days of Science
+            </div>
+            <div class="col-sm-3"> <i class="fa fa-lg fa-margin exoplanet-icon-calendar fa-3x"></i>
+            </div>
+            <div class="col-sm-2 counter" data-target="2263">0</div>
+        </div>
+    
+    </div>
+</div>            </div>
+        </div>
+    </div>
+    <img src="images/tess2.png" class="d-block mx-lg-auto" alt="NASA TESS"
+        style="position: absolute; top: 0; right: 0; z-index: 1; opacity: 0.2; height: 100%; width: auto;">
+</div>
+
+<!--<header class="main-header" role="banner">
     
       <img src="images/Mission_Posters_header.png" alt="Banner Image" ; height="auto"; style=" width:100% !important ;border:2px solid "/>
       
-</header>
+</header>-->
 
 <!--<div class="container-fluid" style="margin-top:2em;background: linear-gradient(to left top, 
   #c9d6ff,
@@ -238,7 +283,7 @@ in 2024, using pelican-bootstrap and flatly.
 
 
 
-<div class="container">
+<!-- <div class="container">
   <div class="row">
     <p class="h1 text-left"> TESS at a glance </p>
 
@@ -270,12 +315,12 @@ in 2024, using pelican-bootstrap and flatly.
             </div>
             <div class="col-sm-3"> <i class="fa fa-lg fa-margin exoplanet-icon-calendar fa-3x"></i>
             </div>
-            <div class="col-sm-2 counter" data-target="2256">0</div>
+            <div class="col-sm-2 counter" data-target="2263">0</div>
         </div>
     
     </div>
 </div>  </div>
-</div>
+</div> -->
 
 
 
@@ -284,6 +329,16 @@ in 2024, using pelican-bootstrap and flatly.
   <div class="row">
     <div class="col-md-8">
       <h1 style="padding-bottom:0.5em; padding-top:1.0em;">Latest TESS News Bulletins</h1>
+      <article>
+        <div><b><a href="./sector-3-guest-investigator-target-lists-available.html" style="font-size: 1.3em;">Sector 3 Guest Investigator target lists available</a></b>
+        </div>
+        <span class="categories-timestamp"><time datetime="2018-09-23T09:00:00-04:00">23
+            Sep 2018</time></span>
+        <div class="summary entry-content" style="padding-top: 0.5em; "><p>Targets selected for observations as part of the TESS GI program in Sector 3 are now available. The full list and targets for individual programs is available from the <a href="approved-programs.html#sector-3">Approved Programs page</a>.</p>
+          <a class="btn btn-default btn-xs" href="./sector-3-guest-investigator-target-lists-available.html">More &raquo;</a>
+        </div>
+      </article>
+      <hr />
       <article>
         <div><b><a href="./sector-1-data-are-being-processed-and-validated.html" style="font-size: 1.3em;">Sector 1 data are being processed and validated</a></b>
         </div>
@@ -321,17 +376,6 @@ in 2024, using pelican-bootstrap and flatly.
             Aug 2018</time></span>
         <div class="summary entry-content" style="padding-top: 0.5em; "><p>TESS successfully completed the first downlink of science data on August 8. The data was transmitted via the NASA Deep Space Network. The full orbit work of data took took 1.25 hours to dump 53GB of data. TESS will now complete a second orbit targeting the same field as ...</p>
           <a class="btn btn-default btn-xs" href="./first-tess-downlink-successfully-completed.html">More &raquo;</a>
-        </div>
-      </article>
-      <hr />
-      <article>
-        <div><b><a href="./sector-1-preliminary-gi-target-list-available.html" style="font-size: 1.3em;">Sector 1 preliminary GI target list available</a></b>
-        </div>
-        <span class="categories-timestamp"><time datetime="2018-08-06T08:00:00-04:00">06
-            Aug 2018</time></span>
-        <div class="summary entry-content" style="padding-top: 0.5em; "><p>A preliminary list of targets Sector 1 targets that were requested and observed through the TESS Guest Investigator program <a href="approved-programs.html">is now available</a>. Additionally, estimated dates for future sectors, and targets for those sectors is available on the <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">status page</a>.</p>
-<p>We have also updated the <a href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS web tool</a> to now give ...</p>
-          <a class="btn btn-default btn-xs" href="./sector-1-preliminary-gi-target-list-available.html">More &raquo;</a>
         </div>
       </article>
       <hr />
