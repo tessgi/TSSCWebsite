@@ -1,7 +1,7 @@
 Title: TESS at AAS
 Save_as: tess-at-aas.html
+Date: 2021-01-05 
 
-[TOC]
 
 The winter 237th AAS meeting officially kicks off this Sunday the 10th of January 2021.
 

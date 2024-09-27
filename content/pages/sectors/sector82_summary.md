@@ -22,6 +22,6 @@ author: Nicole Schanche
 
 
 
-{! data-release-notes/sector_82.html !}
+<!-- {! data-release-notes/sector_82.html !} -->
 
 <img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.082.jpeg">

@@ -1,16 +1,24 @@
-<style>
-	#banner{
-	    background-image:url("{{ SITEURL}}/{{ BANNER }}");
-	}
-</style>
-
-<div id="banner">
-	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-		<div class="copy">
-			<h1>{{ SITENAME }}</h1>
-			{% if BANNER_SUBTITLE %}
-				<p class="intro">{{ BANNER_SUBTITLE }}</p>
-			{% endif %}
-		</div>
-	</div>
+{% block banner %}
+<div class="container-fluid" style="position:relative; margin-top:0em; background: linear-gradient(to left top, 
+  #c9d6ff,
+  #e2e2e2);">
+    <div class="container col-xxl px-4 py-3" style="position: relative; z-index: 2;">
+        <div class="row align-items-start g-5 py-5">
+            <div class="col-12 col-sm-8 col-lg-6">
+                <h1 class="display-2 fw-bold lh-1 mb-3" style="color: var(--bs-gray-dark)">NASA TESS Science Support Center</h1>
+                <p class="lead" style="font-size: 1.2em">TSSC supports the TESS Scientific community and provides information, tools, and
+                    helpdesk
+                    support for using TESS data.
+                </p>
+            </div>
+        </div>
+        <div class="row align-items-center py-3">
+            <div id="pc1" class="col-xxl col-sm-8 col-lg-6">
+                {% include 'includes/planet_counter.html' %}
+            </div>
+        </div>
+    </div>
+    <img src="images/tess2.png" class="d-block mx-lg-auto" alt="NASA TESS"
+        style="position: absolute; top: 0; right: 0; z-index: 1; opacity: 0.2; height: 100%; width: auto;">
 </div>
+{% endblock %}
