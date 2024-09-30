@@ -74,8 +74,8 @@ The TESS observatory consists of the spacecraft and the payload. The TESS payloa
           <div class="tab-pane fade in show active" id="payloadoverview" role="tabpanel">
             <p>
               <br>The TESS payload is coupled to the spacecraft and has a single instrument -- a camera suite composed of 4 identical wide field-of-view optical cameras and their associated hoods, mount, sun shield, and Data Handling Unit (DHU). The four cameras cover a combined field-of-view (FOV) of 24x96 degrees (known as an observing sector). Each camera consists of a CCD detector assembly, a lens assembly, and a lens hood. An overview of the FOV coverage is shown below.</br>
-              <img class="img-responsive" style="max-width:48%;" src="images/pages/tess_observingsectorschematic_Winnpresentation.jpg">
-              <img class="img-responsive" style="max-width:48%;" src="images/pages/tess_cameraFOVschematic_Winnpresentation.png">
+              <img class="img-responsive" style="max-width:48%;" src="images/mission/tess_observingsectorschematic_Winnpresentation.jpg">
+              <img class="img-responsive" style="max-width:48%;" src="images/mission/tess_cameraFOVschematic_Winnpresentation.png">
             </p>
           </div>
           <div class="tab-pane fade in" id="specs" role="tabpanel">
@@ -113,7 +113,7 @@ The TESS observatory consists of the spacecraft and the payload. The TESS payloa
                 The detector assembly in each camera consists of a focal plane CCD array and associated electronics. Each CCD array contains four back-illuminated MIT/Lincoln Laboratory CCID-80 devices. The deep-depletion, frame-transfer CCDs consist of a 2048 x 2048 imaging array and a 2048 x 2048 frame-store region (for rapid shutterless readout 4 ms) with 15 x 15 micron pixels. The four CCDs in each array are separated by 2mm and create an effective 4096 x 4096 pixel detector that is operated at -75 degrees C to reduce dark current. The detectors are read out at 625 kHz with < 10 e- read noise. The detector electronics consist of two compact double-sided printed circuit boards seated beneath the CCD focal plane. The electronics transmit digitized data over a serial LVDS link to the Data Handling Unit. The four TESS cameras are bolted to a common plate such that their FOV's are aligned to form a total simultaneous FOV of 24x96 degrees.</br>
                 <img class="img-responsive" style="max-width:90%;" src="images/pages/tess_detector_assembly.png"><figcaption>TESS CCD mosaic in mounting bracket (left). TESS CCD mosaic and focal plane electronics with frame store regions covered (right). Image credit: MIT</figcaption>
                 <br>Here you can see a schematic diagram of one TESS CCD.</br>
-                <img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/pages/tess_ccd.png" width="60%;" class="center"></img>
+                <img src="images/pages/tess_ccd.png" width="60%;" class="center"></img>
               </br>  
             </p>
           </div>
