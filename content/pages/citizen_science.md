@@ -8,6 +8,24 @@ Do you want to discover and analyze your own exoplanets using TESS data? Or perh
 <br></br>
 
 <section>
+  <h2> <a href="https://www.zooniverse.org/projects/vbkostov/eclipsing-binary-patrol" target="_blank">Eclipsing Binary Patrol</a></h2>
+  <table>
+    <tr>
+      <th colspan="2" style="font-size: 28px;"></th>
+    </tr>
+    <tr>
+      <td width="45%"><img src="images/pages/EB_Patrol.png" style="width: 100%; "></img>
+      </td>
+      <td width="55%">
+        <p>Binary stars continue to yield surprises even after hundreds of years of study. An “eclipsing binary” (EB) is a special binary system where one of the component stars occasionally blocks our view of the other star — and vice versa. At Eclipsing Binary Patrol, you can examine space telescope data and help unravel the mysteries of these intriguing systems. You’ll help discover new eclipsing binaries by helping weed out imposters -- objects that blink but are not eclipsing binaries. The eclipsing binaries you help find will be also targets for future exoplanet searches. The science team of this project is mostly composed of citizen scientists.</p>
+        <p>To learn more about the science of binary star systems and the planets that orbit in them, you can read the Research Pages on the <a href="https://www.zooniverse.org/projects/vbkostov/eclipsing-binary-patrol" target="_blank">project’s website</a>. Eclipsing Binary Patrol is also available in Japanese and French.</p>
+      </td>
+
+    </tr>
+  </table>
+</section>
+
+<section>
   <h2> <a href="https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess" target="_blank">Planet Hunters TESS (PHT)</a> </h2>
   <table>
     <tr>
