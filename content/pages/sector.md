@@ -98,7 +98,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>37.05</td>
               <td>2024&nbsp;Sep&nbsp;05</td>
               <td>2024&nbsp;Oct&nbsp;01</td>
-              <td></td>
+              <td><a href='data/target_lists/sector083_targets_lists/GI_S083.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -109,7 +109,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>27.80</td>
               <td>2024&nbsp;Aug&nbsp;10</td>
               <td>2024&nbsp;Sep&nbsp;05</td>
-              <td></td>
+              <td><a href='data/target_lists/sector082_targets_lists/GI_S082.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -120,7 +120,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>17.13</td>
               <td>2024&nbsp;Jul&nbsp;15</td>
               <td>2024&nbsp;Aug&nbsp;10</td>
-              <td></td>
+              <td><a href='data/target_lists/sector081_targets_lists/GI_S081.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -131,7 +131,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>5.49</td>
               <td>2024&nbsp;Jun&nbsp;18</td>
               <td>2024&nbsp;Jul&nbsp;15</td>
-              <td></td>
+              <td><a href='data/target_lists/sector080_targets_lists/GI_S080.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -142,7 +142,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>347.51</td>
               <td>2024&nbsp;May&nbsp;21</td>
               <td>2024&nbsp;Jun&nbsp;18</td>
-              <td></td>
+              <td><a href='data/target_lists/sector079_targets_lists/GI_S079.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -153,7 +153,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>325.71</td>
               <td>2024&nbsp;Apr&nbsp;23</td>
               <td>2024&nbsp;May&nbsp;21</td>
-              <td></td>
+              <td><a href='data/target_lists/sector078_targets_lists/GI_S078.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -164,7 +164,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>302.34</td>
               <td>2024&nbsp;Mar&nbsp;26</td>
               <td>2024&nbsp;Apr&nbsp;23</td>
-              <td></td>
+              <td><a href='data/target_lists/sector077_targets_lists/GI_S077.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -175,7 +175,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>276.64</td>
               <td>2024&nbsp;Feb&nbsp;26</td>
               <td>2024&nbsp;Mar&nbsp;26</td>
-              <td></td>
+              <td><a href='data/target_lists/sector076_targets_lists/GI_S076.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -186,7 +186,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>247.49</td>
               <td>2024&nbsp;Jan&nbsp;30</td>
               <td>2024&nbsp;Feb&nbsp;26</td>
-              <td></td>
+              <td><a href='data/target_lists/sector075_targets_lists/GI_S075.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -197,7 +197,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>213.92</td>
               <td>2024&nbsp;Jan&nbsp;03</td>
               <td>2024&nbsp;Jan&nbsp;30</td>
-              <td></td>
+              <td><a href='data/target_lists/sector074_targets_lists/GI_S074.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -208,7 +208,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>8.03</td>
               <td>2023&nbsp;Dec&nbsp;07</td>
               <td>2024&nbsp;Jan&nbsp;03</td>
-              <td></td>
+              <td><a href='data/target_lists/sector073_targets_lists/GI_S073.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
           </tr>
@@ -219,7 +219,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>254.03</td>
               <td>2023&nbsp;Nov&nbsp;11</td>
               <td>2023&nbsp;Dec&nbsp;07</td>
-              <td></td>
+              <td><a href='data/target_lists/sector072_targets_lists/GI_S072.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
