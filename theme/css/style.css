@@ -8,15 +8,15 @@
     min-height: 60px;
     /*margin-bottom: 20px;*/
     border: 1px solid transparent;
-    padding-left: 125px; 
+    padding-left: 100px; 
     line-height: 25px;
 }
 
 .navbar-brand {
-    /*float: left;*/
-    position: fixed; 
-    top: 6px;
-    left: 15px; 
+
+    position: absolute;
+    top: 5px;
+    left: 25px; 
     font-size: 20px;
     
     /*line-height: 25px; */
