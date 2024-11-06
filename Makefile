@@ -100,5 +100,10 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)"
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+update_numbers:
+	python scripts/make_statistic_plots.py
+	python scripts/make-approved-programs.py
+	python scripts/make_counter.py		
+
 
 .PHONY: html help clean regenerate serve serve-global devserver devserver-global publish ssh_upload sftp_upload rsync_upload ftp_upload github

@@ -48,8 +48,8 @@ pub_stat = len(results)
 
 #Now need to create the file
 #opens the template
-template_file = "planet_counter.html"
-file_out = "../themes/pelican-bootstrap3-tess/templates/includes/planet_counter.html"
+template_file = "scripts/planet_counter.html"
+file_out = "themes/pelican-bootstrap3-tess/templates/includes/planet_counter.html"
 
 with open(template_file, 'r') as file:
     filedata = file.read()
