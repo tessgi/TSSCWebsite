@@ -127,7 +127,7 @@ MENUITEMS = (
             ('Data Analysis Tools', 'community.html'),
             ('Proposal Tools', 'proposing_tools.html'),
             ('TESS-point Web Tool', 'https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py'),
-            ('TIC Info Web Tool', 'xxx'),
+            ('TIC Info Web Tool', 'ticinfo_placeholder.html'),
             #'tesspoint.html'),
             #('Work with TESS Data online with TiKE', 'new_proposing.html'),
                     )
