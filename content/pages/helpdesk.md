@@ -16,8 +16,8 @@ The members of the TESS GI office are listed below.
     </div>
     
     <div class="col-sm-3 text-center"> 
-        <img src="images/faces/knicole.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr. Knicole Colón<br>
+        <img src="images/faces/susan.jpg" style="max-width:80%;" class="img-circle"><br>
+        Dr. Susan Neff<br>
         Deputy Project Scientist 
     </div>
 
