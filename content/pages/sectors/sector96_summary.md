@@ -11,7 +11,7 @@ author: Nicole Schanche
     <td width="50%" style = "text-align: center;">
           <img class="img-responsive" style="max-width:100%;" src="images/sector-plots/tess_galactic_sector_096.png"> 
     </td>
-    <td width="50%" style = "text-align: center;">
+   <td width="50%" style = "text-align: center;">
           <img class="img-responsive" style="max-width:100%;" src="images/sector-plots/tess_icrs_sector_096.png">
     </td>
   </tr>
