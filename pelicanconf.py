@@ -10,8 +10,8 @@ DEVMODE = False  # pelicanconf-dev.py will override this
 
 # By default, use agressive caching.
 # The Makefile ensures we use `--ignore-cache` for production builds.
-CACHE_CONTENT = True
-LOAD_CONTENT_CACHE = True
+CACHE_CONTENT = False
+LOAD_CONTENT_CACHE = False
 CHECK_MODIFIED_METHOD = "mtime"
 CONTENT_CACHING_LAYER = "generator"  # This causes an empty news page
 WITH_FUTURE_DATES = False
