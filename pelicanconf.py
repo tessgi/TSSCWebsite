@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
@@ -145,7 +146,7 @@ MENUITEMS = (
         ('Tools and Tutorials', (
             ('Tutorials', 'tutorial_landing.html'),
             ('Data Analysis Tools', 'community.html'),
-            ('Proposal Tools', 'proposing_tools.html'),
+            #('Proposal Tools', 'proposing_tools.html'),
             ('TESS-point Web Tool', 'https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py'),
             ('TIC Info Web Tool', 'ticinfo_placeholder.html'),
             #'tesspoint.html'),
