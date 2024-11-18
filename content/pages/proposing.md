@@ -301,8 +301,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
     </h2>
     <div id="collapseSuccess" class="accordion-collapse collapse" aria-labelledby="headingSuccess" data-bs-parent="#accordionProposalBasics" style="">
       <div class="accordion-body"> 
-        <br>The titles and abstracts of all accepted GI proposals can be found here and additional links therein.</br>
-        <br><a href="docs/tess/approved_programs.html">Approved Programs</a> </br>
+        <br>The titles and abstracts of all accepted GI proposals can be found <a href="https://heasarcdev.gsfc.nasa.gov/docs/tess/approved-programs.html" target="_blank">here</a>  and additional links therein.</br>
       </div>
     </div>
   </div>
@@ -314,8 +313,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
     </h2>
     <div id="collapseTutorials" class="accordion-collapse collapse" aria-labelledby="headingTutorials" data-bs-parent="#accordionProposalBasics" style="">
       <div class="accordion-body"> 
-        <br>Yes! You can check out the following tutorials and additional links therein.</br>
-        <br>TODO: ADD LINK TO TUTORIALS WHEN KNOWN</br>
+        <br>Yes! You can check out out <a href="https://heasarcdev.gsfc.nasa.gov/docs/tess/tutorial_landing.html" target="_blank">tutorials</a> and additional links therein.</br>
       </div>
     </div>
   </div>
