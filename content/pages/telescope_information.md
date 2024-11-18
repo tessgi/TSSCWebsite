@@ -214,11 +214,11 @@ The TESS observatory consists of the spacecraft and the payload. The TESS payloa
             <br>The physical WCS solutions can be used to convert the model PRF image coordinates into the corresponding location on the TESS CCD. </br>
             <br>Given the unusual nature of the TESS PRF, photometry of an object is typically obtained through the summation of all pixels within a given region. This region is referred to as an "aperture mask" and can be determined through the pipeline or can be selected by the user.</br>
             <br>The figure below shows the TESS PRF from Sector 1, Camera 1.</br>
-            <img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/tess_psf.png"></img>
+            <img src="images/pages/tess_psf.png"></img>
           </div>
           <div class="tab-pane fade in" id="crowding" role="tabpanel">
             <br>Due to the relatively large pixels (~21 arcsec), the TESS photometry can be contaminated by nearby objects. Below you can see a comparison between TESS pixels and those from several larger telescopes.</br>
-            <img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/data/ciardi_target_pixels.png" width="60%;" class="center"></img>
+            <img src="images/pages/ciardi_target_pixels.png" width="60%;" class="center"></img>
             <br>To address this, the <a href = "https://iopscience.iop.org/article/10.3847/1538-3881/ab3467" target = "_blank"> TESS Input Catalog (TIC) </a> provides information needed to estimate the contamination in the TESS band. </br>
             <br>This cannot be determined accurately ahead of time because it will depend on the pixels selected for the aperture photometry of each target and the exact position of the target in the aperture. However, it is possible for the TIC to provide guidance on the expected contamination, for example by providing the number of known objects and their total brightness in the TESS band for some suitable standard aperture and photometer Pixel Response Function (PRF)</br>
           </div>
@@ -226,7 +226,7 @@ The TESS observatory consists of the spacecraft and the payload. The TESS payloa
             <br>The effect of the scattered light on the CCD's is typically 2-6 times that of the nominal sky background and covers approximately 10-15% of the FoV. </br>
             <br>When the Earth is below the level of the sun shade there is no scattered light. </br>
             <br>When the Earth or Moon is directly in the FoV of a camera the data is no longer viable.</br>
-            <br>An example of the effects of scattered light can be seen <a href="https://www.youtube.com/watch?v=SP4QSF9G6FA" title="Scattered Light" target = "_blank"> here.<img alt="scatter.png" src="https://heasarc.gsfc.nasa.gov/docs/tess/images/scatter.png"></a></br>
+            <br>An example of the effects of scattered light can be seen <a href="https://www.youtube.com/watch?v=SP4QSF9G6FA" title="Scattered Light" target = "_blank"> here.<img alt="scatter.png" src="images/pages/scatter.png"></a></br>
         </div>
         <div class="tab-pane fade in" id="cosmicray" role="tabpanel">
           <br>Nearly half of the TESS pixels in the 30 min FFIs are affected by cosmic ray hits</br>

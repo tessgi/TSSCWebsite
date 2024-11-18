@@ -37,7 +37,7 @@ Do you want to discover and analyze your own exoplanets using TESS data? Or perh
         <br></br>
         PHT volunteers have already found hundreds of new planetary systems in Kepler and TESS data. Will the next planet be discovered by you? To find out more information about this project and join the hunt visit the <a href="https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess" target="_blank">Planet Hunters TESS</a> page.
       </td>
-      <td width="70%"><img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/transit.gif"></img></td>
+      <td width="70%"><img src="images/pages/transit.gif"></img></td>
     </tr>
   </table>
 </section>
@@ -56,7 +56,7 @@ Do you want to discover and analyze your own exoplanets using TESS data? Or perh
         <br></br>
         Planet Patrol volunteers have already vetted thousands of exoplanets from TESS. Will you join the effort? For more information about this project and how you can get involved you can visit the <a href="https://www.zooniverse.org/projects/marckuchner/planet-patrol/" target="_blank">Planet Patrol</a> page.
       </td>
-      <td width="30%"><img src="https://heasarc.gsfc.nasa.gov/docs/tess/images/transit2.gif" style="width: 80%; "></img></td>
+      <td width="30%"><img src="images/pages/transit2.gif" style="width: 80%; "></img></td>
     </tr>
   </table>
 </section>

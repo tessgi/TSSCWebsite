@@ -76,7 +76,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </h2>
       <div id="collapseTypes" class="accordion-collapse collapse" aria-labelledby="headingTypes" data-bs-parent="#accordionProposalBasics" style="">
       <div class="accordion-body">
-        <p>Below is a summary of the available proposal categories for the TESS GI funding. Please see the proposal call (TODO: ADD LINK) for more details</p>
+        <p>Below is a summary of the available proposal categories for the TESS GI funding. Please see the proposal call for more details</p>
         <table class="table">
           <thead>
             <tr>
@@ -302,7 +302,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
     <div id="collapseSuccess" class="accordion-collapse collapse" aria-labelledby="headingSuccess" data-bs-parent="#accordionProposalBasics" style="">
       <div class="accordion-body"> 
         <br>The titles and abstracts of all accepted GI proposals can be found here and additional links therein.</br>
-        <br>TODO: ADD LINK WHEN KNOWN</br>
+        <br><a href="docs/tess/approved_programs.html">Approved Programs</a> </br>
       </div>
     </div>
   </div>
