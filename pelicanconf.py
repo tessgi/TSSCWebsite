@@ -2,14 +2,12 @@
 
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-import os
+#import os
 import datetime
-import pelican
 
 # If `DEVMODE = True`, show a red warning banner at the top
 DEVMODE = False  # pelicanconf-dev.py will override this
 
-# By default, use agressive caching.
 # The Makefile ensures we use `--ignore-cache` for production builds.
 CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = False
@@ -24,6 +22,7 @@ SITEURL = ""
 SITELOGO_SIZE = 32
 SITEURL = "https://heasarc.gsfc.nasa.gov/docs/tess"	
 FULLURL = "https://heasarc.gsfc.nasa.gov/docs/tess"
+DATE_MODIFIED = datetime.datetime.now().strftime("%Y-%m-%d")
 
 PATH = "content"
 STATIC_PATHS = ['images','data','docs']
@@ -43,8 +42,11 @@ BOOTSTRAP_THEME = 'cerulean'
 BOOTSTRAP_FLUID = False
 FAVICON = 'images/logos/favicon.png'
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
+# Enables RSS feeds
+FEED_DOMAIN = SITEURL
+FEED_ALL_ATOM = "feeds/all.atom.xml"
+FEED_ALL_RSS = "feeds/all.rss.xml"
+# We don't need per-author or per-category or per-translation feeds
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
@@ -83,9 +85,6 @@ LINKS = (
     ("You can modify those links in your config file", "#"),
 )
 
-#STORK_INPUT_OPTIONS = {
-#    base_directory == PATH
-#}
 
 # Social widget
 #SOCIAL = (
@@ -131,7 +130,6 @@ MENUITEMS = (
         ),
 
         ('Science Resources', (
-            #('TESS Statistics', 'statistics.html'),
             ('Telescope Information', 'telescope_information.html'),
             ('Sector Information', 'sector.html'),
             #('TESS Data', 'data_pipeline.html'),
@@ -160,13 +158,16 @@ MENUITEMS = (
                     )
         ),
 
-        #('Tutorials', (
-            #('TESS tutorials', 'tutorial_landing.html'),
-            #('FAQ', 'faq.html'),
-            #('Tutorial 1', 'tutorial1.html'),
-            #('Tutorial 2', 'tutorial2.html'),
-            #('Tutorial 3', 'new_proposing.html'),
-                    #)
-        #),
-
         )
+
+
+# Defines the "meetings" box on the front page
+MEETINGS = (
+    (
+        "<b>11th January - 16th January 2025</b>",
+        "AAS 245 - National Harbor, MD",
+        "https://aas.org/meetings/aas245",
+        "Join us for NASA's TESS Mission Interactive Data workshop on January 11-12 as part of AAS 245. TESS will also host a splinter session from 6-9pm on Wednesday, January 15.",
+    ),
+    
+)
