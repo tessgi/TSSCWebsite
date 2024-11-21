@@ -50,7 +50,7 @@ Imports
 -------
 
 This tutorial requires the use of specific packages: -
-`Lightkurve <https://docs.lightkurve.org/index.html>`__ to work with
+`Lightkurve <https://github.com/lightkurve/lightkurve/tree/main>`__ to work with
 *TESS* data (v2.0.1) - `Matplotlib <https://matplotlib.org/>`__ for
 plotting. - `Numpy <https://numpy.org>`__ for manipulating the data.
 
@@ -65,17 +65,11 @@ First time users
 ~~~~~~~~~~~~~~~~
 
 If you are not that experienced with *Python*, or cannot download
-*Lightkurve*, you can run this notebook as a `Colab
-notebook <https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index>`__.
-Colaboratory allows users to write and execute *Python* in your browser
-with zero configuration required.
-
-All you need is a Google account and to copy and paste in the following
-command at the top of your colab notebook:
-
-``!pip install lightkurve``
-
-This downloads the *Lightkurve* package.
+*Lightkurve*, you can run this notebook as a `TIKE
+notebook <https://timeseries.science.stsci.edu/hub/login?next=%2Fhub%2F>`__.
+TIKE is a JupyterHub service run by `MAST <https://archive.stsci.edu/>`__ which 
+allows users to write and execute *Python* in a TESS specific environment on 
+your browser with zero configuration required.
 
 Introduction to *TESS*:
 -----------------------
@@ -132,20 +126,20 @@ containing each observation will be returned.
 2. How to use *Lightkurve* to access the various data products and create a time series
 ---------------------------------------------------------------------------------------
 
-`Lightkurve <https://docs.lightkurve.org/tutorials/index.html>`__ offers
+`Lightkurve <https://github.com/lightkurve/lightkurve/tree/main/docs/source/tutorials>`__ offers
 a user-friendly way to analyze time series data obtained by telescopes,
 in particular *NASA’s Kepler* and *TESS* exoplanet missions. You can
 search for the various data products for *TESS* on MAST using the
 following *Lightkurve* functions:
 
 -  To look for your object in a full frame image:
-   ```search_tesscut()`` <https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut>`__
+   `search_tesscut() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L855>`__
 
 -  To look for target pixel files:
-   ```search_targetpixelfile()`` <https://docs.lightkurve.org/reference/api/lightkurve.search_targetpixelfile.html?highlight=search_targetpixelfile>`__
+   `search_targetpixelfile() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L594>`__
 
 -  To obtain light curve files for your object of interest:
-   ```search_lightcurve()`` <https://docs.lightkurve.org/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve>`__
+   `search_lightcurve() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L723>`__
 
 For the purpose of this tutorial, we will be examining `L
 98-59 <https://arxiv.org/pdf/1903.08017.pdf>`__, a bright M dwarf star
@@ -464,7 +458,7 @@ There are some big differences between these two light curves,
 specifically the dips in the SAP light curve and its overall gradent.
 These differences are caused by scattered light and other noise issues.
 For more information refer to `these
-tutorials <https://docs.lightkurve.org/tutorials/index.html#removing-instrumental-noise>`__.
+tutorials <https://github.com/lightkurve/lightkurve/tree/main/docs/source/tutorials/2-creating-light-curves>`__.
 For now, let’s think about how we can manipulate the light curves.
 
 2.2.1 Manipulating a light curve:
@@ -473,16 +467,16 @@ For now, let’s think about how we can manipulate the light curves.
 There are a set of useful functions in *Lightkurve* which you can use to
 work with the data. These include:
 
--  `flatten() <https://docs.lightkurve.org/reference/api/lightkurve.LightCurve.flatten.html?highlight=flatten#lightkurve.LightCurve.flatten>`__:
+-  `flatten() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/lightcurve.py#L836>`__:
    Remove long term trends using a Savitzky–Golay filter
--  `remove_outliers() <https://docs.lightkurve.org/reference/api/lightkurve.LightCurve.remove_outliers.html?highlight=remove_outliers>`__:
+-  `remove_outliers() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/lightcurve.py#L1307>`__:
    Remove outliers using simple sigma clipping
--  `remove_nans() <https://docs.lightkurve.org/reference/api/lightkurve.LightCurve.remove_nans.html?highlight=remove_nans>`__:
+-  `remove_nans() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/lightcurve.py#L1182>`__:
    Remove infinite or NaN values (these can occur during thruster
    firings)
--  `fold() <https://docs.lightkurve.org/reference/api/lightkurve.LightCurve.fold.html?highlight=fold>`__:
+-  `fold() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/lightcurve.py#L982>`__:
    Fold the data at a particular period
--  `bin() <https://docs.lightkurve.org/reference/api/lightkurve.LightCurve.bin.html?highlight=bin>`__:
+-  `bin() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/lightcurve.py#L1431>`__:
    Reduce the time resolution of the array, taking the average value in
    each bin.
 
@@ -522,8 +516,10 @@ Flattening
     :alt: Flattened lightcurve
 
 
+
 Folding the light curve
 ^^^^^^^^^^^^^^^^^^^^^^^
+
 
 From the `L 98-59 System <https://arxiv.org/pdf/1903.08017.pdf>`__
 paper, we know that planet c has a period of 3.690621 days. We can use
@@ -709,7 +705,7 @@ and that the flux is therefore based upon “Simple Aperture Photometry”
 (SAP).
 
 To create our light curve we will pass our **aperture_mask** to the
-```to_lightcurve`` <https://docs.lightkurve.org/reference/api/lightkurve.KeplerTargetPixelFile.to_lightcurve.html?highlight=to_lightcurve>`__
+`to_lightcurve() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/targetpixelfile.py#L550>`__
 function.
 
 .. code:: ipython3
@@ -823,7 +819,7 @@ scattered light. Each of TESS’s cameras has a lens hood to reduce the
 scattered light from the Earth and the Moon. Due to TESS’s wide field of
 view and the physical restrictions of the Sun shade, the lens hood is
 not 100% efficient. The effect of the scattered light on the CCD’s can
-be seen in this `video <(https://www.youtube.com/watch?v=SP4QSF9G6FA>`__.
+be seen in this `video <https://www.youtube.com/watch?v=SP4QSF9G6FA>`__.
 
 
 Interactive inspection:
@@ -969,12 +965,12 @@ the data. For more detailed tutorials as well as other useful tools,
 please visit the following pages.
 
 -  `Lightkurve Tutorials
-   page <https://docs.lightkurve.org/tutorials/index.html>`__: A set of
-   21 tutorials dealing with Kepler/K2 and TESS data
+   page <https://github.com/lightkurve/lightkurve/tree/main/docs/source/tutorials>`__: A set of
+   tutorials dealing with Kepler/K2 and TESS data
 -  `TESS GI data products
-   page <https://heasarc.gsfc.nasa.gov/docs/tess/data-analysis-tools.html>`__:
-   A set of 7 TESS specific tutorials.
--  `STScI Kepler K3
+   page <data-analysis-tools.html>`__:
+   A resource to find TESS data analysis tools.
+-  `STScI Kepler K2
    notebooks <https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/Kepler>`__:
    A set of notebooks produced by a collaboration between NumFocus,
    MAST, *Lightkurve*, and TESS GI office. They make use of python
