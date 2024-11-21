@@ -48,7 +48,7 @@ Imports
 -------
 
 This tutorial requires the use of specific packages: -
-`Lightkurve <https://docs.lightkurve.org/index.html>`__ to work with
+`Lightkurve <https://github.com/lightkurve/lightkurve/tree/main>`__ to work with
 *TESS* data (v2.0.1) - `Matplotlib <https://matplotlib.org/>`__ for
 plotting. - `Numpy <https://numpy.org>`__ for manipulating the data.
 
@@ -56,17 +56,13 @@ First time users
 ----------------
 
 If you are not that experienced with *Python*, or cannot download
-*Lightkurve*, you can run this notebook as a `Colab
-notebook <https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index>`__.
-Colaboratory allows users to write and execute *Python* in your browser
-with zero configuration required.
+*Lightkurve*, you can run this notebook as a `TIKE
+notebook <https://timeseries.science.stsci.edu/hub/login?next=%2Fhub%2F>`__.
+TIKE is a JupyterHub service run by `MAST <https://archive.stsci.edu/>`__ which 
+allows users to write and execute *Python* in a TESS specific environment on 
+your browser with zero configuration required.
 
-All you need is a Google account and to copy and paste in the following
-command at the top of your colab notebook:
-
-``!pip install lightkurve``
-
-This downloads the *Lightkurve* package.
+To import the packages necessary for this tutorial, you can run the following. 
 
 .. code:: ipython3
 
@@ -81,19 +77,19 @@ Introduction to the Corrector Class
 *TESS* light curves can often have systematic trends caused by noise
 sources such as scattered light and instrumental effects. Only the
 `LightCurve
-objects <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-lightcurve-objects.html>`__
+objects <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/1-getting-started/what-are-lightcurve-objects.ipynb>`__
 which have been fully processed, have had these effects removed. Data
 derived from either
-`TargetPixelFiles <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targetpixelfile-objects.html>`__
+`TargetPixelFiles <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/1-getting-started/what-are-targetpixelfile-objects.ipynb>`__
 or Full Frame Images must undergo further processing by the user to
 remove these sources of noise.
 
 To aid the user in this process, there exist several different tools
 within the *Lightkurve* package. These are known as the `Corrector
-class <https://docs.lightkurve.org/reference/api/lightkurve.correctors.corrector.Corrector.html?highlight=corrector%20class#lightkurve-correctors-corrector-corrector>`__.
+class <https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/corrector.py>`__.
 We briefly describe each of these corrector classes below,
 
--  `CBVCorrector <https://docs.lightkurve.org/reference/api/lightkurve.correctors.CBVCorrector.html?highlight=cbvcorrector>`__:
+-  `CBVCorrector <https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/cbvcorrector.py>`__:
    Cotrending Basis Vectors (CBVs) are generated from the most common
    systematic trends observed in each Sector. Each *TESS* CCD and Camera
    has its own set of CBVs. There are three basic types of CBVs,
@@ -110,14 +106,14 @@ We briefly describe each of these corrector classes below,
       correction is applied to remove short impulsive systematic
       signals.
 
--  `RegressionCorrector <https://docs.lightkurve.org/reference/api/lightkurve.correctors.RegressionCorrector.html?highlight=regressioncorrector>`__:
+-  `RegressionCorrector <https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/regressioncorrector.py>`__:
    Here the light curve is de-trended against vectors that we think are
    predictive of the systematic noise. For FFI data, we have to
    select/define an aperture for our object of interest. Pixels outside
    of this aperture are used to create vectors that are predictive of
    the noise. These vectors are then removed from the data.
 
--  `PLDCorrector <https://docs.lightkurve.org/reference/api/lightkurve.correctors.PLDCorrector.html?highlight=pldcorrector>`__:
+-  `PLDCorrector <https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/pldcorrector.py>`__:
    Pixel Level De-correlation (PLD) works by identifying a set of trends
    in the pixels surrounding the target star, and performing linear
    regression to create a combination of these trends that effectively
@@ -132,19 +128,19 @@ various Corrector functions.
 1. How to use *Lightkurve* to access the various data products and create a time series
 ---------------------------------------------------------------------------------------
 
-`Lightkurve <https://docs.lightkurve.org/tutorials/index.html>`__ offers
+`Lightkurve <https://github.com/lightkurve/lightkurve/tree/main/docs/source/tutorials>`__ offers
 a user-friendly way to analyze time series data obtained by telescopes,
 in particular *TESS*. You can search for the various data products for
 *TESS* on MAST using the following *Lightkurve* functions.
 
 -  To look for your object in a full frame image:
-   ```search_tesscut()`` <https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut>`__
+   `search_tesscut() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L855>`__
 
 -  To look for target pixel files:
-   ```search_targetpixelfile()`` <https://docs.lightkurve.org/reference/api/lightkurve.search_targetpixelfile.html?highlight=search_targetpixelfile>`__
+   `search_targetpixelfile() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L594>`__
 
 -  To obtain light curve files for your object of interest:
-   ```search_lightcurve()`` <https://docs.lightkurve.org/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve>`__
+   `search_lightcurve() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L723>`__
 
 For the purpose of this tutorial, we will be examining `KT
 Eri <https://en.wikipedia.org/wiki/KT_Eridani>`__, a bright nova in the
@@ -153,7 +149,7 @@ constellation Eridanus that underwent an eruption in 2009.
 To test our various methods of noise removal, we will be looking at FFI
 data for this object. We can search `MAST <https://mast.stsci.edu>`__
 for TESS FFI data on this object using the
-`search_tesscut() <https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut#lightkurve.search_tesscut>`__
+`search_tesscut() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L855>`__
 function.
 
 .. code:: ipython3
@@ -180,7 +176,7 @@ function.
 We see that there are two sets of data, one from Sector 5 and the other
 from Sector 32. Let’s look at the data from Sector 32. To download the
 data we must specify a cut out size in pixels and use the
-`download() <https://docs.lightkurve.org/reference/search.html?highlight=download>`__
+`download() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L367>`__
 function.
 
 .. code:: ipython3
@@ -209,7 +205,7 @@ sample of pixels from which the correction will be applied.
 **Creating our light curve**
 
 Great! Now we have our data, we can create our light curve using the
-`to_lightcurve() <https://docs.lightkurve.org/reference/api/lightkurve.KeplerTargetPixelFile.to_lightcurve.html?highlight=to_lightcurve#lightkurve.KeplerTargetPixelFile.to_lightcurve>`__
+`to_lightcurve() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/targetpixelfile.py#L550>`__
 function. Our object is in the center, but it is kind of faint in
 comparison to some other objects. We must therefore create our own
 aperture as shown below.
@@ -269,7 +265,7 @@ The CBVCorrector
 Here we will use CBVs to remove our noise.
 
 Check out our `CBV
-tutorial <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.html>`__
+tutorial <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-2-how-to-use-cbvs.ipynb>`__
 for more information.
 
 First, we must import the *CBVCorrector* from *lightkurve.correctors*,
@@ -375,7 +371,7 @@ via a diagnose method.
 
 
 
-.. image:: output_27_0.png
+.. image:: images/NoiseRemoval/output_27_0.png
     :alt: CBV correction
 
 
@@ -595,7 +591,7 @@ background, unlike that which was applied in *RegressionCorrection*.
 
 Note that there are various componants that can be altered in *PLD* most
 of which can be found
-`here <https://docs.lightkurve.org/reference/api/lightkurve.correctors.PLDCorrector.correct.html?highlight=pca_components>`__.
+`here <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/correctors/pldcorrector.py#L304>`__.
 
 Comparison
 ----------
@@ -644,10 +640,10 @@ details of each process.
 
 -  `Removing noise from Kepler, K2, and TESS light curves using
    Cotrending Basis Vectors
-   (CBVCorrector) <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.html>`__
+   (CBVCorrector) <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.ipynb>`__
 -  `Removing scattered light from TESS light curves using linear
    regression
-   (RegressionCorrector) <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-removing-scattered-light-using-regressioncorrector.html>`__
+   (RegressionCorrector) <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-3-removing-scattered-light-using-regressioncorrector.ipynb>`__
 -  `Removing noise from K2 and TESS light curves using Pixel Level
    Decorrelation
-   (PLDCorrector) <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.html>`__
+   (PLDCorrector) <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.ipynb>`__

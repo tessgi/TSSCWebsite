@@ -4,10 +4,10 @@ Cosmic Ray Mitigation
 
 Authors
 -------
-Christina Hedges - Director of the TESS GI Office
+`Christina Hedges <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ - Director of the TESS GI Office
 
-Nicole Schanche - Support scientist in the TESS GI Office
-
+`Nicole Schanche <https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html>`__ -
+Support scientist in the TESS GI Office
 
 How does TESS handle cosmic rays?
 =================================
@@ -240,7 +240,7 @@ Section 4.1.
 
 In the example below, we make use of a TPF file. If you need a refresher
 on how to handle TPF files before proceeding, check out `this
-tutorial <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targetpixelfile-objects.html>`__.
+tutorial <https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/1-getting-started/using-target-pixel-file-products.ipynb>`__.
 
 .. code:: ipython3
 
@@ -337,7 +337,7 @@ simply add the cosmic rays back into the simple aperture photometry
 
 
 
-.. image:: images/SAP_with_CR.png
+.. image:: images/Cosmic-Ray-Primer/SAP_with_CR.png
     :alt: Lightcurve with cosmic rays injected back in
 
 The cosmic rays that are removed are stored in the TPF files. In order

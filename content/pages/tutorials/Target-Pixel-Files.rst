@@ -48,13 +48,13 @@ potential sources of noise or systematic trends.
 
 In this tutorial we’ll cover the basics of working with TPFs in
 *Lightkurve* using the
-`TessTargetPixelFile <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=tesstargetpixelfile>`__
+`TessTargetPixelFile <https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/targetpixelfile.py>`__
 class.
 
 Imports
 -------
 
-This tutorial requires: - `Lightkurve <https://docs.lightkurve.org>`__
+This tutorial requires: - `Lightkurve <https://github.com/lightkurve/lightkurve>`__
 to work with TPF files. - `Matplotlib <https://matplotlib.org/>`__ for
 plotting.
 
@@ -88,7 +88,7 @@ about the astronomical background, and the recommended aperture for
 extracting flux.
 
 You can search for a TPF using the
-`search_targetpixelfile() <https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html#lightkurve.search.search_targetpixelfile>`__
+`search_targetpixelfile() <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L594>`__
 function. This will search for the right file in the MAST data archive.
 
 Note here that ``search_targetpixelfile`` can take several inputs as
@@ -104,7 +104,7 @@ listed below, only the first is required,
 4. The quality of the data you want to obtain. This is set using the
    keyword ``quality_bitmask`` and more information about this and can
    be found
-   `here <https://docs.lightkurve.org/api/lightkurve.utils.KeplerQualityFlags.html#lightkurve.utils.KeplerQualityFlags.DEFAULT_BITMASK>`__.
+   `here <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/utils.py#L220>`__.
 
 In this case we want the Target Pixel File with TESS ID - TIC 307210830,
 which refers to `L 98-59 <https://arxiv.org/pdf/1903.08017.pdf>`__, a
@@ -137,7 +137,7 @@ terrestrial-sized planets.
 
 
 The search function returns a
-`SearchResult <https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html>`__
+`SearchResult <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L75>`__
 object, displaying a list.
 
 In this list, each row represents a different observing period. We find
@@ -228,17 +228,17 @@ Sector.
 It looks like our star is isolated, so we can extract a light-curve by
 simply summing up all the pixel values in each image. To do this we use
 the
-`to_lightcurve <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html#lightkurve.targetpixelfile.KeplerTargetPixelFile.to_lightcurve>`__
+`to_lightcurve <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/targetpixelfile.py#L550>`__
 function which collects the flux of an object from specified pixels,
 i.e., an aperture mask. How to do this is explained within the
-`LightCurve Objects <LightCurve-objects.html>`__ tutorial.
+`LightCurve Objects <LightCurve-object-Tutorial.html>`__ tutorial.
 
 Note
 ~~~~
 
 You can also download TPF FITS files from the archive by hand, store
 them on your local disk, and open them using the
-`lk.open(<filename>) <http://docs.lightkurve.org/api/lightkurve.search.open.html?highlight=open#lightkurve.search.open>`__
+`lk.io.read(<filename>) <https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/io/read.py#L30>`__
 function. This function will return a ``TessTargetPixelFile`` object
 just as in the above example.
 
@@ -908,6 +908,7 @@ cadence number.
 
 You can use normal ``numpy`` methods on these arrays to find the mean
 etc!
+
 
 Understanding the flux
 ^^^^^^^^^^^^^^^^^^^^^^

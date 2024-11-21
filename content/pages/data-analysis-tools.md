@@ -8,14 +8,14 @@ save_as: data-analysis-tools.html
 <p>If you have any tools you would like us to include or highlight, please contact us at <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> or tesshelp@bigbang.gsfc.nasa.gov</p>
 
 ### Lightkurve
-<p><a href = 'https://docs.lightkurve.org/'>Lightkurve</a> is a Python-based package developed by the Kepler/K2 Guest Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to adapt Lightkurve for use with TESS data. </p>
+<p><a href = 'https://github.com/lightkurve/lightkurve/tree/main'>Lightkurve</a> is a Python-based package developed by the Kepler/K2 Guest Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to adapt Lightkurve for use with TESS data. </p>
 <p>Lightkurve functionality includes:
   <li>Searching for, reading, and interacting with the MAST holdings for available FFI, TPF, and LC mission products and high level science products </li>
   <li>Extracting light curves from pixels using custom aperture photometry or custom PSF fitting</li>
   <li>Removing trends or correcting systematics using widely-used, standard methods (SavGol, CBVs, SFF, ...)</li>
   <li>Identifying periodic signals, such as transits or stellar rotation through periodograms</li>
 </p>
-You can access the code, report issues, or submit pull requests at the lightkurve git repository, found <a href = 'https://github.com/lightkurve/lightkurve'> here</a>.
+You can access the code, report issues, or submit pull requests at the <a href = 'https://github.com/lightkurve/lightkurve'>lightkurve git repository</a>.
 
 
 
@@ -47,8 +47,8 @@ In addition to the mission-supported pipeline and lightkurve package, a number o
         </tr>
         <tr>
           <td style="width: 15em;"><a
-          href='https://docs.lightkurve.org/'> Lightkurve</a></td>
-          <td> A user-friendly package for supporting science and performing lightcurve analysis with data from Kepler, K2, and TESS. <a href='https://docs.lightkurve.org/tutorials/index.html#tutorials'> Tutorials can be found here</a>.
+          href='https://github.com/lightkurve/lightkurve/tree/main'> Lightkurve</a></td>
+          <td> A user-friendly package for supporting science and performing lightcurve analysis with data from Kepler, K2, and TESS. <a href='https://github.com/lightkurve/lightkurve/tree/main/docs/source/tutorials'> Tutorials can be found here</a>.
           </td>
         </tr>
         <tr>
@@ -124,6 +124,12 @@ In addition to the mission-supported pipeline and lightkurve package, a number o
             <td>Tools to display the TESS pixel response function (PRF) at any location on the detector.
             </td>
           </tr>
+            <tr>
+            <td style="width: 15em;"><a
+            href='https://github.com/lightkurve/lkprf/tree/main'>lkprf</a></td>
+            <td>Tools to work with the TESS pixel response function (PRF) files for Kepler and TESS.
+            </td>
+          </tr>
           <tr>
             <td style="width: 15em;"><a
             href='https://github.com/CheerfulUser/TESSreduce'>TESSreduce</a></td>
@@ -138,11 +144,18 @@ In addition to the mission-supported pipeline and lightkurve package, a number o
   <div class="accordion" id="accordionCommunityTools">
     <div class="accordion-item">
       <h2 class="accordion-header" id="headingPosition">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePosition" aria-expanded="true" aria-controls="collapsePosition">Positional Tools</button>
+        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsePosition" aria-expanded="true" aria-controls="collapsePosition">Data Access and Positional Tools</button>
       </h2>
       <div id="collapsePosition" class="accordion-collapse collapse" aria-labelledby="headingPosition" data-bs-parent="#accordionCommunityTools" style="">
         <div class="accordion-body">
           <table class="table table-striped table-hover" style="max-width:55em;">
+          <tr>
+            <td style="width: 15em;"><a
+            href='https://github.com/lightkurve/lksearch'>lksearch</a></td>
+            <td> Allows users to search for and download mission products from TESS, Kepler, and K2, including access to cloud-based products. Also enables cross-catalog searches. 
+            </td>
+          </tr>
+          <tr>
           <tr>
             <td style="width: 15em;"><a
             href='https://pypi.org/project/tesswcs/'>tesswcs</a></td>
