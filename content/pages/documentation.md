@@ -95,7 +95,7 @@ TESS](https://archive.stsci.edu/tess/index.html#documents).
 </table>
 
 ## TESS Observatory Guide
-A number of documents have been created to describe the TESS mission. An initial document which might be useful to a first time user is the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. Although now dated, and superceded by the updated content of this website and the [TESS Instrument Handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf), this guide provides a comprehensive description of the TESS observatory design, operations, and capabilities. Note that the proposal section of the guide refers to the prime mission only and that users wishing to submit a GI proposal in the extended mission should refer to the extended mission [Guest Investigator page](proposing.html).
+A number of documents have been created to describe the TESS mission. An initial document which might be useful to a first time user is the **[TESS Observatory Guide](docs/TESS_observatory_guide_v1.1.pdf)**. Although now dated, and superceded by the updated content of this website and the [TESS Instrument Handbook](https://archive.stsci.edu/missions/tess/doc/TESS_Instrument_Handbook_v0.1.pdf), this guide provides a comprehensive description of the TESS observatory design, operations, and capabilities. Note that the proposal section of the guide refers to the prime mission only and that users wishing to submit a GI proposal in the extended mission should refer to the extended mission [Guest Investigator page](proposing-investigations.html).
 
 
 ## TESS project papers

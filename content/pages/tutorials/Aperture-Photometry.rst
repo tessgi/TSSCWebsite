@@ -48,7 +48,7 @@ modify it if you wish.
 Imports
 -------
 
-This tutorial requires: - `Lightkurve <https://docs.lightkurve.org>`__ -
+This tutorial requires: - `Lightkurve <https://lightkurve.github.io/lightkurve/index.html>`__ -
 `Matplotlib <https://matplotlib.org/>`__ - `numpy <https://numpy.org>`__
 
 Defining terms
@@ -189,7 +189,7 @@ object of interest.
 
 Using the provided optimal aperture in ``pipeline_mask`` and the TPF we
 can perform simple aperture photometry via the
-`extract_aperture_photometry <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.extract_aperture_photometry>`__
+`extract_aperture_photometry <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.KeplerTargetPixelFile.extract_aperture_photometry.html?highlight=extract_aperture_photometry>`__
 function as shown below,
 
 .. code:: ipython3
@@ -244,7 +244,7 @@ You don’t necessarily have to pass in the ``pipeline_mask`` to the
 ``plot()`` function, it can be any mask you choose yourself, provided it
 is the right shape. We will now explain how to adjust this mask using
 the
-`create_threshold_mask <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask>`__
+`create_threshold_mask <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.KeplerTargetPixelFile.create_threshold_mask.html?highlight=create_threshold_mask>`__
 function. This method will identify the pixels in the TPF which show a
 median flux that is brighter than threshold times the standard deviation
 above the overall median. The standard deviation is estimated in a

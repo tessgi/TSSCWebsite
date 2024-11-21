@@ -47,7 +47,7 @@ Imports
 -------
 
 This tutorial requires the use of specific packages: -
-`Lightkurve <https://docs.lightkurve.org/index.html>`__ to work with
+`Lightkurve <https://lightkurve.github.io/lightkurve/index.html>`__ to work with
 *TESS* data (v2.0.1) - `Matplotlib <https://matplotlib.org/>`__ for
 plotting. - `Numpy <https://numpy.org>`__ for manipulating the data.
 
@@ -89,7 +89,7 @@ For exoplanets, if this excess flux is not removed, it can cause a
 decrease in the apparent planet transit depth and lead to a systematic
 underestimation of the planet radii.
 
-`LightCurve Objects <https://docs.lightkurve.org/tutorials/1-getting-started/what-are-lightcurve-objects.html>`__
+`LightCurve Objects <https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.htmll>`__
 have been corrected for this crowding via the data processing pipeline
 developed by the Science Processing Operations Center (SPOC). A
 description of this correction and its application is provided in
@@ -290,7 +290,7 @@ crowding.
 As indicated above, the SAP light curve is effected by scattered light
 and noise. We must remove this before correcting for crowding. To do
 this, we can used one of *Lighkurves* built in corrector functions, in
-this case `Pixel Level Decorrelation (PLD) <https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.html>`__.
+this case `Pixel Level Decorrelation (PLD) <https://lightkurve.github.io/lightkurve/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.html>`__.
 
 The inputs required are the TPF, the aperture, and the number of
 principal componants.

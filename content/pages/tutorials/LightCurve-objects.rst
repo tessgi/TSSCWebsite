@@ -14,7 +14,7 @@ examine the ``metadata`` stored in the headers.
 
 In this tutorial we will learn the following, - How to use *Lightkurve*
 to create a
-`TESSLightCurve <https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html#lightkurve.lightcurve.TessLightCurve>`__
+`TESSLightCurve <https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/using-light-curve-file-products.html?highlight=tesslightcurve>`__
 object. - How to examine the object data, and understand its format. -
 What is simple aperture photometry (SAP). - How to plot a light curve.
 
@@ -75,7 +75,7 @@ System <https://arxiv.org/pdf/1903.08017.pdf>`__ focusing on planet c.
 
 First we search for appropriate Target Pixel Files on
 `MAST <https://archive.stsci.edu/tess/>`__ using the
-`search_targetpixelfile <https://docs.lightkurve.org/api/lightkurve.search.search_targetpixelfile.html?highlight=search_targetpixelfile>`__
+`search_targetpixelfile <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.search_targetpixelfile.html?highlight=search_targetpixelfil#lightkurve-search-targetpixelfile>`__
 function.
 
 .. code:: ipython3
@@ -125,12 +125,12 @@ Creating and analizing the LightCurve object
 
 Great we now have our TPF! Lets convert this TPF into a
 ``TessLightCurve`` object using the
-`to_lightcurve <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html#lightkurve.targetpixelfile.TessTargetPixelFile.to_lightcurve>`__
+`to_lightcurve <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.KeplerTargetPixelFile.to_lightcurve.html?highlight=to_lightcurve>`__
 function.
 
 To create the SAP lightcurve we will pass an **aperture_mask** to the
 ``to_lightcurve`` function. The default is to use the
-`SPOC <https://heasarc.gsfc.nasa.gov/docs/tess/pipeline.html>`__
+`SPOC <https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ/abstract>`__
 pipeline aperture, which sums all the pixels in its defined mask.
 
 .. code:: ipython3
@@ -221,7 +221,7 @@ You can also check the Combined Differential Photometric Precision
 (CDPP) RMS per transit duration noise metric (see `Gilliland et al.,
 2011 <https://iopscience.iop.org/article/10.1088/0067-0049/197/1/6/pdf>`__
 for more details) of the light curve using the built in method
-`estimate_cdpp <https://docs.lightkurve.org/api/lightkurve.lightcurve.FoldedLightCurve.html#lightkurve.lightcurve.FoldedLightCurve.estimate_cdpp>`__:
+`estimate_cdpp <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.LightCurve.estimate_cdpp.html?highlight=estimate_cdpp>`__:
 
 .. code:: ipython3
 
@@ -262,20 +262,20 @@ Manipulating the light curve
 ----------------------------
 
 There are a set of useful functions in
-`LightCurve <https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve>`__
+`LightCurve <https://lightkurve.github.io/lightkurve/index.html>`__
 objects which you can use to work with the data. These include: \*
-`flatten() <https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.flatten>`__:
+`flatten() <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.LightCurve.flatten.html?highlight=flatten#lightkurve.LightCurve.flatten>`__:
 Remove long term trends using a `Savitzky–Golay
 filter <https://en.wikipedia.org/wiki/Savitzky%E2%80%93Golay_filter>`__
 \*
-`remove_outliers() <https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_outliers>`__:
+`remove_outliers() <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.LightCurve.remove_outliers.html?highlight=remove_outliers>`__:
 Remove outliers using simple sigma clipping \*
-`remove_nans() <https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.remove_nans>`__:
+`remove_nans() <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.LightCurve.remove_nans.html?highlight=remove_nans>`__:
 Remove infinite or NaN values (these can occur during thruster firings)
 \*
-`fold() <https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.fold>`__:
+`fold() <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.LightCurve.fold.html?highlight=fold>`__:
 Fold the data at a particular period \*
-`bin() <https://docs.lightkurve.org/api/lightkurve.lightcurve.LightCurve.html#lightkurve.lightcurve.LightCurve.bin>`__:
+`bin() <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.periodogram.Periodogram.bin.html?highlight=bin#lightkurve.periodogram.Periodogram.bin>`__:
 Reduce the time resolution of the array, taking the average value in
 each bin.
 

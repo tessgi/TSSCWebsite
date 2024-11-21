@@ -1,6 +1,6 @@
 Title: Citizen Science
 template: slide
-save_as: citizen_science.html
+save_as: citizenscience.html
 
 Citizen science projects are collaborations between scientists and members of the public. In these collaborations, volunteers - referred to as citizen scientists - have helped make thousands of important scientific discoveries. You can find more information about NASA citizen science projects <a href = "https://science.nasa.gov/citizen-science/" target = "_blank"> here</a>. 
 

@@ -124,7 +124,7 @@ MENUITEMS = (
           ('Education Resources', (
             ('What is TESS?', 'what-is-tess.html'),
             ('TESS Statistics', 'statistics.html'),
-            ('Citizen Science', 'citizen_science.html'),
+            ('Citizen Science', 'citizenscience.html'),
             ('Outreach Materials', 'outreach.html'),
                     )
         ),
@@ -132,8 +132,8 @@ MENUITEMS = (
         ('Science Resources', (
             ('Telescope Information', 'telescope_information.html'),
             ('Sector Information', 'sector.html'),
-            #('TESS Data', 'data_pipeline.html'),
-            ('Data Products', 'data_products.html'),
+            #('TESS Data', 'data-handling.html'),
+            ('Data Products', 'data-products.html'),
             ('Follow-up Program', 'tfop.html'),
             ('Users Committee', 'tuc.html'),
             ('Media Requests', 'mediarequest.html'),
@@ -143,8 +143,8 @@ MENUITEMS = (
         ),
         ('Tools and Tutorials', (
             ('Tutorials', 'tutorial_landing.html'),
-            ('Data Analysis Tools', 'community.html'),
-            #('Proposal Tools', 'proposing_tools.html'),
+            ('Data Analysis Tools', 'data-analysis-tools.html'),
+            #('Proposal Tools', 'proposal-tools.html'),
             ('TESS-point Web Tool', 'https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py'),
             ('TIC Info Web Tool', 'ticinfo_placeholder.html'),
             #'tesspoint.html'),
@@ -152,7 +152,7 @@ MENUITEMS = (
                     )
         ),
         ('Propose for Observations', (
-            ('How to Propose', 'proposing.html'),
+            ('How to Propose', 'proposing-investigations.html'),
             ('Previous Approved Programs', 'approved-programs.html'),
             ('Director\'s Discretionary Targets', 'ddt.html')
                     )

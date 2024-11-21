@@ -3,7 +3,7 @@ Save_as: tutorial_landing.html
 
 
 
-<p style='max-width: 95%'>Below we list tutorials that will help new users understand TESS data products and learn to use python tools to explore the data. Please note that these tutorials use Lightkurve v2.0. For more information and up-to-date tutorials specific to lightkurve, see the <a href='https://docs.lightkurve.org/tutorials/index.html'>Lightkurve tutorials</a>.</p>
+<p style='max-width: 95%'>Below we list tutorials that will help new users understand TESS data products and learn to use python tools to explore the data. Please note that these tutorials use Lightkurve v2.0. For more information and up-to-date tutorials specific to lightkurve, see the <a href='https://lightkurve.github.io/lightkurve/tutorials/index.html'>Lightkurve tutorials</a>.</p>
 ###
 
 <table class="table table-striped table-hover" style="max-width:95%;">
@@ -103,7 +103,7 @@ Save_as: tutorial_landing.html
 
 In addition to the above tutorials written by the TESS Science Support Center, there are several other resources for finding and using TESS data. Please check out the links below for more information. 
 
-* Tutorials on how to use TESS data with the lightkurve package specifically can be found [here](https://docs.lightkurve.org/tutorials/).
+* Tutorials on how to use TESS data with the lightkurve package specifically can be found [here](https://lightkurve.github.io/lightkurve/tutorials/).
 * Data search tutorials from MAST can be found [here](https://outerspace.stsci.edu/display/TESS/6.0+-+Data+Search+Tutorials).
 * Python notebooks from MAST for TESS can be found [here](https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/TESS).
 * Python notebooks from MAST for Kepler mission can be found [here](https://github.com/spacetelescope/notebooks/tree/master/notebooks/MAST/Kepler).

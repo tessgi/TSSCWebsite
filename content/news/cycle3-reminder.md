@@ -9,7 +9,7 @@ October. Proposals are due on January 16, 2020 at 4.30pm EST.
 We encourage those interested in submitting a proposal to carefully
 read the
 [Call for Proposals](https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&path=open)
-and the information available on our website regarding [proposing investigations](proposing.html).
+and the information available on our website regarding [proposing investigations](proposing-investigations.html).
 
 We remind proposers that in Cycle 3, two new observing modes will potentially be available and collected: 10-minute cadence full-frame images and 20-second cadence postage stamps at "shared risk". Modifications to the observing plan are possible following testing and evaluation by the project. A 2-minute cadence mode will also be available as in previous cycles. 
 
@@ -26,11 +26,11 @@ can determine when a target is expected to be observed by TESS.
 
 Proposers may also be interested in the templates we have created to
 assist in putting together a proposal. [The templates can be found on
-our website.](proposing.html)
+our website.](proposing-investigations.html)
 
 Proposers requesting short-cadence target slots (either 20-second or
 2-minute cadence) need to submit a target list along with the
-proposal. Information on [how to create a target table](proposing.html) can be found on our website. MAST has also created a [tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) to create an appropriate list.
+proposal. Information on [how to create a target table](proposing-investigations.html) can be found on our website. MAST has also created a [tutorial](https://archive.stsci.edu/tess/tutorials/goddard_format.html) to create an appropriate list.
 
 Any questions regarding proposing to the TESS Cycle 3 call should be
 addressed to [tesshelp@bigbang.gsfc.nasa.gov](tesshelp@bigbang.gsfc.nasa.gov).

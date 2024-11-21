@@ -15,9 +15,7 @@ tutorial <Target-Pixel-File-Tutorial.html>`__) using Simple Aperture Photometry
 (SAP).
 
 In this tutorial we will demonstrate the difference between a
-`TESSLightCurve <https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html?highlight=tesslightcurve>`__
-and a
-`TESSLightCurveFile <https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=tesslightcurvefiles>`__,
+``TESSLightCurve`` and a ``TESSLightCurveFile``,
 and will cover the following, - What is a ``LightCurveFile``. - What is
 Pre-search Data Conditioning SAP flux (PSDCSAP). - How can we examine
 its ``metadata``. - How we use it to create and examine an objects
@@ -83,10 +81,8 @@ Defining terms
 Downloading the data
 --------------------
 
-We can read in a light curve file from the TESS mission using
-`TESSLightCurveFile <https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=esslightcurvefile>`__.
 We can use the
-`search_lightcurve() <https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile>`__
+`search_lightcurve() <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve>`__
 function to fetch the files from the data archive.
 
 To demonstrate, lets use the `L 98-59
@@ -121,11 +117,11 @@ planet c.
 The ``search_lightcurve`` function takes several additional arguments,
 such as the ``sector`` number or the ``mission`` name. You can find
 examples of its use in the `online
-documentation <https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile>`__.
+documentation <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve>`__.
 
 Like ``search_targetpixelfile`` the ``search_lightcurve`` function
 returns a
-`SearchResult <https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html>`__
+`SearchResult <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.SearchResult.html?highlight=searchresult>`__
 object which has several convenient operations. For example, we can
 select the first data product in the list as follows,
 
@@ -154,7 +150,7 @@ We can download this data product using the download() method:
     lcf = search_result[0].download()
 
 The ``lcf`` variable we have obtained in this way is a
-`TessLightCurve <http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html>`__
+`TessLightCurve <https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.html?highlight=tesslightcurve>`__
 object. This object contains time, flux and flux error information, as
 well as a whole lot of data about spacecraft systematics. We can view
 all of them by calling the object by itself:
@@ -219,7 +215,7 @@ SAP and PDCSAP light curves
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 By default, a
-`TESSLightCurveFiles <http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html>`__
+`TESSLightCurveFiles <https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.html?highlight=tesslightcurve>`__
 will set the PDCSAP flux to its ``.flux`` property.
 
 To compare the PDCSAP and the SAP flux, we can use the ``column``

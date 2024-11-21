@@ -1,6 +1,6 @@
 Title: TESS Data Products Information
 template: slide
-save_as: data_products.html
+save_as: data-products.html
 
 <!DOCTYPE html>
 <html>
@@ -16,7 +16,7 @@ save_as: data_products.html
 
 <h2>Types of TESS Data Products</h2>
 <br>
-TESS identifies targets from a target list onboard the computer, and selects small pixel cut outs around those regions. The FFIs and pixel cut outs are downlinked. The FFIs are then sent to the MAST archive; the pixel cut outs are processed by <a class='nav-lin' href="data_pipeline.html">SPOC</a> into TPFs, and then LCFS. The process is illustrated below. To learn more about these data product, explore the tabs below.</br> 
+TESS identifies targets from a target list onboard the computer, and selects small pixel cut outs around those regions. The FFIs and pixel cut outs are downlinked. The FFIs are then sent to the MAST archive; the pixel cut outs are processed by <a class='nav-lin' href="data-handling.html">SPOC</a> into TPFs, and then LCFS. The process is illustrated below. To learn more about these data product, explore the tabs below.</br> 
 <img src="images/pages/tess_ffi_phot.png" class="img-responsive"><figcaption>Pictoral representation of the different TESS data product types. Note that 30-minute FFIs were provided for the primary mission (Cycles 1 and 2). This cadence of FFI images was reduced during subsequent mission extensions. </figcaption></img>
 <br></br>
 

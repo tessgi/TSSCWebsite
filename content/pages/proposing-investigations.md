@@ -1,6 +1,6 @@
 Title: Proposing to the TESS General Investigator program
 template: slide
-save_as: proposing.html
+save_as: proposing-investigations.html
 
 <!DOCTYPE html>
 <html>

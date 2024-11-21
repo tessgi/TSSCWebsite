@@ -24,7 +24,7 @@ select pixels programmatically.
 First, let’s load a target pixel file. Let’s choose Gaia object
 DR25290850609994130560. This object was observed in TESS FFI data. We’ll
 use the
-`search_tesscut <https://docs.lightkurve.org/api/lightkurve.search.search_tesscut.html>`__
+`search_tesscut <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut>`__
 function to download a cut out of the target in a single sector. You can
 determine which sectors the target was observed in using the `MAST TESS
 portal <https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html>`__.
@@ -32,7 +32,7 @@ portal <https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html>`__.
 Imports
 -------
 
-This tutorial requires: - `Lightkurve <https://docs.lightkurve.org>`__ -
+This tutorial requires: - `Lightkurve <https://lightkurve.github.io/lightkurve/index.html>`__ -
 `Matplotlib <https://matplotlib.org/>`__ - `numpy <https://numpy.org>`__
 
 .. code:: ipython3
@@ -103,7 +103,7 @@ Lets plot the data.
 Our object of interest should be located at the center of the image.
 There however appears to be a bright star near by, is this our object?
 We can check by using the
-`interact_sky <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.KeplerTargetPixelFile.html?highlight=interact_sky#lightkurve.targetpixelfile.KeplerTargetPixelFile.interact_sky>`__
+`interact_sky <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.KeplerTargetPixelFile.interact_sky.html?highlight=interact_sky>`__
 function which can overlay Gaia objects.
 
 .. code:: ipython3
@@ -138,7 +138,7 @@ object and not the bright object.
 
 Because we created this TPF from a FFI there is no predefined SPOC
 aperture and as such we have to make our own. We can do this via the
-`create_threshold_mask <https://docs.lightkurve.org/api/lightkurve.targetpixelfile.TessTargetPixelFile.html?highlight=create_threshold_mask#lightkurve.targetpixelfile.TessTargetPixelFile.create_threshold_mask>`__.
+`create_threshold_mask <https://lightkurve.github.io/lightkurve/reference/api/lightkurve.KeplerTargetPixelFile.create_threshold_mask.html?highlight=create_threshold_mask>`__.
 This method will identify the pixels in the TPF which show a median flux
 that is brighter than threshold times the standard deviation above the
 overall median. The standard deviation is estimated in a robust way by
