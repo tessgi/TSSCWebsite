@@ -161,7 +161,7 @@ TESS identifies targets from a target list onboard the computer, and selects sma
           Co-trending basis vectors (CBVs) represent the set of systematic trends present in the ensemble flux data. CBVs are provided for each operational sector of the mission.
           </br>
           <br>
-          CBVs are calcualted by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. CBVs can be utilized for manual photometric correction more tailored towards the user's science. To learn more about CBVs and how to use them, check out <a href="https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-2-how-to-use-cbvs.html">this tutorial</a>.
+          CBVs are calcualted by the TESS pipeline from a Principle Component Analysis and used to mitigate systematic artifacts within the target light curves. CBVs can be utilized for manual photometric correction more tailored towards the user's science. To learn more about CBVs and how to use them, check out <a href="https://lightkurve.github.io/lightkurve/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.html">this tutorial</a>.
           </br>
         </div>
       </div>
