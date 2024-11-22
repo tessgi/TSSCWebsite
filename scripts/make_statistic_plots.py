@@ -281,7 +281,7 @@ def make_static_publication_bar_chart(results, image_path="content/images/statis
         
     fig, ax = plt.subplots(1, figsize=(12, 7))
     ax.yaxis.grid()
-    plot_years = [y.year for y in years][1:]
+    plot_years = [y.year for y in years][:-1]
 
     ax.bar(
         plot_years,
