@@ -124,6 +124,7 @@ MENUITEMS = (
           ('Education Resources', (
             ('What is TESS?', 'what-is-tess.html'),
             ('TESS Statistics', 'statistics.html'),
+            ('TESS Publications', 'publications.html'),
             ('Citizen Science', 'citizenscience.html'),
             ('Outreach Materials', 'outreach.html'),
                     )

@@ -89,7 +89,7 @@ For exoplanets, if this excess flux is not removed, it can cause a
 decrease in the apparent planet transit depth and lead to a systematic
 underestimation of the planet radii.
 
-`LightCurve Objects <https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.htmll>`__
+`LightCurve Objects <https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.html>`__
 have been corrected for this crowding via the data processing pipeline
 developed by the Science Processing Operations Center (SPOC). A
 description of this correction and its application is provided in
