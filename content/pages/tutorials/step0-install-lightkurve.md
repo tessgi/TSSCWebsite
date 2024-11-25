@@ -1,8 +1,6 @@
 Title: Step-0: How to get lightkurve running on your machine
 Save_as: step0-install-lightkurve.html
 
-[TOC]
-
 **Introduction to "An introduction into the tools and tutorials available for the analysis of TESS data" a.k.a. Step-0 **
 
 ## Motivation
@@ -25,7 +23,7 @@ Practically speaking, the [subsequent TESS/Lightkurve tutorials](https://heasarc
 
 **Why do we assume this?**
 
-[Lightkurve](https://docs.Lightkurve.org/) is a Python package that will be the basis of the subsequent tutorials as it has been designed to work with time-series data from the Kepler and TESS satellites, and is great for data interaction, exploration, and analysis as it incorporates many tools that the community might want for working with TESS data.  
+[Lightkurve](https://lightkurve.github.io/lightkurve/index.html) is a Python package that will be the basis of the subsequent tutorials as it has been designed to work with time-series data from the Kepler and TESS satellites, and is great for data interaction, exploration, and analysis as it incorporates many tools that the community might want for working with TESS data.  
 
 To work with Lightkurve in these tutorials, we want an environment that will allow us to rapidly and interactively explore and analyze TESS data with a visible workflow, and to share this workflow with others.  To do this, we plan to write our Python analyses/code inside of [Jupyter Notebooks](https://jupyter.org/), which describe themselves as a 'web-based interactive computing platform that combines live code, equations, narrative text, visualizations, and more'.  They are a great way to explore data and to share code, analyses, and results like we do in the subsequent tutorials, and run in your browser once set up. Their usage has also become incredibly common across both many scientific fields as well as industry usage in some fields such as data science and business analytics. 
 

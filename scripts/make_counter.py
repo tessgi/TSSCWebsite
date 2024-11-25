@@ -22,10 +22,12 @@ job_date= soup.find_all("div", class_="date")
 job_stat = soup.find_all("div", class_="stat")
 
 dates = [job_date[0].text.strip(),job_date[1].text.strip(),job_date[2].text.strip()]
+print(dates)
 stat = [job_stat[0].text.strip(),job_stat[1].text.strip(),job_stat[2].text.strip()]
+print(stat)
 
 #Convert str into int
-conf_planets = int(stat[0].replace(',', ''))
+conf_planets = int(stat[1].replace(',', ''))
 
 #Get the current date 
 current_date = date.today()

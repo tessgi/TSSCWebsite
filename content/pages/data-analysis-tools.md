@@ -8,7 +8,7 @@ save_as: data-analysis-tools.html
 <p>If you have any tools you would like us to include or highlight, please contact us at <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> or tesshelp@bigbang.gsfc.nasa.gov</p>
 
 ### Lightkurve
-<p><a href = 'https://github.com/lightkurve/lightkurve/tree/main'>Lightkurve</a> is a Python-based package developed by the Kepler/K2 Guest Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to adapt Lightkurve for use with TESS data. </p>
+<p><a href = 'https://lightkurve.github.io/lightkurve/'>Lightkurve</a> is a Python-based package developed by the Kepler/K2 Guest Observer (GO) Office for use by the community to work with Kepler and K2 data. The TESS GI Office has partnered with the Kepler/K2 GO Office to adapt Lightkurve for use with TESS data. </p>
 <p>Lightkurve functionality includes:
   <li>Searching for, reading, and interacting with the MAST holdings for available FFI, TPF, and LC mission products and high level science products </li>
   <li>Extracting light curves from pixels using custom aperture photometry or custom PSF fitting</li>
