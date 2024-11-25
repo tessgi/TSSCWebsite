@@ -12,8 +12,8 @@ from tqdm import tqdm
 PROPOSALS_URL = "https://heasarc.gsfc.nasa.gov/docs/tess/data/approved-programs/"
 TARGETS_URL = "https://heasarc.gsfc.nasa.gov/docs/tess/data/target_lists"
 
-approved_programs = pd.read_csv('content/data/approved-programs/approved_program_list.csv').values
-fnames = np.sort(glob("content/data/approved-programs/cycle*/*.txt"))
+approved_programs = pd.read_csv('../content/data/approved-programs/approved_program_list.csv').values
+fnames = np.sort(glob("../content/data/approved-programs/cycle*/*.txt"))
 
 attrs = ['Title', 'PI', 'Type', 'Summary']
 htmlstrs = []
@@ -27,35 +27,35 @@ for fname in tqdm(fnames):
     data['Type'] = data['Type'].capitalize()
     cycle = fname.split('/')[-2][5:]
     data['Cycle'] = f"Cycle {cycle}"
-    if data['Proposal ID'] in approved_programs:
-        htmlstrs.append(f"""
-        <tr>
-            <th scope="row">{data['Proposal ID']}</th>
-            <td>{data['PI']}</td>
-            <td>
-                <div class="accordion accordion-flush" id="accordion{data['Proposal ID']}">
-                    <div class="accordion-item">
-                        <h2 class="accordion-header" id="flush-heading{data['Proposal ID']}">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#flush-collapse{data['Proposal ID']}" aria-expanded="false" aria-controls="flush-collapse{data['Proposal ID']}">
-                            <a href="{PROPOSALS_URL}{fname.split('/')[-2]}/{fname.split('/')[-1]}/{data['Proposal ID']}.txt"
-                            target="_blank">{data['Title']}</a>
-                        </button>
-                        </h2>
-                        <div id="flush-collapse{data['Proposal ID']}" class="accordion-collapse collapse" aria-labelledby="flush-heading{data['Proposal ID']}"
-                        data-bs-parent="#accordion{data['Proposal ID']}">
-                        <div class="accordion-body">{data['Summary']}
-                        <br><br>
-                        <a href="{TARGETS_URL}">Target List</a>
-                        </div>
-                        </div>
+    #if data['Proposal ID'] in approved_programs:
+    htmlstrs.append(f"""
+    <tr>
+        <th scope="row">{data['Proposal ID']}</th>
+        <td>{data['PI']}</td>
+        <td>
+            <div class="accordion accordion-flush" id="accordion{data['Proposal ID']}">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-heading{data['Proposal ID']}">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapse{data['Proposal ID']}" aria-expanded="false" aria-controls="flush-collapse{data['Proposal ID']}">
+                        <a href="{PROPOSALS_URL}{fname.split('/')[-2]}/{fname.split('/')[-1]}/{data['Proposal ID']}.txt"
+                        target="_blank">{data['Title']}</a>
+                    </button>
+                    </h2>
+                    <div id="flush-collapse{data['Proposal ID']}" class="accordion-collapse collapse" aria-labelledby="flush-heading{data['Proposal ID']}"
+                    data-bs-parent="#accordion{data['Proposal ID']}">
+                    <div class="accordion-body">{data['Summary']}
+                    <br><br>
+                    <a href="{TARGETS_URL}">Target List</a>
+                    </div>
                     </div>
                 </div>
-            </td>
-            <td>{data['Cycle']}</td>
-            <td>{data['Type']}</td>
-        </tr>
-        """)
+            </div>
+        </td>
+        <td>{data['Cycle']}</td>
+        <td>{data['Type']}</td>
+    </tr>
+    """)
 
 rows = '\n'.join(htmlstrs)
 
@@ -76,5 +76,5 @@ htmlstr = f"""<table data-toggle="table" data-pagination="true" data-search="tru
     </thead>
 </table>"""
 
-with open("htmlcontent/tables/approved-programs.table.html", "w") as file:
+with open("../htmlcontent/tables/approved-programs.table.html", "w") as file:
     file.write(htmlstr)

@@ -153,7 +153,7 @@ MENUITEMS = (
         ),
         ('Propose for Observations', (
             ('How to Propose', 'proposing-investigations.html'),
-            ('Previous Approved Programs', 'approved-programs.html'),
+            ('Previous GI Programs', 'approved-programs.html'),
             ('Director\'s Discretionary Targets', 'ddt.html')
                     )
         ),
