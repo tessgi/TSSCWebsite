@@ -38,14 +38,16 @@ for fname in tqdm(fnames):
                     <h2 class="accordion-header" id="flush-heading{data['Proposal ID']}">
                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                         data-bs-target="#flush-collapse{data['Proposal ID']}" aria-expanded="false" aria-controls="flush-collapse{data['Proposal ID']}">
-                        <a href="{PROPOSALS_URL}{fname.split('/')[-2]}/{fname.split('/')[-1]}/{data['Proposal ID']}.txt"
-                        target="_blank">{data['Title']}</a>
+                        {data['Title']}
                     </button>
                     </h2>
                     <div id="flush-collapse{data['Proposal ID']}" class="accordion-collapse collapse" aria-labelledby="flush-heading{data['Proposal ID']}"
                     data-bs-parent="#accordion{data['Proposal ID']}">
-                    <div class="accordion-body">{data['Summary']}
-                    <br><br>
+                    <div class="accordion-body">
+                    <a href="{PROPOSALS_URL}{fname.split('/')[-2]}/{data['Proposal ID']}.txt"target="_blank">{data['Proposal ID']} Targets </a>
+                    <br></br>
+                    {data['Summary']}
+                    <br></br>
                     <a href="{TARGETS_URL}">Target List</a>
                     </div>
                     </div>
