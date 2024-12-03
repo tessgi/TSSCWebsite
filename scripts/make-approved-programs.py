@@ -28,6 +28,10 @@ for fname in tqdm(fnames):
     cycle = fname.split('/')[-2][5:]
     data['Cycle'] = f"Cycle {cycle}"
     #if data['Proposal ID'] in approved_programs:
+    if data['Proposal ID'] in approved_programs:
+        selected = 'True'
+    else:
+        selected = 'False'
     htmlstrs.append(f"""
     <tr>
         <th scope="row">{data['Proposal ID']}</th>
@@ -56,6 +60,7 @@ for fname in tqdm(fnames):
         </td>
         <td>{data['Cycle']}</td>
         <td>{data['Type']}</td>
+        <td>{selected}</td>
     </tr>
     """)
 
@@ -70,6 +75,7 @@ htmlstr = f"""<table data-toggle="table" data-pagination="true" data-search="tru
             <th data-field="title" scope="col">Title</th>
             <th data-sortable="true" data-field="cycle" scope="col">Cycle</th>
             <th data-sortable="true" data-field="type" scope="col">Type</th>
+            <th data-sortable="true" data-field="selected" scope="col">Selected</th>
         </tr>
     </thead>
     <tbody>
