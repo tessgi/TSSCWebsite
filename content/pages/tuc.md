@@ -25,13 +25,17 @@ The [TUC Charter](data/TUC/TESS_Users_Committee_Charter_2023Aug15.pdf) describes
 
 ### Committee Reports
 <ul>
-    <li><a href="data/TUC/TESS-Users-Committee-Meeting-Report-1-240308.pdf">Report from March 08, 2024 meeting</a>
-	<ul>
-        <li><a href="data/TUC/TUC-Community-Survey-Summary-Part-1.pdf">TUC Community Survey Summary Slides</a></li>
-        <li><a href="data/TUC/TUC-Community-Survey-Summary-Part-2.pdf">TUC Community Survey Summary Document</a></li>
-	</ul>
-    <li><a href="data/TUC/TESS-Users-Committee-Meeting-Report-240108.pdf">Report from January 8, 2024 meeting</a>
-    <li><a href="data/TUC/TESS-Users-Committee-Meeting-Report-Nov082023.pdf">Report from December 14, 2023 meeting</a>
+<li><a href="data/TUC/TESS-Users-Committee-Meeting-Report-1-240308.pdf" target='blank'>Report from November 08, 2023 meeting</a></li>
 
-</li>
+<li><a href="data/TUC/TUC-Community-Survey-Summary-Part-1.pdf" target='blank'>TUC Community Survey Summary Slides</a></li>
+
+<li><a href="data/TUC/TUC-Community-Survey-Summary-Part-2.pdf" target='blank'>TUC Community Survey Summary Document</a></li>
+
+<li><a href="data/TUC/TSC3-TUC-Session-Combined.pdf" target='blank'>TSC3 TUC Session Combined Slides</a></li>
+
+<li><a href="data/TUC/TSC3_TUC_Session_Summary_240829.pdf" target='blank'>TSC3 TUC Session Summary Document</a></li>
+
 </ul>
+
+
+*Modified September 10th 2024*
