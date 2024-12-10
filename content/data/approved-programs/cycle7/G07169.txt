@@ -1,0 +1,13 @@
+# TESS Program G07169
+
+Title: Exploring The Outbursts Of Outbursting White Dwarfs
+
+PI: Clark, Ian - Iowa State University
+
+Type: MINI
+
+Summary: Due to the characteristics of outbursting white dwarfs, they can only be properly observed using long time span space-based observations that can only be provided by TESS. We propose five known outbursting white dwarfs to be observed so that additional outbursts may be found for these targets. If found, these further outbursts will lead to the improvement of the definition of the characteristics of these outbursters, particularly for those targets whose outbursts recur less than once per TESS sector.
+
+
+# Sector 087 targets observed (2 min: 1, 20 s: 1)
+382303117,83.2785,-56.0647,15.96,G07084;G07036;G07169;20SECONDTARGET
