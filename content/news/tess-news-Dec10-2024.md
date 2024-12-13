@@ -20,11 +20,14 @@ RR Lyrae stars are pulsating low-mass variable stars residing in the instability
 
 Transiting giant planets with orbital periods in the range of ~10-200 days provide important insight into planetary formation and evolution. Unlike their inflated “hot” Jupiter siblings, the atmospheres of these “warm” giants (with effective temperatures lower than ~1,000 K) are unlikely to be larger than expected and have primordial observable properties. Rodriguez Martinez et al. (2024) present the detection and characterization of TOI-4994b – the latest addition to the population of warm Saturns. TESS observed the target in Sectors 12 and 13 at 30-min cadence, Sectors 27 and 39 at 10-min cadence, and again in Sectors 66 and 67 at 2-min cadence, and enabled the detection of a total of 11 transits. The authors supplement the TESS data with photometric observations from LCOGT and ASTEP-ANTARCTICA, as well as high-resolution spectroscopic measurements from the Planet Finder Spectrograph, CHIRON, HARPS, CORALIE, and FEROS, and speckle imaging from SOAR. To obtain the physical and orbital parameters of the TOI-4994 system, Rodriguez Martinez et al. (2024) combined all the available data with Gaia and SED data into a global model. Their best-fit solution shows that the host star is effectively an analog to the Sun, with M = 1.005 M<sub>Sun</sub>, R = 1.055 R<sub>Sun</sub>, and T<sub>eff</sub>= 5640 K. The star has an estimated age of about 6.3 Gyr, is slightly enhancemed in metallicity compared to the Sun ([Fe/H] = 0.165 dex), and has a predicted rotation period of 46.2 days. The planet around it has a mass of 0.28 M<sub>Jup</sub>, radius of 0.76 R<sub>Jup</sub>, a bulk density of 0.78 g/cm3, and an equilibrium temperature of ~718 K. It completes one orbit around the parent star in ~21.5 days, the orbit has an eccentricity of e ~ 0.32 and is practically edge-on (inclination ~ 89.6 degrees). The authors find no indications of additional planets in the system which, combined with the moderately eccentric orbit of the planet, potentially points to past dynamical instability. Thanks to TESS, Rodriguez Martinez et al. (2024) were able to detect, validate, confirm, and characterize a new transiting warm Saturn, TOI-4994b, around a Solar twin. 
  
-![Carrell2024](images/Carrell_2024_Fig2.png)
+![Carrell2024](images/news/Carrell_2024_Fig2.png)
+
 **Fig. 1:** *Taken from Carrell et al. (2024). Upper panels: TESS lightcurve of the RR Lyrae V338 Boo, color-coded by sector (green and red for Sector 50, blue and black for Sector 51). Lower panels: corresponding frequency analysis, highlighting multiple peaks, where f0 and f1 represent the fundamental and first overtone modes, respectively.*
 
-![Humes2024](images/Humes_2024_Fig4.png)
+![Humes2024](images/news/Humes_2024_Fig4.png)
+
 **Fig. 2:** *Taken from Humes & Hanus (2024). Left panel: TESS lightcurve of the asteroid (203) Pompeja extracted from the FFI data. Right panel: Same as left panel but phase-folded on the best-fit synodic period of 24.092 hours.*
 
-![Rodriguez2024](images/Rodriguez_2024_Fig1.png)
+![Rodriguez2024](images/news/Rodriguez_2024_Fig1.png)
+
 **Fig. 3:** *Taken from Rodriguez Martinez et al. (2024). Available TESS photometry (six sectors total) of the warm Saturn TOI-4994b, highlighting the prominent transits of the planets across its Solar analog parent star.*
