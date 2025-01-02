@@ -30,3 +30,6 @@ Summary: Starspots and faculae are challenging to study due to observational deg
 
 # Sector 087 targets observed (2 min: 1, 20 s: 0)
 282501711,90.0168,2.7063,8.58,G07185;G07089
+
+# Sector 088 targets observed (2 min: 1, 20 s: 1)
+266744225,116.165,3.5494,8.34,G07185;G07089;20SECONDTARGET

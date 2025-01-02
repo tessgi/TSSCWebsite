@@ -13,8 +13,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 2445 publications,
-of which 2220 are peer-reviewed.
+The database contains 2470 publications,
+of which 2245 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -30,7 +30,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 25 Nov 2024.
+Last update: 02 Jan 2025.
 
 <hr/>
 
@@ -47,9 +47,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 978 works relate to exoplanets
+While 991 works relate to exoplanets
 (40%),
-a total of 1467
+a total of 1479
 pertain to other areas of astrophysics
 (60%).
 
@@ -61,7 +61,7 @@ pertain to other areas of astrophysics
 ## Most-cited publications
 
 TESS publications have cumulatively been cited
-38336 times.
+38342 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -131,7 +131,7 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 7909 unique author names.
+by a total of 7915 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
@@ -141,79 +141,79 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Lee, J (10 publications)
 
+ * Howard, W (10 publications)
+
  * Bouma, L (10 publications)
 
  * Balona, L (10 publications)
 
- * Maciejewski, G (9 publications)
-
- * Kunimoto, M (9 publications)
-
- * Howard, W (9 publications)
-
- * Gan, T (9 publications)
-
- * Zasche, P (9 publications)
+ * Kunimoto, M (10 publications)
 
  * Kostov, V (9 publications)
 
- * Gaidos, E (7 publications)
+ * Zasche, P (9 publications)
+
+ * Gan, T (9 publications)
+
+ * Maciejewski, G (9 publications)
 
  * Naze, Y (7 publications)
 
- * Bowman, D (7 publications)
+ * Cloutier, R (7 publications)
+
+ * Gaidos, E (7 publications)
 
  * Poro, A (7 publications)
 
- * Cloutier, R (7 publications)
-
  * Kahraman Alicavus, F (7 publications)
-
- * Savanov, I (7 publications)
-
- * Lillo-Box, J (7 publications)
 
  * Jayasinghe, T (7 publications)
 
  * Koen, C (7 publications)
 
- * Shi, X (6 publications)
+ * Savanov, I (7 publications)
+
+ * Bowman, D (7 publications)
+
+ * Nardiello, D (7 publications)
+
+ * Lillo-Box, J (7 publications)
+
+ * Yildirim, M (6 publications)
+
+ * Ramsay, G (6 publications)
+
+ * Murphy, S (6 publications)
+
+ * Jayaraman, R (6 publications)
+
+ * Wong, I (6 publications)
+
+ * Bognar, Z (6 publications)
+
+ * Stassun, K (6 publications)
+
+ * Uzundag, M (6 publications)
+
+ * Feinstein, A (6 publications)
+
+ * Doyle, L (6 publications)
+
+ * Littlefield, C (6 publications)
 
  * Kanodia, S (6 publications)
+
+ * Damasso, M (6 publications)
+
+ * Kato, T (6 publications)
+
+ * Shi, X (6 publications)
+
+ * Borkovits, T (6 publications)
+
+ * Knudstrup, E (6 publications)
 
  * Gill, S (6 publications)
 
  * Schaefer, B (6 publications)
-
- * Ramsay, G (6 publications)
-
- * Uzundag, M (6 publications)
-
- * Borkovits, T (6 publications)
-
- * Doyle, L (6 publications)
-
- * Murphy, S (6 publications)
-
- * Kato, T (6 publications)
-
- * Nardiello, D (6 publications)
-
- * Wong, I (6 publications)
-
- * Littlefield, C (6 publications)
-
- * Damasso, M (6 publications)
-
- * Feinstein, A (6 publications)
-
- * Stassun, K (6 publications)
-
- * Bognar, Z (6 publications)
-
- * Jayaraman, R (6 publications)
-
- * Knudstrup, E (6 publications)
-
- * Yildirim, M (6 publications)
 -->

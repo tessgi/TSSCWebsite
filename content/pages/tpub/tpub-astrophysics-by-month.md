@@ -5,6 +5,70 @@ Save_as: tpub-astrophysics-by-month.html
 
 
 
+2025-01
+-------
+
+1. [DISCOVERY OF 226 <MML:MATH ALTIMG="SI50.SVG" DISPLAY="INLINE" ID="D1E6843"><MML:MI>Δ</MML:MI></MML:MATH> SCUTI AND <MML:MATH ALTIMG="SI381.SVG" DISPLAY="INLINE" ID="D1E6848"><MML:MI>Γ</MML:MI></MML:MATH> DORADUS STARS NEAR NGC 6871 WITH TESS](http://adsabs.harvard.edu/abs/2025NewA..11402297Z)  
+Zhou, Ai-Ying    
+2025, refereed ([2025NewA..11402297Z](http://adsabs.harvard.edu/abs/2025NewA..11402297Z))  
+<span class="badge">0 citations</span>
+
+2. [SIMULATING GRAVITATIONAL MICROLENSING EVENTS BY TESS: PREDICTIONS ON STATISTICS AND PROPERTIES](http://adsabs.harvard.edu/abs/2025AJ....169...34S)  
+Sajadian, Sedighe, Kalantari, Atousa, Fatheddin, Hossein, et al.    
+2025, refereed ([2025AJ....169...34S](http://adsabs.harvard.edu/abs/2025AJ....169...34S))  
+<span class="badge">0 citations</span>
+
+3. [THE SOLAR NEIGHBORHOOD. LII. M DWARF TWIN BINARIES—PRESUMED IDENTICAL TWINS APPEAR FRATERNAL IN VARIABILITY, ROTATION, HΑ, AND X-RAYS](http://adsabs.harvard.edu/abs/2025AJ....169...41C)  
+Couperus, Andrew A., Henry, Todd J., Osten, Rachel A., et al.    
+2025, refereed ([2025AJ....169...41C](http://adsabs.harvard.edu/abs/2025AJ....169...41C))  
+<span class="badge">0 citations</span>
+
+4. [A CATALOGUE OF BINARY STARS FROM PHASE MODULATION IN THE FIRST FOUR YEARS OF TESS MISSION PHOTOMETRY](http://adsabs.harvard.edu/abs/2025MNRAS.536.2313D)  
+Dholakia, Shishir, Murphy, Simon J., Huang, Chelsea X., et al.    
+2025, refereed ([2025MNRAS.536.2313D](http://adsabs.harvard.edu/abs/2025MNRAS.536.2313D))  
+<span class="badge">1 citations</span>
+
+5. [THE ROTATION PROPERTIES OF Δ SCT AND Γ DOR STARS](http://adsabs.harvard.edu/abs/2025ApJ...978...53W)  
+Wang, Jiyu, Chen, Xiaodian, Deng, Licai, et al.    
+2025, refereed ([2025ApJ...978...53W](http://adsabs.harvard.edu/abs/2025ApJ...978...53W))  
+<span class="badge">0 citations</span>
+
+6. [EXPLORING THE CONVECTIVE CORE OF THE HIGH-AMPLITUDE Δ SCUTI STAR TIC 120857354 WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2025MNRAS.536.1778C)  
+Chen, Xinghao, Zhang, Xiaobin, Li, Yan    
+2025, refereed ([2025MNRAS.536.1778C](http://adsabs.harvard.edu/abs/2025MNRAS.536.1778C))  
+<span class="badge">0 citations</span>
+
+7. [HD 60435: THE STAR THAT STOPPED PULSATING](http://adsabs.harvard.edu/abs/2025MNRAS.536.2103K)  
+Kurtz, Donald W., Handler, Gerald, Holdsworth, Daniel L., et al.    
+2025, refereed ([2025MNRAS.536.2103K](http://adsabs.harvard.edu/abs/2025MNRAS.536.2103K))  
+<span class="badge">0 citations</span>
+
+8. [RISING NEAR-ULTRAVIOLET SPECTRA IN STELLAR MEGAFLARES](http://adsabs.harvard.edu/abs/2025ApJ...978...81K)  
+Kowalski, Adam F., Osten, Rachel A., Notsu, Yuta, et al.    
+2025, refereed ([2025ApJ...978...81K](http://adsabs.harvard.edu/abs/2025ApJ...978...81K))  
+<span class="badge">0 citations</span>
+
+9. [IDENTIFYING TELESCOPE USAGE IN ASTROPHYSICS PUBLICATIONS: A MACHINE LEARNING FRAMEWORK FOR INSTITUTIONAL RESEARCH MANAGEMENT AT OBSERVATORIES](http://adsabs.harvard.edu/abs/2025AJ....169...42A)  
+Amado Olivo, Vicente, Kerzendorf, Wolfgang, Cherinka, Brian, et al.    
+2025, refereed ([2025AJ....169...42A](http://adsabs.harvard.edu/abs/2025AJ....169...42A))  
+<span class="badge">0 citations</span>
+
+10. [ASTEROSEISMIC MASSES OF RED GIANTS IN THE GALACTIC GLOBULAR CLUSTERS M9 AND M19](http://adsabs.harvard.edu/abs/2025MNRAS.536.1389H)  
+Howell, Madeline, Campbell, Simon W., Kalup, Csilla, et al.    
+2025, refereed ([2025MNRAS.536.1389H](http://adsabs.harvard.edu/abs/2025MNRAS.536.1389H))  
+<span class="badge">0 citations</span>
+
+11. [THE TOTAL MASS OF THE CLOSE, DOUBLE DEGENERATE (DA+DQ) SYSTEM NLTT 16249](http://adsabs.harvard.edu/abs/2025MNRAS.536.1180V)  
+Vennes, Stéphane, Kawka, Adela    
+2025, refereed ([2025MNRAS.536.1180V](http://adsabs.harvard.edu/abs/2025MNRAS.536.1180V))  
+<span class="badge">0 citations</span>
+
+12. [CATACLYSMIC VARIABLES FROM SLOAN DIGITAL SKY SURVEY - V (2020-2023) IDENTIFIED USING MACHINE LEARNING](http://adsabs.harvard.edu/abs/2025MNRAS.536.1057I)  
+Inight, Keith, Gänsicke, Boris T., Schwope, Axel, et al.    
+2025, refereed ([2025MNRAS.536.1057I](http://adsabs.harvard.edu/abs/2025MNRAS.536.1057I))  
+<span class="badge">0 citations</span>
+
+
 2024-12
 -------
 
