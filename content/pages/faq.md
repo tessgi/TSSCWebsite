@@ -7,7 +7,7 @@ Here we list some common questions. If you have a question not found here, you c
 **How do I convert a TESS magnitude into a flux?**
 <p style="margin-left: 2em">The flux in e-/s can be estimated via the following equation:</p>
 
-<p style="margin-left: 4em">Flux [e-/s] = 10<sup>(20.44-Tmag/2.5)</sup></p>
+<p style="margin-left: 4em">Flux [e-/s] = 10<sup>[(20.44-Tmag)/2.5]</sup></p>
 
 <p style="margin-left: 2em">This is derived from the values presented on page 37 of the <a href = 'https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/TESS_Instrument_Handbook_v0.1.pdf'>Instrument hand book</a>.</p>
 
