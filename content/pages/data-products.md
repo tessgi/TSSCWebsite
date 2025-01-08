@@ -8,9 +8,9 @@ save_as: data-products.html
 
 <body>
 
-<p>The four cameras of TESS take consecutive images of a particular region of the sky every 2 seconds. Several data products are produced by the TESS mission from these images: <a href="https://archive.stsci.edu/missions-and-data/tess" target="_blank">Full Frame Images (FFIs), Target Pixel Files (TPFs, also known as postage stamps) of selected targets, and corresponding Light Curves (LCs)</a>. </p>
+<p>The four cameras of TESS take consecutive images of a particular region of the sky every 2 seconds. Several data products are created on-board the spacecraft by co-adding the individual 2-second exposures: <a href="https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/active-missions/tess/_documents/EXP-TESS-ARC-ICD-TM-0014-Rev-F.pdf" target="_blank">Full Frame Images (FFIs), Target Pixel Files (TPFs, also known as postage stamps) of selected targets, and corresponding Light Curves (LCs)</a>. The FFIs have observational cadence of 30 minutes (Cycles 1 and 2), 10 minutes (Cycles 3 and 4), and 200 seconds (Cycles 5+). The primary mission offered TPFs and lightcurves with a cadence of 2 minutes. Starting with the first extended mission, the additional option of 20 second data products was added. </p> 
 
-<p>Each of these is created on-board the spacecraft by co-adding the individual 2-second exposures. These data products are provided in standard FITS format with multiple extensions which contain additional information on calibration, background removal, cosmic-ray rejection, and in the case of the TPFs aperture masks indicating the pixels used to extract the lightcurve. For more information, see the <a href = "https://archive.stsci.edu/missions-and-data/tess/data-products" target = "_blank"> TESS mission page at MAST</a>, the <a href="https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ/abstract" target="_blank"> TESS pipeline</a>, as well as the slideshow presented below.</p>
+<p> These data products are provided in standard FITS format with multiple extensions which contain additional information on calibration, background removal, cosmic-ray rejection, and in the case of the TPFs aperture masks indicating the pixels used to extract the lightcurve. For more information, see the <a href = "https://archive.stsci.edu/missions-and-data/tess/data-products" target = "_blank"> TESS mission page at MAST</a>, the <a href="https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ/abstract" target="_blank"> TESS pipeline</a>, as well as in the dropdowns below.</p>
 
 <br></br>
 
@@ -63,7 +63,7 @@ TESS identifies targets from a target list onboard the computer, and selects sma
           Note that Cosmic Ray Mitigated FFIs are the same as FFIs except they are collected with the onboard cosmic ray mitigation enabled.
           </br>
           <br>
-          The FFIs have observational cadence of 30 minutes (Cycles 1 and 2), 10 minutes (Cycles 3 and 4), and 200 seconds (Cycles 5 and 6).
+          The FFIs have observational cadence of 30 minutes (Cycles 1 and 2), 10 minutes (Cycles 3 and 4), and 200 seconds (Cycles 5+).
           </br>
           <br> 
           In addition to the TESS mission pipline-detrended FFIs, TESS Image CAlibrator <a href="https://archive.stsci.edu/hlsp/tica">(TICA)</a> products are <a href="https://archive.stsci.edu/contents/newsletters/february-2023/tica-full-frame-images-now-available-in-tess-cutout-service">now available</a>. These High Level Science Products (HLSPs) were designed as quick-look preview images of TESS FFIs, and are released every half-orbit (~weekly). MAST provides cutouts from the TICA FFIs, as well as the mission FFIs through the <a href="https://mast.stsci.edu/tesscut/">TESSCut</a> service. 

@@ -25,7 +25,7 @@ Here we list some common questions. If you have a question not found here, you c
 
 **Where can I send my suggestion for an idea I'd like to see incorporated into the TESS GI program, or a software tool I'd like to suggest be developed?**
 
-<p style="margin-left: 2em">We love feedback! Please contact our [helpdesk](helpdesk.html) with any suggestions or questions.</p>
+<p style="margin-left: 2em">We love feedback! Please contact our <a href="helpdesk.html">helpdesk</a> with any suggestions or questions.</p>
 
 **I see an interesting feature in my TESS light curve. What could it be?**
 
