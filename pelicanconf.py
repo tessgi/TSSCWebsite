@@ -168,7 +168,7 @@ MEETINGS = (
         "<b>11th January - 16th January 2025</b>",
         "AAS 245 - National Harbor, MD",
         "https://aas.org/meetings/aas245",
-        "Join us for NASA's TESS Mission Interactive Data workshop on January 11-12 as part of AAS 245. TESS will also host a splinter session from 6-9pm on Wednesday, January 15.",
+        "The TESS Science Support Center will be present at the NASA booth during AAS 245 at the Gaylord National Resort & Convention Center. In addition, we will also be hosting the following events:<br></br>i) <i>NASA's TESS Mission Interactive Data workshop:</i> January 11th and 12th, 9am - 5pm, room  National Harbor 2.<br></br>ii)<i>Science from the TESS Extended Mission Splinter Session:</i> January 15th, 6pm - 9pm, room Maryland Ballroom C.<br></br> We look forward to seeing you there.",
     ),
     
 )
