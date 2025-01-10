@@ -11,6 +11,10 @@ save_as: proposing-investigations.html
 
 <body>
 
+<div class="alert alert-primary" role="alert">
+The Cycle 8 Call for Proposals is now available on <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7BC5F89429-F4A5-1E74-AC89-49F7DB4DD67B%7D&path=open">NSPIRES</a>. The due date for proposals is <bf>March 27th 2025</bf>. TESS Cycle 8 observations will occur between September 2025 and September 2026. 
+</div>
+
 The primary purpose of the TESS General Investigator (GI) Program is to enhance and maximize the science return from the mission. Users can obtain both data and funding through the TESS GI Program. The program facilitates and supports short-cadence observations with TESS as well as research undertaken with the Full-Frame Images.
 <br> Note that the TESS GI program requires that at least 25% of data used by the proposal must be new. For projects primarily using archival data, see "Can I propose to use archival data?" below. </br>
 <br> Below you can find more information on the TESS General Investigator (GI) Program and how to propose for TESS data and research funding. </br>
@@ -271,9 +275,9 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
           <tr>
             <td>
             <td>Template for small, large, and key proposals</td>
-            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle6.tex" download>Latex</a></td>
-            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle6.docx" download>Word</a></td>
-            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle6.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle7.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle7.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle7.pdf" download>PDF</a></td>
           </tr>
           <tr>
             <td>
