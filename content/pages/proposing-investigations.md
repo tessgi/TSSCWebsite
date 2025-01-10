@@ -12,7 +12,7 @@ save_as: proposing-investigations.html
 <body>
 
 <div class="alert alert-primary" role="alert">
-The Cycle 8 Call for Proposals is now available on <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7BC5F89429-F4A5-1E74-AC89-49F7DB4DD67B%7D&path=open">NSPIRES</a>. The due date for proposals is <bf>March 27th 2025</bf>. TESS Cycle 8 observations will occur between September 2025 and September 2026. 
+The Cycle 8 Call for Proposals is now available on <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7BC5F89429-F4A5-1E74-AC89-49F7DB4DD67B%7D&path=open">NSPIRES</a>. The due date for proposals is <b>March 27th 2025</b>. TESS Cycle 8 observations will occur between September 2025 and September 2026. 
 </div>
 
 The primary purpose of the TESS General Investigator (GI) Program is to enhance and maximize the science return from the mission. Users can obtain both data and funding through the TESS GI Program. The program facilitates and supports short-cadence observations with TESS as well as research undertaken with the Full-Frame Images.
@@ -274,10 +274,10 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
         <table class="table table-striped table-hover" style="max-width:55em;">
           <tr>
             <td>
-            <td>Template for small, large, and key proposals</td>
-            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle7.tex" download>Latex</a></td>
-            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle7.docx" download>Word</a></td>
-            <td><a href="docs/proposal-templates/tessgi_smalllargekey_template_cycle7.pdf" download>PDF</a></td>
+            <td>Template for small and large proposals</td>
+            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle7.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle7.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle7.pdf" download>PDF</a></td>
           </tr>
           <tr>
             <td>
