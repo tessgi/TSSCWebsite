@@ -50,6 +50,12 @@ Here you can find outreach materials related to exoplanets developed by NASA, th
           <img src="images/pages/Oldfaithful-FIN.jpg" style="width:100%;">
       </a>
     </td>
+        <td width="24%" style = "text-align: center;">
+      <a href = "docs/outreach/Allsky-FIN.pdf" target = "_blank">
+        Allsky Vista
+          <img src="images/pages/Allsky-FIN.jpg" style="width:100%;">
+      </a>
+    </td>
    <td width="24%" style = "text-align: center; ">
       <a href = "docs/outreach/Survivor-FIN.pdf" target = "_blank">
         Survivor
