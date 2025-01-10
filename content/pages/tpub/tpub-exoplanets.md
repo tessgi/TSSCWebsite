@@ -73,6 +73,31 @@ Kutra, Taylor, Prato, Lisa, Tofflemire, Benjamin M., et al.
 2025, refereed ([2025AJ....169...20K](http://adsabs.harvard.edu/abs/2025AJ....169...20K))  
 <span class="badge">1 citations</span>
 
+14. [TOI-5108 B AND TOI 5786 B: TWO TRANSITING SUB-SATURNS DETECTED AND CHARACTERIZED WITH TESS, MAHPS AND SOPHIE](http://adsabs.harvard.edu/abs/2025arXiv250103803T)  
+Thomas, Luis, Hébrard, Guillaume, Kellermann, Hanna, et al.    
+2025, not refereed ([2025arXiv250103803T](http://adsabs.harvard.edu/abs/2025arXiv250103803T))  
+<span class="badge">0 citations</span>
+
+15. [CONFIRMATION OF FOUR HOT JUPITERS DETECTED BY TESS USING FOLLOW-UP SPECTROSCOPY FROM MAHPS AT WENDELSTEIN TOGETHER WITH NEID AND TRES](http://adsabs.harvard.edu/abs/2025arXiv250104383E)  
+Ehrhardt, Juliana, Thomas, Luis, Kellermann, Hanna, et al.    
+2025, not refereed ([2025arXiv250104383E](http://adsabs.harvard.edu/abs/2025arXiv250104383E))  
+<span class="badge">0 citations</span>
+
+16. [SPORADIC DIPS FROM EXTENDED DEBRIS TRANSITING THE METAL-RICH WHITE DWARF SBSS 1232+563](http://adsabs.harvard.edu/abs/2025arXiv250102050H)  
+Hermes, J. J., Guidry, Joseph A., Vanderbosch, Zachary P., et al.    
+2025, not refereed ([2025arXiv250102050H](http://adsabs.harvard.edu/abs/2025arXiv250102050H))  
+<span class="badge">0 citations</span>
+
+17. [TOI-6038 A B: A DENSE SUB-SATURN IN THE TRANSITION REGIME BETWEEN THE NEPTUNIAN RIDGE AND SAVANNA](http://adsabs.harvard.edu/abs/2025arXiv250102272B)  
+Baliwal, Sanjay, Sharma, Rishikesh, Chakraborty, Abhijit, et al.    
+2025, not refereed ([2025arXiv250102272B](http://adsabs.harvard.edu/abs/2025arXiv250102272B))  
+<span class="badge">0 citations</span>
+
+18. [A POSSIBLE MISALIGNED ORBIT FOR THE YOUNG PLANET AU MIC C](http://adsabs.harvard.edu/abs/2025MNRAS.536.2046Y)  
+Yu, H., Garai, Z., Cretignier, M., et al.    
+2025, refereed ([2025MNRAS.536.2046Y](http://adsabs.harvard.edu/abs/2025MNRAS.536.2046Y))  
+<span class="badge">0 citations</span>
+
 
 2024
 ----

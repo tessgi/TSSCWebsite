@@ -133,6 +133,56 @@ Inight, Keith, Gänsicke, Boris T., Schwope, Axel, et al.
 2025, refereed ([2025MNRAS.536.1057I](http://adsabs.harvard.edu/abs/2025MNRAS.536.1057I))  
 <span class="badge">0 citations</span>
 
+26. [SHORT-PERIOD HEARTBEAT BINARIES FROM TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2025ApJS..276...17S)  
+Solanki, Siddhant, Cieplak, Agnieszka M., Schnittman, Jeremy, et al.    
+2025, refereed ([2025ApJS..276...17S](http://adsabs.harvard.edu/abs/2025ApJS..276...17S))  
+<span class="badge">2 citations</span>
+
+27. [TOI-5108 B AND TOI 5786 B: TWO TRANSITING SUB-SATURNS DETECTED AND CHARACTERIZED WITH TESS, MAHPS AND SOPHIE](http://adsabs.harvard.edu/abs/2025arXiv250103803T)  
+Thomas, Luis, Hébrard, Guillaume, Kellermann, Hanna, et al.    
+2025, not refereed ([2025arXiv250103803T](http://adsabs.harvard.edu/abs/2025arXiv250103803T))  
+<span class="badge">0 citations</span>
+
+28. [TIDAL SYNCHRONIZATION OF TESS ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025arXiv250104082H)  
+Hobson-Ritz, Marshall, Birky, Jessica, Peterson, Leah, et al.    
+2025, not refereed ([2025arXiv250104082H](http://adsabs.harvard.edu/abs/2025arXiv250104082H))  
+<span class="badge">0 citations</span>
+
+29. [CONFIRMATION OF FOUR HOT JUPITERS DETECTED BY TESS USING FOLLOW-UP SPECTROSCOPY FROM MAHPS AT WENDELSTEIN TOGETHER WITH NEID AND TRES](http://adsabs.harvard.edu/abs/2025arXiv250104383E)  
+Ehrhardt, Juliana, Thomas, Luis, Kellermann, Hanna, et al.    
+2025, not refereed ([2025arXiv250104383E](http://adsabs.harvard.edu/abs/2025arXiv250104383E))  
+<span class="badge">0 citations</span>
+
+30. [SPORADIC DIPS FROM EXTENDED DEBRIS TRANSITING THE METAL-RICH WHITE DWARF SBSS 1232+563](http://adsabs.harvard.edu/abs/2025arXiv250102050H)  
+Hermes, J. J., Guidry, Joseph A., Vanderbosch, Zachary P., et al.    
+2025, not refereed ([2025arXiv250102050H](http://adsabs.harvard.edu/abs/2025arXiv250102050H))  
+<span class="badge">0 citations</span>
+
+31. [ECLIPSING BINARY SYSTEMS WITH $\BETA$ CEPHEI COMPONENTS. V1216 SCO](http://adsabs.harvard.edu/abs/2025arXiv250103770M)  
+Miszuda, A., Eze, C. I., Kahraman Alicavus, F., et al.    
+2025, not refereed ([2025arXiv250103770M](http://adsabs.harvard.edu/abs/2025arXiv250103770M))  
+<span class="badge">0 citations</span>
+
+32. [TOI-6038 A B: A DENSE SUB-SATURN IN THE TRANSITION REGIME BETWEEN THE NEPTUNIAN RIDGE AND SAVANNA](http://adsabs.harvard.edu/abs/2025arXiv250102272B)  
+Baliwal, Sanjay, Sharma, Rishikesh, Chakraborty, Abhijit, et al.    
+2025, not refereed ([2025arXiv250102272B](http://adsabs.harvard.edu/abs/2025arXiv250102272B))  
+<span class="badge">0 citations</span>
+
+33. [TESTING DISC REPROCESSING MODELS FOR AGN OPTICAL VARIABILITY BY COMPARISON OF X-RAY AND OPTICAL POWER SPECTRA OF NGC 4395](http://adsabs.harvard.edu/abs/2025arXiv250102664B)  
+Beard, Max, McHardy, Ian, Horne, Keith, et al.    
+2025, not refereed ([2025arXiv250102664B](http://adsabs.harvard.edu/abs/2025arXiv250102664B))  
+<span class="badge">0 citations</span>
+
+34. [ACCRETION ONTO WD 2226-210, THE CENTRAL STAR OF THE HELIX NEBULA](http://adsabs.harvard.edu/abs/2025MNRAS.536.2477E)  
+Estrada-Dorado, S., Guerrero, M. A., Toalá, J. A., et al.    
+2025, refereed ([2025MNRAS.536.2477E](http://adsabs.harvard.edu/abs/2025MNRAS.536.2477E))  
+<span class="badge">0 citations</span>
+
+35. [A POSSIBLE MISALIGNED ORBIT FOR THE YOUNG PLANET AU MIC C](http://adsabs.harvard.edu/abs/2025MNRAS.536.2046Y)  
+Yu, H., Garai, Z., Cretignier, M., et al.    
+2025, refereed ([2025MNRAS.536.2046Y](http://adsabs.harvard.edu/abs/2025MNRAS.536.2046Y))  
+<span class="badge">0 citations</span>
+
 
 2024
 ----
