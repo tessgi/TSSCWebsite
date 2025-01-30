@@ -19,7 +19,7 @@ in 2024, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="" />
+    <meta name="dc.date.modified" content="2025-01-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -73,6 +73,10 @@ in 2024, using pelican-bootstrap and flatly.
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
     <!--<link href="./theme/css/counter.css" rel="stylesheet">-->
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
@@ -83,6 +87,15 @@ in 2024, using pelican-bootstrap and flatly.
 
 <body>
     <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+        </div>
+    </div>
 
     <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark" style="margin-bottom:0">
         <div class="container-fluid">
@@ -106,13 +119,15 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                             <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                            <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                            <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                            <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                             <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                                     <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                                    <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                                    <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                                    <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                                     <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>
 
@@ -125,7 +140,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                             <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                            <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                            <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                             <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -135,7 +150,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                                     <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                                    <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                                    <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                                     <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -151,13 +166,13 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                             <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                                     <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>
@@ -169,13 +184,13 @@ in 2024, using pelican-bootstrap and flatly.
                             Propose for Observations
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                            <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                            <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                            <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                             <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                                    <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                                     <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>
 
@@ -186,9 +201,6 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -213,7 +225,7 @@ in 2024, using pelican-bootstrap and flatly.
                 <p>TESS launched April 18, 2018 at 6:51 p.m. EDT from Cape Canaveral Air Force Station in Florida atop a SpaceX Falcon 9 rocket. Regular science operations with TESS began on July 25, 2018. Since that time, TESS has tiled the sky with ~27.4 day-long (2 spacecraft orbit) observing sectors. </p>
 <p>The prime mission tiled the southern ecliptic hemisphere for the first year, then moved to the northern ecliptic hemisphere. During the extended missions, TESS continues to alternate between the southern and northern skies while also filling in the ecliptic plane. For more information on the observing strategy, click <a href="https://tess.mit.edu/observations/">here</a>.</p>
 <h2>Sector Observation Dates</h2>
-<p>The start and end dates for each sector are listed below. The MAST provides an up to date <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">summary of TESS data available at the archive</a>. Information on how to access the data can be found <a href="data_products.html">here</a>. Note that the data for each new sector is typically available within 1 month of the end date for a given sector. <b> Users are encouraged to check the <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">MAST status page</a> to check on the data availability for particular sectors</b>.</p>
+<p>The start and end dates for each sector are listed below. The MAST provides an up to date <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">summary of TESS data available at the archive</a>. Information on how to access the data can be found <a href="data-products.html">here</a>. Note that the data for each new sector is typically available within 1 month of the end date for a given sector. <b> Users are encouraged to check the <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">MAST status page</a> to check on the data availability for particular sectors</b>.</p>
 <p>The spacecraft and individual camera pointing positions are <a href="https://tess.mit.edu/observations/">available from MIT</a>.</p>
 <!DOCTYPE html>
 <html>
@@ -299,7 +311,7 @@ in 2024, using pelican-bootstrap and flatly.
               <td>2025&nbsp;Aug&nbsp;20</td>
               <td>2025&nbsp;Sep&nbsp;15</td>
               <td></td>
-              <!--<td><a href='data/target_lists/sector083_targets_lists/GI_S096.csv'>Download</a></td>-->
+              <!--<td><a href='data/target_lists/sector096_targets_lists/GI_S096.csv'>Download</a></td>-->
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -394,8 +406,7 @@ in 2024, using pelican-bootstrap and flatly.
               <td>163.02</td>
               <td>2025&nbsp;Jan&nbsp;14</td>
               <td>2025&nbsp;Feb&nbsp;11</td>
-              <td></td>
-              <!--<td><a href='data/target_lists/sector088_targets_lists/GI_S088.csv'>Download</a></td>-->
+              <td><a href='data/target_lists/sector088_targets_lists/GI_S088.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -406,8 +417,7 @@ in 2024, using pelican-bootstrap and flatly.
               <td>175.92</td>
               <td>2024&nbsp;Dec&nbsp;18</td>
               <td>2025&nbsp;Jan&nbsp;14</td>
-              <td></td>
-              <!--<td><a href='data/target_lists/sector087_targets_lists/GI_S087.csv'>Download</a></td>-->
+              <td><a href='data/target_lists/sector087_targets_lists/GI_S087.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
@@ -1587,7 +1597,7 @@ for (i = 0; i < coll.length; i++) {
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2024 TSSC
+         <div class="col-xs-10">&copy; 2025 TSSC
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>

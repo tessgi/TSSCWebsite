@@ -19,7 +19,7 @@ in 2024, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="" />
+    <meta name="dc.date.modified" content="2025-01-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -74,6 +74,10 @@ in 2024, using pelican-bootstrap and flatly.
     <link href="../theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="../theme/css/mission_icons.css" rel="stylesheet">
     <!--<link href="../theme/css/counter.css" rel="stylesheet">-->
+    <link href="../feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="../feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
     <link rel="stylesheet" href="../theme/css/style.css" type="text/css" />
 
         
@@ -84,6 +88,15 @@ in 2024, using pelican-bootstrap and flatly.
 
 <body>
     <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+        </div>
+    </div>
 
     <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark" style="margin-bottom:0">
         <div class="container-fluid">
@@ -107,13 +120,15 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="../what-is-tess.html">What is TESS?</a></li>
                             <li><a class="dropdown-item" href="../statistics.html">TESS Statistics</a></li>
-                            <li><a class="dropdown-item" href="../citizen_science.html">Citizen Science</a></li>
+                            <li><a class="dropdown-item" href="../publications.html">TESS Publications</a></li>
+                            <li><a class="dropdown-item" href="../citizenscience.html">Citizen Science</a></li>
                             <li><a class="dropdown-item" href="../outreach.html">Outreach Materials</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="../what-is-tess.html">What is TESS?</a></li>
                                     <li><a class="dropdown-item" href="../statistics.html">TESS Statistics</a></li>
-                                    <li><a class="dropdown-item" href="../citizen_science.html">Citizen Science</a></li>
+                                    <li><a class="dropdown-item" href="../publications.html">TESS Publications</a></li>
+                                    <li><a class="dropdown-item" href="../citizenscience.html">Citizen Science</a></li>
                                     <li><a class="dropdown-item" href="../outreach.html">Outreach Materials</a></li>
                         </ul>
 
@@ -126,7 +141,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="../telescope_information.html">Telescope Information</a></li>
                             <li><a class="dropdown-item" href="../sector.html">Sector Information</a></li>
-                            <li><a class="dropdown-item" href="../data_products.html">Data Products</a></li>
+                            <li><a class="dropdown-item" href="../data-products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="../tfop.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="../tuc.html">Users Committee</a></li>
                             <li><a class="dropdown-item" href="../mediarequest.html">Media Requests</a></li>
@@ -136,7 +151,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="../telescope_information.html">Telescope Information</a></li>
                                     <li><a class="dropdown-item" href="../sector.html">Sector Information</a></li>
-                                    <li><a class="dropdown-item" href="../data_products.html">Data Products</a></li>
+                                    <li><a class="dropdown-item" href="../data-products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="../tfop.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="../tuc.html">Users Committee</a></li>
                                     <li><a class="dropdown-item" href="../mediarequest.html">Media Requests</a></li>
@@ -152,13 +167,13 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="../tutorial_landing.html">Tutorials</a></li>
-                            <li><a class="dropdown-item" href="../community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="../data-analysis-tools.html">Data Analysis Tools</a></li>
                             <li><a class="dropdown-item" href="../https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                             <li><a class="dropdown-item" href="../ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="../tutorial_landing.html">Tutorials</a></li>
-                                    <li><a class="dropdown-item" href="../community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="../data-analysis-tools.html">Data Analysis Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                                     <li><a class="dropdown-item" href="../ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>
@@ -170,13 +185,13 @@ in 2024, using pelican-bootstrap and flatly.
                             Propose for Observations
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="../proposing.html">How to Propose</a></li>
-                            <li><a class="dropdown-item" href="../approved-programs.html">Previous Approved Programs</a></li>
+                            <li><a class="dropdown-item" href="../proposing-investigations.html">How to Propose</a></li>
+                            <li><a class="dropdown-item" href="../approved-programs.html">Previous GI Programs</a></li>
                             <li><a class="dropdown-item" href="../ddt.html">Director's Discretionary Targets</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="../proposing.html">How to Propose</a></li>
-                                    <li><a class="dropdown-item" href="../approved-programs.html">Previous Approved Programs</a></li>
+                                    <li><a class="dropdown-item" href="../proposing-investigations.html">How to Propose</a></li>
+                                    <li><a class="dropdown-item" href="../approved-programs.html">Previous GI Programs</a></li>
                                     <li><a class="dropdown-item" href="../ddt.html">Director's Discretionary Targets</a></li>
                         </ul>
 
@@ -187,9 +202,6 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="../category/news.html"> News </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="../category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -207,6 +219,50 @@ in 2024, using pelican-bootstrap and flatly.
         <div class="row">
             <div class="col-lg-12">
 
+<article>
+    <h2><a href="../cycle-3-guest-investigator-announcement.html">Cycle 3 Guest Investigator announcement</a></h2>
+    <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2019-10-21T15:00:00-04:00"> Mon 21 October 2019</time>
+    </span>
+
+
+            <span class="label label-default">By</span>
+            <a href="../author/tom-barclay.html"><i class="fa fa-user"></i> Tom Barclay</a>
+
+
+
+    
+</footer><!-- /.post-info -->    </div>
+    <div class="summary"><p>We are excited to announce that the <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId={21B53A82-2F78-9C26-3CA6-B9FEFE2AF929}&amp;path=open">TESS Cycle 3 proposal call</a> has been released. TESS Cycle 3 observations will be collected during the first year of the extended mission, running from July 2020 until June 2021. All Cycle 3 fields are in the Southern Ecliptic Hemisphere. Please make sure …</p>
+        <a class="btn btn-default btn-xs" href="../cycle-3-guest-investigator-announcement.html">more ...</a>
+    </div>
+</article>
+<hr />
+<article>
+    <h2><a href="../we-want-your-newsworthy-results-for-aas.html">We want your newsworthy results for AAS</a></h2>
+    <div class="well well-sm">
+<footer class="post-info">
+    <span class="label label-default">Date</span>
+    <span class="published">
+        <i class="fa fa-calendar"></i><time datetime="2019-09-04T13:00:00-04:00"> Wed 04 September 2019</time>
+    </span>
+
+
+            <span class="label label-default">By</span>
+            <a href="../author/knicole-colon.html"><i class="fa fa-user"></i> Knicole Colon</a>
+
+
+
+    
+</footer><!-- /.post-info -->    </div>
+    <div class="summary"><p>The TESS team will be at AAS in January 2020! If you are also attending, and you plan to present TESS results that you think would be of broad interest to the public, <a href="https://heasarc.gsfc.nasa.gov/docs/tess/media.html">please submit a media request</a>. We would love to showcase as many TESS results as possible, but …</p>
+        <a class="btn btn-default btn-xs" href="../we-want-your-newsworthy-results-for-aas.html">more ...</a>
+    </div>
+</article>
+<hr />
 <article>
     <h2><a href="../announcement-of-the-tess-extended-mission.html">Announcement of the TESS Extended Mission</a></h2>
     <div class="well well-sm">
@@ -270,53 +326,6 @@ in 2024, using pelican-bootstrap and flatly.
 </footer><!-- /.post-info -->    </div>
     <div class="summary"><p>TESS has officially completed its survey of the southern sky, observing thirteen sectors in the southern ecliptic hemisphere between July 2018 and July 2019. All of the Cycle 1 data are now publicly available at MAST. <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">Details of the available data can be found at the MAST site.</a></p>
         <a class="btn btn-default btn-xs" href="../all-tess-cycle-1-data-available-at-mast.html">more ...</a>
-    </div>
-</article>
-<hr />
-<article>
-    <h2><a href="../update-on-tess-pointing-in-year-2.html">Update on TESS pointing in Year 2</a></h2>
-    <div class="well well-sm">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2019-06-27T13:00:00-04:00"> Thu 27 June 2019</time>
-    </span>
-
-
-            <span class="label label-default">By</span>
-            <a href="../author/knicole-colon.html"><i class="fa fa-user"></i> Knicole Colon</a>
-
-
-
-    
-</footer><!-- /.post-info -->    </div>
-    <div class="summary"><p>TESS will observe the northern ecliptic hemisphere during the second year of its primary mission. The cameras will be oriented along a line of ecliptic longitude (as they were in Year 1), with that longitude determined by the anti-solar longitude at the mid-point of the sector. For most of Year …</p>
-        <a class="btn btn-default btn-xs" href="../update-on-tess-pointing-in-year-2.html">more ...</a>
-    </div>
-</article>
-<hr />
-<article>
-    <h2><a href="../upcoming-tess-conferences.html">Upcoming TESS Conferences</a></h2>
-    <div class="well well-sm">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2019-06-27T12:00:00-04:00"> Thu 27 June 2019</time>
-    </span>
-
-
-            <span class="label label-default">By</span>
-            <a href="../author/knicole-colon.html"><i class="fa fa-user"></i> Knicole Colon</a>
-
-
-
-    
-</footer><!-- /.post-info -->    </div>
-    <div class="summary"><p>The first year of TESS' prime mission will be completed in July, but
-the science is just beginning. Two conferences are being held in July
-on TESS science, and it is not too late to register for them!</p>
-<p>The first is the TASC5/KASC12 workshop, being held in Cambridge, MA …</p>
-        <a class="btn btn-default btn-xs" href="../upcoming-tess-conferences.html">more ...</a>
     </div>
 </article>
 <hr />
@@ -425,7 +434,7 @@ on TESS science, and it is not too late to register for them!</p>
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2024 TSSC
+         <div class="col-xs-10">&copy; 2025 TSSC
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>

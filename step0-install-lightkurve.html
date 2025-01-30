@@ -19,7 +19,7 @@ in 2024, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="" />
+    <meta name="dc.date.modified" content="2025-01-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -45,13 +45,13 @@ in 2024, using pelican-bootstrap and flatly.
 <link rel="canonical" href="./pages/step-0-how-to-get-lightkurve-running-on-your-machine.html">
 
 <meta name="author" content="TSSC" />
-<meta name="description" content="[TOC] **Introduction to &#34;An introduction into the tools and tutorials available for the analysis of TESS data&#34; a.k.a. Step-0 ** Motivation Getting started with TESS data and tools is easy! However, it does require a couple of steps which can be daunting if you haven&#39;t done them before. Many …" />
+<meta name="description" content="**Introduction to &#34;An introduction into the tools and tutorials available for the analysis of TESS data&#34; a.k.a. Step-0 ** Motivation Getting started with TESS data and tools is easy! However, it does require a couple of steps which can be daunting if you haven&#39;t done them before. Many astronomers …" />
 
 <meta property="og:site_name" content="TESS" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Step-0: How to get lightkurve running on your machine" />
 <meta property="og:url" content="./pages/step-0-how-to-get-lightkurve-running-on-your-machine.html" />
-<meta property="og:description" content="[TOC] **Introduction to &#34;An introduction into the tools and tutorials available for the analysis of TESS data&#34; a.k.a. Step-0 ** Motivation Getting started with TESS data and tools is easy! However, it does require a couple of steps which can be daunting if you haven&#39;t done them before. Many …" />
+<meta property="og:description" content="**Introduction to &#34;An introduction into the tools and tutorials available for the analysis of TESS data&#34; a.k.a. Step-0 ** Motivation Getting started with TESS data and tools is easy! However, it does require a couple of steps which can be daunting if you haven&#39;t done them before. Many astronomers …" />
 
     <!--    -->
 
@@ -73,6 +73,10 @@ in 2024, using pelican-bootstrap and flatly.
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
     <!--<link href="./theme/css/counter.css" rel="stylesheet">-->
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
@@ -83,6 +87,15 @@ in 2024, using pelican-bootstrap and flatly.
 
 <body>
     <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+        </div>
+    </div>
 
     <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark" style="margin-bottom:0">
         <div class="container-fluid">
@@ -106,13 +119,15 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                             <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                            <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                            <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                            <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                             <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                                     <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                                    <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                                    <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                                    <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                                     <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>
 
@@ -125,7 +140,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                             <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                            <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                            <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                             <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -135,7 +150,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                                     <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                                    <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                                    <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                                     <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -151,13 +166,13 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                             <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                                     <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>
@@ -169,13 +184,13 @@ in 2024, using pelican-bootstrap and flatly.
                             Propose for Observations
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                            <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                            <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                            <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                             <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                                    <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                                     <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>
 
@@ -186,9 +201,6 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -210,8 +222,7 @@ in 2024, using pelican-bootstrap and flatly.
         <section id="content" class="body">
             <h1 class="entry-title">Step-0: How to get lightkurve running on your machine</h1>
             <div class="entry-content">
-                <p>[TOC]</p>
-<p>**Introduction to "An introduction into the tools and tutorials available for the analysis of TESS data" a.k.a. Step-0 **</p>
+                <p>**Introduction to "An introduction into the tools and tutorials available for the analysis of TESS data" a.k.a. Step-0 **</p>
 <h2>Motivation</h2>
 <p>Getting started with TESS data and tools is easy! However, it does require a couple of steps which can be daunting if you haven't done them before.  Many astronomers who have a laptop set-up for doing active research will likely have the necessities available, however others including (but not limited to!) new students, interns, and the interested amateur astronomer, may find this brief guide useful.  </p>
 <h2>Learning Goals</h2>
@@ -230,7 +241,7 @@ in 2024, using pelican-bootstrap and flatly.
 </li>
 </ol>
 <p><strong>Why do we assume this?</strong></p>
-<p><a href="https://docs.Lightkurve.org/">Lightkurve</a> is a Python package that will be the basis of the subsequent tutorials as it has been designed to work with time-series data from the Kepler and TESS satellites, and is great for data interaction, exploration, and analysis as it incorporates many tools that the community might want for working with TESS data.  </p>
+<p><a href="https://lightkurve.github.io/lightkurve/index.html">Lightkurve</a> is a Python package that will be the basis of the subsequent tutorials as it has been designed to work with time-series data from the Kepler and TESS satellites, and is great for data interaction, exploration, and analysis as it incorporates many tools that the community might want for working with TESS data.  </p>
 <p>To work with Lightkurve in these tutorials, we want an environment that will allow us to rapidly and interactively explore and analyze TESS data with a visible workflow, and to share this workflow with others.  To do this, we plan to write our Python analyses/code inside of <a href="https://jupyter.org/">Jupyter Notebooks</a>, which describe themselves as a 'web-based interactive computing platform that combines live code, equations, narrative text, visualizations, and more'.  They are a great way to explore data and to share code, analyses, and results like we do in the subsequent tutorials, and run in your browser once set up. Their usage has also become incredibly common across both many scientific fields as well as industry usage in some fields such as data science and business analytics. </p>
 <p>Working with TESS and Lightkurve does not <em>require</em> the use of Jupyter Notebooks, despite our tutorials presenting them in that style.  All of tutorial Python commands can be run from the Python command line or in a Python script, although the tutorials may require minimal modifications to the plotting commands to make the graphics appear.  </p>
 <p>Lightkurve requires a relatively recent version of Python 3.X (although, on rare occasions, not the most recent version) as well as scipy and other Python packages to be installed.  </p>
@@ -391,7 +402,7 @@ in 2024, using pelican-bootstrap and flatly.
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2024 TSSC
+         <div class="col-xs-10">&copy; 2025 TSSC
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>

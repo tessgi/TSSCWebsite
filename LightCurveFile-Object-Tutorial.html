@@ -19,7 +19,7 @@ in 2024, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="" />
+    <meta name="dc.date.modified" content="2025-01-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -73,6 +73,10 @@ in 2024, using pelican-bootstrap and flatly.
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
     <!--<link href="./theme/css/counter.css" rel="stylesheet">-->
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
@@ -83,6 +87,15 @@ in 2024, using pelican-bootstrap and flatly.
 
 <body>
     <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+        </div>
+    </div>
 
     <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark" style="margin-bottom:0">
         <div class="container-fluid">
@@ -106,13 +119,15 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                             <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                            <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                            <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                            <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                             <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                                     <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                                    <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                                    <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                                    <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                                     <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>
 
@@ -125,7 +140,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                             <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                            <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                            <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                             <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -135,7 +150,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                                     <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                                    <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                                    <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                                     <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -151,13 +166,13 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                             <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                                     <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>
@@ -169,13 +184,13 @@ in 2024, using pelican-bootstrap and flatly.
                             Propose for Observations
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                            <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                            <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                            <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                             <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                                    <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                                     <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>
 
@@ -186,9 +201,6 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -220,9 +232,7 @@ looked at how to obtain an object of interests light curve from its
 tutorial</a>) using Simple Aperture Photometry
 (SAP).</p>
 <p>In this tutorial we will demonstrate the difference between a
-<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html?highlight=tesslightcurve">TESSLightCurve</a>
-and a
-<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=tesslightcurvefiles">TESSLightCurveFile</a>,
+<tt class="docutils literal">TESSLightCurve</tt> and a <tt class="docutils literal">TESSLightCurveFile</tt>,
 and will cover the following, - What is a <tt class="docutils literal">LightCurveFile</tt>. - What is
 Pre-search Data Conditioning SAP flux (PSDCSAP). - How can we examine
 its <tt class="docutils literal">metadata</tt>. - How we use it to create and examine an objects
@@ -278,10 +288,8 @@ SAP flux and will have fewer systematic trends.</li>
 </div>
 <div class="section" id="downloading-the-data">
 <h3>Downloading the data</h3>
-<p>We can read in a light curve file from the TESS mission using
-<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.lightcurvefile.TessLightCurveFile.html?highlight=esslightcurvefile">TESSLightCurveFile</a>.
-We can use the
-<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile">search_lightcurve()</a>
+<p>We can use the
+<a class="reference external" href="https://lightkurve.github.io/lightkurve/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve">search_lightcurve()</a>
 function to fetch the files from the data archive.</p>
 <p>To demonstrate, lets use the <a class="reference external" href="https://arxiv.org/pdf/1903.08017.pdf">L 98-59
 System</a> again, focusing on
@@ -303,11 +311,11 @@ SearchResult containing 7 data products.
 <tr><td>6</td><td>TESS Sector 12</td><td>SPOC</td><td>307210830</td><td>tess2019140104343-s0012-0000000307210830-0144-s_lc.fits</td><td>0.0</td></tr>
 </table><p>The <tt class="docutils literal">search_lightcurve</tt> function takes several additional arguments,
 such as the <tt class="docutils literal">sector</tt> number or the <tt class="docutils literal">mission</tt> name. You can find
-examples of its use in the <a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.search_lightcurvefile.html#lightkurve.search.search_lightcurvefile">online
+examples of its use in the <a class="reference external" href="https://lightkurve.github.io/lightkurve/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve">online
 documentation</a>.</p>
 <p>Like <tt class="docutils literal">search_targetpixelfile</tt> the <tt class="docutils literal">search_lightcurve</tt> function
 returns a
-<a class="reference external" href="https://docs.lightkurve.org/api/lightkurve.search.SearchResult.html">SearchResult</a>
+<a class="reference external" href="https://lightkurve.github.io/lightkurve/reference/api/lightkurve.SearchResult.html?highlight=searchresult">SearchResult</a>
 object which has several convenient operations. For example, we can
 select the first data product in the list as follows,</p>
 <pre class="code ipython3 literal-block">
@@ -323,7 +331,7 @@ SearchResult containing 1 data products.
 <span class="n">lcf</span> <span class="o">=</span> <span class="n">search_result</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">()</span>
 </pre>
 <p>The <tt class="docutils literal">lcf</tt> variable we have obtained in this way is a
-<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html">TessLightCurve</a>
+<a class="reference external" href="https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.html?highlight=tesslightcurve">TessLightCurve</a>
 object. This object contains time, flux and flux error information, as
 well as a whole lot of data about spacecraft systematics. We can view
 all of them by calling the object by itself:</p>
@@ -368,7 +376,7 @@ table contains the SAP flux and PDCSAP flux!</p>
 <div class="section" id="sap-and-pdcsap-light-curves">
 <h4>SAP and PDCSAP light curves</h4>
 <p>By default, a
-<a class="reference external" href="http://docs.lightkurve.org/api/lightkurve.lightcurve.TessLightCurve.html">TESSLightCurveFiles</a>
+<a class="reference external" href="https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/what-are-lightcurve-objects.html?highlight=tesslightcurve">TESSLightCurveFiles</a>
 will set the PDCSAP flux to its <tt class="docutils literal">.flux</tt> property.</p>
 <p>To compare the PDCSAP and the SAP flux, we can use the <tt class="docutils literal">column</tt>
 keyword while plotting.</p>
@@ -656,7 +664,7 @@ Text(0.5, 1.0, 'PDCSAP light curve of  L 98-59')
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2024 TSSC
+         <div class="col-xs-10">&copy; 2025 TSSC
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>

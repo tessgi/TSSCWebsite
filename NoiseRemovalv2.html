@@ -19,7 +19,7 @@ in 2024, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="" />
+    <meta name="dc.date.modified" content="2025-01-30" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -73,6 +73,10 @@ in 2024, using pelican-bootstrap and flatly.
     <link href="./theme/css/exoplanet_archive_icons.css" rel="stylesheet">
     <link href="./theme/css/mission_icons.css" rel="stylesheet">
     <!--<link href="./theme/css/counter.css" rel="stylesheet">-->
+    <link href="./feeds/all.atom.xml" type="application/atom+xml" rel="alternate"
+        title="TESS ATOM Feed" />
+    <link href="./feeds/all.rss.xml" type="application/rss+xml" rel="alternate"
+        title="TESS RSS Feed" />
     <link rel="stylesheet" href="./theme/css/style.css" type="text/css" />
 
         
@@ -83,6 +87,15 @@ in 2024, using pelican-bootstrap and flatly.
 
 <body>
     <!-- Print a warning message that this is not the official site -->
+    <div class="container container-wide"
+        style="background-color: #d35400; color: white; padding: 1.5em; font-weight: bold;">
+        <div class="container">
+            <i class="fa fa-warning fa-lg fa-margin"></i>
+            This is the development version of the TESS Science Support Center website.
+            For the live website, visit <a
+                href="https://heasarc.gsfc.nasa.gov/docs/tess/">https://heasarc.gsfc.nasa.gov/docs/tess</a>
+        </div>
+    </div>
 
     <nav class="navbar navbar-expand-lg bg-primary fixed-top" data-bs-theme="dark" style="margin-bottom:0">
         <div class="container-fluid">
@@ -106,13 +119,15 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                             <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                            <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                            <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                            <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                             <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./what-is-tess.html">What is TESS?</a></li>
                                     <li><a class="dropdown-item" href="./statistics.html">TESS Statistics</a></li>
-                                    <li><a class="dropdown-item" href="./citizen_science.html">Citizen Science</a></li>
+                                    <li><a class="dropdown-item" href="./publications.html">TESS Publications</a></li>
+                                    <li><a class="dropdown-item" href="./citizenscience.html">Citizen Science</a></li>
                                     <li><a class="dropdown-item" href="./outreach.html">Outreach Materials</a></li>
                         </ul>
 
@@ -125,7 +140,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                             <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                            <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                            <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                             <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                             <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                             <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -135,7 +150,7 @@ in 2024, using pelican-bootstrap and flatly.
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./telescope_information.html">Telescope Information</a></li>
                                     <li><a class="dropdown-item" href="./sector.html">Sector Information</a></li>
-                                    <li><a class="dropdown-item" href="./data_products.html">Data Products</a></li>
+                                    <li><a class="dropdown-item" href="./data-products.html">Data Products</a></li>
                                     <li><a class="dropdown-item" href="./tfop.html">Follow-up Program</a></li>
                                     <li><a class="dropdown-item" href="./tuc.html">Users Committee</a></li>
                                     <li><a class="dropdown-item" href="./mediarequest.html">Media Requests</a></li>
@@ -151,13 +166,13 @@ in 2024, using pelican-bootstrap and flatly.
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                            <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                            <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                             <li><a class="dropdown-item" href="./https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                             <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                                     <li><a class="dropdown-item" href="./tutorial_landing.html">Tutorials</a></li>
-                                    <li><a class="dropdown-item" href="./community.html">Data Analysis Tools</a></li>
+                                    <li><a class="dropdown-item" href="./data-analysis-tools.html">Data Analysis Tools</a></li>
                                     <li><a class="dropdown-item" href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py">TESS-point Web Tool</a></li>
                                     <li><a class="dropdown-item" href="./ticinfo_placeholder.html">TIC Info Web Tool</a></li>
                         </ul>
@@ -169,13 +184,13 @@ in 2024, using pelican-bootstrap and flatly.
                             Propose for Observations
                         </a>
                         <!--<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                            <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                            <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                            <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                             <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>-->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a class="dropdown-item" href="./proposing.html">How to Propose</a></li>
-                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous Approved Programs</a></li>
+                                    <li><a class="dropdown-item" href="./proposing-investigations.html">How to Propose</a></li>
+                                    <li><a class="dropdown-item" href="./approved-programs.html">Previous GI Programs</a></li>
                                     <li><a class="dropdown-item" href="./ddt.html">Director's Discretionary Targets</a></li>
                         </ul>
 
@@ -186,9 +201,6 @@ in 2024, using pelican-bootstrap and flatly.
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="./category/news.html"> News </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./category/tess_idea.html"> Tess_idea </a>
                     </li>
 -->
                     <li class="nav-item">
@@ -244,21 +256,19 @@ using the Corrector class.</li>
 <div class="section" id="imports">
 <h3>Imports</h3>
 <p>This tutorial requires the use of specific packages: -
-<a class="reference external" href="https://docs.lightkurve.org/index.html">Lightkurve</a> to work with
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/tree/main">Lightkurve</a> to work with
 <em>TESS</em> data (v2.0.1) - <a class="reference external" href="https://matplotlib.org/">Matplotlib</a> for
 plotting. - <a class="reference external" href="https://numpy.org">Numpy</a> for manipulating the data.</p>
 </div>
 <div class="section" id="first-time-users">
 <h3>First time users</h3>
 <p>If you are not that experienced with <em>Python</em>, or cannot download
-<em>Lightkurve</em>, you can run this notebook as a <a class="reference external" href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index">Colab
+<em>Lightkurve</em>, you can run this notebook as a <a class="reference external" href="https://timeseries.science.stsci.edu/hub/login?next=%2Fhub%2F">TIKE
 notebook</a>.
-Colaboratory allows users to write and execute <em>Python</em> in your browser
-with zero configuration required.</p>
-<p>All you need is a Google account and to copy and paste in the following
-command at the top of your colab notebook:</p>
-<p><tt class="docutils literal">!pip install lightkurve</tt></p>
-<p>This downloads the <em>Lightkurve</em> package.</p>
+TIKE is a JupyterHub service run by <a class="reference external" href="https://archive.stsci.edu/">MAST</a> which
+allows users to write and execute <em>Python</em> in a TESS specific environment on
+your browser with zero configuration required.</p>
+<p>To import the packages necessary for this tutorial, you can run the following.</p>
 <pre class="code ipython3 literal-block">
 <span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
 </span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
@@ -270,19 +280,19 @@ command at the top of your colab notebook:</p>
 <h3>Introduction to the Corrector Class</h3>
 <p><em>TESS</em> light curves can often have systematic trends caused by noise
 sources such as scattered light and instrumental effects. Only the
-<a class="reference external" href="https://docs.lightkurve.org/tutorials/1-getting-started/what-are-lightcurve-objects.html">LightCurve
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/1-getting-started/what-are-lightcurve-objects.ipynb">LightCurve
 objects</a>
 which have been fully processed, have had these effects removed. Data
 derived from either
-<a class="reference external" href="https://docs.lightkurve.org/tutorials/1-getting-started/what-are-targetpixelfile-objects.html">TargetPixelFiles</a>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/1-getting-started/what-are-targetpixelfile-objects.ipynb">TargetPixelFiles</a>
 or Full Frame Images must undergo further processing by the user to
 remove these sources of noise.</p>
 <p>To aid the user in this process, there exist several different tools
-within the <em>Lightkurve</em> package. These are known as the <a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.correctors.corrector.Corrector.html?highlight=corrector%20class#lightkurve-correctors-corrector-corrector">Corrector
+within the <em>Lightkurve</em> package. These are known as the <a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/corrector.py">Corrector
 class</a>.
 We briefly describe each of these corrector classes below,</p>
 <ul class="simple">
-<li><a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.correctors.CBVCorrector.html?highlight=cbvcorrector">CBVCorrector</a>:
+<li><a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/cbvcorrector.py">CBVCorrector</a>:
 Cotrending Basis Vectors (CBVs) are generated from the most common
 systematic trends observed in each Sector. Each <em>TESS</em> CCD and Camera
 has its own set of CBVs. There are three basic types of CBVs,<ul>
@@ -299,13 +309,13 @@ correction is applied to remove short impulsive systematic
 signals.</li>
 </ul>
 </li>
-<li><a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.correctors.RegressionCorrector.html?highlight=regressioncorrector">RegressionCorrector</a>:
+<li><a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/regressioncorrector.py">RegressionCorrector</a>:
 Here the light curve is de-trended against vectors that we think are
 predictive of the systematic noise. For FFI data, we have to
 select/define an aperture for our object of interest. Pixels outside
 of this aperture are used to create vectors that are predictive of
 the noise. These vectors are then removed from the data.</li>
-<li><a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.correctors.PLDCorrector.html?highlight=pldcorrector">PLDCorrector</a>:
+<li><a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/src/lightkurve/correctors/pldcorrector.py">PLDCorrector</a>:
 Pixel Level De-correlation (PLD) works by identifying a set of trends
 in the pixels surrounding the target star, and performing linear
 regression to create a combination of these trends that effectively
@@ -319,17 +329,17 @@ various Corrector functions.</p>
 </div>
 <div class="section" id="how-to-use-lightkurve-to-access-the-various-data-products-and-create-a-time-series">
 <h3>1. How to use <em>Lightkurve</em> to access the various data products and create a time series</h3>
-<p><a class="reference external" href="https://docs.lightkurve.org/tutorials/index.html">Lightkurve</a> offers
+<p><a class="reference external" href="https://github.com/lightkurve/lightkurve/tree/main/docs/source/tutorials">Lightkurve</a> offers
 a user-friendly way to analyze time series data obtained by telescopes,
 in particular <em>TESS</em>. You can search for the various data products for
 <em>TESS</em> on MAST using the following <em>Lightkurve</em> functions.</p>
 <ul class="simple">
 <li>To look for your object in a full frame image:
-<tt class="docutils literal">`search_tesscut()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut">https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut</a>&gt;`__</li>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L855">search_tesscut()</a></li>
 <li>To look for target pixel files:
-<tt class="docutils literal">`search_targetpixelfile()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.search_targetpixelfile.html?highlight=search_targetpixelfile">https://docs.lightkurve.org/reference/api/lightkurve.search_targetpixelfile.html?highlight=search_targetpixelfile</a>&gt;`__</li>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L594">search_targetpixelfile()</a></li>
 <li>To obtain light curve files for your object of interest:
-<tt class="docutils literal">`search_lightcurve()</tt> &lt;<a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve">https://docs.lightkurve.org/reference/api/lightkurve.search_lightcurve.html?highlight=search_lightcurve</a>&gt;`__</li>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L723">search_lightcurve()</a></li>
 </ul>
 <p>For the purpose of this tutorial, we will be examining <a class="reference external" href="https://en.wikipedia.org/wiki/KT_Eridani">KT
 Eri</a>, a bright nova in the
@@ -337,7 +347,7 @@ constellation Eridanus that underwent an eruption in 2009.</p>
 <p>To test our various methods of noise removal, we will be looking at FFI
 data for this object. We can search <a class="reference external" href="https://mast.stsci.edu">MAST</a>
 for TESS FFI data on this object using the
-<a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.search_tesscut.html?highlight=search_tesscut#lightkurve.search_tesscut">search_tesscut()</a>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L855">search_tesscut()</a>
 function.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">search_lc</span> <span class="o">=</span> <span class="n">lk</span><span class="o">.</span><span class="n">search_tesscut</span><span class="p">(</span><span class="s2">&quot;KT Eri&quot;</span><span class="p">)</span><span class="w">
@@ -353,7 +363,7 @@ SearchResult containing 2 data products.
 </table><p>We see that there are two sets of data, one from Sector 5 and the other
 from Sector 32. Let’s look at the data from Sector 32. To download the
 data we must specify a cut out size in pixels and use the
-<a class="reference external" href="https://docs.lightkurve.org/reference/search.html?highlight=download">download()</a>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/search.py#L367">download()</a>
 function.</p>
 <pre class="code ipython3 literal-block">
 <span class="n">S32</span> <span class="o">=</span> <span class="n">search_lc</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">download</span><span class="p">(</span><span class="n">cutout_size</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span><span class="w">
@@ -368,7 +378,7 @@ because when calculating our noise and systematics, we want a larger
 sample of pixels from which the correction will be applied.</p>
 <p><strong>Creating our light curve</strong></p>
 <p>Great! Now we have our data, we can create our light curve using the
-<a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.KeplerTargetPixelFile.to_lightcurve.html?highlight=to_lightcurve#lightkurve.KeplerTargetPixelFile.to_lightcurve">to_lightcurve()</a>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/targetpixelfile.py#L550">to_lightcurve()</a>
 function. Our object is in the center, but it is kind of faint in
 comparison to some other objects. We must therefore create our own
 aperture as shown below.</p>
@@ -400,7 +410,7 @@ let’s try our first method,</p>
 <div class="section" id="the-cbvcorrector">
 <h4>The CBVCorrector</h4>
 <p>Here we will use CBVs to remove our noise.</p>
-<p>Check out our <a class="reference external" href="https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.html">CBV
+<p>Check out our <a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-2-how-to-use-cbvs.ipynb">CBV
 tutorial</a>
 for more information.</p>
 <p>First, we must import the <em>CBVCorrector</em> from <em>lightkurve.correctors</em>,
@@ -465,7 +475,7 @@ via a diagnose method.</p>
 </span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span><span class="w">
 </span><span class="n">pltAxis</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">set_ylim</span><span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">500</span><span class="p">);</span>
 </pre>
-<img alt="CBV correction" src="output_27_0.png" />
+<img alt="CBV correction" src="images/NoiseRemoval/output_27_0.png" />
 <pre class="code ipython3 literal-block">
 <span class="n">cbvcorrector_lc</span> <span class="o">=</span> <span class="n">cbvcorrector</span><span class="o">.</span><span class="n">corrected_lc</span><span class="w">
 </span><span class="n">cbvcorrector_lc</span><span class="o">.</span><span class="n">remove_outliers</span><span class="p">()</span><span class="o">.</span><span class="n">plot</span><span class="p">()</span>
@@ -597,7 +607,7 @@ from the diagnostic plots that this is due to the application of a flat
 background, unlike that which was applied in <em>RegressionCorrection</em>.</p>
 <p>Note that there are various componants that can be altered in <em>PLD</em> most
 of which can be found
-<a class="reference external" href="https://docs.lightkurve.org/reference/api/lightkurve.correctors.PLDCorrector.correct.html?highlight=pca_components">here</a>.</p>
+<a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/48b406a2133267fc03f09d115ecd5cd95a35c702/src/lightkurve/correctors/pldcorrector.py#L304">here</a>.</p>
 </div>
 </div>
 <div class="section" id="comparison">
@@ -630,13 +640,13 @@ of noise removal and inspect all final products.</p>
 <p>The tutorials listed below will aid you in better understanding the fine
 details of each process.</p>
 <ul class="simple">
-<li><a class="reference external" href="https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.html">Removing noise from Kepler, K2, and TESS light curves using
+<li><a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-3-how-to-use-cbvcorrector.ipynb">Removing noise from Kepler, K2, and TESS light curves using
 Cotrending Basis Vectors
 (CBVCorrector)</a></li>
-<li><a class="reference external" href="https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-removing-scattered-light-using-regressioncorrector.html">Removing scattered light from TESS light curves using linear
+<li><a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-3-removing-scattered-light-using-regressioncorrector.ipynb">Removing scattered light from TESS light curves using linear
 regression
 (RegressionCorrector)</a></li>
-<li><a class="reference external" href="https://docs.lightkurve.org/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.html">Removing noise from K2 and TESS light curves using Pixel Level
+<li><a class="reference external" href="https://github.com/lightkurve/lightkurve/blob/main/docs/source/tutorials/2-creating-light-curves/2-3-k2-pldcorrector.ipynb">Removing noise from K2 and TESS light curves using Pixel Level
 Decorrelation
 (PLDCorrector)</a></li>
 </ul>
@@ -657,7 +667,7 @@ Decorrelation
    <div class="container">
       <hr>
       <div class="row">
-         <div class="col-xs-10">&copy; 2024 TSSC
+         <div class="col-xs-10">&copy; 2025 TSSC
             &middot; Powered by <a href="https://github.com/getpelican/pelican-themes/tree/master/pelican-bootstrap3" target="_blank">pelican-bootstrap3</a>,
             <a href="http://docs.getpelican.com/" target="_blank">Pelican</a>,
             <a href="http://getbootstrap.com" target="_blank">Bootstrap</a>         </div>
