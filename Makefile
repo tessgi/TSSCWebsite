@@ -93,6 +93,14 @@ github: html-dev
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+live:   html-live
+	ghp-import -m "Generate live site" -b $(GITHUB_LIVE_BRANCH) $(OUTPUTDIR)
+	git push origin $(GITHUB_LIVE_BRANCH)
+
+quinn: live
+	git push quinn live
+	git push quinn main
+
 tpub:
 	cd content/pages/tpub; \
 	tpub --save
