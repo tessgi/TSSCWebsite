@@ -12,5 +12,8 @@ from pelicanconf import *
 
 CACHE_CONTENT = False
 
+
+#ANALYTICS = ("""<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA"></script>""", """<script language="javascript" id="_fed_an_ua_tag" src="//dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=NASA&subagency=GSFC&dclink=true"></script>""")
+
 # Then override anything we want to override below:
-DEVMODE = True  # This will add the big red warning banner at the top
+#DEVMODE = True  # This will add the big red warning banner at the top
