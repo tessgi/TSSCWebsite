@@ -98,7 +98,7 @@ live:   html-live
 	git push origin $(GITHUB_LIVE_BRANCH)
 
 quinn:  github
-	git push quinn github
+	git push quinn gh-pages
 	git push quinn main
 
 tpub:
