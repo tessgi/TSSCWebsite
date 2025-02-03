@@ -136,6 +136,12 @@ In addition to the mission-supported pipeline and lightkurve package, a number o
             <td>This builds on lightkurve, allowing the user to reduce TESS data while preserving transient signals. The user can supply a TPF or give coordinates and sector to construct a TPF with TESScut. The background subtraction accounts for the smooth background and detector straps. Alongside background subtraction TESSreduce also aligns images, performs difference imaging, and can even detect transient events!
             </td>
           </tr>
+          <tr>
+            <td style="width: 15em;"><a
+            href='https://github.com/altuson/tess-asteroids'>tess-asteroids</a></td>
+            <td>Allows you to make Target Pixel Files (TPFs) and Light Curve Files (LCFs) for any object that moves through the TESS field of view, for example solar system asteroids, comets, or minor planets.
+            </td>
+          </tr>
           </table>
         </div>
       </div>
