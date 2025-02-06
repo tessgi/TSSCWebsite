@@ -182,8 +182,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>151.25</td>
               <td>2025&nbsp;Feb&nbsp;11</td>
               <td>2025&nbsp;Mar&nbsp;12</td>
-              <td></td>
-              <!--<td><a href='data/target_lists/sector089_targets_lists/GI_S089.csv'>Download</a></td>-->
+              <td><a href='data/target_lists/sector089_targets_lists/GI_S089.csv'>Download</a></td>
               <td style="min-width: 12em;">
               </td>
             </tr>
