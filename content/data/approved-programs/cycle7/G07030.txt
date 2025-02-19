@@ -1,0 +1,13 @@
+# TESS Program G07030
+
+Title: Uncovering Additional Planets In Known Young Systems
+
+PI: Barber, Madyson - University Of North Carolina
+
+Type: SMALL
+
+Summary: Young multi-planet systems are disproportionally non-uniform in planet radii and orbital period spacing when compared to their older counterparts, suggesting that intra-system uniformity is a result of evolutionary processes rather than formation. However, we are far less sensitive to small planets in young systems than in old systems. For many young systems, detecting a planet just below current thresholds could explain some of the differences. We propose for higher-cadence TESS data of the known young planetary systems to search for such planets. Combining new data at a better cadence and our improved light curve extraction and search pipelines will increase our sensitivity by 20-50%, allowing us to reach these small planets and separate out the effects of evolution and detection biases.
+
+
+# Sector 090 targets observed (2 min: 1, 20 s: 0)
+272212970,180.2088,-46.1364,13.17,G07003;G07157;G07030;G07066

@@ -8,3 +8,6 @@ Type: SMALL
 
 Summary: The extant sample of young (<1 Gyr) planets have radii statistically larger than their older counterparts. Unfortunately, detection biases against finding planets around young stars makes it hard to study the underlying physical drivers of this change. Mass measurements for young planets are critical, but radial velocity surveys of young systems are often overwhelmed by stellar activity. A technique that can overcome this challenge is Transit Timing Variations (TTVs). We aim to search for TTVs in 39 systems known to host young planets. Several already show TTVs or have periods near mean-motion resonances. This project will aid in elucidating the underlying physical processes driving planet size evolution and contribute to our overall understanding of planetary formation
 
+
+# Sector 090 targets observed (2 min: 1, 20 s: 0)
+272212970,180.2088,-46.1364,13.17,G07003;G07157;G07030;G07066

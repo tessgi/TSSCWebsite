@@ -17,3 +17,6 @@ Summary: Due to the characteristics of outbursting white dwarfs, they can only b
 
 # Sector 089 targets observed (2 min: 1, 20 s: 1)
 382303117,83.2785,-56.0647,15.96,G07084;G07036;G07169;20SECONDTARGET
+
+# Sector 090 targets observed (2 min: 1, 20 s: 1)
+382303117,83.2785,-56.0647,15.96,G07084;G07036;G07169;20SECONDTARGET
