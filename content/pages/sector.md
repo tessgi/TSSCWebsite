@@ -72,6 +72,181 @@ The spacecraft and individual camera pointing positions are [available from MIT]
   <div class="accordion-item">
      <h2 class="accordion-header" id="headingSec7">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec7" aria-expanded="false" aria-controls="collapseSec7">
+        Cycle 8
+      </button>
+      </h2>
+      <div id="collapseSec7" class="accordion-collapse collapse show" aria-labelledby="headingSec7" data-bs-parent="#accordionPointings" style="">
+        <div class="accordion-body">
+          <table class="table table-striped table-hover" style="font-size: 0.77em;">
+            <thead>
+              <tr>
+                <th style="vertical-align: middle;">Sector</th>
+                <th style="vertical-align: middle;">Pointing</th>
+                <th style="vertical-align: middle;">Spacecraft RA, dec</th>
+                <th style="vertical-align: middle;">Spacecraft roll (deg)</th>
+                <th style="vertical-align: middle;">Start</th>
+                <th style="vertical-align: middle;">Stop</th>
+                <th style="vertical-align: middle;">GI target list</th>
+                <!-- <th style="vertical-align: middle;" class="text-center">Release<br>notes</th> -->
+                <th style="vertical-align: middle;">Comments</th>
+              </tr>
+	      
+            </thead>
+	    	<tr>
+		<td><a href="sector107_summary.html">s107</a></td>
+		<td>Southern hemisphere</td>
+		<td>45.8709,-31.2349</td>
+		<td>271.3363</td>
+		<td>2026&nbsp;Aug&nbsp;09</td>
+		<td>2026&nbsp;Sep&nbsp;07</td>
+		<!--<td><a href="data/target_lists/sector107_targets_lists/GI_S107.csv">Download</a></td>-->
+		<td></td>
+	   	<td style="min-width: 12em;">
+    	   	</td>		      
+		</tr>
+
+		<td><a href="sector106_summary.html">s106</a></td>
+		<td>Southern hemisphere</td>
+		<td>25.0148,-40.1221</td>
+		<td>279.1045</td>
+		<td>2026&nbsp;Jul&nbsp;11</td>
+		<td>2026&nbsp;Aug&nbsp;09</td>
+		<!--<td><a href="data/target_lists/sector106_targets_lists/GI_S106.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector105_summary.html">s105</a></td>
+		<td>Southern hemisphere</td>
+		<td>2.5764,-50.5513</td>
+		<td>282.7413</td>
+		<td>2026&nbsp;Jun&nbsp;13</td>
+		<td>2026&nbsp;Jul&nbsp;11</td>
+		<!--<td><a href="data/target_lists/sector105_targets_lists/GI_S105.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+		<tr>
+
+		<tr>
+		<td><a href="sector104_summary.html">s104</a></td>
+		<td>Southern hemisphere</td>
+		<td>335.4613,-60.7536</td>
+		<td>279.238</td>
+		<td>2026&nbsp;May&nbsp;17</td>
+		<td>2026&nbsp;Jun&nbsp;13</td>
+		<!--<td><a href="data/target_lists/sector104_targets_lists/GI_S104.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector103_summary.html">s103</a></td>
+		<td>Southern hemisphere</td>
+		<td>297.5431,-68.1075</td>
+		<td>263.1873</td>
+		<td>2026&nbsp;Apr&nbsp;21</td>
+		<td>2026&nbsp;May&nbsp;17</td>
+		<!--<td><a href="data/target_lists/sector103_targets_lists/GI_S103.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector102_summary.html">s102</a></td>
+		<td>Southern hemisphere</td>
+		<td>249.1776,-68.7051</td>
+		<td>236.0704</td>
+		<td>2026&nbsp;Mar&nbsp;27</td>
+		<td>2026&nbsp;Apr&nbsp;21</td>
+		<!--<td><a href="data/target_lists/sector102_targets_lists/GI_S102.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector101_summary.html">s101</a></td>
+		<td>Southern hemisphere</td>
+		<td>209.0229,-62.0323</td>
+		<td>217.7538</td>
+		<td>2026&nbsp;Mar&nbsp;01</td>
+		<td>2026&nbsp;Mar&nbsp;27</td>
+		<!--<td><a href="data/target_lists/sector101_targets_lists/GI_S101.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector100_summary.html">s100</a></td>
+		<td>Southern hemisphere</td>
+		<td>180.5352,-51.9138</td>
+		<td>212.8651</td>
+		<td>2026&nbsp;Feb&nbsp;02</td>
+		<td>2026&nbsp;Mar&nbsp;01</td>
+		<!--<td><a href="data/target_lists/sector100_targets_lists/GI_S100.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		</tr>
+		<tr>
+		<td><a href="sector99_summary.html">s099</a></td>
+		<td>Southern hemisphere</td>
+		<td>157.205,-41.1581</td>
+		<td>215.9362</td>
+		<td>2026&nbsp;Jan&nbsp05</td>
+		<td>2026&nbsp;Feb&nbsp;02</td>
+		<!--<td><a href="data/target_lists/sector099_targets_lists/GI_S099.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		</tr>
+		<tr>
+		<td><a href="sector98_summary.html">s098</a></td>
+		<td>Southern hemisphere</td>
+		<td>80.1656,-31.0553</td>
+		<td>186.6394</td>
+		<td>2025&nbsp;Nov&nbsp09</td>
+		<td>2026&nbsp;Jan&nbsp;05</td>
+		<!--<td><a href="data/target_lists/sector098_targets_lists/GI_S098.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+		
+		<tr>
+	    	<td><a href="sector97_summary.html">s097</a></td>
+		<td>Southern hemisphere</td>
+		<td>41.6581, -41.8452</td>
+		<td>210.3682</td>
+		<td>2025&nbsp;Sep&nbsp;15</td>
+		<td>2025&nbsp;Nov&nbsp;09</td>
+		<!--<td><a href="data/target_lists/sector097_targets_lists/GI_S097.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+
+          </table>
+        </div>
+      </div>
+    </div>
+
+
+
+<div class="accordion" id="accordionPointings">
+  <div class="accordion-item">
+     <h2 class="accordion-header" id="headingSec7">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec7" aria-expanded="false" aria-controls="collapseSec7">
         Cycle 7
       </button>
       </h2>
