@@ -57,7 +57,7 @@ from datetime import date, datetime
 SCIENCE_DAYS = (date.today() - date.fromisoformat('2018-07-18')).days
 # Current sector for where is tess button
 import pandas as pd
-sec_dates = pd.read_csv('content/data/TESS_orbit_times-4.csv') #https://tess.mit.edu/observations/
+sec_dates = pd.read_csv('content/data/TESS_orbit_times.csv') #https://tess.mit.edu/observations/
 for index, row in sec_dates.iterrows():
     if ((datetime.today() < datetime.strptime(row['End of Orbit'], "%Y-%m-%d %H:%M:%S")) & (datetime.today() >= datetime.strptime(row['Start of Orbit'], "%Y-%m-%d %H:%M:%S"))):
         CURRENT_SECTOR = row['Sector']
