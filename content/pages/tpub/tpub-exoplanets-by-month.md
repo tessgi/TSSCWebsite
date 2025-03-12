@@ -5,6 +5,50 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2025-03
+-------
+
+1. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). XII. A YOUNG MINI-NEPTUNE ON THE UPPER EDGE OF THE RADIUS VALLEY IN THE HYADES CLUSTER](http://adsabs.harvard.edu/abs/2025AJ....169..166D)  
+Distler, Adam, Soares-Furtado, Melinda, Vanderburg, Andrew, et al.    
+2025, refereed ([2025AJ....169..166D](http://adsabs.harvard.edu/abs/2025AJ....169..166D))  
+<span class="badge">0 citations</span>
+
+2. [TOI-6038 A B: A DENSE SUB-SATURN IN THE TRANSITION REGIME BETWEEN THE NEPTUNIAN RIDGE AND SAVANNA](http://adsabs.harvard.edu/abs/2025AJ....169..147B)  
+Baliwal, Sanjay, Sharma, Rishikesh, Chakraborty, Abhijit, et al.    
+2025, refereed ([2025AJ....169..147B](http://adsabs.harvard.edu/abs/2025AJ....169..147B))  
+<span class="badge">0 citations</span>
+
+3. [EXOPLANET EPHEMERIDES CHANGE OBSERVATIONS (EXOECHO). I. TRANSIT TIMING ANALYSIS OF 37 EXOPLANETS USING HST/WFC3 DATA](http://adsabs.harvard.edu/abs/2025AJ....169..169M)  
+Ma, Xinyue, Wang, Wenqin, Zhang, Zixin, et al.    
+2025, refereed ([2025AJ....169..169M](http://adsabs.harvard.edu/abs/2025AJ....169..169M))  
+<span class="badge">0 citations</span>
+
+4. [THE NCORES PROGRAMME: PRECISE PLANETARY MASSES, NULL RESULTS, AND INSIGHT INTO THE PLANET MASS DISTRIBUTION NEAR THE RADIUS GAP](http://adsabs.harvard.edu/abs/2025MNRAS.537.3175A)  
+Armstrong, David J., Osborn, Ares, Burn, Remo, et al.    
+2025, refereed ([2025MNRAS.537.3175A](http://adsabs.harvard.edu/abs/2025MNRAS.537.3175A))  
+<span class="badge">0 citations</span>
+
+5. [QUANTIFYING THE EFFECT OF SHORT-TIMESCALE STELLAR ACTIVITY UPON TRANSIT DETECTION IN M DWARFS](http://adsabs.harvard.edu/abs/2025AJ....169..153Y)  
+Yaptangco, Dana Clarice, Ballard, Sarah, Dittmann, Jason, et al.    
+2025, refereed ([2025AJ....169..153Y](http://adsabs.harvard.edu/abs/2025AJ....169..153Y))  
+<span class="badge">1 citations</span>
+
+6. [AN OASIS IN THE BROWN DWARF DESERT: CONFIRMATION OF TWO LOW-MASS TRANSITING BROWN DWARFS DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2025arXiv250305115Z)  
+Zhang, Elina Y., Carmichael, Theron W., Huber, Daniel, et al.    
+2025, not refereed ([2025arXiv250305115Z](http://adsabs.harvard.edu/abs/2025arXiv250305115Z))  
+<span class="badge">0 citations</span>
+
+7. [EVIDENCE FOR PRIMORDIAL ALIGNMENT II: INSIGHTS FROM STELLAR OBLIQUITY MEASUREMENTS FOR HOT JUPITERS IN COMPACT MULTIPLANET SYSTEMS](http://adsabs.harvard.edu/abs/2025arXiv250303745R)  
+Radzom, Brandon Thomas, Dong, Jiayin, Rice, Malena, et al.    
+2025, not refereed ([2025arXiv250303745R](http://adsabs.harvard.edu/abs/2025arXiv250303745R))  
+<span class="badge">0 citations</span>
+
+8. [CONSTRAINING THE SCATTERED LIGHT PROPERTIES OF LTT 9779 B USING HST/WFC3 UVIS](http://adsabs.harvard.edu/abs/2025arXiv250305581R)  
+Radica, Michael, Taylor, Jake, Wakeford, Hannah R., et al.    
+2025, not refereed ([2025arXiv250305581R](http://adsabs.harvard.edu/abs/2025arXiv250305581R))  
+<span class="badge">0 citations</span>
+
+
 2025-02
 -------
 
