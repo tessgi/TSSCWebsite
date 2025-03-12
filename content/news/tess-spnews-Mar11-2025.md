@@ -5,10 +5,12 @@ Author: Rebekah Hounsell
 Welcome TESS followers to this special news bulletin.
 
 In every TESS Cycle specific targets will automatically receive 2-min cadence observations.
-With Cycle 8 proposals due in just over two weeks, **March 27th**, we have decided to provide this [target list](/data/Cycle8_visibility.csv) in advance.
 
-Proposers can still ask to observe these objects with the higher 20-second cadence observations, and include them in their overall science goals.
+Cycle 8 proposals are due in just over two weeks, **March 27th**, as such we are providing the [pre-selected target list](/data/Cycle8_visibility.csv) for reference.
 
-Proposals utilizing only targets from this list may still be submitted and selected for funding"
+Proposals utilizing these targets are still encouraged, and may be submitted and selected for funding.
+
+Proposers may also ask to observe these objects with the higher 20-second cadence, and include them in their overall science goals.
+
 Happy writing.
 
