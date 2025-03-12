@@ -6,7 +6,7 @@ Welcome TESS followers to this special news bulletin.
 
 In every TESS Cycle specific targets will automatically receive 2-min cadence observations.
 
-Cycle 8 proposals are due in just over two weeks, **March 27th**, as such we are providing the [pre-selected target list](/data/Cycle8_visibility.csv) for reference.
+Cycle 8 proposals are due in just over two weeks, **March 27th**, as such we are providing the [pre-selected target list](data/Cycle8_visibility.csv) for reference.
 
 Proposals utilizing these targets are still encouraged, and may be submitted and selected for funding.
 
