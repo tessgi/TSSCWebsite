@@ -46,3 +46,6 @@ Summary: The Ursa Major moving group (UMa) is the nearest (20pc), young stellar 
 
 # Sector 090 targets observed (2 min: 1, 20 s: 1)
 52214265,176.1909,-18.3509,3.87,G07170;20SECONDTARGET
+
+# Sector 091 targets observed (2 min: 1, 20 s: 1)
+162131472,249.4307,-20.2267,11.02,G07170;20SECONDTARGET

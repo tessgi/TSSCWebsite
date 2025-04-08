@@ -8,3 +8,7 @@ Type: MINI
 
 Summary: TESS will obtain its first coverage of the nearby Ophiuchus star-forming region in April 2025. We target two young stars in the region which HST images have shown to be edge-on protoplanetary disks: bipolar reflection nebulae separated by a dark lane (the disk), and with diameters of 2-3 arcsec. Both have approved imaging observations with JWST. K2 data for the first target shows a factor of two variation in brightness with an ~8 day period, while the second target has never been monitored before. We reguest 2 min cadence of observations of both targets during Sector 91. The results will test the hypothesis that stellar accretion hotspots are the source of the observed beaming in the disk reflected light, by observing one edge-on disk with strong accretion sigantures and one without.
 
+
+# Sector 091 targets observed (2 min: 2, 20 s: 0)
+175744769,247.0571,-24.5275,17.25,G07067
+318449155,247.8802,-24.4413,16.51,G07067
