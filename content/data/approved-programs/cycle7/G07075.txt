@@ -17,3 +17,6 @@ Summary: Heartbeats are eccentric binary systems with periastron variability, as
 
 # Sector 086 targets observed (2 min: 1, 20 s: 0)
 418090700,64.9256,55.9994,9.94,G07037;G07075;G07141
+
+# Sector 091 targets observed (2 min: 1, 20 s: 0)
+128269687,274.8401,-25.4072,13.36,G07025;G07075

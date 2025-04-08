@@ -60,3 +60,7 @@ Summary: We propose to combine TESS photometry and ground-based spectroscopy to 
 # Sector 089 targets observed (2 min: 2, 20 s: 0)
 422206627,151.3725,-14.7351,12.8,G07119
 62758233,145.3391,-3.9823,12.59,G07119
+
+# Sector 091 targets observed (2 min: 2, 20 s: 0)
+335256703,232.0833,-13.5289,12.57,G07119
+163851609,246.7386,-11.6786,12.3,G07119
