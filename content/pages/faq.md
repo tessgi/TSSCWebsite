@@ -31,4 +31,13 @@ Here we list some common questions. If you have a question not found here, you c
 
 **Is there a standard acknowledgement to use when publishing TESS data?**
 
-<p style="margin-left: 2em">This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate.</p>
+<p style="margin-left: 2em">In your acknowledgments, please add "This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate."</p>
+
+<p style="margin-left: 2em">It is also encouraged to consider making a DOI of the TESS datasets you used in your work.  This allows other users to retrieve the same exact data sets you used. You can find more information on this process <a href = "https://archive.stsci.edu/publishing/doi">here</a>.</p>
+
+**How do I acknowledge High Level Science Products?**
+
+<p style="margin-left: 2em">For HLSPs, you should acknowledge the primary papers describing the HLSPs.  The <a href="https://archive.stsci.edu/hlsp/"> HLSP homepage</a> for each individual product contians the primary paper reference and the DOI information on the top-left section of the page. On the bottom of the page under the "Citations", you can find more information on the data licence, which conveys how users may use and share the data.</p>
+
+
+
