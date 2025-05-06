@@ -25,3 +25,8 @@ Summary: This proposal is to conduct simultaneous, ground-based, high-resolution
 # Sector 091 targets observed (2 min: 2, 20 s: 0)
 179000100,201.1999,-6.9795,11.34,G07107
 186896899,233.8195,-24.3369,11.16,G07107
+
+# Sector 092 targets observed (2 min: 3, 20 s: 0)
+188399938,307.9372,-21.9797,11.1,G07107
+206460831,330.725,-21.5257,10.64,G07107
+39945739,336.4132,-7.9413,10.47,G07107

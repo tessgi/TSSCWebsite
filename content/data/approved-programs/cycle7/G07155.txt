@@ -1,0 +1,13 @@
+# TESS Program G07155
+
+Title: The Promise Of Recurrence Analysis In Untangling Blazar Variability
+
+PI: Smith, Krista - Texas A&M University
+
+Type: SMALL
+
+Summary: We propose to analyze a large sample of TESS light curves of FSRQs and BL Lac objects with recurrence analysis. Different variability behavior is expected from these blazar sub-populations, as BLLs have optical spectra indicative of pure jet emission, and FSRQs show broad Balmer lines and accretion disk thermal emission. We also include "changing look" blazars that switch type on ~year timescales, with strong indications of being a transitional accretion class. As power spectral analysis does not seem to differentiate between the sub-types, we propose to couple the subtler recurrence analysis with machine learning to determine whether blazar variability characteristics are truly distinct, in both the optical and X-ray, and provide a confident interpretation of their optical variability.
+
+
+# Sector 092 targets observed (2 min: 1, 20 s: 0)
+41723429,309.7568,-10.7731,16.65,G07155
