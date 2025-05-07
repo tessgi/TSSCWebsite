@@ -32,7 +32,7 @@ Powell et al. (2025) present the discovery of two highly-compact quadruple stell
 
 **Fig. 1:** *Taken from Boyle et al. (2025). TESS-measured rotation periods in terms of recovery (upper panels), match (middle panels), and alias probability (lower panels) for the three young benchmark associations α Persei (left column), Pisces-Eridanus (middle column), and Group-X (right column).*
 
-![Schanche2025](images/news/Schanche_2025_Fig5.png)
+![Schanche2025](images/news/Schanche_2025_Fig9n12.png)
 
 **Fig. 2:** *Taken from Schanche et al. (2025). Left: Phase-folded lightcurves (upper panel) and radial velocities (lower panel) for the hot Jupiter WASP-195 b. Right: Mass-density-eqiulibrium temperature diagram highlighting the nine studied planets (star symbols).*
 
