@@ -983,3 +983,6 @@ Summary: The rapidly oscillating Ap (roAp) stars provide an exceptional laborato
 146616550,149.7323,-4.7372,13.27,G07063
 62727953,144.8136,-4.2598,13.25,G07063
 96051881,146.3854,-6.4564,12.77,G07063
+
+# Sector 092 targets observed (2 min: 1, 20 s: 0)
+269245621,324.9207,-4.668,10.97,G07063
