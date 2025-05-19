@@ -38,10 +38,10 @@ TESS identifies targets from a target list onboard the computer, and selects sma
           <p>The TIC can be directly accessed through the <a href = 'https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html'>MAST Portal </a> by first selecting MAST Catalogs as the collection and then TESS Input v8 as the Mission. A full description of the assembly, content, and properties of the TIC can be found in the <a href = 'https://arxiv.org/pdf/1905.10694.pdf'> Stassun et al. (2019) </a> paper. </p>
 
           <h1> The Candidate Target List (CTL) </h1>
-          <p>The Candidate Target List (CTL) is a subset of the TIC. This is a set of targets selected as likely good targets for transit detection and consists of two main components.
+          <p>The Candidate Target List (CTL) is a subset of the TIC. This is a set of targets selected as likely good targets for transit detection and consists of two main components:</p> 
 
-            - All TIC stars brighter than TESS magnitude = 13, and an estimated stellar radii smaller than RSun.
-            - All stars included in the <a href = 'https://arxiv.org/abs/1710.00193'> curated Cool Dwarf Catalog (CDC) </a>.</p>
+            <p>- All TIC stars brighter than TESS magnitude = 13, and an estimated stellar radii smaller than 5 R<sub>Sun</sub>.</p>
+            <p>- All stars included in the <a href = 'https://arxiv.org/abs/1710.00193'> curated Cool Dwarf Catalog (CDC) </a>.</p>
 
           <p>The CTL is a list of about 9.5 million stars, each evaluated according to a metric that prioritizes the star for transit detection, which incorporate the TESS magnitude, stellar radius, estimated flux contamination, and number of sectors of observation. You can search the CTL datatabe please at the MAST Portal by selecting MAST Catalogs as the collection and then TESS CTL v8.01 as the Mission. For more information on the TIC and CTL please visit the <a href = 'https://tess.mit.edu/science/tess-input-catalogue/'> MIT page</a>.</p>
         </div>
