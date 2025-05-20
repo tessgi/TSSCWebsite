@@ -1,8 +1,7 @@
 Title: Publications
 template: slide
+template: slide
 Save_as: publications.html
-
-
 
 We request that scientific publications using data obtained from the TESS project include one of the following acknowledgments:
 
@@ -13,8 +12,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 2661 publications,
-of which 2375 are peer-reviewed.
+The database contains 2775 publications,
+of which 2433 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -30,11 +29,11 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 08 Apr 2025.
+Last update: 20 May 2025.
 
 <hr/>
 
-## Breakdown by year & mission
+<h2>Breakdown by year & mission</h2>
 
 The graph below shows the number of publications as a function
 of year.
@@ -43,13 +42,13 @@ of year.
 
 <hr/>
 
-## Breakdown by subject
+<h2>Breakdown by subject</h2>
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 1064 works relate to exoplanets
+While 1106 works relate to exoplanets
 (40%),
-a total of 1597
+a total of 1669
 pertain to other areas of astrophysics
 (60%).
 
@@ -58,10 +57,10 @@ pertain to other areas of astrophysics
 
 <hr/>
 
-## Most-cited publications
+</h2>Most-cited publications</h2>
 
 TESS publications have cumulatively been cited
-38408 times.
+38445 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -118,7 +117,7 @@ Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.
 <hr/>
 
 <!-- 
-## Most-read publications
+<h2>Most-read publications</h2>
 
 The read count shown below is obtained from the ADS API
 and indicates the number of times the article has been downloaded
@@ -131,19 +130,17 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 8242 unique author names.
+by a total of 8389 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
- * Southworth, J (23 publications)
+ * Southworth, J (24 publications)
 
  * Sun, Q (13 publications)
 
  * Poro, A (13 publications)
 
- * Lee, J (11 publications)
-
- * Balona, L (10 publications)
+ * Lee, J (12 publications)
 
  * Kunimoto, M (10 publications)
 
@@ -151,75 +148,79 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Howard, W (10 publications)
 
- * Kostov, V (9 publications)
+ * Balona, L (10 publications)
 
- * Gan, T (9 publications)
+ * Zasche, P (10 publications)
+
+ * Koen, C (10 publications)
+
+ * Kostov, V (9 publications)
 
  * Maciejewski, G (9 publications)
 
- * Zasche, P (9 publications)
+ * Gan, T (9 publications)
 
- * Koen, C (9 publications)
-
- * Kahraman Alicavus, F (8 publications)
-
- * Naze, Y (8 publications)
+ * Naze, Y (9 publications)
 
  * Borkovits, T (8 publications)
 
- * Savanov, I (7 publications)
-
- * Cloutier, R (7 publications)
-
- * Jayasinghe, T (7 publications)
-
- * Gaidos, E (7 publications)
+ * Kahraman Alicavus, F (8 publications)
 
  * Doyle, L (7 publications)
 
- * Lillo-Box, J (7 publications)
-
- * Nardiello, D (7 publications)
+ * Jayasinghe, T (7 publications)
 
  * Bowman, D (7 publications)
 
- * Stassun, K (6 publications)
+ * Nardiello, D (7 publications)
 
- * Feinstein, A (6 publications)
+ * Savanov, I (7 publications)
 
- * Gill, S (6 publications)
+ * Murphy, S (7 publications)
 
- * Jayaraman, R (6 publications)
+ * Gaidos, E (7 publications)
 
- * Murphy, S (6 publications)
+ * Cloutier, R (7 publications)
+
+ * Lillo-Box, J (7 publications)
+
+ * Shi, X (6 publications)
+
+ * Ulas, B (6 publications)
+
+ * Bognar, Z (6 publications)
+
+ * Wong, I (6 publications)
+
+ * Knudstrup, E (6 publications)
+
+ * Wang, J (6 publications)
+
+ * Uzundag, M (6 publications)
+
+ * Yildirim, M (6 publications)
 
  * Kanodia, S (6 publications)
 
  * Damasso, M (6 publications)
 
- * Yildirim, M (6 publications)
-
- * Schaefer, B (6 publications)
-
- * Ramsay, G (6 publications)
-
- * Bognar, Z (6 publications)
-
- * Knudstrup, E (6 publications)
-
- * Ulas, B (6 publications)
-
- * Littlefield, C (6 publications)
-
- * Shi, X (6 publications)
-
- * Uzundag, M (6 publications)
-
- * Wang, J (6 publications)
+ * Stassun, K (6 publications)
 
  * Kato, T (6 publications)
 
+ * Jayaraman, R (6 publications)
+
+ * Cakirli, O (6 publications)
+
+ * Feinstein, A (6 publications)
+
+ * Schaefer, B (6 publications)
+
  * Kalman, S (6 publications)
 
- * Wong, I (6 publications)
+ * Gill, S (6 publications)
+
+ * Ramsay, G (6 publications)
+
+ * Littlefield, C (6 publications)
 -->

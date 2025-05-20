@@ -65,9 +65,8 @@ def get_countries(country_path="htmlcontent/statistics/data/countries_codes_and_
     ------------
     countries: Pandas dataframe with country information
     """
-
     # CSV from Christina
-    countries = pd.read_csv("htmlcontent/statistics/data/countries_codes_and_coordinates.csv")
+    countries = pd.read_csv(country_path)
     for column in countries.columns[1:]:
         countries[column] = [c.strip().replace('"', "") for c in countries[column]]
     countries['Country'] = countries['Country'].replace('Jersey','Bailiwick of Jersey') # Getting confused with New Jersey
