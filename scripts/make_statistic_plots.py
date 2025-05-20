@@ -737,7 +737,7 @@ def plot_American_authors(
 
     fig.write_html(
         html_path + "US_author_count.html",
-        include_plotlyjs="{{THEME}}/static/js/plotly-latest.min.js",
+        include_plotlyjs="./theme/static/js/plotly-latest.min.js",
         default_width="80vw",
         default_height="80vh",
     )
