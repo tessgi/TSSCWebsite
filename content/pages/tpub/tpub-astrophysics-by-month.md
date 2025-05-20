@@ -1,1388 +1,1279 @@
 Title: TESS astrophysics publications by month
 template: slide
-template: slide
 Save_as: tpub-astrophysics-by-month.html
 
+
+
+2025-06
+-------
+
+1. [A BORN ULTRAMASSIVE WHITE DWARF-HOT SUBDWARF SUPER-CHANDRASEKHAR CANDIDATE](http://adsabs.harvard.edu/abs/2025SCPMA..6869511L)  
+Luo, Changqing, Li, Jiao, Zheng, Chuanjie, et al.    
+2025, refereed ([2025SCPMA..6869511L](http://adsabs.harvard.edu/abs/2025SCPMA..6869511L))  
 
 
 2025-05
 -------
 
-1. [CONTINUOUS O 'CONNELL EFFECT AND PERIOD VARIATIONS OF SOLAR-LIKE TOTALLY ECLIPSING CONTACT BINARY BO ARI](http://adsabs.harvard.edu/abs/2025NewA..11602341G)  
-Guo, Meng, Wang, Jingjing, Zhang, Jing, et al.    
-2025, refereed ([2025NewA..11602341G](http://adsabs.harvard.edu/abs/2025NewA..11602341G))  
-
-2. [[PK2008] HALPHAJ115927 AND IGR J14091-6108: TWO NEW INTERMEDIATE POLARS ABOVE THE PERIOD GAP](http://adsabs.harvard.edu/abs/2025AJ....169..269J)  
-Joshi, Arti    
-2025, refereed ([2025AJ....169..269J](http://adsabs.harvard.edu/abs/2025AJ....169..269J))  
-
-3. [THIRTY-TWO NEW BRIGHT ZZ CETI STARS FROM TESS: ADDING CYCLES 4 AND 5](http://adsabs.harvard.edu/abs/2025ApJ...984..112R)  
+1. [THIRTY-TWO NEW BRIGHT ZZ CETI STARS FROM TESS: ADDING CYCLES 4 AND 5](http://adsabs.harvard.edu/abs/2025ApJ...984..112R)  
 Romero, Alejandra D., Kepler, S. O., Oliveira da Rosa, Gabriela, et al.    
 2025, refereed ([2025ApJ...984..112R](http://adsabs.harvard.edu/abs/2025ApJ...984..112R))  
+
+2. [VARIABILITY OF GALACTIC BLUE SUPERGIANTS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2025A&A...697A.152K)  
+Kourniotis, Michalis, Cidale, Lydia S., Kraus, Michaela, et al.    
+2025, refereed ([2025A&A...697A.152K](http://adsabs.harvard.edu/abs/2025A&A...697A.152K))  
+
+3. [[PK2008] HALPHAJ115927 AND IGR J14091-6108: TWO NEW INTERMEDIATE POLARS ABOVE THE PERIOD GAP](http://adsabs.harvard.edu/abs/2025AJ....169..269J)  
+Joshi, Arti    
+2025, refereed ([2025AJ....169..269J](http://adsabs.harvard.edu/abs/2025AJ....169..269J))  
 
 4. [A SPATIOTEMPORAL DATA CUBE APPROACH TO CLASSIFICATION OF VARIABLE STARS: A CATALOG OF CANDIDATE VARIABLE STARS FROM THE TESS FULL-FRAME IMAGE RAW DATA](http://adsabs.harvard.edu/abs/2025ApJ...984...49Q)  
 Qiang, Harry, Kounkel, Marina, Bass, Sally, et al.    
 2025, refereed ([2025ApJ...984...49Q](http://adsabs.harvard.edu/abs/2025ApJ...984...49Q))  
 
-5. [THREE NEW 2+2 QUADRUPLE SYSTEMS WITH CHANGING INCLINATION](http://adsabs.harvard.edu/abs/2025MNRAS.539.1015Z)  
-Zasche, P., Henzl, Z., Mašek, M., et al.    
-2025, refereed ([2025MNRAS.539.1015Z](http://adsabs.harvard.edu/abs/2025MNRAS.539.1015Z))  
+5. [ANALYZING THE MORPHOLOGY OF LATE-PHASE STELLAR FLARES FROM G-, K-, AND M-TYPE STARS](http://adsabs.harvard.edu/abs/2025ApJ...984..186Y)  
+Yudovich, Denise G., Yang, Kai E., Sun, Xudong    
+2025, refereed ([2025ApJ...984..186Y](http://adsabs.harvard.edu/abs/2025ApJ...984..186Y))  
 
-6. [SPECTROSCOPIC AND PHOTOMETRIC STUDY FOR FIVE LATE G- TO K-TYPE SHORT-PERIOD CONTACT BINARIES](http://adsabs.harvard.edu/abs/2025NewA..11602329D)  
-Dong, Qing, Michel, Raúl, Wang, Zhi-Hua, et al.    
-2025, refereed ([2025NewA..11602329D](http://adsabs.harvard.edu/abs/2025NewA..11602329D))  
+6. [VALUE-ADDED CATALOGUE OF LATE-TYPE STARS FOUND IN THE DIGITIZED FIRST BYURAKAN SURVEY DATA BASE: THIRD EDITION](http://adsabs.harvard.edu/abs/2025MNRAS.539..223G)  
+Gigoyan, K. S., Sarkissian, A., Kostandyan, G. R., et al.    
+2025, refereed ([2025MNRAS.539..223G](http://adsabs.harvard.edu/abs/2025MNRAS.539..223G))  
 
 7. [STOCHASTIC TIME SERIES MODELLING OF TESS PHOTOMETRY OF CLASSICAL T TAURI STARS](http://adsabs.harvard.edu/abs/2025MNRAS.539..650K)  
 Koen, C.    
 2025, refereed ([2025MNRAS.539..650K](http://adsabs.harvard.edu/abs/2025MNRAS.539..650K))  
 
-8. [DW CNC: A MICRONOVA WITH A NEGATIVE SUPERHUMP AND A FLICKERING SPIN](http://adsabs.harvard.edu/abs/2025MNRAS.539.2424V)  
-Veresvarska, M., Scaringi, S., Littlefield, C., et al.    
-2025, refereed ([2025MNRAS.539.2424V](http://adsabs.harvard.edu/abs/2025MNRAS.539.2424V))  
-
-9. [TESS DATA MINING AND UVES ESPECTRAL ANALYSIS OF CP STAR](http://adsabs.harvard.edu/abs/2025arXiv250505719M)  
-Macías, M. E., Rosales, J. A.    
-2025, not refereed ([2025arXiv250505719M](http://adsabs.harvard.edu/abs/2025arXiv250505719M))  
-
-10. [GAIA SEARCH FOR STELLAR COMPANIONS OF TESS OBJECTS OF INTEREST V](http://adsabs.harvard.edu/abs/2025arXiv250501470M)  
-Mugrauer, M., Kollak, A. -K., Pietsch, L., et al.    
-2025, not refereed ([2025arXiv250501470M](http://adsabs.harvard.edu/abs/2025arXiv250501470M))  
-
-11. [MEASURING LONG STELLAR ROTATION PERIODS (&GT;10 DAYS) FROM TESS FFI LIGHT CURVES IS POSSIBLE: AN INVESTIGATION USING TESS AND ZTF](http://adsabs.harvard.edu/abs/2025arXiv250510376H)  
-Hattori, Soichiro, Angus, Ruth, Foreman-Mackey, Daniel, et al.    
-2025, not refereed ([2025arXiv250510376H](http://adsabs.harvard.edu/abs/2025arXiv250510376H))  
-
-12. [ASTEROSEISMICALLY INFERRED AGES OF 132,000 RED GIANTS WITH TESS](http://adsabs.harvard.edu/abs/2025arXiv250508109T)  
-Theano Theodoridis, Artemis, Morales, Leslie, Tayar, Jamie    
-2025, not refereed ([2025arXiv250508109T](http://adsabs.harvard.edu/abs/2025arXiv250508109T))  
-
-13. [TWO ADDITIONAL MEMBERS OF A NEWLY IDENTIFIED GROUP OF PULSATING PRE-HE WHITE DWARFS](http://adsabs.harvard.edu/abs/2025MNRAS.539..967C)  
+8. [TWO ADDITIONAL MEMBERS OF A NEWLY IDENTIFIED GROUP OF PULSATING PRE-HE WHITE DWARFS](http://adsabs.harvard.edu/abs/2025MNRAS.539..967C)  
 Çakırlı, Ö., Hoyman, B.    
 2025, refereed ([2025MNRAS.539..967C](http://adsabs.harvard.edu/abs/2025MNRAS.539..967C))  
 
-14. [EXPLORING CONTACT BINARIES: OBSERVATIONAL ANALYSIS OF FOUR W UMA BINARIES USING PHOTOMETRY AND SPECTROSCOPY](http://adsabs.harvard.edu/abs/2025arXiv250503141P)  
+9. [THREE NEW 2+2 QUADRUPLE SYSTEMS WITH CHANGING INCLINATION](http://adsabs.harvard.edu/abs/2025MNRAS.539.1015Z)  
+Zasche, P., Henzl, Z., Mašek, M., et al.    
+2025, refereed ([2025MNRAS.539.1015Z](http://adsabs.harvard.edu/abs/2025MNRAS.539.1015Z))  
+
+10. [DW CNC: A MICRONOVA WITH A NEGATIVE SUPERHUMP AND A FLICKERING SPIN](http://adsabs.harvard.edu/abs/2025MNRAS.539.2424V)  
+Veresvarska, M., Scaringi, S., Littlefield, C., et al.    
+2025, refereed ([2025MNRAS.539.2424V](http://adsabs.harvard.edu/abs/2025MNRAS.539.2424V))  
+
+11. [STOCHASTIC LOW-FREQUENCY VARIABILITY OF 50 MASSIVE STARS IN THE CYGNUS OB ASSOCIATIONS AND THE SMALL MAGELLANIC CLOUD](http://adsabs.harvard.edu/abs/2025MNRAS.539.2742P)  
+Pedersen, May G., Bildsten, Lars    
+2025, refereed ([2025MNRAS.539.2742P](http://adsabs.harvard.edu/abs/2025MNRAS.539.2742P))  
+
+12. [EXTREMELY LOW MASS RATIO CONTACT BINARIES. II. THE FIRST PHOTOMETRIC AND SPECTROSCOPIC INVESTIGATIONS OF SIX SYSTEMS WITH ORBITAL PERIODS LONGER THAN 0.5 DAYS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..723L)  
+Liu, Fei, Li, Kai, Gao, Xiang, et al.    
+2025, refereed ([2025MNRAS.tmp..723L](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..723L))  
+
+13. [SPECTROSCOPIC AND PHOTOMETRIC STUDY FOR FIVE LATE G- TO K-TYPE SHORT-PERIOD CONTACT BINARIES](http://adsabs.harvard.edu/abs/2025NewA..11602329D)  
+Dong, Qing, Michel, Raúl, Wang, Zhi-Hua, et al.    
+2025, refereed ([2025NewA..11602329D](http://adsabs.harvard.edu/abs/2025NewA..11602329D))  
+
+14. [CONTINUOUS O 'CONNELL EFFECT AND PERIOD VARIATIONS OF SOLAR-LIKE TOTALLY ECLIPSING CONTACT BINARY BO ARI](http://adsabs.harvard.edu/abs/2025NewA..11602341G)  
+Guo, Meng, Wang, Jingjing, Zhang, Jing, et al.    
+2025, refereed ([2025NewA..11602341G](http://adsabs.harvard.edu/abs/2025NewA..11602341G))  
+
+15. [OPTICAL OBSERVATIONS OF THE HIGH-MASS X-RAY BINARY MAXI J0709-159/LY CANIS MAJORIS](http://adsabs.harvard.edu/abs/2025PASJ..tmp...37S)  
+Shidatsu, Megumi, Kawai, Nobuyuki, Maehara, Hiroyuki, et al.    
+2025, refereed ([2025PASJ..tmp...37S](http://adsabs.harvard.edu/abs/2025PASJ..tmp...37S))  
+
+16. [GAIA SEARCH FOR STELLAR COMPANIONS OF TESS OBJECTS OF INTEREST V](http://adsabs.harvard.edu/abs/2025arXiv250501470M)  
+Mugrauer, M., Kollak, A. -K., Pietsch, L., et al.    
+2025, not refereed ([2025arXiv250501470M](http://adsabs.harvard.edu/abs/2025arXiv250501470M))  
+
+17. [EXPLORING CONTACT BINARIES: OBSERVATIONAL ANALYSIS OF FOUR W UMA BINARIES USING PHOTOMETRY AND SPECTROSCOPY](http://adsabs.harvard.edu/abs/2025arXiv250503141P)  
 Panchal, Alaxender, Joshi, Yogesh Chandra, Joshi, Vishal, et al.    
 2025, not refereed ([2025arXiv250503141P](http://adsabs.harvard.edu/abs/2025arXiv250503141P))  
-
-15. [VARIABILITY OF GALACTIC BLUE SUPERGIANTS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2025A&A...697A.152K)  
-Kourniotis, Michalis, Cidale, Lydia S., Kraus, Michaela, et al.    
-2025, refereed ([2025A&A...697A.152K](http://adsabs.harvard.edu/abs/2025A&A...697A.152K))  
-
-16. [PHOTOMETRIC ANALYSIS OF ASTEROIDS IN THE PHOCAEA REGION](http://adsabs.harvard.edu/abs/2025arXiv250507237X)  
-Xu, Xiaoyun, Wang, Xiaobing, Muinonen, Karri, et al.    
-2025, not refereed ([2025arXiv250507237X](http://adsabs.harvard.edu/abs/2025arXiv250507237X))  
-
-17. [OPTICAL AND X-RAY VARIABILITY OF Γ CAS STARS: SAO 49725](http://adsabs.harvard.edu/abs/2025arXiv250509006K)  
-Kholtygin, A. F., Yakunin, I. Ya., Bukharinov, V. S., et al.    
-2025, not refereed ([2025arXiv250509006K](http://adsabs.harvard.edu/abs/2025arXiv250509006K))  
 
 18. [DISCOVERY OF RESONATING INTEGRATION MODES IN TRIPLE-MODE HIGH-AMPLITUDE $Δ$ SCUTI STARS: A NEW EVOLUTIONARY PHASE INDICATOR](http://adsabs.harvard.edu/abs/2025arXiv250503653N)  
 Niu, Jia-Shu, Xue, Hui-Fang    
 2025, not refereed ([2025arXiv250503653N](http://adsabs.harvard.edu/abs/2025arXiv250503653N))  
 
-19. [VALUE-ADDED CATALOGUE OF LATE-TYPE STARS FOUND IN THE DIGITIZED FIRST BYURAKAN SURVEY DATA BASE: THIRD EDITION](http://adsabs.harvard.edu/abs/2025MNRAS.539..223G)  
-Gigoyan, K. S., Sarkissian, A., Kostandyan, G. R., et al.    
-2025, refereed ([2025MNRAS.539..223G](http://adsabs.harvard.edu/abs/2025MNRAS.539..223G))  
-
-20. [SHORT- AND LONG-TERM VARIATIONS OF THE HIGH MASS ACCRETION RATE CLASSICAL T TAURI STAR DR TAU](http://adsabs.harvard.edu/abs/2025arXiv250507684Z)  
-Zsidi, Gabriella, Kóspál, Ágnes, Ábrahám, Péter, et al.    
-2025, not refereed ([2025arXiv250507684Z](http://adsabs.harvard.edu/abs/2025arXiv250507684Z))  
-
-21. [OBSERVATIONAL SIGNS OF LIMITED FLARE AREA VARIATION AND PEAK FLARE TEMPERATURES ESTIMATIONS IN MAIN-SEQUENCE FLARING STARS](http://adsabs.harvard.edu/abs/2025arXiv250509345B)  
-Bicz, K., Falewicz, R., Heinzel, P., et al.    
-2025, not refereed ([2025arXiv250509345B](http://adsabs.harvard.edu/abs/2025arXiv250509345B))  
-
-22. [STOCHASTIC LOW-FREQUENCY VARIABILITY OF 50 MASSIVE STARS IN THE CYGNUS OB ASSOCIATIONS AND THE SMALL MAGELLANIC CLOUD](http://adsabs.harvard.edu/abs/2025MNRAS.539.2742P)  
-Pedersen, May G., Bildsten, Lars    
-2025, refereed ([2025MNRAS.539.2742P](http://adsabs.harvard.edu/abs/2025MNRAS.539.2742P))  
-
-23. [HEARTBEAT STARS RECOGNITION BASED ON RECURRENT NEURAL NETWORKS: METHOD AND VALIDATION](http://adsabs.harvard.edu/abs/2025arXiv250504067L)  
+19. [HEARTBEAT STARS RECOGNITION BASED ON RECURRENT NEURAL NETWORKS: METHOD AND VALIDATION](http://adsabs.harvard.edu/abs/2025arXiv250504067L)  
 Li, Min-Yu, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
 2025, not refereed ([2025arXiv250504067L](http://adsabs.harvard.edu/abs/2025arXiv250504067L))  
 
-24. [ANALYZING THE MORPHOLOGY OF LATE-PHASE STELLAR FLARES FROM G-, K-, AND M-TYPE STARS](http://adsabs.harvard.edu/abs/2025ApJ...984..186Y)  
-Yudovich, Denise G., Yang, Kai E., Sun, Xudong    
-2025, refereed ([2025ApJ...984..186Y](http://adsabs.harvard.edu/abs/2025ApJ...984..186Y))  
+20. [TESS DATA MINING AND UVES ESPECTRAL ANALYSIS OF CP STAR](http://adsabs.harvard.edu/abs/2025arXiv250505719M)  
+Macías, M. E., Rosales, J. A.    
+2025, not refereed ([2025arXiv250505719M](http://adsabs.harvard.edu/abs/2025arXiv250505719M))  
 
-25. [CISLUNAR MEAN-MOTION RESONANCES: DEFINITIONS, WIDTHS, AND COMPARISONS WITH RESONANT SATELLITES](http://adsabs.harvard.edu/abs/2025arXiv250510138R)  
-Rawat, Anjali, Kumar, Bhanu, Rosengren, Aaron J., et al.    
-2025, not refereed ([2025arXiv250510138R](http://adsabs.harvard.edu/abs/2025arXiv250510138R))  
+21. [DISCOVERY OF MAIN-SEQUENCE RADIO PULSE EMITTERS FROM WIDEFIELD SKY SURVEYS](http://adsabs.harvard.edu/abs/2025arXiv250507195D)  
+Das, Barnali, Shultz, Matt E., Pritchard, Joshua, et al.    
+2025, not refereed ([2025arXiv250507195D](http://adsabs.harvard.edu/abs/2025arXiv250507195D))  
 
-26. [OPTICAL OBSERVATIONS OF THE HIGH-MASS X-RAY BINARY MAXI J0709-159/LY CANIS MAJORIS](http://adsabs.harvard.edu/abs/2025PASJ..tmp...37S)  
-Shidatsu, Megumi, Kawai, Nobuyuki, Maehara, Hiroyuki, et al.    
-2025, refereed ([2025PASJ..tmp...37S](http://adsabs.harvard.edu/abs/2025PASJ..tmp...37S))  
+22. [PHOTOMETRIC ANALYSIS OF ASTEROIDS IN THE PHOCAEA REGION](http://adsabs.harvard.edu/abs/2025arXiv250507237X)  
+Xu, Xiaoyun, Wang, Xiaobing, Muinonen, Karri, et al.    
+2025, not refereed ([2025arXiv250507237X](http://adsabs.harvard.edu/abs/2025arXiv250507237X))  
 
-27. [THREE-DIMENSIONAL ORBIT AND DYNAMICAL MASSES OF GJ 105 AC](http://adsabs.harvard.edu/abs/2025arXiv250508042D)  
+23. [SHORT- AND LONG-TERM VARIATIONS OF THE HIGH MASS ACCRETION RATE CLASSICAL T TAURI STAR DR TAU](http://adsabs.harvard.edu/abs/2025arXiv250507684Z)  
+Zsidi, Gabriella, Kóspál, Ágnes, Ábrahám, Péter, et al.    
+2025, not refereed ([2025arXiv250507684Z](http://adsabs.harvard.edu/abs/2025arXiv250507684Z))  
+
+24. [THREE-DIMENSIONAL ORBIT AND DYNAMICAL MASSES OF GJ 105 AC](http://adsabs.harvard.edu/abs/2025arXiv250508042D)  
 Dedrick, Cayla M., Wright, Jason T., Eastman, Jason D., et al.    
 2025, not refereed ([2025arXiv250508042D](http://adsabs.harvard.edu/abs/2025arXiv250508042D))  
 
-28. [EXTREMELY LOW MASS RATIO CONTACT BINARIES. II. THE FIRST PHOTOMETRIC AND SPECTROSCOPIC INVESTIGATIONS OF SIX SYSTEMS WITH ORBITAL PERIODS LONGER THAN 0.5 DAYS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..723L)  
-Liu, Fei, Li, Kai, Gao, Xiang, et al.    
-2025, refereed ([2025MNRAS.tmp..723L](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..723L))  
+25. [ASTEROSEISMICALLY INFERRED AGES OF 132,000 RED GIANTS WITH TESS](http://adsabs.harvard.edu/abs/2025arXiv250508109T)  
+Theano Theodoridis, Artemis, Morales, Leslie, Tayar, Jamie    
+2025, not refereed ([2025arXiv250508109T](http://adsabs.harvard.edu/abs/2025arXiv250508109T))  
 
-29. [DISCOVERY OF MAIN-SEQUENCE RADIO PULSE EMITTERS FROM WIDEFIELD SKY SURVEYS](http://adsabs.harvard.edu/abs/2025arXiv250507195D)  
-Das, Barnali, Shultz, Matt E., Pritchard, Joshua, et al.    
-2025, not refereed ([2025arXiv250507195D](http://adsabs.harvard.edu/abs/2025arXiv250507195D))  
+26. [OPTICAL AND X-RAY VARIABILITY OF Γ CAS STARS: SAO 49725](http://adsabs.harvard.edu/abs/2025arXiv250509006K)  
+Kholtygin, A. F., Yakunin, I. Ya., Bukharinov, V. S., et al.    
+2025, not refereed ([2025arXiv250509006K](http://adsabs.harvard.edu/abs/2025arXiv250509006K))  
+
+27. [OBSERVATIONAL SIGNS OF LIMITED FLARE AREA VARIATION AND PEAK FLARE TEMPERATURES ESTIMATIONS IN MAIN-SEQUENCE FLARING STARS](http://adsabs.harvard.edu/abs/2025arXiv250509345B)  
+Bicz, K., Falewicz, R., Heinzel, P., et al.    
+2025, not refereed ([2025arXiv250509345B](http://adsabs.harvard.edu/abs/2025arXiv250509345B))  
+
+28. [CISLUNAR MEAN-MOTION RESONANCES: DEFINITIONS, WIDTHS, AND COMPARISONS WITH RESONANT SATELLITES](http://adsabs.harvard.edu/abs/2025arXiv250510138R)  
+Rawat, Anjali, Kumar, Bhanu, Rosengren, Aaron J., et al.    
+2025, not refereed ([2025arXiv250510138R](http://adsabs.harvard.edu/abs/2025arXiv250510138R))  
+
+29. [MEASURING LONG STELLAR ROTATION PERIODS (&GT;10 DAYS) FROM TESS FFI LIGHT CURVES IS POSSIBLE: AN INVESTIGATION USING TESS AND ZTF](http://adsabs.harvard.edu/abs/2025arXiv250510376H)  
+Hattori, Soichiro, Angus, Ruth, Foreman-Mackey, Daniel, et al.    
+2025, not refereed ([2025arXiv250510376H](http://adsabs.harvard.edu/abs/2025arXiv250510376H))  
+
+30. [SPECTRAL BIASES, STARSPOT MORPHOLOGY, AND DYNAMO TRANSITIONS ON THE PRE-MAIN SEQUENCE: INSIGHTS FROM THE X-SHOOTER WTTS LIBRARY](http://adsabs.harvard.edu/abs/2025arXiv250510837P)  
+Pérez Paolino, Facundo, Bary, Jeff, Horner, Benjamin, et al.    
+2025, not refereed ([2025arXiv250510837P](http://adsabs.harvard.edu/abs/2025arXiv250510837P))  
+
+31. [DEFORMATION AND DIFFERENTIAL ROTATION IN SLOWLY ROTATING YOUNG INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2025arXiv250512052P)  
+Panda, S. K., Hanasoge, S.    
+2025, not refereed ([2025arXiv250512052P](http://adsabs.harvard.edu/abs/2025arXiv250512052P))  
 
 
 2025-04
 -------
 
-1. [SUPEROUTBURSTS AND POSITIVE SUPERHUMPS OCCURRED DURING THE STANDSTILL OF A Z CAM-TYPE DWARF NOVA](http://adsabs.harvard.edu/abs/2025ApJ...982..127S)  
-Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
-2025, refereed ([2025ApJ...982..127S](http://adsabs.harvard.edu/abs/2025ApJ...982..127S))  
-
-2. [FILLING THE GAP: THE MISSING ECLIPSES OF Γ PERSEI FROM 2005 AND FROM 2006](http://adsabs.harvard.edu/abs/2025AJ....169..196A)  
-Ádám, Rozália Z., Molnár, László    
-2025, refereed ([2025AJ....169..196A](http://adsabs.harvard.edu/abs/2025AJ....169..196A))  
-
-3. [SHORT-TERM BALMER LINE EMISSION VARIABILITY IN M DWARFS](http://adsabs.harvard.edu/abs/2025ApJ...982...98G)  
-García Soto, Aylin, Duvvuri, Girish M., Newton, Elisabeth R., et al.    
-2025, refereed ([2025ApJ...982...98G](http://adsabs.harvard.edu/abs/2025ApJ...982...98G))  
-
-4. [DETECTION OF SEMIDETACHED ECLIPSING BINARIES FROM TESS](http://adsabs.harvard.edu/abs/2025AJ....169..202D)  
-Ding, Xu, Ji, KaiFan, Cheng, QiYuan, et al.    
-2025, refereed ([2025AJ....169..202D](http://adsabs.harvard.edu/abs/2025AJ....169..202D))  
-
-5. [AUTOREGRESSIVE MOVING AVERAGE MODELLING OF TESS PHOTOMETRY OF MASSIVE STARS](http://adsabs.harvard.edu/abs/2025MNRAS.538.2171K)  
-Koen, C.    
-2025, refereed ([2025MNRAS.538.2171K](http://adsabs.harvard.edu/abs/2025MNRAS.538.2171K))  
-
-6. [USING MACHINE LEARNING METHOD FOR VARIABLE STAR CLASSIFICATION USING THE TESS SECTORS 1-57 DATA](http://adsabs.harvard.edu/abs/2025arXiv250400347W)  
-Wang, Li-Heng, Li, Kai, Gao, Xiang, et al.    
-2025, not refereed ([2025arXiv250400347W](http://adsabs.harvard.edu/abs/2025arXiv250400347W))  
-
-7. [LIGHT CURVE MODELING OF ECLIPSING BINARY SYSTEMS WITH DELTA SCUTI COMPONENT](http://adsabs.harvard.edu/abs/2025arXiv250400482D)  
-Dharmathilaka, J. A. D. M., Adassuriya, J., Jayaratne, K. P. S. C., et al.    
-2025, not refereed ([2025arXiv250400482D](http://adsabs.harvard.edu/abs/2025arXiv250400482D))  
-
-8. [A DUSTY MAGNETOSPHERIC STREAM AS THE PHYSICAL MECHANISM RESPONSIBLE FOR STELLAR OCCULTATIONS: INTERPRETATION OF THE TESS LIGHT CURVE OF THE PRE-TRANSITIONAL DISK SYSTEM UX TAU A](http://adsabs.harvard.edu/abs/2025A&A...696A..46N)  
-Nagel, Erick, Bouvier, Jerome    
-2025, refereed ([2025A&A...696A..46N](http://adsabs.harvard.edu/abs/2025A&A...696A..46N))  
-
-9. [PHOTOMETRIC INVESTIGATION OF WY LEO: AN ECLIPSING BINARY SYSTEM WITH DELTA SCUTI COMPONENT](http://adsabs.harvard.edu/abs/2025arXiv250401110K)  
-Kahraman Alicavus, F.    
-2025, not refereed ([2025arXiv250401110K](http://adsabs.harvard.edu/abs/2025arXiv250401110K))  
-
-10. [STUDY ON THE PHYSICAL PARAMETERS OF 18 CONTACT BINARY STARS](http://adsabs.harvard.edu/abs/2025MNRAS.538.1427P)  
-Poro, A., Jahangiri, E., Sarvari, E., et al.    
-2025, refereed ([2025MNRAS.538.1427P](http://adsabs.harvard.edu/abs/2025MNRAS.538.1427P))  
-
-11. [INVESTIGATING PULSATING VARIABLES AND ECLIPSING BINARIES IN NGC 2126 USING GROUND- AND SPACE-BASED PHOTOMETRY, ASTROMETRY, SPECTROSCOPY, AND MODELLING](http://adsabs.harvard.edu/abs/2025MNRAS.538.1747D)  
-Dileep, Athul, Joshi, Santosh, Lata, Sneh, et al.    
-2025, refereed ([2025MNRAS.538.1747D](http://adsabs.harvard.edu/abs/2025MNRAS.538.1747D))  
-
-12. [IDENTIFYING FLARE LOCATIONS THROUGH EXOPLANET TRANSIT OCCULTATIONS](http://adsabs.harvard.edu/abs/2025MNRAS.538.2937A)  
-Armitage, Tayt, Martin, David V., Rodríguez Martínez, Romy    
-2025, refereed ([2025MNRAS.538.2937A](http://adsabs.harvard.edu/abs/2025MNRAS.538.2937A))  
-
-13. [TWO ADDITIONAL MEMBERS OF A NEWLY IDENTIFIED GROUP OF PULSATING PRE-HE WHITE DWARFS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..517C)  
-Çakırlı, Ö., Hoyman, B.    
-2025, refereed ([2025MNRAS.tmp..517C](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..517C))  
-
-14. [THE THEORETICAL PULSATION SPECTRA OF HOT B SUBDWARFS: STATIC AND EVOLUTIONARY STELUM MODELS](http://adsabs.harvard.edu/abs/2025A&A...696A..13G)  
-Guyot, N., Van Grootel, V., Charpinet, S., et al.    
-2025, refereed ([2025A&A...696A..13G](http://adsabs.harvard.edu/abs/2025A&A...696A..13G))  
-
-15. [CONFORMAL PREDICTION FOR ASTRONOMY DATA WITH MEASUREMENT ERROR](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..505S)  
-Singer, Naomi, Williams, Jonathan P., Ghosh, Sujit    
-2025, refereed ([2025MNRAS.tmp..505S](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..505S))  
-
-16. [VALUE-ADDED CATALOG OF LATE-TYPE STARS FOUND IN THE DIGITIZED FIRST BYURAKAN SURVEY DATABASE: THIRD EDITION.](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..514G)  
-Gigoyan, K. S., Sarkissian, A., Kostandyan, G. R., et al.    
-2025, refereed ([2025MNRAS.tmp..514G](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..514G))  
-
-17. [ABSOLUTE ELEMENTS FOR THE NEAR CONTACT ECLIPSING BINARY V878 HERCULIS](http://adsabs.harvard.edu/abs/2025RMxAA..61...15N)  
-Nelson, R. H., Alton, K. B., Kendurkar, M., et al.    
-2025, refereed ([2025RMxAA..61...15N](http://adsabs.harvard.edu/abs/2025RMxAA..61...15N))  
-
-18. [EXPLORING THE EMPIRICAL INSTABILITY STRIP FOR Γ DOR-TYPE STARS IN ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025MNRAS.538..726C)  
-Çakırlı, Ö., Hoyman, B., Özdarcan, O., et al.    
-2025, refereed ([2025MNRAS.538..726C](http://adsabs.harvard.edu/abs/2025MNRAS.538..726C))  
-
-19. [DISK-STAR ALIGNMENT I: PRE-MAIN-SEQUENCE STELLAR PARAMETERS AND THE STATISTICAL ALIGNMENT BETWEEN DISKS AND STELLAR ROTATION](http://adsabs.harvard.edu/abs/2025arXiv250402990F)  
-Fields, Matthew J., Mann, Andrew W., Kesseli, Aurora, et al.    
-2025, not refereed ([2025arXiv250402990F](http://adsabs.harvard.edu/abs/2025arXiv250402990F))  
-
-20. [ANOTHER ONE (BH+OB PAIR) BITES THE DUST](http://adsabs.harvard.edu/abs/2025A&A...696A..84N)  
-Nazé, Yaël, Rauw, Gregor    
-2025, refereed ([2025A&A...696A..84N](http://adsabs.harvard.edu/abs/2025A&A...696A..84N))  
-
-21. [CY AQUARII: A TRIPLE SYSTEM WITH TWIN COMPANIONS](http://adsabs.harvard.edu/abs/2025ApJ...983..140L)  
-Lian, Ming, Niu, Jia-Shu, Xue, Hui-Fang    
-2025, refereed ([2025ApJ...983..140L](http://adsabs.harvard.edu/abs/2025ApJ...983..140L))  
-
-22. [MAGNETIC FIELDS OR OVERSTABLE CONVECTIVE MODES IN HR 7495: EXPLORING THE UNDERLYING CAUSES OF THE SPIKE IN THE 'HUMP AND SPIKE' FEATURES](http://adsabs.harvard.edu/abs/2025A&A...696A.111A)  
-Antoci, V., Cantiello, M., Khalack, V., et al.    
-2025, refereed ([2025A&A...696A.111A](http://adsabs.harvard.edu/abs/2025A&A...696A.111A))  
-
-23. [PULSATIONS AND PRE-HE WHITE DWARF IN THE POST-MASS TRANSFER ECLIPSING SYSTEM WASP 1021-28](http://adsabs.harvard.edu/abs/2025MNRAS.538.3314L)  
-Lee, Jae Woo, Jeong, Min-Ji, Hong, Kyeongsoo    
-2025, refereed ([2025MNRAS.538.3314L](http://adsabs.harvard.edu/abs/2025MNRAS.538.3314L))  
-
-24. [IDENTIFYING ECLIPSING BINARY STARS WITH TESS DATA BASED ON A NEW HYBRID DEEP LEARNING MODEL](http://adsabs.harvard.edu/abs/2025PASP..137d4503S)  
-Shan, Ying, Chen, Jing, Zhang, Zichong, et al.    
-2025, refereed ([2025PASP..137d4503S](http://adsabs.harvard.edu/abs/2025PASP..137d4503S))  
-
-25. [IMPROVING THE STELLAR AGE DETERMINATION THROUGH JOINT MODELING OF BINARITY AND ASTEROSEISMOLOGY: GRID MODELING OF THE SEISMIC RED GIANT BINARY KIC 9163796](http://adsabs.harvard.edu/abs/2025A&A...696A..42G)  
-Grossmann, D. H., Beck, P. G., Mathur, S., et al.    
-2025, refereed ([2025A&A...696A..42G](http://adsabs.harvard.edu/abs/2025A&A...696A..42G))  
-
-26. [QUANTIFYING THE LIMITS OF TESS STELLAR ROTATION MEASUREMENTS WITH THE K2-TESS OVERLAP](http://adsabs.harvard.edu/abs/2025arXiv250413262B)  
-Boyle, Andrew W., Mann, Andrew W., Bush, Jonathan    
-2025, not refereed ([2025arXiv250413262B](http://adsabs.harvard.edu/abs/2025arXiv250413262B))  
-
-27. [SOLAR SYSTEM OBJECTS OBSERVED WITH TESS—EARLY DATA RELEASE 2: I. SPIN-SHAPE RECOVERY POTENTIAL OF MULTI-EPOCH TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2025PASP..137d4401T)  
-Takács, Nóra, Kiss, Csaba, Szakáts, Róbert, et al.    
-2025, refereed ([2025PASP..137d4401T](http://adsabs.harvard.edu/abs/2025PASP..137d4401T))  
-
-28. [ASTEROSEISMOLOGY OF METAL-POOR RED GIANTS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2025arXiv250418642M)  
-Marasco, Corin, Tayar, Jamie, Nidever, David    
-2025, not refereed ([2025arXiv250418642M](http://adsabs.harvard.edu/abs/2025arXiv250418642M))  
-
-29. [HIGH-TIME-CADENCE SPECTROSCOPY AND PHOTOMETRY OF STELLAR FLARES ON M-DWARF YZ CANIS MINORIS WITH SEIMEI TELESCOPE AND TESS. II. STATISTICAL PROPERTIES OF BLUE/RED ASYMMETRIES IN THE H$Α$ LINE](http://adsabs.harvard.edu/abs/2025arXiv250412645K)  
-Kajikiya, Yuto, Namekata, Kosuke, Notsu, Yuta, et al.    
-2025, not refereed ([2025arXiv250412645K](http://adsabs.harvard.edu/abs/2025arXiv250412645K))  
-
-30. [ADDING TESS TO CRÉME. LIGHT CURVES AND MASSES OF 300+ ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025CoSka..55c.438H)  
-Hełminiak, K. G., Moharana, A., Pawar, T. B., et al.    
-2025, refereed ([2025CoSka..55c.438H](http://adsabs.harvard.edu/abs/2025CoSka..55c.438H))  
-
-31. [TESS LIGHT CURVE OF THE INTERACTING BINARY W SERPENTIS](http://adsabs.harvard.edu/abs/2025arXiv250410608G)  
-Gies, Douglas R., Shepard, Katherine A., Kar, Aman, et al.    
-2025, not refereed ([2025arXiv250410608G](http://adsabs.harvard.edu/abs/2025arXiv250410608G))  
-
-32. [COMPARING OPTICAL VARIABILITY OF TYPE 1 AND TYPE 2 AGN FROM THE BAT 9-MONTH SAMPLE USING ASAS-SN AND TESS SURVEYS](http://adsabs.harvard.edu/abs/2025arXiv250408123K)  
-Kovacevic, Natalie, Dai, Xinyu, Yuk, Heechan, et al.    
-2025, not refereed ([2025arXiv250408123K](http://adsabs.harvard.edu/abs/2025arXiv250408123K))  
-
-33. [THE FIRST LIGHT CURVE ANALYSIS OF MARGINALLY ECLIPSED BINARY KZ VIR USING TESS DATA](http://adsabs.harvard.edu/abs/2025CoSka..55c.493O)  
-Özavcı, İ., Bahar, E., Yılmaz, M., et al.    
-2025, refereed ([2025CoSka..55c.493O](http://adsabs.harvard.edu/abs/2025CoSka..55c.493O))  
-
-34. [LAMOST MEDIUM-RESOLUTION OBSERVATIONS OF THE PLEIADES](http://adsabs.harvard.edu/abs/2025arXiv250409031F)  
-Frasca, A., Zhang, J. Y., Alonso-Santiago, J., et al.    
-2025, not refereed ([2025arXiv250409031F](http://adsabs.harvard.edu/abs/2025arXiv250409031F))  
-
-35. [THE BIRTH OF BE STAR DISKS I. FROM LOCALIZED EJECTION TO CIRCULARIZATION](http://adsabs.harvard.edu/abs/2025arXiv250407571L)  
-Labadie-Bartz, J., Carciofi, A. C., Rubio, A. C., et al.    
-2025, not refereed ([2025arXiv250407571L](http://adsabs.harvard.edu/abs/2025arXiv250407571L))  
-
-36. [THE DISCOVERY OF TWO QUADRUPLE STAR SYSTEMS WITH THE SECOND AND THIRD SHORTEST OUTER PERIODS](http://adsabs.harvard.edu/abs/2025arXiv250412239P)  
-Powell, Brian P., Torres, Guillermo, Kostov, Veselin B., et al.    
-2025, not refereed ([2025arXiv250412239P](http://adsabs.harvard.edu/abs/2025arXiv250412239P))  
-
-37. [REDISCUSSION OF ECLIPSING BINARIES. PAPER XXIV. THE DELTA SCUTI PULSATOR V596 PUP (FORMERLY KNOWN AS VV PYX)](http://adsabs.harvard.edu/abs/2025arXiv250416818S)  
-Southworth, John    
-2025, not refereed ([2025arXiv250416818S](http://adsabs.harvard.edu/abs/2025arXiv250416818S))  
-
-38. [ASASSN-24HD; A DWARF NOVA BRIDGING WZ SGE-TYPE AND SU UMA-TYPE SUPEROUTBURSTS](http://adsabs.harvard.edu/abs/2025arXiv250420783T)  
-Tampo, Yusuke, Kojiguchi, Naoto, Kato, Taichi, et al.    
-2025, not refereed ([2025arXiv250420783T](http://adsabs.harvard.edu/abs/2025arXiv250420783T))  
-
-39. [EBOP MAVEN. A MACHINE LEARNING MODEL FOR PREDICTING ECLIPSING BINARY LIGHT CURVE FITTING PARAMETERS](http://adsabs.harvard.edu/abs/2025CoSka..55c.366O)  
-Overall, S., Southworth, J.    
-2025, refereed ([2025CoSka..55c.366O](http://adsabs.harvard.edu/abs/2025CoSka..55c.366O))  
-
-40. [CHARACTERIZING THE VARIABILITY OF A SAMPLE OF MASSIVE STARS IN ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025CoSka..55c.452E)  
-Eze, C. I., Handler, G., Kahraman Aliçavuş, F., et al.    
-2025, refereed ([2025CoSka..55c.452E](http://adsabs.harvard.edu/abs/2025CoSka..55c.452E))  
-
-41. [PERIOD-LUMINOSITY AND PERIOD-LUMINOSITY-METALLICITY RELATION FOR $Δ$ SCUTI STARS](http://adsabs.harvard.edu/abs/2025arXiv250415045L)  
-Liu, Yan-qi, Chen, Xiao-dian, Wang, Shu, et al.    
-2025, not refereed ([2025arXiv250415045L](http://adsabs.harvard.edu/abs/2025arXiv250415045L))  
-
-42. [ORBITAL PARAMETERS OF 665 DOUBLE-LINED SPECTROSCOPIC BINARIES IN THE LAMOST MEDIUM-RESOLUTION SURVEY](http://adsabs.harvard.edu/abs/2025arXiv250411954G)  
-Guo, Sufen, Kovalev, Mikhail, Li, Jiao, et al.    
-2025, not refereed ([2025arXiv250411954G](http://adsabs.harvard.edu/abs/2025arXiv250411954G))  
-
-43. [CATACLYSMIC VARIABLE CANDIDATES IDENTIFIED IN EROSITA-DE DR1,XMM-NEWTON, SWIFT, AND ROSAT CATALOGS](http://adsabs.harvard.edu/abs/2025arXiv250410794W)  
-Wang, Xiangxiang, Takata, Jumpei    
-2025, not refereed ([2025arXiv250410794W](http://adsabs.harvard.edu/abs/2025arXiv250410794W))  
-
-44. [STARSPOTS ON ECLIPSING GIANT STARS I.: THE SAMPLE AND ECLIPSE MAPPING EXAMPLES](http://adsabs.harvard.edu/abs/2025arXiv250415389O)  
-Oláh, K., Seli, B., Haris, A., et al.    
-2025, not refereed ([2025arXiv250415389O](http://adsabs.harvard.edu/abs/2025arXiv250415389O))  
-
-45. [50 DRA: AM-TYPE TWINS WITH ADDITIONAL VARIABILITY IN A NON-ECLIPSING SYSTEM](http://adsabs.harvard.edu/abs/2025arXiv250405854S)  
-Skarka, M., Lipták, J., Niemczura, E., et al.    
-2025, not refereed ([2025arXiv250405854S](http://adsabs.harvard.edu/abs/2025arXiv250405854S))  
-
-46. [SPECTROSCOPIC MONITORING OF ECLIPSING BINARIES AT ONDŘEJOV OBSERVATORY](http://adsabs.harvard.edu/abs/2025CoSka..55c.462G)  
-Gajdoš, P., Parimucha, Š.    
-2025, refereed ([2025CoSka..55c.462G](http://adsabs.harvard.edu/abs/2025CoSka..55c.462G))  
-
-47. [SEISMIC CONSTRAINTS ON THE SPIN EVOLUTION OF SLOWLY ROTATING YOUNG INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2025arXiv250408229S)  
-Singh, K. H., Panda, S. K., Hanasoge, S. M., et al.    
-2025, not refereed ([2025arXiv250408229S](http://adsabs.harvard.edu/abs/2025arXiv250408229S))  
-
-48. [INVESTIGATING OPEN CLUSTER KING 6: DETECTION OF THREE NEW VARIABLES](http://adsabs.harvard.edu/abs/2025arXiv250418088P)  
-Pandey, Vaibhav Kumar, Dattatrey, Arvind K, Tripathi, Apara, et al.    
-2025, not refereed ([2025arXiv250418088P](http://adsabs.harvard.edu/abs/2025arXiv250418088P))  
-
-49. [FORMATION OF COMPACT HIERARCHICAL TRIPLES](http://adsabs.harvard.edu/abs/2025CoSka..55c.280M)  
-Moharana, A., Hełminiak, K. G., Pawar, T., et al.    
-2025, refereed ([2025CoSka..55c.280M](http://adsabs.harvard.edu/abs/2025CoSka..55c.280M))  
-
-50. [A CATALOGUE OF \DELTA~SCT PULSATORS IN BINARY SYSTEMS IN 2024](http://adsabs.harvard.edu/abs/2025CoSka..55c.172L)  
+1. [A CATALOGUE OF \DELTA~SCT PULSATORS IN BINARY SYSTEMS IN 2024](http://adsabs.harvard.edu/abs/2025CoSka..55c.172L)  
 Liakos, A.    
 2025, refereed ([2025CoSka..55c.172L](http://adsabs.harvard.edu/abs/2025CoSka..55c.172L))  
 
-51. [PHOTOMETRIC AND SPECTROSCOPIC ANALYSIS OF THE ECCENTRIC ECLIPSING BINARY BD+72 780](http://adsabs.harvard.edu/abs/2025CoSka..55c.517Y)  
-Yılmaz, M., Özavcı, İ., Bahar, E., et al.    
-2025, refereed ([2025CoSka..55c.517Y](http://adsabs.harvard.edu/abs/2025CoSka..55c.517Y))  
+2. [PULSATIONS IN BINARY STARS - A SHORT REVIEW](http://adsabs.harvard.edu/abs/2025CoSka..55c.122M)  
+Murphy, S. J.    
+2025, refereed ([2025CoSka..55c.122M](http://adsabs.harvard.edu/abs/2025CoSka..55c.122M))  
 
-52. [DISCOVERY OF A THIRD BODY AROUND SEMI-DETACHED BINARY V527 DRA THROUGH ECLIPSE TIMING AND RADIAL VELOCITY VARIATIONS](http://adsabs.harvard.edu/abs/2025CoSka..55c.295S)  
+3. [FORMATION OF COMPACT HIERARCHICAL TRIPLES](http://adsabs.harvard.edu/abs/2025CoSka..55c.280M)  
+Moharana, A., Hełminiak, K. G., Pawar, T., et al.    
+2025, refereed ([2025CoSka..55c.280M](http://adsabs.harvard.edu/abs/2025CoSka..55c.280M))  
+
+4. [THE THEORETICAL PULSATION SPECTRA OF HOT B SUBDWARFS: STATIC AND EVOLUTIONARY STELUM MODELS](http://adsabs.harvard.edu/abs/2025A&A...696A..13G)  
+Guyot, N., Van Grootel, V., Charpinet, S., et al.    
+2025, refereed ([2025A&A...696A..13G](http://adsabs.harvard.edu/abs/2025A&A...696A..13G))  
+
+5. [IMPROVING THE STELLAR AGE DETERMINATION THROUGH JOINT MODELING OF BINARITY AND ASTEROSEISMOLOGY: GRID MODELING OF THE SEISMIC RED GIANT BINARY KIC 9163796](http://adsabs.harvard.edu/abs/2025A&A...696A..42G)  
+Grossmann, D. H., Beck, P. G., Mathur, S., et al.    
+2025, refereed ([2025A&A...696A..42G](http://adsabs.harvard.edu/abs/2025A&A...696A..42G))  
+
+6. [A DUSTY MAGNETOSPHERIC STREAM AS THE PHYSICAL MECHANISM RESPONSIBLE FOR STELLAR OCCULTATIONS: INTERPRETATION OF THE TESS LIGHT CURVE OF THE PRE-TRANSITIONAL DISK SYSTEM UX TAU A](http://adsabs.harvard.edu/abs/2025A&A...696A..46N)  
+Nagel, Erick, Bouvier, Jerome    
+2025, refereed ([2025A&A...696A..46N](http://adsabs.harvard.edu/abs/2025A&A...696A..46N))  
+
+7. [ANOTHER ONE (BH+OB PAIR) BITES THE DUST](http://adsabs.harvard.edu/abs/2025A&A...696A..84N)  
+Nazé, Yaël, Rauw, Gregor    
+2025, refereed ([2025A&A...696A..84N](http://adsabs.harvard.edu/abs/2025A&A...696A..84N))  
+
+8. [MAGNETIC FIELDS OR OVERSTABLE CONVECTIVE MODES IN HR 7495: EXPLORING THE UNDERLYING CAUSES OF THE SPIKE IN THE 'HUMP AND SPIKE' FEATURES](http://adsabs.harvard.edu/abs/2025A&A...696A.111A)  
+Antoci, V., Cantiello, M., Khalack, V., et al.    
+2025, refereed ([2025A&A...696A.111A](http://adsabs.harvard.edu/abs/2025A&A...696A.111A))  
+
+9. [EXTREMELY ASYMMETRIC BIPOLAR MAGNETIC FIELD OF THE BP STAR HD 57372](http://adsabs.harvard.edu/abs/2025A&A...696L..17K)  
+Kochukhov, Oleg    
+2025, refereed ([2025A&A...696L..17K](http://adsabs.harvard.edu/abs/2025A&A...696L..17K))  
+
+10. [FILLING THE GAP: THE MISSING ECLIPSES OF Γ PERSEI FROM 2005 AND FROM 2006](http://adsabs.harvard.edu/abs/2025AJ....169..196A)  
+Ádám, Rozália Z., Molnár, László    
+2025, refereed ([2025AJ....169..196A](http://adsabs.harvard.edu/abs/2025AJ....169..196A))  
+
+11. [DETECTION OF SEMIDETACHED ECLIPSING BINARIES FROM TESS](http://adsabs.harvard.edu/abs/2025AJ....169..202D)  
+Ding, Xu, Ji, KaiFan, Cheng, QiYuan, et al.    
+2025, refereed ([2025AJ....169..202D](http://adsabs.harvard.edu/abs/2025AJ....169..202D))  
+
+12. [SHORT-TERM BALMER LINE EMISSION VARIABILITY IN M DWARFS](http://adsabs.harvard.edu/abs/2025ApJ...982...98G)  
+García Soto, Aylin, Duvvuri, Girish M., Newton, Elisabeth R., et al.    
+2025, refereed ([2025ApJ...982...98G](http://adsabs.harvard.edu/abs/2025ApJ...982...98G))  
+
+13. [SUPEROUTBURSTS AND POSITIVE SUPERHUMPS OCCURRED DURING THE STANDSTILL OF A Z CAM-TYPE DWARF NOVA](http://adsabs.harvard.edu/abs/2025ApJ...982..127S)  
+Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
+2025, refereed ([2025ApJ...982..127S](http://adsabs.harvard.edu/abs/2025ApJ...982..127S))  
+
+14. [CY AQUARII: A TRIPLE SYSTEM WITH TWIN COMPANIONS](http://adsabs.harvard.edu/abs/2025ApJ...983..140L)  
+Lian, Ming, Niu, Jia-Shu, Xue, Hui-Fang    
+2025, refereed ([2025ApJ...983..140L](http://adsabs.harvard.edu/abs/2025ApJ...983..140L))  
+
+15. [MAGNETIC ACTIVITY IN CLOSE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2025CoSka..55c.182K)  
+Kővári, Zs.    
+2025, refereed ([2025CoSka..55c.182K](http://adsabs.harvard.edu/abs/2025CoSka..55c.182K))  
+
+16. [SPECTROSCOPIC AND PHOTOMETRIC STUDY OF A POSSIBLE MULTIPLE SYSTEM: V684~MON](http://adsabs.harvard.edu/abs/2025CoSka..55c.270K)  
+Kıran, E., Bakış, V., Değirmenci, Ö. L.    
+2025, refereed ([2025CoSka..55c.270K](http://adsabs.harvard.edu/abs/2025CoSka..55c.270K))  
+
+17. [ORBITAL ANALYSIS OF ADDITIONAL BODIES AROUND ECLIPSING BINARIES HT VIR AND MR DEL](http://adsabs.harvard.edu/abs/2025CoSka..55c.286A)  
+Akar, F., Baştürk, Ö., Esmer, E. M., et al.    
+2025, refereed ([2025CoSka..55c.286A](http://adsabs.harvard.edu/abs/2025CoSka..55c.286A))  
+
+18. [DISCOVERY OF A THIRD BODY AROUND SEMI-DETACHED BINARY V527 DRA THROUGH ECLIPSE TIMING AND RADIAL VELOCITY VARIATIONS](http://adsabs.harvard.edu/abs/2025CoSka..55c.295S)  
 Şenavcı, H. V., Bohlender, D., Bahar, E., et al.    
 2025, refereed ([2025CoSka..55c.295S](http://adsabs.harvard.edu/abs/2025CoSka..55c.295S))  
 
-53. [SURFACE MAPPING OF THE YOUNG SOLAR-LIKE STAR V1358 ORI WITH THE UPDATED SPOTDIPY CODE](http://adsabs.harvard.edu/abs/2025CoSka..55c.352B)  
+19. [SURFACE MAPPING OF THE YOUNG SOLAR-LIKE STAR V1358 ORI WITH THE UPDATED SPOTDIPY CODE](http://adsabs.harvard.edu/abs/2025CoSka..55c.352B)  
 Bahar, E., Özavc\i, İ., Yorulmaz, E. B., et al.    
 2025, refereed ([2025CoSka..55c.352B](http://adsabs.harvard.edu/abs/2025CoSka..55c.352B))  
 
-54. [ORBITAL ANALYSIS OF ADDITIONAL BODIES AROUND ECLIPSING BINARIES HT VIR AND MR DEL](http://adsabs.harvard.edu/abs/2025CoSka..55c.286A)  
-Akar, F., Baştürk, Ö., Esmer, E. M., et al.    
-2025, refereed ([2025CoSka..55c.286A](http://adsabs.harvard.edu/abs/2025CoSka..55c.286A))  
+20. [ECLIPSING BINARY CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES](http://adsabs.harvard.edu/abs/2025CoSka..55c.357K)  
+Keskin, B., Baştürk, Ö.    
+2025, refereed ([2025CoSka..55c.357K](http://adsabs.harvard.edu/abs/2025CoSka..55c.357K))  
+
+21. [EBOP MAVEN. A MACHINE LEARNING MODEL FOR PREDICTING ECLIPSING BINARY LIGHT CURVE FITTING PARAMETERS](http://adsabs.harvard.edu/abs/2025CoSka..55c.366O)  
+Overall, S., Southworth, J.    
+2025, refereed ([2025CoSka..55c.366O](http://adsabs.harvard.edu/abs/2025CoSka..55c.366O))  
+
+22. [ADDING TESS TO CRÉME. LIGHT CURVES AND MASSES OF 300+ ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025CoSka..55c.438H)  
+Hełminiak, K. G., Moharana, A., Pawar, T. B., et al.    
+2025, refereed ([2025CoSka..55c.438H](http://adsabs.harvard.edu/abs/2025CoSka..55c.438H))  
+
+23. [CHARACTERIZING THE VARIABILITY OF A SAMPLE OF MASSIVE STARS IN ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025CoSka..55c.452E)  
+Eze, C. I., Handler, G., Kahraman Aliçavuş, F., et al.    
+2025, refereed ([2025CoSka..55c.452E](http://adsabs.harvard.edu/abs/2025CoSka..55c.452E))  
+
+24. [SPECTROSCOPIC MONITORING OF ECLIPSING BINARIES AT ONDŘEJOV OBSERVATORY](http://adsabs.harvard.edu/abs/2025CoSka..55c.462G)  
+Gajdoš, P., Parimucha, Š.    
+2025, refereed ([2025CoSka..55c.462G](http://adsabs.harvard.edu/abs/2025CoSka..55c.462G))  
+
+25. [THE FIRST LIGHT CURVE ANALYSIS OF MARGINALLY ECLIPSED BINARY KZ VIR USING TESS DATA](http://adsabs.harvard.edu/abs/2025CoSka..55c.493O)  
+Özavcı, İ., Bahar, E., Yılmaz, M., et al.    
+2025, refereed ([2025CoSka..55c.493O](http://adsabs.harvard.edu/abs/2025CoSka..55c.493O))  
+
+26. [PHOTOMETRIC AND SPECTROSCOPIC ANALYSIS OF THE ECCENTRIC ECLIPSING BINARY BD+72 780](http://adsabs.harvard.edu/abs/2025CoSka..55c.517Y)  
+Yılmaz, M., Özavcı, İ., Bahar, E., et al.    
+2025, refereed ([2025CoSka..55c.517Y](http://adsabs.harvard.edu/abs/2025CoSka..55c.517Y))  
+
+27. [EXPLORING THE EMPIRICAL INSTABILITY STRIP FOR Γ DOR-TYPE STARS IN ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025MNRAS.538..726C)  
+Çakırlı, Ö., Hoyman, B., Özdarcan, O., et al.    
+2025, refereed ([2025MNRAS.538..726C](http://adsabs.harvard.edu/abs/2025MNRAS.538..726C))  
+
+28. [STUDY ON THE PHYSICAL PARAMETERS OF 18 CONTACT BINARY STARS](http://adsabs.harvard.edu/abs/2025MNRAS.538.1427P)  
+Poro, A., Jahangiri, E., Sarvari, E., et al.    
+2025, refereed ([2025MNRAS.538.1427P](http://adsabs.harvard.edu/abs/2025MNRAS.538.1427P))  
+
+29. [INVESTIGATING PULSATING VARIABLES AND ECLIPSING BINARIES IN NGC 2126 USING GROUND- AND SPACE-BASED PHOTOMETRY, ASTROMETRY, SPECTROSCOPY, AND MODELLING](http://adsabs.harvard.edu/abs/2025MNRAS.538.1747D)  
+Dileep, Athul, Joshi, Santosh, Lata, Sneh, et al.    
+2025, refereed ([2025MNRAS.538.1747D](http://adsabs.harvard.edu/abs/2025MNRAS.538.1747D))  
+
+30. [AUTOREGRESSIVE MOVING AVERAGE MODELLING OF TESS PHOTOMETRY OF MASSIVE STARS](http://adsabs.harvard.edu/abs/2025MNRAS.538.2171K)  
+Koen, C.    
+2025, refereed ([2025MNRAS.538.2171K](http://adsabs.harvard.edu/abs/2025MNRAS.538.2171K))  
+
+31. [IDENTIFYING FLARE LOCATIONS THROUGH EXOPLANET TRANSIT OCCULTATIONS](http://adsabs.harvard.edu/abs/2025MNRAS.538.2937A)  
+Armitage, Tayt, Martin, David V., Rodríguez Martínez, Romy    
+2025, refereed ([2025MNRAS.538.2937A](http://adsabs.harvard.edu/abs/2025MNRAS.538.2937A))  
+
+32. [PULSATIONS AND PRE-HE WHITE DWARF IN THE POST-MASS TRANSFER ECLIPSING SYSTEM WASP 1021-28](http://adsabs.harvard.edu/abs/2025MNRAS.538.3314L)  
+Lee, Jae Woo, Jeong, Min-Ji, Hong, Kyeongsoo    
+2025, refereed ([2025MNRAS.538.3314L](http://adsabs.harvard.edu/abs/2025MNRAS.538.3314L))  
+
+33. [SOLAR SYSTEM OBJECTS OBSERVED WITH TESS—EARLY DATA RELEASE 2: I. SPIN-SHAPE RECOVERY POTENTIAL OF MULTI-EPOCH TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2025PASP..137d4401T)  
+Takács, Nóra, Kiss, Csaba, Szakáts, Róbert, et al.    
+2025, refereed ([2025PASP..137d4401T](http://adsabs.harvard.edu/abs/2025PASP..137d4401T))  
+
+34. [IDENTIFYING ECLIPSING BINARY STARS WITH TESS DATA BASED ON A NEW HYBRID DEEP LEARNING MODEL](http://adsabs.harvard.edu/abs/2025PASP..137d4503S)  
+Shan, Ying, Chen, Jing, Zhang, Zichong, et al.    
+2025, refereed ([2025PASP..137d4503S](http://adsabs.harvard.edu/abs/2025PASP..137d4503S))  
+
+35. [ABSOLUTE ELEMENTS FOR THE NEAR CONTACT ECLIPSING BINARY V878 HERCULIS](http://adsabs.harvard.edu/abs/2025RMxAA..61...15N)  
+Nelson, R. H., Alton, K. B., Kendurkar, M., et al.    
+2025, refereed ([2025RMxAA..61...15N](http://adsabs.harvard.edu/abs/2025RMxAA..61...15N))  
+
+36. [USING MACHINE LEARNING METHOD FOR VARIABLE STAR CLASSIFICATION USING THE TESS SECTORS 1-57 DATA](http://adsabs.harvard.edu/abs/2025arXiv250400347W)  
+Wang, Li-Heng, Li, Kai, Gao, Xiang, et al.    
+2025, not refereed ([2025arXiv250400347W](http://adsabs.harvard.edu/abs/2025arXiv250400347W))  
+
+37. [LIGHT CURVE MODELING OF ECLIPSING BINARY SYSTEMS WITH DELTA SCUTI COMPONENT](http://adsabs.harvard.edu/abs/2025arXiv250400482D)  
+Dharmathilaka, J. A. D. M., Adassuriya, J., Jayaratne, K. P. S. C., et al.    
+2025, not refereed ([2025arXiv250400482D](http://adsabs.harvard.edu/abs/2025arXiv250400482D))  
+
+38. [THE UV LEGACY LIBRARY OF YOUNG STARS AS ESSENTIAL STANDARDS (ULLYSES) LARGE DIRECTOR'S DISCRETIONARY PROGRAM WITH HUBBLE. I. GOALS, DESIGN, AND INITIAL RESULTS](http://adsabs.harvard.edu/abs/2025arXiv250405446R)  
+Roman-Duval, Julia, Fischer, William J., Fullerton, Alexander W., et al.    
+2025, not refereed ([2025arXiv250405446R](http://adsabs.harvard.edu/abs/2025arXiv250405446R))  
+
+39. [50 DRA: AM-TYPE TWINS WITH ADDITIONAL VARIABILITY IN A NON-ECLIPSING SYSTEM](http://adsabs.harvard.edu/abs/2025arXiv250405854S)  
+Skarka, M., Lipták, J., Niemczura, E., et al.    
+2025, not refereed ([2025arXiv250405854S](http://adsabs.harvard.edu/abs/2025arXiv250405854S))  
+
+40. [THE BIRTH OF BE STAR DISKS I. FROM LOCALIZED EJECTION TO CIRCULARIZATION](http://adsabs.harvard.edu/abs/2025arXiv250407571L)  
+Labadie-Bartz, J., Carciofi, A. C., Rubio, A. C., et al.    
+2025, not refereed ([2025arXiv250407571L](http://adsabs.harvard.edu/abs/2025arXiv250407571L))  
+
+41. [COMPARING OPTICAL VARIABILITY OF TYPE 1 AND TYPE 2 AGN FROM THE BAT 9-MONTH SAMPLE USING ASAS-SN AND TESS SURVEYS](http://adsabs.harvard.edu/abs/2025arXiv250408123K)  
+Kovacevic, Natalie, Dai, Xinyu, Yuk, Heechan, et al.    
+2025, not refereed ([2025arXiv250408123K](http://adsabs.harvard.edu/abs/2025arXiv250408123K))  
+
+42. [SEISMIC CONSTRAINTS ON THE SPIN EVOLUTION OF SLOWLY ROTATING YOUNG INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2025arXiv250408229S)  
+Singh, K. H., Panda, S. K., Hanasoge, S. M., et al.    
+2025, not refereed ([2025arXiv250408229S](http://adsabs.harvard.edu/abs/2025arXiv250408229S))  
+
+43. [LAMOST MEDIUM-RESOLUTION OBSERVATIONS OF THE PLEIADES](http://adsabs.harvard.edu/abs/2025arXiv250409031F)  
+Frasca, A., Zhang, J. Y., Alonso-Santiago, J., et al.    
+2025, not refereed ([2025arXiv250409031F](http://adsabs.harvard.edu/abs/2025arXiv250409031F))  
+
+44. [TESS LIGHT CURVE OF THE INTERACTING BINARY W SERPENTIS](http://adsabs.harvard.edu/abs/2025arXiv250410608G)  
+Gies, Douglas R., Shepard, Katherine A., Kar, Aman, et al.    
+2025, not refereed ([2025arXiv250410608G](http://adsabs.harvard.edu/abs/2025arXiv250410608G))  
+
+45. [CATACLYSMIC VARIABLE CANDIDATES IDENTIFIED IN EROSITA-DE DR1,XMM-NEWTON, SWIFT, AND ROSAT CATALOGS](http://adsabs.harvard.edu/abs/2025arXiv250410794W)  
+Wang, Xiangxiang, Takata, Jumpei    
+2025, not refereed ([2025arXiv250410794W](http://adsabs.harvard.edu/abs/2025arXiv250410794W))  
+
+46. [A SAMPLE OF EXTREME ECLIPSING BINARIES WITH ACCRETION DISKS FROM LAMOST AND ZTF](http://adsabs.harvard.edu/abs/2025arXiv250410818Z)  
+Zhuang, Jiangxinxin, Zhang, Zhi-Xiang, Gu, Wei-Min, et al.    
+2025, not refereed ([2025arXiv250410818Z](http://adsabs.harvard.edu/abs/2025arXiv250410818Z))  
+
+47. [ORBITAL PARAMETERS OF 665 DOUBLE-LINED SPECTROSCOPIC BINARIES IN THE LAMOST MEDIUM-RESOLUTION SURVEY](http://adsabs.harvard.edu/abs/2025arXiv250411954G)  
+Guo, Sufen, Kovalev, Mikhail, Li, Jiao, et al.    
+2025, not refereed ([2025arXiv250411954G](http://adsabs.harvard.edu/abs/2025arXiv250411954G))  
+
+48. [THE DISCOVERY OF TWO QUADRUPLE STAR SYSTEMS WITH THE SECOND AND THIRD SHORTEST OUTER PERIODS](http://adsabs.harvard.edu/abs/2025arXiv250412239P)  
+Powell, Brian P., Torres, Guillermo, Kostov, Veselin B., et al.    
+2025, not refereed ([2025arXiv250412239P](http://adsabs.harvard.edu/abs/2025arXiv250412239P))  
+
+49. [HIGH-TIME-CADENCE SPECTROSCOPY AND PHOTOMETRY OF STELLAR FLARES ON M-DWARF YZ CANIS MINORIS WITH SEIMEI TELESCOPE AND TESS. II. STATISTICAL PROPERTIES OF BLUE/RED ASYMMETRIES IN THE H$Α$ LINE](http://adsabs.harvard.edu/abs/2025arXiv250412645K)  
+Kajikiya, Yuto, Namekata, Kosuke, Notsu, Yuta, et al.    
+2025, not refereed ([2025arXiv250412645K](http://adsabs.harvard.edu/abs/2025arXiv250412645K))  
+
+50. [QUANTIFYING THE LIMITS OF TESS STELLAR ROTATION MEASUREMENTS WITH THE K2-TESS OVERLAP](http://adsabs.harvard.edu/abs/2025arXiv250413262B)  
+Boyle, Andrew W., Mann, Andrew W., Bush, Jonathan    
+2025, not refereed ([2025arXiv250413262B](http://adsabs.harvard.edu/abs/2025arXiv250413262B))  
+
+51. [PERIOD-LUMINOSITY AND PERIOD-LUMINOSITY-METALLICITY RELATION FOR $Δ$ SCUTI STARS](http://adsabs.harvard.edu/abs/2025arXiv250415045L)  
+Liu, Yan-qi, Chen, Xiao-dian, Wang, Shu, et al.    
+2025, not refereed ([2025arXiv250415045L](http://adsabs.harvard.edu/abs/2025arXiv250415045L))  
+
+52. [STARSPOTS ON ECLIPSING GIANT STARS I.: THE SAMPLE AND ECLIPSE MAPPING EXAMPLES](http://adsabs.harvard.edu/abs/2025arXiv250415389O)  
+Oláh, K., Seli, B., Haris, A., et al.    
+2025, not refereed ([2025arXiv250415389O](http://adsabs.harvard.edu/abs/2025arXiv250415389O))  
+
+53. [REDISCUSSION OF ECLIPSING BINARIES. PAPER XXIV. THE DELTA SCUTI PULSATOR V596 PUP (FORMERLY KNOWN AS VV PYX)](http://adsabs.harvard.edu/abs/2025arXiv250416818S)  
+Southworth, John    
+2025, not refereed ([2025arXiv250416818S](http://adsabs.harvard.edu/abs/2025arXiv250416818S))  
+
+54. [INVESTIGATING OPEN CLUSTER KING 6: DETECTION OF THREE NEW VARIABLES](http://adsabs.harvard.edu/abs/2025arXiv250418088P)  
+Pandey, Vaibhav Kumar, Dattatrey, Arvind K, Tripathi, Apara, et al.    
+2025, not refereed ([2025arXiv250418088P](http://adsabs.harvard.edu/abs/2025arXiv250418088P))  
 
 55. [SSOXMATCH: A JAVA PIPELINE TO COMPUTE CROSS-MATCHES OF SOLAR SYSTEM BODIES IN ASTRONOMICAL OBSERVATIONS](http://adsabs.harvard.edu/abs/2025arXiv250418193A)  
 Alonso-Albi, T.    
 2025, not refereed ([2025arXiv250418193A](http://adsabs.harvard.edu/abs/2025arXiv250418193A))  
 
-56. [ECLIPSING BINARY CLASSIFICATION WITH MACHINE LEARNING TECHNIQUES](http://adsabs.harvard.edu/abs/2025CoSka..55c.357K)  
-Keskin, B., Baştürk, Ö.    
-2025, refereed ([2025CoSka..55c.357K](http://adsabs.harvard.edu/abs/2025CoSka..55c.357K))  
+56. [ASTEROSEISMOLOGY OF METAL-POOR RED GIANTS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2025arXiv250418642M)  
+Marasco, Corin, Tayar, Jamie, Nidever, David    
+2025, not refereed ([2025arXiv250418642M](http://adsabs.harvard.edu/abs/2025arXiv250418642M))  
 
-57. [PULSATIONS IN BINARY STARS - A SHORT REVIEW](http://adsabs.harvard.edu/abs/2025CoSka..55c.122M)  
-Murphy, S. J.    
-2025, refereed ([2025CoSka..55c.122M](http://adsabs.harvard.edu/abs/2025CoSka..55c.122M))  
-
-58. [EXTREMELY ASYMMETRIC BIPOLAR MAGNETIC FIELD OF THE BP STAR HD 57372](http://adsabs.harvard.edu/abs/2025A&A...696L..17K)  
-Kochukhov, Oleg    
-2025, refereed ([2025A&A...696L..17K](http://adsabs.harvard.edu/abs/2025A&A...696L..17K))  
-
-59. [MAGNETIC ACTIVITY IN CLOSE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2025CoSka..55c.182K)  
-Kővári, Zs.    
-2025, refereed ([2025CoSka..55c.182K](http://adsabs.harvard.edu/abs/2025CoSka..55c.182K))  
-
-60. [SPECTROSCOPIC AND PHOTOMETRIC STUDY OF A POSSIBLE MULTIPLE SYSTEM: V684~MON](http://adsabs.harvard.edu/abs/2025CoSka..55c.270K)  
-Kıran, E., Bakış, V., Değirmenci, Ö. L.    
-2025, refereed ([2025CoSka..55c.270K](http://adsabs.harvard.edu/abs/2025CoSka..55c.270K))  
-
-61. [THE UV LEGACY LIBRARY OF YOUNG STARS AS ESSENTIAL STANDARDS (ULLYSES) LARGE DIRECTOR'S DISCRETIONARY PROGRAM WITH HUBBLE. I. GOALS, DESIGN, AND INITIAL RESULTS](http://adsabs.harvard.edu/abs/2025arXiv250405446R)  
-Roman-Duval, Julia, Fischer, William J., Fullerton, Alexander W., et al.    
-2025, not refereed ([2025arXiv250405446R](http://adsabs.harvard.edu/abs/2025arXiv250405446R))  
-
-62. [A SAMPLE OF EXTREME ECLIPSING BINARIES WITH ACCRETION DISKS FROM LAMOST AND ZTF](http://adsabs.harvard.edu/abs/2025arXiv250410818Z)  
-Zhuang, Jiangxinxin, Zhang, Zhi-Xiang, Gu, Wei-Min, et al.    
-2025, not refereed ([2025arXiv250410818Z](http://adsabs.harvard.edu/abs/2025arXiv250410818Z))  
+57. [ASASSN-24HD; A DWARF NOVA BRIDGING WZ SGE-TYPE AND SU UMA-TYPE SUPEROUTBURSTS](http://adsabs.harvard.edu/abs/2025arXiv250420783T)  
+Tampo, Yusuke, Kojiguchi, Naoto, Kato, Taichi, et al.    
+2025, not refereed ([2025arXiv250420783T](http://adsabs.harvard.edu/abs/2025arXiv250420783T))  
 
 
 2025-03
 -------
 
-1. [AN INVESTIGATION INTO THE VARIABILITY OF LUMINOUS BLUE VARIABLE STARS WITH TESS](http://adsabs.harvard.edu/abs/2025AJ....169..128S)  
-Spejcher, Becca, Richardson, Noel D., Pablo, Herbert, et al.    
-2025, refereed ([2025AJ....169..128S](http://adsabs.harvard.edu/abs/2025AJ....169..128S))  
-
-2. [SUPERFLARE ON A RAPIDLY-ROTATING SOLAR-TYPE STAR CAPTURED IN X-RAYS](http://adsabs.harvard.edu/abs/2025JHEAp..45..105M)  
+1. [SUPERFLARE ON A RAPIDLY-ROTATING SOLAR-TYPE STAR CAPTURED IN X-RAYS](http://adsabs.harvard.edu/abs/2025JHEAp..45..105M)  
 Mukhin, Andrey, Krivonos, Roman, Bikmaev, Ilfan, et al.    
 2025, refereed ([2025JHEAp..45..105M](http://adsabs.harvard.edu/abs/2025JHEAp..45..105M))  
 
-3. [MIND THE GAPS: IMPROVED METHODS FOR THE DETECTION OF PERIODICITIES IN UNEVENLY SAMPLED DATA](http://adsabs.harvard.edu/abs/2025MNRAS.537.3210G)  
-Gúrpide, Andrés, Middleton, Matthew    
-2025, refereed ([2025MNRAS.537.3210G](http://adsabs.harvard.edu/abs/2025MNRAS.537.3210G))  
-
-4. [ORBITS OF SIX TRIPLE SYSTEMS](http://adsabs.harvard.edu/abs/2025AJ....169..124T)  
-Tokovinin, Andrei    
-2025, refereed ([2025AJ....169..124T](http://adsabs.harvard.edu/abs/2025AJ....169..124T))  
-
-5. [BSN-I: THE FIRST IN-DEPTH PHOTOMETRIC STUDY OF SEVEN TOTAL-ECLIPSE CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3160P)  
-Poro, A., Li, K., Paki, E., et al.    
-2025, refereed ([2025MNRAS.537.3160P](http://adsabs.harvard.edu/abs/2025MNRAS.537.3160P))  
-
-6. [A NEW METHOD FOR STUDYING THE BLAZAR VARIABILITY ON THE SHORTEST TIME SCALES AND ITS APPLICATION TO S5 1803+784](http://adsabs.harvard.edu/abs/2025JHEAp..45...19B)  
-Butuzova, M. S., Guseva, V. A., Gorbachev, M. A., et al.    
-2025, refereed ([2025JHEAp..45...19B](http://adsabs.harvard.edu/abs/2025JHEAp..45...19B))  
-
-7. [TESTING THE WAVELENGTH DEPENDENCE OF OSCILLATIONS AND GRANULATION IN RED GIANTS USING KEPLER AND TESS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3265S)  
-Sreenivas, K. R., Bedding, Timothy R., Huber, Daniel, et al.    
-2025, refereed ([2025MNRAS.537.3265S](http://adsabs.harvard.edu/abs/2025MNRAS.537.3265S))  
-
-8. [OPTICAL FLARES DETECTED ON A CONTACT BINARY: THE FIRST PHOTOMETRIC AND SPECTROSCOPIC ANALYSIS OF A LONG-PERIOD LOW MASS RATIO CONTACT BINARY HAT 307-0007476](http://adsabs.harvard.edu/abs/2025MNRAS.537.2258L)  
-Li, Ling-Zhi, Li, Kai, Gao, Xiang, et al.    
-2025, refereed ([2025MNRAS.537.2258L](http://adsabs.harvard.edu/abs/2025MNRAS.537.2258L))  
-
-9. [PHOTOMETRIC AND SPECTROSCOPIC STUDIES OF SIX W UMA-TYPE ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025MNRAS.537.3366Z)  
-Zhang, Bin, Gao, Yi-Dan, Li, Kai, et al.    
-2025, refereed ([2025MNRAS.537.3366Z](http://adsabs.harvard.edu/abs/2025MNRAS.537.3366Z))  
-
-10. [MINUTE-CADENCE OBSERVATIONS OF THE LAMOST FIELDS WITH THE TMTS. VI. PHYSICAL PARAMETERS OF CONTACT BINARIES](http://adsabs.harvard.edu/abs/2025AJ....169..139X)  
-Xia, Qiqi, Wang, Xiaofeng, Li, Kai, et al.    
-2025, refereed ([2025AJ....169..139X](http://adsabs.harvard.edu/abs/2025AJ....169..139X))  
-
-11. [DYNAMIC PHOTOMETRIC VARIABILITY IN THREE YOUNG BROWN DWARFS IN TAURUS: DETECTION OF OPTICAL FLARES WITH TESS DATA](http://adsabs.harvard.edu/abs/2025ApJ...981...75G)  
-Ghosh, Samrat, Mondal, Soumen, Dutta, Somnath, et al.    
-2025, refereed ([2025ApJ...981...75G](http://adsabs.harvard.edu/abs/2025ApJ...981...75G))  
-
-12. [THE LUMINOUS, SLOW-RISING ORPHAN AFTERGLOW AT2019PIM AS A CANDIDATE MODERATELY RELATIVISTIC OUTFLOW](http://adsabs.harvard.edu/abs/2025MNRAS.537.2362P)  
-Perley, Daniel A., Ho, Anna Y. Q., Fausnaugh, Michael, et al.    
-2025, refereed ([2025MNRAS.537.2362P](http://adsabs.harvard.edu/abs/2025MNRAS.537.2362P))  
-
-13. [AN SS433 FLARE CAUGHT BY TESS. FAST RISE TIMES AND EVIDENCE FOR A 13 HOURS QUASI-PERIOD](http://adsabs.harvard.edu/abs/2025arXiv250302753W)  
-Waisberg, Idel    
-2025, not refereed ([2025arXiv250302753W](http://adsabs.harvard.edu/abs/2025arXiv250302753W))  
-
-14. [SEARCH FOR BINARY-CHANNEL METAL-RICH RR~LYRAE CANDIDATES](http://adsabs.harvard.edu/abs/2025arXiv250301018A)  
-Abdollahi, Hedieh, Molnár, László, Varga, Vázsony    
-2025, not refereed ([2025arXiv250301018A](http://adsabs.harvard.edu/abs/2025arXiv250301018A))  
-
-15. [FOLLOW-UP ON THREE POORLY STUDIED AM CVN STARS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3078A)  
-Aungwerojwit, Amornrat, Gänsicke, Boris T., Breedt, E., et al.    
-2025, refereed ([2025MNRAS.537.3078A](http://adsabs.harvard.edu/abs/2025MNRAS.537.3078A))  
-
-16. [STUDY OF SELF-LENSING/ECLIPSING SIGNALS IN EDGE-ON DOUBLE WHITE-DWARF SYSTEMS](http://adsabs.harvard.edu/abs/2025AJ....169..164S)  
-Sajadian, Sedighe    
-2025, refereed ([2025AJ....169..164S](http://adsabs.harvard.edu/abs/2025AJ....169..164S))  
-
-17. [A WHITE DWARF BINARY CANDIDATE DISCOVERED BY LAMOST USING DYNAMICAL METHOD](http://adsabs.harvard.edu/abs/2025JHEAp..45..428Z)  
-Zhu, Haifan, Wang, Wei, Li, Xue, et al.    
-2025, refereed ([2025JHEAp..45..428Z](http://adsabs.harvard.edu/abs/2025JHEAp..45..428Z))  
-
-18. [FILLING THE GAP: THE MISSING ECLIPSES OF $\GAMMA$ PERSEI FROM 2005 AND FROM 2006](http://adsabs.harvard.edu/abs/2025arXiv250300573A)  
-Ádám, Rozália Z., Molnár, László    
-2025, not refereed ([2025arXiv250300573A](http://adsabs.harvard.edu/abs/2025arXiv250300573A))  
-
-19. [STARSPOT DISTRIBUTION AND FLARE EVENTS IN TWO YOUNG LOW-MASS STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2025ApJ...981..169K)  
-Kumbhakar, Rajib, Mondal, Soumen, Ghosh, Samrat, et al.    
-2025, refereed ([2025ApJ...981..169K](http://adsabs.harvard.edu/abs/2025ApJ...981..169K))  
-
-20. [FOUR TOTAL ECLIPSING CONTACT BINARY SYSTEMS: THE FIRST PHOTOMETRIC LIGHT CURVE SOLUTIONS EMPLOYING TESS AND GAIA SURVEYS](http://adsabs.harvard.edu/abs/2025RAA....25c5013P)  
-Poro, Atila, Aliakbari, Razieh, Azarara, Hossein, et al.    
-2025, refereed ([2025RAA....25c5013P](http://adsabs.harvard.edu/abs/2025RAA....25c5013P))  
-
-21. [VARIABILITY CENSUS OF LEGACY CATALOGS. IV. 3600+ NEW Δ SCUTI AND Γ DORADUS STARS](http://adsabs.harvard.edu/abs/2025RNAAS...9...56Z)  
-Zhou, Ai-Ying    
-2025, not refereed ([2025RNAAS...9...56Z](http://adsabs.harvard.edu/abs/2025RNAAS...9...56Z))  
-
-22. [THEN AND NOW: A NEW LOOK AT THE ECLIPSE TIMING VARIATIONS OF HIERARCHICAL TRIPLE STAR CANDIDATES IN THE PRIMORDIAL KEPLER FIELD, REVISITED BY TESS](http://adsabs.harvard.edu/abs/2025A&A...695A.209B)  
-Borkovits, T., Rappaport, S. A., Mitnyan, T., et al.    
-2025, refereed ([2025A&A...695A.209B](http://adsabs.harvard.edu/abs/2025A&A...695A.209B))  
-
-23. [AN UPPER LIMIT ON THE FREQUENCY OF SHORT-PERIOD BLACK HOLE COMPANIONS TO SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2025A&A...695A.210G)  
-Green, Matthew J., Ziv, Yoav, Rix, Hans-Walter, et al.    
-2025, refereed ([2025A&A...695A.210G](http://adsabs.harvard.edu/abs/2025A&A...695A.210G))  
-
-24. [DETECTION OF OSCILLATION-LIKE PATTERNS IN ECLIPSING BINARY LIGHT CURVES USING NEURAL NETWORK-BASED OBJECT DETECTION ALGORITHMS](http://adsabs.harvard.edu/abs/2025A&A...695A..81U)  
+2. [DETECTION OF OSCILLATION-LIKE PATTERNS IN ECLIPSING BINARY LIGHT CURVES USING NEURAL NETWORK-BASED OBJECT DETECTION ALGORITHMS](http://adsabs.harvard.edu/abs/2025A&A...695A..81U)  
 Ulaş, B., Szklenár, T., Szabó, R.    
 2025, refereed ([2025A&A...695A..81U](http://adsabs.harvard.edu/abs/2025A&A...695A..81U))  
 
-25. [A SWARM OF DUSTY OBJECTS IN ORBIT AROUND THE CENTRAL STAR OF PLANETARY NEBULA WESB 1](http://adsabs.harvard.edu/abs/2025NatAs...9..380B)  
-Budaj, Jan, Bernhard, Klaus, Jones, David, et al.    
-2025, refereed ([2025NatAs...9..380B](http://adsabs.harvard.edu/abs/2025NatAs...9..380B))  
-
-26. [CA II AND HΑ FLARING M DWARFS DETECTED WITH MULTI-FILTER PHOTOMETRY](http://adsabs.harvard.edu/abs/2025A&A...695A.182M)  
-Mas-Buitrago, P., Zhang, J. -Y., Solano, E., et al.    
-2025, refereed ([2025A&A...695A.182M](http://adsabs.harvard.edu/abs/2025A&A...695A.182M))  
-
-27. [VARIABILITY OF GALACTIC BLUE SUPERGIANTS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2025arXiv250320860K)  
-Kourniotis, Michalis, Cidale, Lydia S., Kraus, Michaela, et al.    
-2025, not refereed ([2025arXiv250320860K](http://adsabs.harvard.edu/abs/2025arXiv250320860K))  
-
-28. [STOCHASTIC TIME SERIES MODELLING OF TESS PHOTOMETRY OF CLASSICAL T TAURI STARS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..461K)  
-Koen, C.    
-2025, refereed ([2025MNRAS.tmp..461K](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..461K))  
-
-29. [SOLAR SYSTEM OBJECTS OBSERVED WITH TESS -- EARLY DATA RELEASE 2: I. SPIN-SHAPE RECOVERY POTENTIAL OF MULTI-EPOCH TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2025arXiv250313332T)  
-Takács, Nóra, Kiss, Csaba, Szakáts, Róbert, et al.    
-2025, not refereed ([2025arXiv250313332T](http://adsabs.harvard.edu/abs/2025arXiv250313332T))  
-
-30. [THE EBLM PROJECT - XIV. TESS LIGHT CURVES FOR ECLIPSING BINARIES WITH VERY LOW MASS COMPANIONS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3943F)  
-Fitzpatrick, Jay, Maxted, Pierre F. L., Freckelton, Alix V., et al.    
-2025, refereed ([2025MNRAS.537.3943F](http://adsabs.harvard.edu/abs/2025MNRAS.537.3943F))  
-
-31. [ANALYSING THE FLUX STABILITY OF STELLAR CALIBRATOR CANDIDATES WITH TESS](http://adsabs.harvard.edu/abs/2025A&A...695A.277T)  
-Tonucci, E., van Kempen, T. A., Beaulieu, J. -P., et al.    
-2025, refereed ([2025A&A...695A.277T](http://adsabs.harvard.edu/abs/2025A&A...695A.277T))  
-
-32. [PULSATIONS AND PRE-HE WHITE DWARF IN THE POST-MASS TRANSFER ECLIPSING SYSTEM WASP 1021-28](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..458L)  
-Lee, Jae Woo, Jeong, Min-Ji, Hong, Kyeongsoo    
-2025, refereed ([2025MNRAS.tmp..458L](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..458L))  
-
-33. [EVOLUTION OF THE NEAR-CORE ROTATION FREQUENCY OF 2497 INTERMEDIATE-MASS STARS FROM THEIR DOMINANT GRAVITO-INERTIAL MODE](http://adsabs.harvard.edu/abs/2025A&A...695A.214A)  
-Aerts, Conny, Van Reeth, Timothy, Mombarg, Joey S. G., et al.    
-2025, refereed ([2025A&A...695A.214A](http://adsabs.harvard.edu/abs/2025A&A...695A.214A))  
-
-34. [SEARCH FOR BINARY-CHANNEL METAL-RICH RR LYRAE CANDIDATES](http://adsabs.harvard.edu/abs/2025A&A...695L..14A)  
-Abdollahi, Hedieh, Molnár, László, Varga, Vázsony    
-2025, refereed ([2025A&A...695L..14A](http://adsabs.harvard.edu/abs/2025A&A...695L..14A))  
-
-35. [ASTEROSEISMOLOGY OF THE RED GIANT COMPANIONS TO GAIA BH2 AND BH3](http://adsabs.harvard.edu/abs/2025arXiv250309690H)  
-Hey, Daniel, Li, Yaguang, Ong, Joel    
-2025, not refereed ([2025arXiv250309690H](http://adsabs.harvard.edu/abs/2025arXiv250309690H))  
-
-36. [DW CNC: A MICRONOVA WITH A NEGATIVE SUPERHUMP AND A FLICKERING SPIN](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..397V)  
-Veresvarska, M., Scaringi, S., Littlefield, C., et al.    
-2025, refereed ([2025MNRAS.tmp..397V](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..397V))  
-
-37. [UNSTABLE ACCRETION IN TW HYA: 3D SIMULATIONS AND COMPARISONS WITH OBSERVATIONS](http://adsabs.harvard.edu/abs/2025MNRAS.538..480R)  
-Romanova, M. M., Espaillat, C. C., Wendeborn, J., et al.    
-2025, refereed ([2025MNRAS.538..480R](http://adsabs.harvard.edu/abs/2025MNRAS.538..480R))  
-
-38. [ANALYZING THE MORPHOLOGY OF LATE-PHASE STELLAR FLARES FROM G-, K-, AND M-TYPE STARS](http://adsabs.harvard.edu/abs/2025arXiv250316181Y)  
-Yudovich, Denise G., Yang, Kai E., Sun, Xudong    
-2025, not refereed ([2025arXiv250316181Y](http://adsabs.harvard.edu/abs/2025arXiv250316181Y))  
-
-39. [THE NATURE OF CLASSICAL BE STAR OUTBURSTS: A MULTI-EPOCH STUDY OF THE BE SYSTEM EPIC 202060631](http://adsabs.harvard.edu/abs/2025arXiv250315677G)  
-Gao, Qing, Yuan, Hailong    
-2025, not refereed ([2025arXiv250315677G](http://adsabs.harvard.edu/abs/2025arXiv250315677G))  
-
-40. [PERIOD VARIATION RATES OF FOUR RADIAL SINGLE-MODE HIGH-AMPLITUDE DELTA SCUTI STARS](http://adsabs.harvard.edu/abs/2025Univ...11...86M)  
-Ma, Tian-Fang, Niu, Jia-Shu, Xue, Hui-Fang    
-2025, refereed ([2025Univ...11...86M](http://adsabs.harvard.edu/abs/2025Univ...11...86M))  
-
-41. [ANOTHER ONE (BH+OB PAIR) BITES THE DUST](http://adsabs.harvard.edu/abs/2025arXiv250308190N)  
-Naze, Yael, Rauw, Gregor    
-2025, not refereed ([2025arXiv250308190N](http://adsabs.harvard.edu/abs/2025arXiv250308190N))  
-
-42. [LIMITS ON THE EJECTA MASS DURING THE SEARCH FOR KILONOVAE ASSOCIATED WITH NEUTRON STAR-BLACK HOLE MERGERS: A CASE STUDY OF S230518H, GW230529, S230627C AND THE LOW-SIGNIFICANCE CANDIDATE S240422ED](http://adsabs.harvard.edu/abs/2025arXiv250315422P)  
-Pillas, M., Antier, S., Ackley, K., et al.    
-2025, not refereed ([2025arXiv250315422P](http://adsabs.harvard.edu/abs/2025arXiv250315422P))  
-
-43. [DISSECTING STELLAR POPULATIONS WITH MANIFOLD LEARNING: I. VALIDATION OF THE METHOD ON A SYNTHETIC MILKY WAY-LIKE GALAXY](http://adsabs.harvard.edu/abs/2025A&A...695A.243N)  
-Neitzel, A. W., Campante, T. L., Bossini, D., et al.    
-2025, refereed ([2025A&A...695A.243N](http://adsabs.harvard.edu/abs/2025A&A...695A.243N))  
-
-44. [OPTICAL OBSERVATIONS OF THE HIGH MASS X-RAY BINARY MAXI J0709$-$159/LY CMA](http://adsabs.harvard.edu/abs/2025arXiv250321118S)  
-Shidatsu, Megumi, Kawai, Nobuyuki, Maehara, Hiroyuki, et al.    
-2025, not refereed ([2025arXiv250321118S](http://adsabs.harvard.edu/abs/2025arXiv250321118S))  
-
-45. [A SLOWLY PULSATING RUN-AWAY B STAR AT HIGH GALACTIC LATITUDE EJECTED FROM A SPIRAL ARM](http://adsabs.harvard.edu/abs/2025arXiv250313095H)  
-Heber, Ulrich, Halenke, Maximilian, Bhat, Aakash, et al.    
-2025, not refereed ([2025arXiv250313095H](http://adsabs.harvard.edu/abs/2025arXiv250313095H))  
-
-46. [TESTING THE BLOATED STAR HYPOTHESIS IN THE MASSIVE YOUNG STELLAR OBJECT IRAS 19520+2759 THROUGH OPTICAL AND INFRARED VARIABILITY](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..475P)  
-Pandey, Rakesh, Palau, Aina, Serna, Javier, et al.    
-2025, refereed ([2025MNRAS.tmp..475P](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..475P))  
-
-47. [CAII AND H$\ALPHA$ FLARING M DWARFS DETECTED WITH MULTI-FILTER PHOTOMETRY](http://adsabs.harvard.edu/abs/2025arXiv250322525M)  
-Mas-Buitrago, P., Zhang, J. -Y., Solano, E., et al.    
-2025, not refereed ([2025arXiv250322525M](http://adsabs.harvard.edu/abs/2025arXiv250322525M))  
-
-48. [DISENTANGLING THE STELLAR ATMOSPHERE AND THE FOCUSED WIND IN DIFFERENT ACCRETION STATES OF CYGNUS X-1](http://adsabs.harvard.edu/abs/2025A&A...695A.115B)  
+3. [DISENTANGLING THE STELLAR ATMOSPHERE AND THE FOCUSED WIND IN DIFFERENT ACCRETION STATES OF CYGNUS X-1](http://adsabs.harvard.edu/abs/2025A&A...695A.115B)  
 Brigitte, M., Hadrava, P., Kubátová, B., et al.    
 2025, refereed ([2025A&A...695A.115B](http://adsabs.harvard.edu/abs/2025A&A...695A.115B))  
 
-49. [ABRUPT PULSATION RESUMPTIONS IN DENEB: AN UPDATE](http://adsabs.harvard.edu/abs/2025arXiv250320058G)  
+4. [CA II AND HΑ FLARING M DWARFS DETECTED WITH MULTI-FILTER PHOTOMETRY](http://adsabs.harvard.edu/abs/2025A&A...695A.182M)  
+Mas-Buitrago, P., Zhang, J. -Y., Solano, E., et al.    
+2025, refereed ([2025A&A...695A.182M](http://adsabs.harvard.edu/abs/2025A&A...695A.182M))  
+
+5. [THEN AND NOW: A NEW LOOK AT THE ECLIPSE TIMING VARIATIONS OF HIERARCHICAL TRIPLE STAR CANDIDATES IN THE PRIMORDIAL KEPLER FIELD, REVISITED BY TESS](http://adsabs.harvard.edu/abs/2025A&A...695A.209B)  
+Borkovits, T., Rappaport, S. A., Mitnyan, T., et al.    
+2025, refereed ([2025A&A...695A.209B](http://adsabs.harvard.edu/abs/2025A&A...695A.209B))  
+
+6. [AN UPPER LIMIT ON THE FREQUENCY OF SHORT-PERIOD BLACK HOLE COMPANIONS TO SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2025A&A...695A.210G)  
+Green, Matthew J., Ziv, Yoav, Rix, Hans-Walter, et al.    
+2025, refereed ([2025A&A...695A.210G](http://adsabs.harvard.edu/abs/2025A&A...695A.210G))  
+
+7. [EVOLUTION OF THE NEAR-CORE ROTATION FREQUENCY OF 2497 INTERMEDIATE-MASS STARS FROM THEIR DOMINANT GRAVITO-INERTIAL MODE](http://adsabs.harvard.edu/abs/2025A&A...695A.214A)  
+Aerts, Conny, Van Reeth, Timothy, Mombarg, Joey S. G., et al.    
+2025, refereed ([2025A&A...695A.214A](http://adsabs.harvard.edu/abs/2025A&A...695A.214A))  
+
+8. [DISSECTING STELLAR POPULATIONS WITH MANIFOLD LEARNING: I. VALIDATION OF THE METHOD ON A SYNTHETIC MILKY WAY-LIKE GALAXY](http://adsabs.harvard.edu/abs/2025A&A...695A.243N)  
+Neitzel, A. W., Campante, T. L., Bossini, D., et al.    
+2025, refereed ([2025A&A...695A.243N](http://adsabs.harvard.edu/abs/2025A&A...695A.243N))  
+
+9. [ANALYSING THE FLUX STABILITY OF STELLAR CALIBRATOR CANDIDATES WITH TESS](http://adsabs.harvard.edu/abs/2025A&A...695A.277T)  
+Tonucci, E., van Kempen, T. A., Beaulieu, J. -P., et al.    
+2025, refereed ([2025A&A...695A.277T](http://adsabs.harvard.edu/abs/2025A&A...695A.277T))  
+
+10. [SEARCH FOR BINARY-CHANNEL METAL-RICH RR LYRAE CANDIDATES](http://adsabs.harvard.edu/abs/2025A&A...695L..14A)  
+Abdollahi, Hedieh, Molnár, László, Varga, Vázsony    
+2025, refereed ([2025A&A...695L..14A](http://adsabs.harvard.edu/abs/2025A&A...695L..14A))  
+
+11. [ORBITS OF SIX TRIPLE SYSTEMS](http://adsabs.harvard.edu/abs/2025AJ....169..124T)  
+Tokovinin, Andrei    
+2025, refereed ([2025AJ....169..124T](http://adsabs.harvard.edu/abs/2025AJ....169..124T))  
+
+12. [AN INVESTIGATION INTO THE VARIABILITY OF LUMINOUS BLUE VARIABLE STARS WITH TESS](http://adsabs.harvard.edu/abs/2025AJ....169..128S)  
+Spejcher, Becca, Richardson, Noel D., Pablo, Herbert, et al.    
+2025, refereed ([2025AJ....169..128S](http://adsabs.harvard.edu/abs/2025AJ....169..128S))  
+
+13. [MINUTE-CADENCE OBSERVATIONS OF THE LAMOST FIELDS WITH THE TMTS. VI. PHYSICAL PARAMETERS OF CONTACT BINARIES](http://adsabs.harvard.edu/abs/2025AJ....169..139X)  
+Xia, Qiqi, Wang, Xiaofeng, Li, Kai, et al.    
+2025, refereed ([2025AJ....169..139X](http://adsabs.harvard.edu/abs/2025AJ....169..139X))  
+
+14. [STUDY OF SELF-LENSING/ECLIPSING SIGNALS IN EDGE-ON DOUBLE WHITE-DWARF SYSTEMS](http://adsabs.harvard.edu/abs/2025AJ....169..164S)  
+Sajadian, Sedighe    
+2025, refereed ([2025AJ....169..164S](http://adsabs.harvard.edu/abs/2025AJ....169..164S))  
+
+15. [DYNAMIC PHOTOMETRIC VARIABILITY IN THREE YOUNG BROWN DWARFS IN TAURUS: DETECTION OF OPTICAL FLARES WITH TESS DATA](http://adsabs.harvard.edu/abs/2025ApJ...981...75G)  
+Ghosh, Samrat, Mondal, Soumen, Dutta, Somnath, et al.    
+2025, refereed ([2025ApJ...981...75G](http://adsabs.harvard.edu/abs/2025ApJ...981...75G))  
+
+16. [STARSPOT DISTRIBUTION AND FLARE EVENTS IN TWO YOUNG LOW-MASS STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2025ApJ...981..169K)  
+Kumbhakar, Rajib, Mondal, Soumen, Ghosh, Samrat, et al.    
+2025, refereed ([2025ApJ...981..169K](http://adsabs.harvard.edu/abs/2025ApJ...981..169K))  
+
+17. [A NEW METHOD FOR STUDYING THE BLAZAR VARIABILITY ON THE SHORTEST TIME SCALES AND ITS APPLICATION TO S5 1803+784](http://adsabs.harvard.edu/abs/2025JHEAp..45...19B)  
+Butuzova, M. S., Guseva, V. A., Gorbachev, M. A., et al.    
+2025, refereed ([2025JHEAp..45...19B](http://adsabs.harvard.edu/abs/2025JHEAp..45...19B))  
+
+18. [A WHITE DWARF BINARY CANDIDATE DISCOVERED BY LAMOST USING DYNAMICAL METHOD](http://adsabs.harvard.edu/abs/2025JHEAp..45..428Z)  
+Zhu, Haifan, Wang, Wei, Li, Xue, et al.    
+2025, refereed ([2025JHEAp..45..428Z](http://adsabs.harvard.edu/abs/2025JHEAp..45..428Z))  
+
+19. [OPTICAL FLARES DETECTED ON A CONTACT BINARY: THE FIRST PHOTOMETRIC AND SPECTROSCOPIC ANALYSIS OF A LONG-PERIOD LOW MASS RATIO CONTACT BINARY HAT 307-0007476](http://adsabs.harvard.edu/abs/2025MNRAS.537.2258L)  
+Li, Ling-Zhi, Li, Kai, Gao, Xiang, et al.    
+2025, refereed ([2025MNRAS.537.2258L](http://adsabs.harvard.edu/abs/2025MNRAS.537.2258L))  
+
+20. [THE LUMINOUS, SLOW-RISING ORPHAN AFTERGLOW AT2019PIM AS A CANDIDATE MODERATELY RELATIVISTIC OUTFLOW](http://adsabs.harvard.edu/abs/2025MNRAS.537.2362P)  
+Perley, Daniel A., Ho, Anna Y. Q., Fausnaugh, Michael, et al.    
+2025, refereed ([2025MNRAS.537.2362P](http://adsabs.harvard.edu/abs/2025MNRAS.537.2362P))  
+
+21. [FOLLOW-UP ON THREE POORLY STUDIED AM CVN STARS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3078A)  
+Aungwerojwit, Amornrat, Gänsicke, Boris T., Breedt, E., et al.    
+2025, refereed ([2025MNRAS.537.3078A](http://adsabs.harvard.edu/abs/2025MNRAS.537.3078A))  
+
+22. [BSN-I: THE FIRST IN-DEPTH PHOTOMETRIC STUDY OF SEVEN TOTAL-ECLIPSE CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3160P)  
+Poro, A., Li, K., Paki, E., et al.    
+2025, refereed ([2025MNRAS.537.3160P](http://adsabs.harvard.edu/abs/2025MNRAS.537.3160P))  
+
+23. [MIND THE GAPS: IMPROVED METHODS FOR THE DETECTION OF PERIODICITIES IN UNEVENLY SAMPLED DATA](http://adsabs.harvard.edu/abs/2025MNRAS.537.3210G)  
+Gúrpide, Andrés, Middleton, Matthew    
+2025, refereed ([2025MNRAS.537.3210G](http://adsabs.harvard.edu/abs/2025MNRAS.537.3210G))  
+
+24. [TESTING THE WAVELENGTH DEPENDENCE OF OSCILLATIONS AND GRANULATION IN RED GIANTS USING KEPLER AND TESS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3265S)  
+Sreenivas, K. R., Bedding, Timothy R., Huber, Daniel, et al.    
+2025, refereed ([2025MNRAS.537.3265S](http://adsabs.harvard.edu/abs/2025MNRAS.537.3265S))  
+
+25. [PHOTOMETRIC AND SPECTROSCOPIC STUDIES OF SIX W UMA-TYPE ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025MNRAS.537.3366Z)  
+Zhang, Bin, Gao, Yi-Dan, Li, Kai, et al.    
+2025, refereed ([2025MNRAS.537.3366Z](http://adsabs.harvard.edu/abs/2025MNRAS.537.3366Z))  
+
+26. [THE EBLM PROJECT - XIV. TESS LIGHT CURVES FOR ECLIPSING BINARIES WITH VERY LOW MASS COMPANIONS](http://adsabs.harvard.edu/abs/2025MNRAS.537.3943F)  
+Fitzpatrick, Jay, Maxted, Pierre F. L., Freckelton, Alix V., et al.    
+2025, refereed ([2025MNRAS.537.3943F](http://adsabs.harvard.edu/abs/2025MNRAS.537.3943F))  
+
+27. [UNSTABLE ACCRETION IN TW HYA: 3D SIMULATIONS AND COMPARISONS WITH OBSERVATIONS](http://adsabs.harvard.edu/abs/2025MNRAS.538..480R)  
+Romanova, M. M., Espaillat, C. C., Wendeborn, J., et al.    
+2025, refereed ([2025MNRAS.538..480R](http://adsabs.harvard.edu/abs/2025MNRAS.538..480R))  
+
+28. [TESTING THE BLOATED STAR HYPOTHESIS IN THE MASSIVE YOUNG STELLAR OBJECT IRAS 19520+2759 THROUGH OPTICAL AND INFRARED VARIABILITY](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..475P)  
+Pandey, Rakesh, Palau, Aina, Serna, Javier, et al.    
+2025, refereed ([2025MNRAS.tmp..475P](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..475P))  
+
+29. [A SWARM OF DUSTY OBJECTS IN ORBIT AROUND THE CENTRAL STAR OF PLANETARY NEBULA WESB 1](http://adsabs.harvard.edu/abs/2025NatAs...9..380B)  
+Budaj, Jan, Bernhard, Klaus, Jones, David, et al.    
+2025, refereed ([2025NatAs...9..380B](http://adsabs.harvard.edu/abs/2025NatAs...9..380B))  
+
+30. [FOUR TOTAL ECLIPSING CONTACT BINARY SYSTEMS: THE FIRST PHOTOMETRIC LIGHT CURVE SOLUTIONS EMPLOYING TESS AND GAIA SURVEYS](http://adsabs.harvard.edu/abs/2025RAA....25c5013P)  
+Poro, Atila, Aliakbari, Razieh, Azarara, Hossein, et al.    
+2025, refereed ([2025RAA....25c5013P](http://adsabs.harvard.edu/abs/2025RAA....25c5013P))  
+
+31. [VARIABILITY CENSUS OF LEGACY CATALOGS. IV. 3600+ NEW Δ SCUTI AND Γ DORADUS STARS](http://adsabs.harvard.edu/abs/2025RNAAS...9...56Z)  
+Zhou, Ai-Ying    
+2025, not refereed ([2025RNAAS...9...56Z](http://adsabs.harvard.edu/abs/2025RNAAS...9...56Z))  
+
+32. [PERIOD VARIATION RATES OF FOUR RADIAL SINGLE-MODE HIGH-AMPLITUDE DELTA SCUTI STARS](http://adsabs.harvard.edu/abs/2025Univ...11...86M)  
+Ma, Tian-Fang, Niu, Jia-Shu, Xue, Hui-Fang    
+2025, refereed ([2025Univ...11...86M](http://adsabs.harvard.edu/abs/2025Univ...11...86M))  
+
+33. [AN SS433 FLARE CAUGHT BY TESS. FAST RISE TIMES AND EVIDENCE FOR A 13 HOURS QUASI-PERIOD](http://adsabs.harvard.edu/abs/2025arXiv250302753W)  
+Waisberg, Idel    
+2025, not refereed ([2025arXiv250302753W](http://adsabs.harvard.edu/abs/2025arXiv250302753W))  
+
+34. [ASTEROSEISMOLOGY OF THE RED GIANT COMPANIONS TO GAIA BH2 AND BH3](http://adsabs.harvard.edu/abs/2025arXiv250309690H)  
+Hey, Daniel, Li, Yaguang, Ong, Joel    
+2025, not refereed ([2025arXiv250309690H](http://adsabs.harvard.edu/abs/2025arXiv250309690H))  
+
+35. [A SLOWLY PULSATING RUN-AWAY B STAR AT HIGH GALACTIC LATITUDE EJECTED FROM A SPIRAL ARM](http://adsabs.harvard.edu/abs/2025arXiv250313095H)  
+Heber, Ulrich, Halenke, Maximilian, Bhat, Aakash, et al.    
+2025, not refereed ([2025arXiv250313095H](http://adsabs.harvard.edu/abs/2025arXiv250313095H))  
+
+36. [LIMITS ON THE EJECTA MASS DURING THE SEARCH FOR KILONOVAE ASSOCIATED WITH NEUTRON STAR-BLACK HOLE MERGERS: A CASE STUDY OF S230518H, GW230529, S230627C AND THE LOW-SIGNIFICANCE CANDIDATE S240422ED](http://adsabs.harvard.edu/abs/2025arXiv250315422P)  
+Pillas, M., Antier, S., Ackley, K., et al.    
+2025, not refereed ([2025arXiv250315422P](http://adsabs.harvard.edu/abs/2025arXiv250315422P))  
+
+37. [THE NATURE OF CLASSICAL BE STAR OUTBURSTS: A MULTI-EPOCH STUDY OF THE BE SYSTEM EPIC 202060631](http://adsabs.harvard.edu/abs/2025arXiv250315677G)  
+Gao, Qing, Yuan, Hailong    
+2025, not refereed ([2025arXiv250315677G](http://adsabs.harvard.edu/abs/2025arXiv250315677G))  
+
+38. [ABRUPT PULSATION RESUMPTIONS IN DENEB: AN UPDATE](http://adsabs.harvard.edu/abs/2025arXiv250320058G)  
 Guzik, Joyce A., Kloppenborg, Brian, Richardson, Noel, et al.    
 2025, not refereed ([2025arXiv250320058G](http://adsabs.harvard.edu/abs/2025arXiv250320058G))  
+
+39. [PHOTOMETRIC INVESTIGATION OF WY LEO: AN ECLIPSING BINARY SYSTEM WITH \DELTA SCUTI COMPONENT](http://adsabs.harvard.edu/abs/2025JARNA..11...72K)  
+Kahraman Aliçavuş, Filiz    
+2025, refereed ([2025JARNA..11...72K](http://adsabs.harvard.edu/abs/2025JARNA..11...72K))  
 
 
 2025-02
 -------
 
-1. [PHOTOMETRIC ANALYSIS OF THE CATACLYSMIC VARIABLE STAR LT ERI](http://adsabs.harvard.edu/abs/2025AJ....169...62S)  
-Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
-2025, refereed ([2025AJ....169...62S](http://adsabs.harvard.edu/abs/2025AJ....169...62S))  
-
-2. [PHOTOMETRIC STUDY FOR THE SHORT PERIOD CONTACT BINARY V724 AND](http://adsabs.harvard.edu/abs/2025NewA..11502318Z)  
-Zhang, Bin, Gao, Yi-Dan, Zhong, Zhen, et al.    
-2025, refereed ([2025NewA..11502318Z](http://adsabs.harvard.edu/abs/2025NewA..11502318Z))  
-
-3. [TESS AND AAVSO OBSERVATIONS OF THE ECLIPSING Z CAM-TYPE CATACLYSMIC VARIABLE V416 DRA](http://adsabs.harvard.edu/abs/2025NewA..11502319Y)  
-Yang, Hongfei, Han, Zhongtao, Na, Weiwei, et al.    
-2025, refereed ([2025NewA..11502319Y](http://adsabs.harvard.edu/abs/2025NewA..11502319Y))  
-
-4. [DISCOVERIES AND PROPERTIES OF EL CVN–TYPE BINARIES IN THE TESS SURVEY](http://adsabs.harvard.edu/abs/2025ApJ...979..108X)  
-Xiong, Jianping, Li, Zhenwei, Li, Jiao, et al.    
-2025, refereed ([2025ApJ...979..108X](http://adsabs.harvard.edu/abs/2025ApJ...979..108X))  
-
-5. [CLASSIFICATION OF PERIODIC VARIABLE STARS FROM TESS](http://adsabs.harvard.edu/abs/2025ApJS..276...57G)  
-Gao, Xinyi, Chen, Xiaodian, Wang, Shu, et al.    
-2025, refereed ([2025ApJS..276...57G](http://adsabs.harvard.edu/abs/2025ApJS..276...57G))  
-
-6. [TIME-SERIES SPECTROSCOPY AND TESS PHOTOMETRY OF THE OSCILLATING ECLIPSING ALGOL SYSTEM V389 CASSIOPEIAE](http://adsabs.harvard.edu/abs/2025AJ....169...66R)  
-Rittipruk, Pakakaew, Hong, Kyeongsoo, Lee, Jae Woo, et al.    
-2025, refereed ([2025AJ....169...66R](http://adsabs.harvard.edu/abs/2025AJ....169...66R))  
-
-7. [IDENTIFYING HIERARCHICALLY TRIPLE STAR SYSTEMS WITH GAIA DR3 AND LAMOST](http://adsabs.harvard.edu/abs/2025AJ....169...60H)  
-He, Tongyu, Li, Jiao, Li, Jiangdan, et al.    
-2025, refereed ([2025AJ....169...60H](http://adsabs.harvard.edu/abs/2025AJ....169...60H))  
-
-8. [UNVEILING THE ORIGINS AND DYNAMICS OF THE HIERARCHICAL TRIPLE STAR SYSTEM CN LYN](http://adsabs.harvard.edu/abs/2025AJ....169...71Y)  
-Yücel, Gökhan, Bakış, Volkan, Canbay, Remziye, et al.    
-2025, refereed ([2025AJ....169...71Y](http://adsabs.harvard.edu/abs/2025AJ....169...71Y))  
-
-9. [PHOTOMETRIC AND SPECTROSCOPIC INVESTIGATIONS OF THREE LARGE AMPLITUDE CONTACT BINARIES](http://adsabs.harvard.edu/abs/2025AJ....169...85X)  
-Xu, Xin, Li, Kai, Liu, Fei, et al.    
-2025, refereed ([2025AJ....169...85X](http://adsabs.harvard.edu/abs/2025AJ....169...85X))  
-
-10. [MAGNETIC ACTIVITY OF TESS OBJECTS OBSERVED IN THE LAMOST MEDIUM-RESOLUTION SPECTRAL SURVEY](http://adsabs.harvard.edu/abs/2025ApJS..276...44S)  
-Su, Tianhao, Zhang, Li-yun, Misra, Prabhakar, et al.    
-2025, refereed ([2025ApJS..276...44S](http://adsabs.harvard.edu/abs/2025ApJS..276...44S))  
-
-11. [TWO REPEATED QUASI-PERIODIC OSCILLATIONS IN THE FSRQ S5 1044+71 OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2025RAA....25b5004W)  
-Wang, Jun-Jie, Yi, Ting-Feng, Zhang, Yangwei, et al.    
-2025, refereed ([2025RAA....25b5004W](http://adsabs.harvard.edu/abs/2025RAA....25b5004W))  
-
-12. [TESTING THE WAVELENGTH DEPENDENCE OF OSCILLATIONS AND GRANULATION IN RED GIANTS USING KEPLER AND TESS](http://adsabs.harvard.edu/abs/2025arXiv250201899S)  
-Sreenivas, K. R., Bedding, Timothy R., Huber, Daniel, et al.    
-2025, not refereed ([2025arXiv250201899S](http://adsabs.harvard.edu/abs/2025arXiv250201899S))  
-
-13. [A COMPREHENSIVE STUDY ON THE K2-TYPE BINARY V1393 TAU IN FOUR-YEAR OBSERVATIONS](http://adsabs.harvard.edu/abs/2025NewA..11502330Y)  
-Yu, Ligang, Wang, Shaung, Raúl, Michel, et al.    
-2025, refereed ([2025NewA..11502330Y](http://adsabs.harvard.edu/abs/2025NewA..11502330Y))  
-
-14. [SPECTROSCOPIC OBSERVATIONS OF FLARES AND SUPERFLARES ON AU MIC](http://adsabs.harvard.edu/abs/2025MNRAS.537..537O)  
-Odert, P., Leitzinger, M., Greimel, R., et al.    
-2025, refereed ([2025MNRAS.537..537O](http://adsabs.harvard.edu/abs/2025MNRAS.537..537O))  
-
-15. [TESTING DISC REPROCESSING MODELS FOR AGN OPTICAL VARIABILITY BY COMPARISON OF X-RAY AND OPTICAL POWER SPECTRA OF NGC 4395](http://adsabs.harvard.edu/abs/2025MNRAS.537..293B)  
-Beard, M. W. J., MᶜHardy, I. M., Horne, K., et al.    
-2025, refereed ([2025MNRAS.537..293B](http://adsabs.harvard.edu/abs/2025MNRAS.537..293B))  
-
-16. [SHORT-TERM BALMER LINE EMISSION VARIABILITY IN M DWARFS](http://adsabs.harvard.edu/abs/2025arXiv250202568G)  
-Garcia Soto, Aylin, Duvvuri, Girish M., Newton, Elisabeth R., et al.    
-2025, not refereed ([2025arXiv250202568G](http://adsabs.harvard.edu/abs/2025arXiv250202568G))  
-
-17. [DETECTING STELLAR FLARES IN PHOTOMETRIC DATA USING HIDDEN MARKOV MODELS](http://adsabs.harvard.edu/abs/2025ApJ...979..141E)  
+1. [DETECTING STELLAR FLARES IN PHOTOMETRIC DATA USING HIDDEN MARKOV MODELS](http://adsabs.harvard.edu/abs/2025ApJ...979..141E)  
 Esquivel, J. Arturo, Shen, Yunyi, Leos-Barajas, Vianey, et al.    
 2025, refereed ([2025ApJ...979..141E](http://adsabs.harvard.edu/abs/2025ApJ...979..141E))  
 
-18. [NGTS-EB-7, AN ECCENTRIC, LONG-PERIOD, LOW-MASS ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2025MNRAS.537...35R)  
-Rodel, Toby, Watson, Christopher A., Ulmer-Moll, Solène, et al.    
-2025, refereed ([2025MNRAS.537...35R](http://adsabs.harvard.edu/abs/2025MNRAS.537...35R))  
-
-19. [O'CONNELL EFFECT AND PERIOD VARIATIONS ON SOLAR-LIKE CONTACT BINARY EF BOO](http://adsabs.harvard.edu/abs/2025RAA....25b5006W)  
-Wang, Jing-Jing, Guo, Meng, Tian, Xiao-Man, et al.    
-2025, refereed ([2025RAA....25b5006W](http://adsabs.harvard.edu/abs/2025RAA....25b5006W))  
-
-20. [ACCURATE AND ROBUST STELLAR ROTATION PERIODS CATALOG FOR 82771 KEPLER STARS USING DEEP LEARNING](http://adsabs.harvard.edu/abs/2025AJ....169...59K)  
-Kamai, Ilay, Perets, Hagai B.    
-2025, refereed ([2025AJ....169...59K](http://adsabs.harvard.edu/abs/2025AJ....169...59K))  
-
-21. [SPORADIC DIPS FROM EXTENDED DEBRIS TRANSITING THE METAL-RICH WHITE DWARF SBSS 1232+563](http://adsabs.harvard.edu/abs/2025ApJ...980...56H)  
-Hermes, J. J., Guidry, Joseph A., Vanderbosch, Zachary P., et al.    
-2025, refereed ([2025ApJ...980...56H](http://adsabs.harvard.edu/abs/2025ApJ...980...56H))  
-
-22. [A BE STAR THAT TURNED BRIGHT AND BLUE DURING A MAJOR OUTBURST](http://adsabs.harvard.edu/abs/2025A&A...694A.131G)  
-Gao, Qing, Wang, Wei, Baade, Dietrich, et al.    
-2025, refereed ([2025A&A...694A.131G](http://adsabs.harvard.edu/abs/2025A&A...694A.131G))  
-
-23. [SURFACE BRIGHTNESS-COLOUR RELATIONS OF DWARF STARS FROM DETACHED ECLIPSING BINARIES: II. EXTENSION OF THE CALIBRATING SAMPLE](http://adsabs.harvard.edu/abs/2025A&A...694A..65G)  
-Graczyk, D., Pietrzyński, G., Galan, C., et al.    
-2025, refereed ([2025A&A...694A..65G](http://adsabs.harvard.edu/abs/2025A&A...694A..65G))  
-
-24. [AN IN-DEPTH INVESTIGATION OF THE PRIMORDIAL CLUSTER PAIR ASCC 19 AND ASCC 21](http://adsabs.harvard.edu/abs/2025AJ....169...98H)  
+2. [AN IN-DEPTH INVESTIGATION OF THE PRIMORDIAL CLUSTER PAIR ASCC 19 AND ASCC 21](http://adsabs.harvard.edu/abs/2025AJ....169...98H)  
 Hu, Qingshun, Li, Yuting, Qin, Mingfeng, et al.    
 2025, refereed ([2025AJ....169...98H](http://adsabs.harvard.edu/abs/2025AJ....169...98H))  
 
-25. [CAN WELL-SAMPLED PHASE CURVES BE USED TO INFER ASTEROID SPECTRAL FEATURES?](http://adsabs.harvard.edu/abs/2025PSJ.....6...40M)  
-Murray, Zachary    
-2025, refereed ([2025PSJ.....6...40M](http://adsabs.harvard.edu/abs/2025PSJ.....6...40M))  
+3. [PRECISE AND ACCURATE MASS AND RADIUS MEASUREMENTS OF FIFTEEN GALACTIC RED GIANTS IN DETACHED ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025OJAp....8E..18R)  
+Rowan, Dominick M., Stanek, Krzysztof Z., Kochanek, Christopher S., et al.    
+2025, refereed ([2025OJAp....8E..18R](http://adsabs.harvard.edu/abs/2025OJAp....8E..18R))  
 
-26. [VARIABILITY OF CENTRAL STARS OF PLANETARY NEBULAE WITH THE ZWICKY TRANSIENT FACILITY. I. METHODS, SHORT-TIMESCALE VARIABLES, AND THE UNUSUAL NUCLEUS OF WESB 1](http://adsabs.harvard.edu/abs/2025PASP..137b4201B)  
-Bhattacharjee, Soumyadeep, Kulkarni, S. R., Kong, Albert K. H., et al.    
-2025, refereed ([2025PASP..137b4201B](http://adsabs.harvard.edu/abs/2025PASP..137b4201B))  
-
-27. [ANALYSIS OF NEWLY CATALOGUED OPEN STAR CLUSTER UPK~220 WITH GAIA DR3 AND TESS: DISCOVERING MEMBER VARIABLE STARS](http://adsabs.harvard.edu/abs/2025arXiv250203861A)  
-Akkaya Oralhan, İnci, Kayhan, Cenk, Arslan, Özgün    
-2025, not refereed ([2025arXiv250203861A](http://adsabs.harvard.edu/abs/2025arXiv250203861A))  
-
-28. [STARSPOT DISTRIBUTION AND FLARE EVENTS IN TWO YOUNG LOW-MASS STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2025arXiv250204906K)  
-Kumbhakar, Rajib, Mondal, Soumen, Ghosh, Samrat, et al.    
-2025, not refereed ([2025arXiv250204906K](http://adsabs.harvard.edu/abs/2025arXiv250204906K))  
-
-29. [FOUR TOTAL ECLIPSING CONTACT BINARY SYSTEMS: THE FIRST PHOTOMETRIC LIGHT CURVE SOLUTIONS EMPLOYING TESS AND GAIA SURVEYS](http://adsabs.harvard.edu/abs/2025arXiv250206291P)  
-Poro, Atila, Aliakbari, Razieh, Azarara, Hossein, et al.    
-2025, not refereed ([2025arXiv250206291P](http://adsabs.harvard.edu/abs/2025arXiv250206291P))  
-
-30. [STELLAR FLARE MORPHOLOGY WITH TESS ACROSS THE MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2025A&A...694A.161S)  
-Seli, B., Vida, K., Oláh, K., et al.    
-2025, refereed ([2025A&A...694A.161S](http://adsabs.harvard.edu/abs/2025A&A...694A.161S))  
-
-31. [THE FIRST IN-DEPTH PHOTOMETRIC STUDY OF THE FOUR DELTA SCUTI STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2025arXiv250204854P)  
-Poro, Atila, Azarara, Hossein, Sarostad, Ahmad, et al.    
-2025, not refereed ([2025arXiv250204854P](http://adsabs.harvard.edu/abs/2025arXiv250204854P))  
-
-32. [A SEARCH FOR CLOSE BINARY SYSTEMS IN THE SALT SURVEY OF HYDROGEN-DEFICIENT STARS USING TESS](http://adsabs.harvard.edu/abs/2025MNRAS.537.2079S)  
-Snowdon, E. J., Jeffery, C. S., Schlagenhauf, S., et al.    
-2025, refereed ([2025MNRAS.537.2079S](http://adsabs.harvard.edu/abs/2025MNRAS.537.2079S))  
-
-33. [TESTING THE WAVELENGTH DEPENDENCE OF OSCILLATIONS AND GRANULATION IN RED GIANTS USING KEPLER AND TESS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..234S)  
-Sreenivas, K. R., Bedding, Timothy R., Huber, Daniel, et al.    
-2025, refereed ([2025MNRAS.tmp..234S](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..234S))  
-
-34. [THEN AND NOW: A NEW LOOK AT THE ECLIPSE TIMING VARIATIONS OF HIERARCHICAL TRIPLE STAR CANDIDATES IN THE PRIMORDIAL $KEPLER$-FIELD, REVISITED BY TESS](http://adsabs.harvard.edu/abs/2025arXiv250209480B)  
-Borkovits, T., Rappaport, S. A., Mitnyan, T., et al.    
-2025, not refereed ([2025arXiv250209480B](http://adsabs.harvard.edu/abs/2025arXiv250209480B))  
-
-35. [DETECTION OF A PECULIAR NOISE TYPE IN THE TESS "FAST" LIGHT CURVES](http://adsabs.harvard.edu/abs/2025arXiv250210326K)  
-Kálmán, Sz., Csizmadia, Sz., Pál, A., et al.    
-2025, not refereed ([2025arXiv250210326K](http://adsabs.harvard.edu/abs/2025arXiv250210326K))  
-
-36. [BSN-I: THE FIRST IN-DEPTH PHOTOMETRIC STUDY OF SEVEN TOTAL ECLIPSE CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..207P)  
-Poro, A., Li, K., Paki, E., et al.    
-2025, refereed ([2025MNRAS.tmp..207P](http://adsabs.harvard.edu/abs/2025MNRAS.tmp..207P))  
-
-37. [FLARE FROM THE SECONDARY STAR OF AN EXTREME PERIOD BINARY](http://adsabs.harvard.edu/abs/2025PASJ...77...74S)  
-Shuang, Wang, Raúl, Michel, Huiyu, Yuan, et al.    
-2025, refereed ([2025PASJ...77...74S](http://adsabs.harvard.edu/abs/2025PASJ...77...74S))  
-
-38. [ASYMMETRIES AND CIRCUMSTELLAR INTERACTION IN THE TYPE II SN 2024BCH](http://adsabs.harvard.edu/abs/2025ApJ...980...37A)  
+4. [ASYMMETRIES AND CIRCUMSTELLAR INTERACTION IN THE TYPE II SN 2024BCH](http://adsabs.harvard.edu/abs/2025ApJ...980...37A)  
 Andrews, Jennifer E., Shrestha, Manisha, Bostroem, K. Azalee, et al.    
 2025, refereed ([2025ApJ...980...37A](http://adsabs.harvard.edu/abs/2025ApJ...980...37A))  
 
-39. [THE ORBITAL PARAMETERS OF THE BINARY BLAP HD133729 : ADVANTAGES OF THE FREQUENCY MODULATION METHOD](http://adsabs.harvard.edu/abs/2025arXiv250209444S)  
-Shibahashi, Hiromoto, Kurtz, Donald W., Murphy, Simon J.    
-2025, not refereed ([2025arXiv250209444S](http://adsabs.harvard.edu/abs/2025arXiv250209444S))  
+5. [SURFACE BRIGHTNESS-COLOUR RELATIONS OF DWARF STARS FROM DETACHED ECLIPSING BINARIES: II. EXTENSION OF THE CALIBRATING SAMPLE](http://adsabs.harvard.edu/abs/2025A&A...694A..65G)  
+Graczyk, D., Pietrzyński, G., Galan, C., et al.    
+2025, refereed ([2025A&A...694A..65G](http://adsabs.harvard.edu/abs/2025A&A...694A..65G))  
 
-40. [EBOP MAVEN: A MACHINE LEARNING MODEL FOR PREDICTING ECLIPSING BINARY LIGHT CURVE FITTING PARAMETERS](http://adsabs.harvard.edu/abs/2025arXiv250211758O)  
-Overall, Stephen, Southworth, John    
-2025, not refereed ([2025arXiv250211758O](http://adsabs.harvard.edu/abs/2025arXiv250211758O))  
+6. [A BE STAR THAT TURNED BRIGHT AND BLUE DURING A MAJOR OUTBURST](http://adsabs.harvard.edu/abs/2025A&A...694A.131G)  
+Gao, Qing, Wang, Wei, Baade, Dietrich, et al.    
+2025, refereed ([2025A&A...694A.131G](http://adsabs.harvard.edu/abs/2025A&A...694A.131G))  
 
-41. [FAST-ROTATING A- AND F-TYPE STARS WITH HΑ EMISSIONS IN NGC 3532: CANDIDATE UV-DIM STARS?](http://adsabs.harvard.edu/abs/2025ApJ...979..246H)  
+7. [STELLAR FLARE MORPHOLOGY WITH TESS ACROSS THE MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2025A&A...694A.161S)  
+Seli, B., Vida, K., Oláh, K., et al.    
+2025, refereed ([2025A&A...694A.161S](http://adsabs.harvard.edu/abs/2025A&A...694A.161S))  
+
+8. [ACCURATE AND ROBUST STELLAR ROTATION PERIODS CATALOG FOR 82771 KEPLER STARS USING DEEP LEARNING](http://adsabs.harvard.edu/abs/2025AJ....169...59K)  
+Kamai, Ilay, Perets, Hagai B.    
+2025, refereed ([2025AJ....169...59K](http://adsabs.harvard.edu/abs/2025AJ....169...59K))  
+
+9. [IDENTIFYING HIERARCHICALLY TRIPLE STAR SYSTEMS WITH GAIA DR3 AND LAMOST](http://adsabs.harvard.edu/abs/2025AJ....169...60H)  
+He, Tongyu, Li, Jiao, Li, Jiangdan, et al.    
+2025, refereed ([2025AJ....169...60H](http://adsabs.harvard.edu/abs/2025AJ....169...60H))  
+
+10. [PHOTOMETRIC ANALYSIS OF THE CATACLYSMIC VARIABLE STAR LT ERI](http://adsabs.harvard.edu/abs/2025AJ....169...62S)  
+Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
+2025, refereed ([2025AJ....169...62S](http://adsabs.harvard.edu/abs/2025AJ....169...62S))  
+
+11. [TIME-SERIES SPECTROSCOPY AND TESS PHOTOMETRY OF THE OSCILLATING ECLIPSING ALGOL SYSTEM V389 CASSIOPEIAE](http://adsabs.harvard.edu/abs/2025AJ....169...66R)  
+Rittipruk, Pakakaew, Hong, Kyeongsoo, Lee, Jae Woo, et al.    
+2025, refereed ([2025AJ....169...66R](http://adsabs.harvard.edu/abs/2025AJ....169...66R))  
+
+12. [UNVEILING THE ORIGINS AND DYNAMICS OF THE HIERARCHICAL TRIPLE STAR SYSTEM CN LYN](http://adsabs.harvard.edu/abs/2025AJ....169...71Y)  
+Yücel, Gökhan, Bakış, Volkan, Canbay, Remziye, et al.    
+2025, refereed ([2025AJ....169...71Y](http://adsabs.harvard.edu/abs/2025AJ....169...71Y))  
+
+13. [PHOTOMETRIC AND SPECTROSCOPIC INVESTIGATIONS OF THREE LARGE AMPLITUDE CONTACT BINARIES](http://adsabs.harvard.edu/abs/2025AJ....169...85X)  
+Xu, Xin, Li, Kai, Liu, Fei, et al.    
+2025, refereed ([2025AJ....169...85X](http://adsabs.harvard.edu/abs/2025AJ....169...85X))  
+
+14. [DISCOVERIES AND PROPERTIES OF EL CVN–TYPE BINARIES IN THE TESS SURVEY](http://adsabs.harvard.edu/abs/2025ApJ...979..108X)  
+Xiong, Jianping, Li, Zhenwei, Li, Jiao, et al.    
+2025, refereed ([2025ApJ...979..108X](http://adsabs.harvard.edu/abs/2025ApJ...979..108X))  
+
+15. [FAST-ROTATING A- AND F-TYPE STARS WITH HΑ EMISSIONS IN NGC 3532: CANDIDATE UV-DIM STARS?](http://adsabs.harvard.edu/abs/2025ApJ...979..246H)  
 He, Chenyu, Li, Chengyuan, Li, Gang    
 2025, refereed ([2025ApJ...979..246H](http://adsabs.harvard.edu/abs/2025ApJ...979..246H))  
 
-42. [MAGNETIC FIELDS OR OVERSTABLE CONVECTIVE MODES IN HR 7495: EXPLORING THE UNDERLYING CAUSES OF THE SPIKE IN THE 'HUMP & SPIKE' FEATURES](http://adsabs.harvard.edu/abs/2025arXiv250211879A)  
-Antoci, V., Cantiello, M., Khalack, V., et al.    
-2025, not refereed ([2025arXiv250211879A](http://adsabs.harvard.edu/abs/2025arXiv250211879A))  
+16. [SPORADIC DIPS FROM EXTENDED DEBRIS TRANSITING THE METAL-RICH WHITE DWARF SBSS 1232+563](http://adsabs.harvard.edu/abs/2025ApJ...980...56H)  
+Hermes, J. J., Guidry, Joseph A., Vanderbosch, Zachary P., et al.    
+2025, refereed ([2025ApJ...980...56H](http://adsabs.harvard.edu/abs/2025ApJ...980...56H))  
 
-43. [DISENTANGLING THE STELLAR ATMOSPHERE AND THE FOCUSED WIND IN DIFFERENT ACCRETION STATES OF CYGNUS X-1](http://adsabs.harvard.edu/abs/2025arXiv250207989B)  
-Brigitte, M., Hadrava, P., Kubátová, B., et al.    
-2025, not refereed ([2025arXiv250207989B](http://adsabs.harvard.edu/abs/2025arXiv250207989B))  
+17. [MAGNETIC ACTIVITY OF TESS OBJECTS OBSERVED IN THE LAMOST MEDIUM-RESOLUTION SPECTRAL SURVEY](http://adsabs.harvard.edu/abs/2025ApJS..276...44S)  
+Su, Tianhao, Zhang, Li-yun, Misra, Prabhakar, et al.    
+2025, refereed ([2025ApJS..276...44S](http://adsabs.harvard.edu/abs/2025ApJS..276...44S))  
 
-44. [AN X-RAY VIEW OF THE CATACLYSMIC VARIABLE V902 MON: DISCOVERY OF AN X-RAY ECLIPSE](http://adsabs.harvard.edu/abs/2025arXiv250210501I)  
-Islam, Nazma, Mukai, Koji    
-2025, not refereed ([2025arXiv250210501I](http://adsabs.harvard.edu/abs/2025arXiv250210501I))  
+18. [CLASSIFICATION OF PERIODIC VARIABLE STARS FROM TESS](http://adsabs.harvard.edu/abs/2025ApJS..276...57G)  
+Gao, Xinyi, Chen, Xiaodian, Wang, Shu, et al.    
+2025, refereed ([2025ApJS..276...57G](http://adsabs.harvard.edu/abs/2025ApJS..276...57G))  
 
-45. [CRYOSCOPE: A CRYOGENIC INFRARED SURVEY TELESCOPE](http://adsabs.harvard.edu/abs/2025arXiv250206950K)  
+19. [NGTS-EB-7, AN ECCENTRIC, LONG-PERIOD, LOW-MASS ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2025MNRAS.537...35R)  
+Rodel, Toby, Watson, Christopher A., Ulmer-Moll, Solène, et al.    
+2025, refereed ([2025MNRAS.537...35R](http://adsabs.harvard.edu/abs/2025MNRAS.537...35R))  
+
+20. [TESTING DISC REPROCESSING MODELS FOR AGN OPTICAL VARIABILITY BY COMPARISON OF X-RAY AND OPTICAL POWER SPECTRA OF NGC 4395](http://adsabs.harvard.edu/abs/2025MNRAS.537..293B)  
+Beard, M. W. J., McHardy, I. M., Horne, K., et al.    
+2025, refereed ([2025MNRAS.537..293B](http://adsabs.harvard.edu/abs/2025MNRAS.537..293B))  
+
+21. [SPECTROSCOPIC OBSERVATIONS OF FLARES AND SUPERFLARES ON AU MIC](http://adsabs.harvard.edu/abs/2025MNRAS.537..537O)  
+Odert, P., Leitzinger, M., Greimel, R., et al.    
+2025, refereed ([2025MNRAS.537..537O](http://adsabs.harvard.edu/abs/2025MNRAS.537..537O))  
+
+22. [A SEARCH FOR CLOSE BINARY SYSTEMS IN THE SALT SURVEY OF HYDROGEN-DEFICIENT STARS USING TESS](http://adsabs.harvard.edu/abs/2025MNRAS.537.2079S)  
+Snowdon, E. J., Jeffery, C. S., Schlagenhauf, S., et al.    
+2025, refereed ([2025MNRAS.537.2079S](http://adsabs.harvard.edu/abs/2025MNRAS.537.2079S))  
+
+23. [PHOTOMETRIC STUDY FOR THE SHORT PERIOD CONTACT BINARY V724 AND](http://adsabs.harvard.edu/abs/2025NewA..11502318Z)  
+Zhang, Bin, Gao, Yi-Dan, Zhong, Zhen, et al.    
+2025, refereed ([2025NewA..11502318Z](http://adsabs.harvard.edu/abs/2025NewA..11502318Z))  
+
+24. [TESS AND AAVSO OBSERVATIONS OF THE ECLIPSING Z CAM-TYPE CATACLYSMIC VARIABLE V416 DRA](http://adsabs.harvard.edu/abs/2025NewA..11502319Y)  
+Yang, Hongfei, Han, Zhongtao, Na, Weiwei, et al.    
+2025, refereed ([2025NewA..11502319Y](http://adsabs.harvard.edu/abs/2025NewA..11502319Y))  
+
+25. [A COMPREHENSIVE STUDY ON THE K2-TYPE BINARY V1393 TAU IN FOUR-YEAR OBSERVATIONS](http://adsabs.harvard.edu/abs/2025NewA..11502330Y)  
+Yu, Ligang, Wang, Shaung, Raúl, Michel, et al.    
+2025, refereed ([2025NewA..11502330Y](http://adsabs.harvard.edu/abs/2025NewA..11502330Y))  
+
+26. [FLARE FROM THE SECONDARY STAR OF AN EXTREME PERIOD BINARY](http://adsabs.harvard.edu/abs/2025PASJ...77...74S)  
+Shuang, Wang, Raúl, Michel, Huiyu, Yuan, et al.    
+2025, refereed ([2025PASJ...77...74S](http://adsabs.harvard.edu/abs/2025PASJ...77...74S))  
+
+27. [VARIABILITY OF CENTRAL STARS OF PLANETARY NEBULAE WITH THE ZWICKY TRANSIENT FACILITY. I. METHODS, SHORT-TIMESCALE VARIABLES, AND THE UNUSUAL NUCLEUS OF WESB 1](http://adsabs.harvard.edu/abs/2025PASP..137b4201B)  
+Bhattacharjee, Soumyadeep, Kulkarni, S. R., Kong, Albert K. H., et al.    
+2025, refereed ([2025PASP..137b4201B](http://adsabs.harvard.edu/abs/2025PASP..137b4201B))  
+
+28. [CAN WELL-SAMPLED PHASE CURVES BE USED TO INFER ASTEROID SPECTRAL FEATURES?](http://adsabs.harvard.edu/abs/2025PSJ.....6...40M)  
+Murray, Zachary    
+2025, refereed ([2025PSJ.....6...40M](http://adsabs.harvard.edu/abs/2025PSJ.....6...40M))  
+
+29. [TWO REPEATED QUASI-PERIODIC OSCILLATIONS IN THE FSRQ S5 1044+71 OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2025RAA....25b5004W)  
+Wang, Jun-Jie, Yi, Ting-Feng, Zhang, Yangwei, et al.    
+2025, refereed ([2025RAA....25b5004W](http://adsabs.harvard.edu/abs/2025RAA....25b5004W))  
+
+30. [O'CONNELL EFFECT AND PERIOD VARIATIONS ON SOLAR-LIKE CONTACT BINARY EF BOO](http://adsabs.harvard.edu/abs/2025RAA....25b5006W)  
+Wang, Jing-Jing, Guo, Meng, Tian, Xiao-Man, et al.    
+2025, refereed ([2025RAA....25b5006W](http://adsabs.harvard.edu/abs/2025RAA....25b5006W))  
+
+31. [ANALYSIS OF NEWLY CATALOGUED OPEN STAR CLUSTER UPK~220 WITH GAIA DR3 AND TESS: DISCOVERING MEMBER VARIABLE STARS](http://adsabs.harvard.edu/abs/2025arXiv250203861A)  
+Akkaya Oralhan, İnci, Kayhan, Cenk, Arslan, Özgün    
+2025, not refereed ([2025arXiv250203861A](http://adsabs.harvard.edu/abs/2025arXiv250203861A))  
+
+32. [THE FIRST IN-DEPTH PHOTOMETRIC STUDY OF THE FOUR DELTA SCUTI STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2025arXiv250204854P)  
+Poro, Atila, Azarara, Hossein, Sarostad, Ahmad, et al.    
+2025, not refereed ([2025arXiv250204854P](http://adsabs.harvard.edu/abs/2025arXiv250204854P))  
+
+33. [CRYOSCOPE: A CRYOGENIC INFRARED SURVEY TELESCOPE IN ANTARCTICA](http://adsabs.harvard.edu/abs/2025arXiv250206950K)  
 Kasliwal, Mansi M., Earley, Nicholas, Smith, Roger, et al.    
 2025, not refereed ([2025arXiv250206950K](http://adsabs.harvard.edu/abs/2025arXiv250206950K))  
+
+34. [THE ORBITAL PARAMETERS OF THE BINARY BLAP HD133729 : ADVANTAGES OF THE FREQUENCY MODULATION METHOD](http://adsabs.harvard.edu/abs/2025arXiv250209444S)  
+Shibahashi, Hiromoto, Kurtz, Donald W., Murphy, Simon J.    
+2025, not refereed ([2025arXiv250209444S](http://adsabs.harvard.edu/abs/2025arXiv250209444S))  
+
+35. [DETECTION OF A PECULIAR NOISE TYPE IN THE TESS "FAST" LIGHT CURVES](http://adsabs.harvard.edu/abs/2025RNAAS...9...33K)  
+Kálmán, Szilárd, Csizmadia, Szilárd, Pál, András, et al.    
+2025, not refereed ([2025RNAAS...9...33K](http://adsabs.harvard.edu/abs/2025RNAAS...9...33K))  
 
 
 2025-01
 -------
 
-1. [DISCOVERY OF 226 <MML:MATH ALTIMG="SI50.SVG" DISPLAY="INLINE" ID="D1E6843"><MML:MI>Δ</MML:MI></MML:MATH> SCUTI AND <MML:MATH ALTIMG="SI381.SVG" DISPLAY="INLINE" ID="D1E6848"><MML:MI>Γ</MML:MI></MML:MATH> DORADUS STARS NEAR NGC 6871 WITH TESS](http://adsabs.harvard.edu/abs/2025NewA..11402297Z)  
-Zhou, Ai-Ying    
-2025, refereed ([2025NewA..11402297Z](http://adsabs.harvard.edu/abs/2025NewA..11402297Z))  
+1. [DETECTABILITY OF SELF-LENSING FLARES OF WHITE DWARFS WITH COMPACT COMPANIONS](http://adsabs.harvard.edu/abs/2025ApJ...978..169N)  
+Nir, Guy, Bloom, Joshua S.    
+2025, refereed ([2025ApJ...978..169N](http://adsabs.harvard.edu/abs/2025ApJ...978..169N))  
 
-2. [SIMULATING GRAVITATIONAL MICROLENSING EVENTS BY TESS: PREDICTIONS ON STATISTICS AND PROPERTIES](http://adsabs.harvard.edu/abs/2025AJ....169...34S)  
-Sajadian, Sedighe, Kalantari, Atousa, Fatheddin, Hossein, et al.    
-2025, refereed ([2025AJ....169...34S](http://adsabs.harvard.edu/abs/2025AJ....169...34S))  
-
-3. [THE SOLAR NEIGHBORHOOD. LII. M DWARF TWIN BINARIES—PRESUMED IDENTICAL TWINS APPEAR FRATERNAL IN VARIABILITY, ROTATION, HΑ, AND X-RAYS](http://adsabs.harvard.edu/abs/2025AJ....169...41C)  
-Couperus, Andrew A., Henry, Todd J., Osten, Rachel A., et al.    
-2025, refereed ([2025AJ....169...41C](http://adsabs.harvard.edu/abs/2025AJ....169...41C))  
-
-4. [A CATALOGUE OF BINARY STARS FROM PHASE MODULATION IN THE FIRST FOUR YEARS OF TESS MISSION PHOTOMETRY](http://adsabs.harvard.edu/abs/2025MNRAS.536.2313D)  
-Dholakia, Shishir, Murphy, Simon J., Huang, Chelsea X., et al.    
-2025, refereed ([2025MNRAS.536.2313D](http://adsabs.harvard.edu/abs/2025MNRAS.536.2313D))  
-
-5. [THE ROTATION PROPERTIES OF Δ SCT AND Γ DOR STARS](http://adsabs.harvard.edu/abs/2025ApJ...978...53W)  
-Wang, Jiyu, Chen, Xiaodian, Deng, Licai, et al.    
-2025, refereed ([2025ApJ...978...53W](http://adsabs.harvard.edu/abs/2025ApJ...978...53W))  
-
-6. [EXPLORING THE CONVECTIVE CORE OF THE HIGH-AMPLITUDE Δ SCUTI STAR TIC 120857354 WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2025MNRAS.536.1778C)  
-Chen, Xinghao, Zhang, Xiaobin, Li, Yan    
-2025, refereed ([2025MNRAS.536.1778C](http://adsabs.harvard.edu/abs/2025MNRAS.536.1778C))  
-
-7. [HD 60435: THE STAR THAT STOPPED PULSATING](http://adsabs.harvard.edu/abs/2025MNRAS.536.2103K)  
-Kurtz, Donald W., Handler, Gerald, Holdsworth, Daniel L., et al.    
-2025, refereed ([2025MNRAS.536.2103K](http://adsabs.harvard.edu/abs/2025MNRAS.536.2103K))  
-
-8. [RISING NEAR-ULTRAVIOLET SPECTRA IN STELLAR MEGAFLARES](http://adsabs.harvard.edu/abs/2025ApJ...978...81K)  
-Kowalski, Adam F., Osten, Rachel A., Notsu, Yuta, et al.    
-2025, refereed ([2025ApJ...978...81K](http://adsabs.harvard.edu/abs/2025ApJ...978...81K))  
-
-9. [IDENTIFYING TELESCOPE USAGE IN ASTROPHYSICS PUBLICATIONS: A MACHINE LEARNING FRAMEWORK FOR INSTITUTIONAL RESEARCH MANAGEMENT AT OBSERVATORIES](http://adsabs.harvard.edu/abs/2025AJ....169...42A)  
-Amado Olivo, Vicente, Kerzendorf, Wolfgang, Cherinka, Brian, et al.    
-2025, refereed ([2025AJ....169...42A](http://adsabs.harvard.edu/abs/2025AJ....169...42A))  
-
-10. [ASTEROSEISMIC MASSES OF RED GIANTS IN THE GALACTIC GLOBULAR CLUSTERS M9 AND M19](http://adsabs.harvard.edu/abs/2025MNRAS.536.1389H)  
-Howell, Madeline, Campbell, Simon W., Kalup, Csilla, et al.    
-2025, refereed ([2025MNRAS.536.1389H](http://adsabs.harvard.edu/abs/2025MNRAS.536.1389H))  
-
-11. [THE TOTAL MASS OF THE CLOSE, DOUBLE DEGENERATE (DA+DQ) SYSTEM NLTT 16249](http://adsabs.harvard.edu/abs/2025MNRAS.536.1180V)  
-Vennes, Stéphane, Kawka, Adela    
-2025, refereed ([2025MNRAS.536.1180V](http://adsabs.harvard.edu/abs/2025MNRAS.536.1180V))  
-
-12. [CATACLYSMIC VARIABLES FROM SLOAN DIGITAL SKY SURVEY - V (2020-2023) IDENTIFIED USING MACHINE LEARNING](http://adsabs.harvard.edu/abs/2025MNRAS.536.1057I)  
+2. [CATACLYSMIC VARIABLES FROM SLOAN DIGITAL SKY SURVEY - V (2020-2023) IDENTIFIED USING MACHINE LEARNING](http://adsabs.harvard.edu/abs/2025MNRAS.536.1057I)  
 Inight, Keith, Gänsicke, Boris T., Schwope, Axel, et al.    
 2025, refereed ([2025MNRAS.536.1057I](http://adsabs.harvard.edu/abs/2025MNRAS.536.1057I))  
 
-13. [SHORT-PERIOD HEARTBEAT BINARIES FROM TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2025ApJS..276...17S)  
+3. [A CATALOGUE OF BINARY STARS FROM PHASE MODULATION IN THE FIRST FOUR YEARS OF TESS MISSION PHOTOMETRY](http://adsabs.harvard.edu/abs/2025MNRAS.536.2313D)  
+Dholakia, Shishir, Murphy, Simon J., Huang, Chelsea X., et al.    
+2025, refereed ([2025MNRAS.536.2313D](http://adsabs.harvard.edu/abs/2025MNRAS.536.2313D))  
+
+4. [SIMULATING GRAVITATIONAL MICROLENSING EVENTS BY TESS: PREDICTIONS ON STATISTICS AND PROPERTIES](http://adsabs.harvard.edu/abs/2025AJ....169...34S)  
+Sajadian, Sedighe, Kalantari, Atousa, Fatheddin, Hossein, et al.    
+2025, refereed ([2025AJ....169...34S](http://adsabs.harvard.edu/abs/2025AJ....169...34S))  
+
+5. [THE SOLAR NEIGHBORHOOD. LII. M DWARF TWIN BINARIES—PRESUMED IDENTICAL TWINS APPEAR FRATERNAL IN VARIABILITY, ROTATION, HΑ, AND X-RAYS](http://adsabs.harvard.edu/abs/2025AJ....169...41C)  
+Couperus, Andrew A., Henry, Todd J., Osten, Rachel A., et al.    
+2025, refereed ([2025AJ....169...41C](http://adsabs.harvard.edu/abs/2025AJ....169...41C))  
+
+6. [IDENTIFYING TELESCOPE USAGE IN ASTROPHYSICS PUBLICATIONS: A MACHINE LEARNING FRAMEWORK FOR INSTITUTIONAL RESEARCH MANAGEMENT AT OBSERVATORIES](http://adsabs.harvard.edu/abs/2025AJ....169...42A)  
+Amado Olivo, Vicente, Kerzendorf, Wolfgang, Cherinka, Brian, et al.    
+2025, refereed ([2025AJ....169...42A](http://adsabs.harvard.edu/abs/2025AJ....169...42A))  
+
+7. [RISING NEAR-ULTRAVIOLET SPECTRA IN STELLAR MEGAFLARES](http://adsabs.harvard.edu/abs/2025ApJ...978...81K)  
+Kowalski, Adam F., Osten, Rachel A., Notsu, Yuta, et al.    
+2025, refereed ([2025ApJ...978...81K](http://adsabs.harvard.edu/abs/2025ApJ...978...81K))  
+
+8. [HIGH-TIME-CADENCE SPECTROSCOPY AND PHOTOMETRY OF STELLAR FLARES ON M DWARF YZ CANIS MINORIS WITH THE SEIMEI TELESCOPE AND TESS. I. DISCOVERY OF RAPID AND SHORT-DURATION PROMINENCE ERUPTIONS](http://adsabs.harvard.edu/abs/2025ApJ...979...93K)  
+Kajikiya, Yuto, Namekata, Kosuke, Notsu, Yuta, et al.    
+2025, refereed ([2025ApJ...979...93K](http://adsabs.harvard.edu/abs/2025ApJ...979...93K))  
+
+9. [THE ROTATION PROPERTIES OF Δ SCT AND Γ DOR STARS](http://adsabs.harvard.edu/abs/2025ApJ...978...53W)  
+Wang, Jiyu, Chen, Xiaodian, Deng, Licai, et al.    
+2025, refereed ([2025ApJ...978...53W](http://adsabs.harvard.edu/abs/2025ApJ...978...53W))  
+
+10. [AN EXTREME STELLAR PROMINENCE ERUPTION OBSERVED BY LAMOST TIME-DOMAIN SPECTROSCOPY](http://adsabs.harvard.edu/abs/2025ApJ...978L..32L)  
+Lu, Hong-Peng, Tian, Hui, Zhang, Li-Yun, et al.    
+2025, refereed ([2025ApJ...978L..32L](http://adsabs.harvard.edu/abs/2025ApJ...978L..32L))  
+
+11. [DISTINGUISHING SUPER-NYQUIST FREQUENCIES VIA THEIR TEMPORAL VARIATION IN Γ DORADUS STARS FROM CONTINUOUS PHOTOMETRY](http://adsabs.harvard.edu/abs/2025A&A...693A..63W)  
+Wang, Xuan, Zong, Weikai, Ma, Xiao-Yu, et al.    
+2025, refereed ([2025A&A...693A..63W](http://adsabs.harvard.edu/abs/2025A&A...693A..63W))  
+
+12. [SHORT-PERIOD HEARTBEAT BINARIES FROM TESS FULL-FRAME IMAGES](http://adsabs.harvard.edu/abs/2025ApJS..276...17S)  
 Solanki, Siddhant, Cieplak, Agnieszka M., Schnittman, Jeremy, et al.    
 2025, refereed ([2025ApJS..276...17S](http://adsabs.harvard.edu/abs/2025ApJS..276...17S))  
 
-14. [TIDAL SYNCHRONIZATION OF TESS ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025arXiv250104082H)  
-Hobson-Ritz, Marshall, Birky, Jessica, Peterson, Leah, et al.    
-2025, not refereed ([2025arXiv250104082H](http://adsabs.harvard.edu/abs/2025arXiv250104082H))  
+13. [THE TOTAL MASS OF THE CLOSE, DOUBLE DEGENERATE (DA+DQ) SYSTEM NLTT 16249](http://adsabs.harvard.edu/abs/2025MNRAS.536.1180V)  
+Vennes, Stéphane, Kawka, Adela    
+2025, refereed ([2025MNRAS.536.1180V](http://adsabs.harvard.edu/abs/2025MNRAS.536.1180V))  
 
-15. [ECLIPSING BINARY SYSTEMS WITH $\BETA$ CEPHEI COMPONENTS. V1216 SCO](http://adsabs.harvard.edu/abs/2025arXiv250103770M)  
-Miszuda, A., Eze, C. I., Kahraman Alicavus, F., et al.    
-2025, not refereed ([2025arXiv250103770M](http://adsabs.harvard.edu/abs/2025arXiv250103770M))  
+14. [ASTEROSEISMIC MASSES OF RED GIANTS IN THE GALACTIC GLOBULAR CLUSTERS M9 AND M19](http://adsabs.harvard.edu/abs/2025MNRAS.536.1389H)  
+Howell, Madeline, Campbell, Simon W., Kalup, Csilla, et al.    
+2025, refereed ([2025MNRAS.536.1389H](http://adsabs.harvard.edu/abs/2025MNRAS.536.1389H))  
 
-16. [TESTING DISC REPROCESSING MODELS FOR AGN OPTICAL VARIABILITY BY COMPARISON OF X-RAY AND OPTICAL POWER SPECTRA OF NGC 4395](http://adsabs.harvard.edu/abs/2025arXiv250102664B)  
-Beard, Max, McHardy, Ian, Horne, Keith, et al.    
-2025, not refereed ([2025arXiv250102664B](http://adsabs.harvard.edu/abs/2025arXiv250102664B))  
+15. [EXPLORING THE CONVECTIVE CORE OF THE HIGH-AMPLITUDE Δ SCUTI STAR TIC 120857354 WITH ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2025MNRAS.536.1778C)  
+Chen, Xinghao, Zhang, Xiaobin, Li, Yan    
+2025, refereed ([2025MNRAS.536.1778C](http://adsabs.harvard.edu/abs/2025MNRAS.536.1778C))  
+
+16. [HD 60435: THE STAR THAT STOPPED PULSATING](http://adsabs.harvard.edu/abs/2025MNRAS.536.2103K)  
+Kurtz, Donald W., Handler, Gerald, Holdsworth, Daniel L., et al.    
+2025, refereed ([2025MNRAS.536.2103K](http://adsabs.harvard.edu/abs/2025MNRAS.536.2103K))  
 
 17. [ACCRETION ONTO WD 2226-210, THE CENTRAL STAR OF THE HELIX NEBULA](http://adsabs.harvard.edu/abs/2025MNRAS.536.2477E)  
 Estrada-Dorado, S., Guerrero, M. A., Toalá, J. A., et al.    
 2025, refereed ([2025MNRAS.536.2477E](http://adsabs.harvard.edu/abs/2025MNRAS.536.2477E))  
 
+18. [DISCOVERY OF 226 <MML:MATH ALTIMG="SI50.SVG" DISPLAY="INLINE" ID="D1E6843"><MML:MI>Δ</MML:MI></MML:MATH> SCUTI AND <MML:MATH ALTIMG="SI381.SVG" DISPLAY="INLINE" ID="D1E6848"><MML:MI>Γ</MML:MI></MML:MATH> DORADUS STARS NEAR NGC 6871 WITH TESS](http://adsabs.harvard.edu/abs/2025NewA..11402297Z)  
+Zhou, Ai-Ying    
+2025, refereed ([2025NewA..11402297Z](http://adsabs.harvard.edu/abs/2025NewA..11402297Z))  
+
+19. [ECLIPSING BINARY SYSTEMS WITH $\BETA$ CEPHEI COMPONENTS. V1216 SCO](http://adsabs.harvard.edu/abs/2025arXiv250103770M)  
+Miszuda, A., Eze, C. I., Kahraman Alicavus, F., et al.    
+2025, not refereed ([2025arXiv250103770M](http://adsabs.harvard.edu/abs/2025arXiv250103770M))  
+
+20. [TIDAL SYNCHRONIZATION OF TESS ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2025arXiv250104082H)  
+Hobson-Ritz, Marshall, Birky, Jessica, Peterson, Leah, et al.    
+2025, not refereed ([2025arXiv250104082H](http://adsabs.harvard.edu/abs/2025arXiv250104082H))  
+
+21. [DISC–STAR ALIGNMENT I: PRE-MAIN-SEQUENCE STELLAR PARAMETERS AND THE STATISTICAL ALIGNMENT BETWEEN DISCS AND STELLAR ROTATION](http://adsabs.harvard.edu/abs/2025RASTI...4....9F)  
+Fields, Matthew J, Mann, Andrew W, Kesseli, Aurora, et al.    
+2025, refereed ([2025RASTI...4....9F](http://adsabs.harvard.edu/abs/2025RASTI...4....9F))  
+
 
 2024-12
 -------
 
-1. [SCALABLE, ADVANCED MACHINE LEARNING BASED APPROACHES FOR STELLAR FLARE IDENTIFICATION: APPLICATION TO TESS SHORT-CADENCE DATA AND ANALYSIS OF A NEW FLARE CATALOG](http://adsabs.harvard.edu/abs/2024AJ....168..234L)  
-Lin, Chia-Lung, Apai, Dániel, Giampapa, Mark S., et al.    
-2024, refereed ([2024AJ....168..234L](http://adsabs.harvard.edu/abs/2024AJ....168..234L))  
+1. [ASTEROSEISMIC MODELLING OF FAST ROTATORS AND ITS OPPORTUNITIES FOR ASTROPHYSICS](http://adsabs.harvard.edu/abs/2024A&A...692R...1A)  
+Aerts, Conny, Tkachenko, Andrew    
+2024, refereed ([2024A&A...692R...1A](http://adsabs.harvard.edu/abs/2024A&A...692R...1A))  
 
 2. [SEARCHING FOR STELLAR ACTIVITY CYCLES USING FLARES: THE SHORT- AND LONG-TIMESCALE ACTIVITY VARIATIONS OF TIC-272272592](http://adsabs.harvard.edu/abs/2024AJ....168..232W)  
 Wainer, Tobin M., Davenport, James R. A., Tovar Mendoza, Guadalupe, et al.    
 2024, refereed ([2024AJ....168..232W](http://adsabs.harvard.edu/abs/2024AJ....168..232W))  
 
-3. [DISCOVERY OF A BOW-SHOCK NEBULA AROUND THE Z CAM-TYPE CATACLYSMIC VARIABLE SY CANCRI](http://adsabs.harvard.edu/abs/2024AJ....168..249B)  
+3. [SCALABLE, ADVANCED MACHINE LEARNING BASED APPROACHES FOR STELLAR FLARE IDENTIFICATION: APPLICATION TO TESS SHORT-CADENCE DATA AND ANALYSIS OF A NEW FLARE CATALOG](http://adsabs.harvard.edu/abs/2024AJ....168..234L)  
+Lin, Chia-Lung, Apai, Dániel, Giampapa, Mark S., et al.    
+2024, refereed ([2024AJ....168..234L](http://adsabs.harvard.edu/abs/2024AJ....168..234L))  
+
+4. [DISCOVERY OF A BOW-SHOCK NEBULA AROUND THE Z CAM-TYPE CATACLYSMIC VARIABLE SY CANCRI](http://adsabs.harvard.edu/abs/2024AJ....168..249B)  
 Bond, Howard E., Carter, Calvin, Elmore, David F., et al.    
 2024, refereed ([2024AJ....168..249B](http://adsabs.harvard.edu/abs/2024AJ....168..249B))  
+
+5. [REVISED TEMPERATURES FOR TWO BENCHMARK M-DWARFS - OUTLIERS NO MORE](http://adsabs.harvard.edu/abs/2024MNRAS.535.3343M)  
+Martin, David V., Armitage, Tayt, Duck, Alison, et al.    
+2024, refereed ([2024MNRAS.535.3343M](http://adsabs.harvard.edu/abs/2024MNRAS.535.3343M))  
+
+6. [HD 34736: AN INTENSELY MAGNETISED DOUBLE-LINED SPECTROSCOPIC BINARY WITH RAPIDLY ROTATING CHEMICALLY PECULIAR B-TYPE COMPONENTS](http://adsabs.harvard.edu/abs/2024MNRAS.535.2812S)  
+Semenko, E., Kochukhov, O., Mikulášek, Z., et al.    
+2024, refereed ([2024MNRAS.535.2812S](http://adsabs.harvard.edu/abs/2024MNRAS.535.2812S))  
+
+7. [CHARACTERIZING HIGH AND LOW ACCRETION STATES IN VY SCL CVS USING ZTF AND TESS DATA](http://adsabs.harvard.edu/abs/2024MNRAS.535.3035D)  
+Duffy, C., Wu, Kinwah, Ramsay, G., et al.    
+2024, refereed ([2024MNRAS.535.3035D](http://adsabs.harvard.edu/abs/2024MNRAS.535.3035D))  
+
+8. [SIMULTANEOUS SPECTROSCOPIC AND TESS OBSERVATIONS OF THE SHORT-PERIOD ALGOL-TYPE SYSTEM: U CORONAE BOREALIS](http://adsabs.harvard.edu/abs/2024PASJ...76.1181N)  
+Narusawa, Shin-ya, Nagai, Kazuo, Maeno, Syota, et al.    
+2024, refereed ([2024PASJ...76.1181N](http://adsabs.harvard.edu/abs/2024PASJ...76.1181N))  
+
+9. [CONSIDERING THE INCIDENCE RATE OF RR LYRAE STARS WITH NON-RADIAL MODES](http://adsabs.harvard.edu/abs/2024A&A...692A.133N)  
+Netzel, H., Varga, V., Szabó, R., et al.    
+2024, refereed ([2024A&A...692A.133N](http://adsabs.harvard.edu/abs/2024A&A...692A.133N))  
+
+10. [CONFIRMING THE TIDAL TAILS OF THE YOUNG OPEN CLUSTER BLANCO 1 WITH TESS ROTATION PERIODS](http://adsabs.harvard.edu/abs/2024ApJ...977..103S)  
+Sha, Lizhou, Vanderburg, Andrew M., Bouma, Luke G., et al.    
+2024, refereed ([2024ApJ...977..103S](http://adsabs.harvard.edu/abs/2024ApJ...977..103S))  
+
+11. [SIMULATING SELF-LENSING AND ECLIPSING SIGNALS DUE TO DETACHED COMPACT OBJECTS IN THE TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2024AJ....168..298S)  
+Sajadian, Sedighe, Afshordi, Niayesh    
+2024, refereed ([2024AJ....168..298S](http://adsabs.harvard.edu/abs/2024AJ....168..298S))  
+
+12. [MULTIWAVELENGTH CAMPAIGN OBSERVATIONS OF A YOUNG SOLAR-TYPE STAR, EK DRACONIS. II. UNDERSTANDING PROMINENCE ERUPTION THROUGH DATA-DRIVEN MODELING AND OBSERVED MAGNETIC ENVIRONMENT](http://adsabs.harvard.edu/abs/2024ApJ...976..255N)  
+Namekata, Kosuke, Ikuta, Kai, Petit, Pascal, et al.    
+2024, refereed ([2024ApJ...976..255N](http://adsabs.harvard.edu/abs/2024ApJ...976..255N))  
+
+13. [SEARCHING FOR THE MHZ VARIABILITY IN THE TESS OBSERVATIONS OF NOVA-LIKE CATACLYSMIC VARIABLES](http://adsabs.harvard.edu/abs/2024A&A...692A..27D)  
+Dobrotka, A., Magdolen, J., Janíková, D.    
+2024, refereed ([2024A&A...692A..27D](http://adsabs.harvard.edu/abs/2024A&A...692A..27D))  
+
+14. [PHOTOMETRIC DETECTION OF INTERNAL GRAVITY WAVES IN UPPER MAIN-SEQUENCE STARS: IV. COMPARABLE STOCHASTIC LOW-FREQUENCY VARIABILITY IN SMC, LMC, AND GALACTIC MASSIVE STARS](http://adsabs.harvard.edu/abs/2024A&A...692A..49B)  
+Bowman, Dominic M., Van Daele, Pieterjan, Michielsen, Mathias, et al.    
+2024, refereed ([2024A&A...692A..49B](http://adsabs.harvard.edu/abs/2024A&A...692A..49B))  
+
+15. [A SEARCH FOR SELF-LENSING BINARIES WITH TESS AND CONSTRAINTS ON THEIR OCCURRENCE RATE](http://adsabs.harvard.edu/abs/2024PASP..136l4202Y)  
+Yamaguchi, Natsuko, El-Badry, Kareem, Sorabella, Nicholas M.    
+2024, refereed ([2024PASP..136l4202Y](http://adsabs.harvard.edu/abs/2024PASP..136l4202Y))  
+
+16. [A PHOTOMETRIC AND SPECTROSCOPIC STUDY OF EIGHT SEMI-DETACHED ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024A&A...692A.168L)  
+Lei, Yajuan, Zhou, Guiping, Wang, Liang, et al.    
+2024, refereed ([2024A&A...692A.168L](http://adsabs.harvard.edu/abs/2024A&A...692A.168L))  
+
+17. [SOLVING THE MYSTERY OF EXTREME LIGHT VARIABILITY IN THE MASSIVE ECCENTRIC SYSTEM MACHO 80.7443.1718](http://adsabs.harvard.edu/abs/2024BSRSL..93...50K)  
+Kołaczek-Szymański, P. A., Piotr Łojko, A. P., Różański, T., et al.    
+2024, refereed ([2024BSRSL..93...50K](http://adsabs.harvard.edu/abs/2024BSRSL..93...50K))  
+
+18. [CARMENES INPUT CATALOGUE OF M DWARFS: VIII. KINEMATICS IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2024A&A...692A.206C)  
+Cortés-Contreras, M., Caballero, J. A., Montes, D., et al.    
+2024, refereed ([2024A&A...692A.206C](http://adsabs.harvard.edu/abs/2024A&A...692A.206C))  
+
+19. [A MASSIVE WHITE DWARF OR LOW-MASS NEUTRON STAR DISCOVERED BY LAMOST](http://adsabs.harvard.edu/abs/2024ApJ...977..245Z)  
+Zhao, Xinlin, Wang, Song, Wang, Pengfei, et al.    
+2024, refereed ([2024ApJ...977..245Z](http://adsabs.harvard.edu/abs/2024ApJ...977..245Z))  
+
+20. [STRONG MAGNETIC FIELDS OF OLD WHITE DWARFS ARE SYMMETRIC ABOUT THE STELLAR ROTATION AXES](http://adsabs.harvard.edu/abs/2024A&A...692A.174B)  
+Bagnulo, S., Landstreet, J. D.    
+2024, refereed ([2024A&A...692A.174B](http://adsabs.harvard.edu/abs/2024A&A...692A.174B))  
+
+21. [DETECTION OF THE LOWEST MASS RATIO CONTACT BINARY IN THE UNIVERSE: TYC 3801-1529-1](http://adsabs.harvard.edu/abs/2024A&A...692L...4L)  
+Li, Kai, Gao, Xiang, Guo, Di-Fu, et al.    
+2024, refereed ([2024A&A...692L...4L](http://adsabs.harvard.edu/abs/2024A&A...692L...4L))  
 
 
 2024-11
 -------
 
-1. [POSSIBLE ANTICORRELATIONS BETWEEN PULSATION AMPLITUDES AND THE DISC GROWTH OF BE STARS IN GIANT-OUTBURSTING BE X-RAY BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.534.2168N)  
-Niwano, Masafumi, Fausnaugh, Michael M., Lau, Ryan M., et al.    
-2024, refereed ([2024MNRAS.534.2168N](http://adsabs.harvard.edu/abs/2024MNRAS.534.2168N))  
-
-2. [BENCHMARKING THE SPECTROSCOPIC MASSES OF 249 EVOLVED STARS USING ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2024MNRAS.534.1775M)  
-Malla, Sai Prathyusha, Stello, Dennis, Montet, Benjamin T., et al.    
-2024, refereed ([2024MNRAS.534.1775M](http://adsabs.harvard.edu/abs/2024MNRAS.534.1775M))  
-
-3. [THE Δ SCUTI STARS OF THE CEP-HER COMPLEX - I. PULSATOR FRACTION, ROTATION, ASTEROSEISMIC LARGE SPACINGS, AND THE Ν<SUB>MAX</SUB> RELATION](http://adsabs.harvard.edu/abs/2024MNRAS.534.3022M)  
-Murphy, Simon J., Bedding, Timothy R., Gautam, Anuj, et al.    
-2024, refereed ([2024MNRAS.534.3022M](http://adsabs.harvard.edu/abs/2024MNRAS.534.3022M))  
-
-4. [ON THE NATURE OF THE ECCENTRIC ECLIPSING BINARY STAR SY PHE WITH A PULSATING Γ DOR COMPONENT](http://adsabs.harvard.edu/abs/2024MNRAS.535..406E)  
-Erdem, Ahmet, Sürgit, Derya, Engelbrecht, Chris A., et al.    
-2024, refereed ([2024MNRAS.535..406E](http://adsabs.harvard.edu/abs/2024MNRAS.535..406E))  
-
-5. [DETECTION OF HIGH-FREQUENCY PULSATION IN WR 135: INVESTIGATION OF STELLAR WIND DYNAMICS](http://adsabs.harvard.edu/abs/2024AJ....168..199K)  
-Kar, Subhajit, Das, Ramkrishna, Mathew, Blesson, et al.    
-2024, refereed ([2024AJ....168..199K](http://adsabs.harvard.edu/abs/2024AJ....168..199K))  
-
-6. [A STUDY OF STOCHASTIC LOW-FREQUENCY VARIABILITY FOR GALACTIC O-TYPE STARS](http://adsabs.harvard.edu/abs/2024ApJS..275....2S)  
-Shen, Dong-Xiang, Zhu, Chun-Hua, Lü, Guo-Liang, et al.    
-2024, refereed ([2024ApJS..275....2S](http://adsabs.harvard.edu/abs/2024ApJS..275....2S))  
-
-7. [TIC 435850195: THE SECOND TRIAXIAL TIDALLY TILTED PULSATOR](http://adsabs.harvard.edu/abs/2024ApJ...975..121J)  
-Jayaraman, Rahul, Rappaport, Saul A., Powell, Brian, et al.    
-2024, refereed ([2024ApJ...975..121J](http://adsabs.harvard.edu/abs/2024ApJ...975..121J))  
-
-8. [SUPER-SLOWLY ROTATING AP (SSRAP) STARS: SPECTROSCOPIC STUDY](http://adsabs.harvard.edu/abs/2024A&A...691A.186M)  
-Mathys, G., Holdsworth, D. L., Giarrusso, M., et al.    
-2024, refereed ([2024A&A...691A.186M](http://adsabs.harvard.edu/abs/2024A&A...691A.186M))  
-
-9. [COMPARATIVE STUDY OF THE W UMA TYPE BINARIES S ANT AND Ε CRA](http://adsabs.harvard.edu/abs/2024PASA...41...83B)  
-Bakış, Volkan, Budding, Edwin, Erdem, Ahmet, et al.    
-2024, refereed ([2024PASA...41...83B](http://adsabs.harvard.edu/abs/2024PASA...41...83B))  
-
-10. [A COMPREHENSIVE STUDY OF FIVE CANDIDATE Δ SCUTI-TYPE PULSATORS IN DETACHED ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024A&A...691A.101P)  
+1. [A COMPREHENSIVE STUDY OF FIVE CANDIDATE Δ SCUTI-TYPE PULSATORS IN DETACHED ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024A&A...691A.101P)  
 Pawar, T., Hełminiak, K. G., Moharana, A., et al.    
 2024, refereed ([2024A&A...691A.101P](http://adsabs.harvard.edu/abs/2024A&A...691A.101P))  
 
-11. [ESTIMATES OF (CONVECTIVE CORE) MASSES, RADII, AND RELATIVE AGES FOR ∼14 000 GAIA-DISCOVERED GRAVITY-MODE PULSATORS MONITORED BY TESS](http://adsabs.harvard.edu/abs/2024A&A...691A.131M)  
-Mombarg, Joey S. G., Aerts, Conny, Van Reeth, Timothy, et al.    
-2024, refereed ([2024A&A...691A.131M](http://adsabs.harvard.edu/abs/2024A&A...691A.131M))  
-
-12. [THE PERSISTENT BE ENIGMA: THE CASE OF HD 212044](http://adsabs.harvard.edu/abs/2024A&A...691L...4P)  
-Pereira, Alan W., Janot-Pacheco, Eduardo, Andrade, Laerte, et al.    
-2024, refereed ([2024A&A...691L...4P](http://adsabs.harvard.edu/abs/2024A&A...691L...4P))  
-
-13. [DISCOVERY OF THREE MAGNETIC HELIUM-RICH HOT SUBDWARFS WITH SALT](http://adsabs.harvard.edu/abs/2024A&A...691A.165D)  
-Dorsch, M., Jeffery, C. S., Philip Monai, A., et al.    
-2024, refereed ([2024A&A...691A.165D](http://adsabs.harvard.edu/abs/2024A&A...691A.165D))  
-
-14. [SPECTROSCOPIC AND PHOTOMETRIC INVESTIGATIONS OF THE TOTALLY ECLIPSING CONTACT BINARY V1320 CAS](http://adsabs.harvard.edu/abs/2024NewA..11202254L)  
-Liu, Jian-Fei, Li, Kai, Chen, Xu, et al.    
-2024, refereed ([2024NewA..11202254L](http://adsabs.harvard.edu/abs/2024NewA..11202254L))  
-
-15. [CZ AQR: AN OSCILLATING ECLIPSING ALGOL-TYPE SYSTEM COMPOSED OF A Δ SCT PRIMARY STAR AND A SUBGIANT STAR IN A QUADRUPLE SYSTEM](http://adsabs.harvard.edu/abs/2024ApJ...975..249Z)  
-Zeng, Qi-Huan, Liao, Wen-Ping, Qian, Sheng-Bang, et al.    
-2024, refereed ([2024ApJ...975..249Z](http://adsabs.harvard.edu/abs/2024ApJ...975..249Z))  
-
-16. [WIYN OPEN CLUSTER STUDY. XC. RADIAL-VELOCITY MEASUREMENTS AND SPECTROSCOPIC BINARY ORBITS IN THE OPEN CLUSTER NGC 2506](http://adsabs.harvard.edu/abs/2024AJ....168..205L)  
-Linck, Evan, Mathieu, Robert D., Latham, David W.    
-2024, refereed ([2024AJ....168..205L](http://adsabs.harvard.edu/abs/2024AJ....168..205L))  
-
-17. [QUADRATIC FREQUENCY DISPERSION IN THE OSCILLATIONS OF INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2024ApJ...975L..12P)  
-Panda, Subrata Kumar, Hanasoge, Shravan, Dhanpal, Siddharth, et al.    
-2024, refereed ([2024ApJ...975L..12P](http://adsabs.harvard.edu/abs/2024ApJ...975L..12P))  
-
-18. [ASTEROSEISMOLOGY OF THE NEARBY K DWARF Σ DRACONIS USING THE KECK PLANET FINDER AND TESS](http://adsabs.harvard.edu/abs/2024ApJ...975..147H)  
-Hon, Marc, Huber, Daniel, Li, Yaguang, et al.    
-2024, refereed ([2024ApJ...975..147H](http://adsabs.harvard.edu/abs/2024ApJ...975..147H))  
-
-19. [HIGH-RESOLUTION SPECTROSCOPY OF DETACHED ECLIPSING BINARIES DURING TOTAL ECLIPSES](http://adsabs.harvard.edu/abs/2024A&A...691A.170H)  
-Hełminiak, K. G., Olszewska, J. M., Puciata-Mroczynska, M., et al.    
-2024, refereed ([2024A&A...691A.170H](http://adsabs.harvard.edu/abs/2024A&A...691A.170H))  
-
-20. [ASTEROSEISMOLOGY OF TRIPLE-MODE RADIAL Δ SCUTI STAR: TIC 400562821](http://adsabs.harvard.edu/abs/2024ApJ...976....2S)  
-Sun, Xiao-Ya, Zuo, Zhao-Yu, Yang, Tao-Zhi, et al.    
-2024, refereed ([2024ApJ...976....2S](http://adsabs.harvard.edu/abs/2024ApJ...976....2S))  
-
-21. [FIRST PHOTOMETRIC STUDY OF W UMA-TYPE BINARY SYSTEMS: BK VUL AND V699 CEP](http://adsabs.harvard.edu/abs/2024NewA..11202270A)  
-Adalalı, S., Soydugan, E.    
-2024, refereed ([2024NewA..11202270A](http://adsabs.harvard.edu/abs/2024NewA..11202270A))  
-
-22. [FUNDAMENTAL PARAMETERS OF A BINARY SYSTEM CONSISTING OF A RED DWARF AND A COMPACT STAR](http://adsabs.harvard.edu/abs/2024AJ....168..217D)  
-Ding, Xu, Ji, KaiFan, Song, ZhiMing, et al.    
-2024, refereed ([2024AJ....168..217D](http://adsabs.harvard.edu/abs/2024AJ....168..217D))  
-
-23. [SPYGLASS. V. SPATIALLY AND TEMPORALLY STRUCTURED STAR-FORMING ENVIRONMENTS IN THE CEPHEUS-HERCULES COMPLEX](http://adsabs.harvard.edu/abs/2024ApJ...975...99K)  
-Kerr, Ronan, Kraus, Adam L., Krolikowski, Daniel, et al.    
-2024, refereed ([2024ApJ...975...99K](http://adsabs.harvard.edu/abs/2024ApJ...975...99K))  
-
-24. [THE CURIOUS CASE OF 2MASS J15594729+4403595, AN ULTRA-FAST M2 DWARF WITH POSSIBLE RIEGER CYCLES](http://adsabs.harvard.edu/abs/2024A&A...691A.117M)  
+2. [THE CURIOUS CASE OF 2MASS J15594729+4403595, AN ULTRA-FAST M2 DWARF WITH POSSIBLE RIEGER CYCLES](http://adsabs.harvard.edu/abs/2024A&A...691A.117M)  
 Messina, S., Catanzaro, G., Lanza, A. F., et al.    
 2024, refereed ([2024A&A...691A.117M](http://adsabs.harvard.edu/abs/2024A&A...691A.117M))  
 
-25. [A CATALOG OF BINARY STARS FROM PHASE MODULATION IN THE FIRST FOUR YEARS OF TESS MISSION PHOTOMETRY](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2484D)  
-Dholakia, Shishir, Murphy, Simon J., Huang, Chelsea X., et al.    
-2024, refereed ([2024MNRAS.tmp.2484D](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2484D))  
+3. [ESTIMATES OF (CONVECTIVE CORE) MASSES, RADII, AND RELATIVE AGES FOR ∼14 000 GAIA-DISCOVERED GRAVITY-MODE PULSATORS MONITORED BY TESS](http://adsabs.harvard.edu/abs/2024A&A...691A.131M)  
+Mombarg, Joey S. G., Aerts, Conny, Van Reeth, Timothy, et al.    
+2024, refereed ([2024A&A...691A.131M](http://adsabs.harvard.edu/abs/2024A&A...691A.131M))  
 
-26. [ASTEROSEISMOLOGY OF THE MILD AM Δ SCT STAR HD 118660: TESS PHOTOMETRY AND MODELLING](http://adsabs.harvard.edu/abs/2024MNRAS.534.3211S)  
-Sarkar, Mrinmoy, Joshi, Santosh, Dupret, Marc-Antoine, et al.    
-2024, refereed ([2024MNRAS.534.3211S](http://adsabs.harvard.edu/abs/2024MNRAS.534.3211S))  
+4. [DISCOVERY OF THREE MAGNETIC HELIUM-RICH HOT SUBDWARFS WITH SALT](http://adsabs.harvard.edu/abs/2024A&A...691A.165D)  
+Dorsch, M., Jeffery, C. S., Philip Monai, A., et al.    
+2024, refereed ([2024A&A...691A.165D](http://adsabs.harvard.edu/abs/2024A&A...691A.165D))  
 
-27. [CHARACTERISING HIGH AND LOW ACCRETION STATES IN VY SCL CVS USING ZTF AND TESS DATA](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2479D)  
-Duffy, C., Wu, Kinwah, Ramsay, G., et al.    
-2024, refereed ([2024MNRAS.tmp.2479D](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2479D))  
+5. [HIGH-RESOLUTION SPECTROSCOPY OF DETACHED ECLIPSING BINARIES DURING TOTAL ECLIPSES](http://adsabs.harvard.edu/abs/2024A&A...691A.170H)  
+Hełminiak, K. G., Olszewska, J. M., Puciata-Mroczynska, M., et al.    
+2024, refereed ([2024A&A...691A.170H](http://adsabs.harvard.edu/abs/2024A&A...691A.170H))  
 
-28. [HIGH-TIME-CADENCE SPECTROSCOPY AND PHOTOMETRY OF STELLAR FLARES ON M-DWARF YZ CANIS MINORIS WITH SEIMEI TELESCOPE AND TESS. I. DISCOVERY OF RAPID AND SHORT-DURATION PROMINENCE ERUPTIONS](http://adsabs.harvard.edu/abs/2024arXiv241108462K)  
-Kajikiya, Yuto, Namekata, Kosuke, Notsu, Yuta, et al.    
-2024, not refereed ([2024arXiv241108462K](http://adsabs.harvard.edu/abs/2024arXiv241108462K))  
+6. [SUPER-SLOWLY ROTATING AP (SSRAP) STARS: SPECTROSCOPIC STUDY](http://adsabs.harvard.edu/abs/2024A&A...691A.186M)  
+Mathys, G., Holdsworth, D. L., Giarrusso, M., et al.    
+2024, refereed ([2024A&A...691A.186M](http://adsabs.harvard.edu/abs/2024A&A...691A.186M))  
 
-29. [DISTINGUISHING SUPER-NYQUIST FREQUENCIES VIA THEIR TEMPORAL VARIATION IN $\GAMMA$ DORADUS STARS FROM CONTINUOUS PHOTOMETRY](http://adsabs.harvard.edu/abs/2024arXiv241112481W)  
-Wang, Xuan, Zong, Weikai, Ma, Xiao-Yu, et al.    
-2024, not refereed ([2024arXiv241112481W](http://adsabs.harvard.edu/abs/2024arXiv241112481W))  
+7. [CORONAL AND CHROMOSPHERIC ACTIVITY OF TEEGARDEN'S STAR](http://adsabs.harvard.edu/abs/2024A&A...691A.208F)  
+Fuhrmeister, B., Schmitt, J. H. M. M., Reiners, A., et al.    
+2024, refereed ([2024A&A...691A.208F](http://adsabs.harvard.edu/abs/2024A&A...691A.208F))  
 
-30. [ON THE EXISTENCE OF `MAIA VARIABLES'](http://adsabs.harvard.edu/abs/2024PASA...41...82K)  
-Kahraman Aliçavuş, Filiz, Handler, Gerald, Chowdhury, Sowgata, et al.    
-2024, refereed ([2024PASA...41...82K](http://adsabs.harvard.edu/abs/2024PASA...41...82K))  
-
-31. [HD 34736: AN INTENSELY MAGNETISED DOUBLE-LINED SPECTROSCOPIC BINARY WITH RAPIDLY-ROTATING CHEMICALLY PECULIAR B-TYPE COMPONENTS](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2437S)  
-Semenko, E., Kochukhov, O., Mikulášek, Z., et al.    
-2024, refereed ([2024MNRAS.tmp.2437S](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2437S))  
-
-32. [SOLVING THE MYSTERY OF EXTREME LIGHT VARIABILITY IN THE MASSIVE ECCENTRIC SYSTEM MACHO 80.7443.1718](http://adsabs.harvard.edu/abs/2024arXiv241105469K)  
-Kołaczek-Szymański, Piotr A., Łojko, Piotr, Pigulski, Andrzej, et al.    
-2024, not refereed ([2024arXiv241105469K](http://adsabs.harvard.edu/abs/2024arXiv241105469K))  
-
-33. [THE ROTATION PROPERTIES OF $\DELTA$ SCT AND $\GAMMA$ DOR STARS](http://adsabs.harvard.edu/abs/2024arXiv241109292W)  
-Wang, Jiyu, Chen, Xiaodian, Deng, Licai, et al.    
-2024, not refereed ([2024arXiv241109292W](http://adsabs.harvard.edu/abs/2024arXiv241109292W))  
-
-34. [DETECTING DETACHED BLACK HOLE BINARIES THROUGH PHOTOMETRIC VARIABILITY](http://adsabs.harvard.edu/abs/2024ApJ...975..163C)  
-Chawla, Chirag, Chatterjee, Sourav, Shah, Neev, et al.    
-2024, refereed ([2024ApJ...975..163C](http://adsabs.harvard.edu/abs/2024ApJ...975..163C))  
-
-35. [STATISTICAL VIEW OF ORBITAL CIRCULARISATION WITH 14 000 CHARACTERISED TESS ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024A&A...691A.242I)  
+8. [STATISTICAL VIEW OF ORBITAL CIRCULARISATION WITH 14 000 CHARACTERISED TESS ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024A&A...691A.242I)  
 IJspeert, L. W., Tkachenko, A., Johnston, C., et al.    
 2024, refereed ([2024A&A...691A.242I](http://adsabs.harvard.edu/abs/2024A&A...691A.242I))  
 
-36. [RISING NEAR-ULTRAVIOLET SPECTRA IN STELLAR MEGAFLARES](http://adsabs.harvard.edu/abs/2024arXiv241107913K)  
-Kowalski, Adam F., Osten, Rachel A., Notsu, Yuta, et al.    
-2024, not refereed ([2024arXiv241107913K](http://adsabs.harvard.edu/abs/2024arXiv241107913K))  
+9. [MODELLING OF ECLIPSING BINARY SYSTEMS WITH PULSATING COMPONENTS AND TERTIARY COMPANIONS: BF VEL AND RR LEP](http://adsabs.harvard.edu/abs/2024A&A...691A.260L)  
+Liakos, A., Moriarty, D. J. W., Erdem, A., et al.    
+2024, refereed ([2024A&A...691A.260L](http://adsabs.harvard.edu/abs/2024A&A...691A.260L))  
 
-37. [A SUMMARY OF INSTRUMENTS PROPOSED FOR OBSERVING PULSATING VARIABLES FROM THE MT. ABU OBSERVATORY](http://adsabs.harvard.edu/abs/2024JApA...45...34M)  
+10. [THE PERSISTENT BE ENIGMA: THE CASE OF HD 212044](http://adsabs.harvard.edu/abs/2024A&A...691L...4P)  
+Pereira, Alan W., Janot-Pacheco, Eduardo, Andrade, Laerte, et al.    
+2024, refereed ([2024A&A...691L...4P](http://adsabs.harvard.edu/abs/2024A&A...691L...4P))  
+
+11. [HINTS OF AURORAL AND MAGNETOSPHERIC POLARIZED RADIO EMISSION FROM THE SCALLOP-SHELL STAR 2MASS J05082729–2101444](http://adsabs.harvard.edu/abs/2024A&A...691L..17K)  
+Kaur, Simranpreet, Viganò, Daniele, Béjar, Víctor J. S., et al.    
+2024, refereed ([2024A&A...691L..17K](http://adsabs.harvard.edu/abs/2024A&A...691L..17K))  
+
+12. [DETECTION OF HIGH-FREQUENCY PULSATION IN WR 135: INVESTIGATION OF STELLAR WIND DYNAMICS](http://adsabs.harvard.edu/abs/2024AJ....168..199K)  
+Kar, Subhajit, Das, Ramkrishna, Mathew, Blesson, et al.    
+2024, refereed ([2024AJ....168..199K](http://adsabs.harvard.edu/abs/2024AJ....168..199K))  
+
+13. [WIYN OPEN CLUSTER STUDY. XC. RADIAL-VELOCITY MEASUREMENTS AND SPECTROSCOPIC BINARY ORBITS IN THE OPEN CLUSTER NGC 2506](http://adsabs.harvard.edu/abs/2024AJ....168..205L)  
+Linck, Evan, Mathieu, Robert D., Latham, David W.    
+2024, refereed ([2024AJ....168..205L](http://adsabs.harvard.edu/abs/2024AJ....168..205L))  
+
+14. [FUNDAMENTAL PARAMETERS OF A BINARY SYSTEM CONSISTING OF A RED DWARF AND A COMPACT STAR](http://adsabs.harvard.edu/abs/2024AJ....168..217D)  
+Ding, Xu, Ji, KaiFan, Song, ZhiMing, et al.    
+2024, refereed ([2024AJ....168..217D](http://adsabs.harvard.edu/abs/2024AJ....168..217D))  
+
+15. [SPYGLASS. V. SPATIALLY AND TEMPORALLY STRUCTURED STAR-FORMING ENVIRONMENTS IN THE CEPHEUS-HERCULES COMPLEX](http://adsabs.harvard.edu/abs/2024ApJ...975...99K)  
+Kerr, Ronan, Kraus, Adam L., Krolikowski, Daniel, et al.    
+2024, refereed ([2024ApJ...975...99K](http://adsabs.harvard.edu/abs/2024ApJ...975...99K))  
+
+16. [TIC 435850195: THE SECOND TRIAXIAL TIDALLY TILTED PULSATOR](http://adsabs.harvard.edu/abs/2024ApJ...975..121J)  
+Jayaraman, Rahul, Rappaport, Saul A., Powell, Brian, et al.    
+2024, refereed ([2024ApJ...975..121J](http://adsabs.harvard.edu/abs/2024ApJ...975..121J))  
+
+17. [ASTEROSEISMOLOGY OF THE NEARBY K DWARF Σ DRACONIS USING THE KECK PLANET FINDER AND TESS](http://adsabs.harvard.edu/abs/2024ApJ...975..147H)  
+Hon, Marc, Huber, Daniel, Li, Yaguang, et al.    
+2024, refereed ([2024ApJ...975..147H](http://adsabs.harvard.edu/abs/2024ApJ...975..147H))  
+
+18. [DETECTING DETACHED BLACK HOLE BINARIES THROUGH PHOTOMETRIC VARIABILITY](http://adsabs.harvard.edu/abs/2024ApJ...975..163C)  
+Chawla, Chirag, Chatterjee, Sourav, Shah, Neev, et al.    
+2024, refereed ([2024ApJ...975..163C](http://adsabs.harvard.edu/abs/2024ApJ...975..163C))  
+
+19. [CZ AQR: AN OSCILLATING ECLIPSING ALGOL-TYPE SYSTEM COMPOSED OF A Δ SCT PRIMARY STAR AND A SUBGIANT STAR IN A QUADRUPLE SYSTEM](http://adsabs.harvard.edu/abs/2024ApJ...975..249Z)  
+Zeng, Qi-Huan, Liao, Wen-Ping, Qian, Sheng-Bang, et al.    
+2024, refereed ([2024ApJ...975..249Z](http://adsabs.harvard.edu/abs/2024ApJ...975..249Z))  
+
+20. [QUADRATIC FREQUENCY DISPERSION IN THE OSCILLATIONS OF INTERMEDIATE-MASS STARS](http://adsabs.harvard.edu/abs/2024ApJ...975L..12P)  
+Panda, Subrata Kumar, Hanasoge, Shravan, Dhanpal, Siddharth, et al.    
+2024, refereed ([2024ApJ...975L..12P](http://adsabs.harvard.edu/abs/2024ApJ...975L..12P))  
+
+21. [ASTEROSEISMOLOGY OF TRIPLE-MODE RADIAL Δ SCUTI STAR: TIC 400562821](http://adsabs.harvard.edu/abs/2024ApJ...976....2S)  
+Sun, Xiao-Ya, Zuo, Zhao-Yu, Yang, Tao-Zhi, et al.    
+2024, refereed ([2024ApJ...976....2S](http://adsabs.harvard.edu/abs/2024ApJ...976....2S))  
+
+22. [THE FIRST CATALOG OF CANDIDATE WHITE DWARF–MAIN-SEQUENCE BINARIES IN OPEN STAR CLUSTERS: A NEW WINDOW INTO COMMON ENVELOPE EVOLUTION](http://adsabs.harvard.edu/abs/2024ApJ...976..102G)  
+Grondin, Steffani M., Drout, Maria R., Nordhaus, Jason, et al.    
+2024, refereed ([2024ApJ...976..102G](http://adsabs.harvard.edu/abs/2024ApJ...976..102G))  
+
+23. [LIGHT ECHOES OF PROTOPLANETARY DISKS](http://adsabs.harvard.edu/abs/2024ApJ...976..103K)  
+King, Austin J., Bromley, Benjamin C.    
+2024, refereed ([2024ApJ...976..103K](http://adsabs.harvard.edu/abs/2024ApJ...976..103K))  
+
+24. [A NEW IW AND-TYPE STAR: KARACHURIN 12 WITH TILTED DISKS AND DIVERSE CYCLES](http://adsabs.harvard.edu/abs/2024ApJ...976..107S)  
+Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
+2024, refereed ([2024ApJ...976..107S](http://adsabs.harvard.edu/abs/2024ApJ...976..107S))  
+
+25. [A STUDY OF STOCHASTIC LOW-FREQUENCY VARIABILITY FOR GALACTIC O-TYPE STARS](http://adsabs.harvard.edu/abs/2024ApJS..275....2S)  
+Shen, Dong-Xiang, Zhu, Chun-Hua, Lü, Guo-Liang, et al.    
+2024, refereed ([2024ApJS..275....2S](http://adsabs.harvard.edu/abs/2024ApJS..275....2S))  
+
+26. [A SUMMARY OF INSTRUMENTS PROPOSED FOR OBSERVING PULSATING VARIABLES FROM THE MT. ABU OBSERVATORY](http://adsabs.harvard.edu/abs/2024JApA...45...34M)  
 Mishra, Anwesh Kumar, Sarkar, Deekshya Roy, Prajapati, Prachi, et al.    
 2024, refereed ([2024JApA...45...34M](http://adsabs.harvard.edu/abs/2024JApA...45...34M))  
+
+27. [BENCHMARKING THE SPECTROSCOPIC MASSES OF 249 EVOLVED STARS USING ASTEROSEISMOLOGY WITH TESS](http://adsabs.harvard.edu/abs/2024MNRAS.534.1775M)  
+Malla, Sai Prathyusha, Stello, Dennis, Montet, Benjamin T., et al.    
+2024, refereed ([2024MNRAS.534.1775M](http://adsabs.harvard.edu/abs/2024MNRAS.534.1775M))  
+
+28. [POSSIBLE ANTICORRELATIONS BETWEEN PULSATION AMPLITUDES AND THE DISC GROWTH OF BE STARS IN GIANT-OUTBURSTING BE X-RAY BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.534.2168N)  
+Niwano, Masafumi, Fausnaugh, Michael M., Lau, Ryan M., et al.    
+2024, refereed ([2024MNRAS.534.2168N](http://adsabs.harvard.edu/abs/2024MNRAS.534.2168N))  
+
+29. [UNEXPECTED STRATIFICATION IN THE EQUIVALENT-DURATION DISTRIBUTIONS OF FLARE STARS](http://adsabs.harvard.edu/abs/2024MNRAS.534.2819Y)  
+Yoldaş, E., Dal, H. A.    
+2024, refereed ([2024MNRAS.534.2819Y](http://adsabs.harvard.edu/abs/2024MNRAS.534.2819Y))  
+
+30. [THE Δ SCUTI STARS OF THE CEP-HER COMPLEX - I. PULSATOR FRACTION, ROTATION, ASTEROSEISMIC LARGE SPACINGS, AND THE Ν<SUB>MAX</SUB> RELATION](http://adsabs.harvard.edu/abs/2024MNRAS.534.3022M)  
+Murphy, Simon J., Bedding, Timothy R., Gautam, Anuj, et al.    
+2024, refereed ([2024MNRAS.534.3022M](http://adsabs.harvard.edu/abs/2024MNRAS.534.3022M))  
+
+31. [DISCOVERY OF PERSISTENT QUASI-PERIODIC OSCILLATIONS IN ACCRETING WHITE DWARFS: A NEW LINK TO X-RAY BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.534.3087V)  
+Veresvarska, M., Scaringi, S., Knigge, C., et al.    
+2024, refereed ([2024MNRAS.534.3087V](http://adsabs.harvard.edu/abs/2024MNRAS.534.3087V))  
+
+32. [ASTEROSEISMOLOGY OF THE MILD AM Δ SCT STAR HD 118660: TESS PHOTOMETRY AND MODELLING](http://adsabs.harvard.edu/abs/2024MNRAS.534.3211S)  
+Sarkar, Mrinmoy, Joshi, Santosh, Dupret, Marc-Antoine, et al.    
+2024, refereed ([2024MNRAS.534.3211S](http://adsabs.harvard.edu/abs/2024MNRAS.534.3211S))  
+
+33. [NOVEL CONSTRAINTS ON COMPANIONS TO THE HELIX NEBULA CENTRAL STAR](http://adsabs.harvard.edu/abs/2024MNRAS.534.3498I)  
+Iskandarli, Leyla, Farihi, Jay, Lothringer, Joshua D., et al.    
+2024, refereed ([2024MNRAS.534.3498I](http://adsabs.harvard.edu/abs/2024MNRAS.534.3498I))  
+
+34. [A STATISTICAL, PHOTOMETRIC, AND SED ANALYSIS TO CHARACTERIZE THE BSS POPULATIONS IN OLD OPEN CLUSTER: BERKELEY 39](http://adsabs.harvard.edu/abs/2024MNRAS.534.4031S)  
+Sheikh, A. H., Medhi, Biman J.    
+2024, refereed ([2024MNRAS.534.4031S](http://adsabs.harvard.edu/abs/2024MNRAS.534.4031S))  
+
+35. [ON THE NATURE OF THE ECCENTRIC ECLIPSING BINARY STAR SY PHE WITH A PULSATING Γ DOR COMPONENT](http://adsabs.harvard.edu/abs/2024MNRAS.535..406E)  
+Erdem, Ahmet, Sürgit, Derya, Engelbrecht, Chris A., et al.    
+2024, refereed ([2024MNRAS.535..406E](http://adsabs.harvard.edu/abs/2024MNRAS.535..406E))  
+
+36. [SPECTROSCOPIC AND PHOTOMETRIC INVESTIGATIONS OF THE TOTALLY ECLIPSING CONTACT BINARY V1320 CAS](http://adsabs.harvard.edu/abs/2024NewA..11202254L)  
+Liu, Jian-Fei, Li, Kai, Chen, Xu, et al.    
+2024, refereed ([2024NewA..11202254L](http://adsabs.harvard.edu/abs/2024NewA..11202254L))  
+
+37. [FIRST PHOTOMETRIC STUDY OF W UMA-TYPE BINARY SYSTEMS: BK VUL AND V699 CEP](http://adsabs.harvard.edu/abs/2024NewA..11202270A)  
+Adalalı, S., Soydugan, E.    
+2024, refereed ([2024NewA..11202270A](http://adsabs.harvard.edu/abs/2024NewA..11202270A))  
 
 38. [GAIA DR3 2059297390930630400: AN ECCENTRIC BINARY WITH CONSIDERABLE APSIDAL MOTION](http://adsabs.harvard.edu/abs/2024OEJV..257....1B)  
 Begari, T., Bernhard, K., Paunzen, E.    
 2024, refereed ([2024OEJV..257....1B](http://adsabs.harvard.edu/abs/2024OEJV..257....1B))  
 
-39. [A PHOTOMETRIC AND SPECTROSCOPIC STUDY OF EIGHT SEMI-DETACHED ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024arXiv241105387L)  
-Lei, Yajuan, Zhou, Guiping, Wang, Liang, et al.    
-2024, not refereed ([2024arXiv241105387L](http://adsabs.harvard.edu/abs/2024arXiv241105387L))  
+39. [ON THE EXISTENCE OF `MAIA VARIABLES'](http://adsabs.harvard.edu/abs/2024PASA...41...82K)  
+Kahraman Aliçavuş, Filiz, Handler, Gerald, Chowdhury, Sowgata, et al.    
+2024, refereed ([2024PASA...41...82K](http://adsabs.harvard.edu/abs/2024PASA...41...82K))  
 
-40. [LIGHT ECHOES OF PROTOPLANETARY DISKS](http://adsabs.harvard.edu/abs/2024arXiv241111999K)  
-King, Austin J., Bromley, Benjamin C.    
-2024, not refereed ([2024arXiv241111999K](http://adsabs.harvard.edu/abs/2024arXiv241111999K))  
+40. [COMPARATIVE STUDY OF THE W UMA TYPE BINARIES S ANT AND Ε CRA](http://adsabs.harvard.edu/abs/2024PASA...41...83B)  
+Bakış, Volkan, Budding, Edwin, Erdem, Ahmet, et al.    
+2024, refereed ([2024PASA...41...83B](http://adsabs.harvard.edu/abs/2024PASA...41...83B))  
 
-41. [A MASSIVE WHITE DWARF OR LOW-MASS NEUTRON STAR DISCOVERED BY LAMOST](http://adsabs.harvard.edu/abs/2024arXiv241108837Z)  
-Zhao, Xinlin, Wang, Song, Wang, Pengfei, et al.    
-2024, not refereed ([2024arXiv241108837Z](http://adsabs.harvard.edu/abs/2024arXiv241108837Z))  
-
-42. [NOVEL CONSTRAINTS ON COMPANIONS TO THE HELIX NEBULA CENTRAL STAR](http://adsabs.harvard.edu/abs/2024MNRAS.534.3498I)  
-Iskandarli, Leyla, Farihi, Jay, Lothringer, Joshua D., et al.    
-2024, refereed ([2024MNRAS.534.3498I](http://adsabs.harvard.edu/abs/2024MNRAS.534.3498I))  
-
-43. [ASYMMETRIES AND CIRCUMSTELLAR INTERACTION IN THE TYPE II SN 2024BCH](http://adsabs.harvard.edu/abs/2024arXiv241102497A)  
-Andrews, Jennifer E., Shrestha, Manisha, Bostroem, K. Azalee, et al.    
-2024, not refereed ([2024arXiv241102497A](http://adsabs.harvard.edu/abs/2024arXiv241102497A))  
-
-44. [FORMATION OF COMPACT HIERARCHICAL TRIPLES](http://adsabs.harvard.edu/abs/2024arXiv241111459M)  
-Moharana, Ayush, Helminiak, K. G., Pawar, T., et al.    
-2024, not refereed ([2024arXiv241111459M](http://adsabs.harvard.edu/abs/2024arXiv241111459M))  
-
-45. [UNEXPECTED STRATIFICATION IN THE EQUIVALENT-DURATION DISTRIBUTIONS OF FLARE STARS](http://adsabs.harvard.edu/abs/2024MNRAS.534.2819Y)  
-Yoldaş, E., Dal, H. A.    
-2024, refereed ([2024MNRAS.534.2819Y](http://adsabs.harvard.edu/abs/2024MNRAS.534.2819Y))  
-
-46. [IDENTIFYING TELESCOPE USAGE IN ASTROPHYSICS PUBLICATIONS: A MACHINE LEARNING FRAMEWORK FOR INSTITUTIONAL RESEARCH MANAGEMENT AT OBSERVATORIES](http://adsabs.harvard.edu/abs/2024arXiv241100987A)  
-Amado Olivo, Vicente, Kerzendorf, Wolfgang, Cherinka, Brian, et al.    
-2024, not refereed ([2024arXiv241100987A](http://adsabs.harvard.edu/abs/2024arXiv241100987A))  
-
-47. [A STATISTICAL, PHOTOMETRIC, AND SED ANALYSIS TO CHARACTERIZE THE BSS POPULATIONS IN OLD OPEN CLUSTER: BERKELEY 39](http://adsabs.harvard.edu/abs/2024MNRAS.534.4031S)  
-Sheikh, A. H., Medhi, Biman J.    
-2024, refereed ([2024MNRAS.534.4031S](http://adsabs.harvard.edu/abs/2024MNRAS.534.4031S))  
-
-48. [DETECTION OF THE LOWEST MASS RATIO CONTACT BINARY IN THE UNIVERSE: TYC 3801-1529-1](http://adsabs.harvard.edu/abs/2024arXiv241112132L)  
-Li, Kai, Gao, Xiang, Guo, Di-Fu, et al.    
-2024, not refereed ([2024arXiv241112132L](http://adsabs.harvard.edu/abs/2024arXiv241112132L))  
-
-49. [HINTS OF AURORAL AND MAGNETOSPHERIC POLARIZED RADIO EMISSION FROM THE SCALLOP-SHELL STAR 2MASS J05082729–2101444](http://adsabs.harvard.edu/abs/2024A&A...691L..17K)  
-Kaur, Simranpreet, Viganò, Daniele, Béjar, Víctor J. S., et al.    
-2024, refereed ([2024A&A...691L..17K](http://adsabs.harvard.edu/abs/2024A&A...691L..17K))  
-
-50. [A NEW IW AND-TYPE STAR: KARACHURIN 12 WITH TILTED DISKS AND DIVERSE CYCLES](http://adsabs.harvard.edu/abs/2024ApJ...976..107S)  
-Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
-2024, refereed ([2024ApJ...976..107S](http://adsabs.harvard.edu/abs/2024ApJ...976..107S))  
-
-51. [THE FIRST CATALOG OF CANDIDATE WHITE DWARF–MAIN-SEQUENCE BINARIES IN OPEN STAR CLUSTERS: A NEW WINDOW INTO COMMON ENVELOPE EVOLUTION](http://adsabs.harvard.edu/abs/2024ApJ...976..102G)  
-Grondin, Steffani M., Drout, Maria R., Nordhaus, Jason, et al.    
-2024, refereed ([2024ApJ...976..102G](http://adsabs.harvard.edu/abs/2024ApJ...976..102G))  
-
-52. [MODELLING OF ECLIPSING BINARY SYSTEMS WITH PULSATING COMPONENTS AND TERTIARY COMPANIONS: BF VEL AND RR LEP](http://adsabs.harvard.edu/abs/2024A&A...691A.260L)  
-Liakos, A., Moriarty, D. J. W., Erdem, A., et al.    
-2024, refereed ([2024A&A...691A.260L](http://adsabs.harvard.edu/abs/2024A&A...691A.260L))  
-
-53. [AN EXTREME STELLAR PROMINENCE ERUPTION OBSERVED BY LAMOST TIME-DOMAIN SPECTROSCOPY](http://adsabs.harvard.edu/abs/2024arXiv241111076H)  
-Hong-Peng, Lu, Hui, Tian, Li-Yun, Zhang, et al.    
-2024, not refereed ([2024arXiv241111076H](http://adsabs.harvard.edu/abs/2024arXiv241111076H))  
-
-54. [LIGHT ECHOES OF PROTOPLANETARY DISKS](http://adsabs.harvard.edu/abs/2024ApJ...976..103K)  
-King, Austin J., Bromley, Benjamin C.    
-2024, refereed ([2024ApJ...976..103K](http://adsabs.harvard.edu/abs/2024ApJ...976..103K))  
-
-55. [THE DEMOCRATIC DETRENDER: ENSEMBLE-BASED REMOVAL OF THE NUISANCE SIGNAL IN STELLAR TIME-SERIES PHOTOMETRY](http://adsabs.harvard.edu/abs/2024arXiv241109753Y)  
+41. [THE DEMOCRATIC DETRENDER: ENSEMBLE-BASED REMOVAL OF THE NUISANCE SIGNAL IN STELLAR TIME-SERIES PHOTOMETRY](http://adsabs.harvard.edu/abs/2024arXiv241109753Y)  
 Yahalomi, Daniel A., Kipping, David, Solano-Oropeza, Diana, et al.    
 2024, not refereed ([2024arXiv241109753Y](http://adsabs.harvard.edu/abs/2024arXiv241109753Y))  
 
-56. [STRONG MAGNETIC FIELDS OF OLD WHITE DWARFS ARE SYMMETRIC ABOUT THE STELLAR ROTATION AXES](http://adsabs.harvard.edu/abs/2024arXiv241110270B)  
-Bagnulo, S., Landstreet, J. D.    
-2024, not refereed ([2024arXiv241110270B](http://adsabs.harvard.edu/abs/2024arXiv241110270B))  
-
-57. [CORONAL AND CHROMOSPHERIC ACTIVITY OF TEEGARDEN'S STAR](http://adsabs.harvard.edu/abs/2024A&A...691A.208F)  
-Fuhrmeister, B., Schmitt, J. H. M. M., Reiners, A., et al.    
-2024, refereed ([2024A&A...691A.208F](http://adsabs.harvard.edu/abs/2024A&A...691A.208F))  
-
-58. [DISCOVERY OF PERSISTENT QUASI-PERIODIC OSCILLATIONS IN ACCRETING WHITE DWARFS: A NEW LINK TO X-RAY BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.534.3087V)  
-Veresvarska, M., Scaringi, S., Knigge, C., et al.    
-2024, refereed ([2024MNRAS.534.3087V](http://adsabs.harvard.edu/abs/2024MNRAS.534.3087V))  
-
-59. [THE LAST ARECIBO MESSAGE](http://adsabs.harvard.edu/abs/2024arXiv241109790P)  
+42. [THE LAST ARECIBO MESSAGE](http://adsabs.harvard.edu/abs/2024arXiv241109790P)  
 Palencia-Torres, Kelby D., Quiñones-Martínez, César F., García Sepúlveda, Javier A., et al.    
 2024, not refereed ([2024arXiv241109790P](http://adsabs.harvard.edu/abs/2024arXiv241109790P))  
-
-60. [CATACLYSMIC VARIABLES FROM SLOAN DIGITAL SKY SURVEY - V (2020-2023) IDENTIFIED USING MACHINE LEARNING.](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2451I)  
-Inight, Keith, Gänsicke, Boris T., Schwope, Axel, et al.    
-2024, refereed ([2024MNRAS.tmp.2451I](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2451I))  
-
-61. [CARMENES INPUT CATALOGUE OF M DWARFS VIII. KINEMATICS IN THE SOLAR NEIGHBOURHOOD](http://adsabs.harvard.edu/abs/2024arXiv241106825C)  
-Cortés-Contreras, M., Caballero, J. A., Montes, D., et al.    
-2024, not refereed ([2024arXiv241106825C](http://adsabs.harvard.edu/abs/2024arXiv241106825C))  
-
-62. [PULSATIONS IN BINARY STARS -- A SHORT REVIEW](http://adsabs.harvard.edu/abs/2024arXiv241106683M)  
-Murphy, Simon J.    
-2024, not refereed ([2024arXiv241106683M](http://adsabs.harvard.edu/abs/2024arXiv241106683M))  
 
 
 2024-10
 -------
 
-1. [REVISED TEMPERATURES FOR TWO BENCHMARK M-DWARFS - OUTLIERS NO MORE](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2331M)  
-Martin, David V., Armitage, Tayt, Duck, Alison, et al.    
-2024, refereed ([2024MNRAS.tmp.2331M](http://adsabs.harvard.edu/abs/2024MNRAS.tmp.2331M))  
-
-2. [TIC 441725813: A NEW BRIGHT HYBRID HOT B SUBDWARF PULSATOR WITH DIFFERENTIAL CORE VERSUS ENVELOPE ROTATION](http://adsabs.harvard.edu/abs/2024A&A...690A..36S)  
+1. [TIC 441725813: A NEW BRIGHT HYBRID HOT B SUBDWARF PULSATOR WITH DIFFERENTIAL CORE VERSUS ENVELOPE ROTATION](http://adsabs.harvard.edu/abs/2024A&A...690A..36S)  
 Su, Wenchao, Charpinet, Stéphane, Latour, Marilyn, et al.    
 2024, refereed ([2024A&A...690A..36S](http://adsabs.harvard.edu/abs/2024A&A...690A..36S))  
 
-3. [HR 10 AS SEEN BY CHEOPS AND TESS: REVEALING Δ SCUTI PULSATIONS, GRANULATION-LIKE SIGNAL AND HINT FOR TRANSIENTS](http://adsabs.harvard.edu/abs/2024A&A...690A..73S)  
+2. [HR 10 AS SEEN BY CHEOPS AND TESS: REVEALING Δ SCUTI PULSATIONS, GRANULATION-LIKE SIGNAL AND HINT FOR TRANSIENTS](http://adsabs.harvard.edu/abs/2024A&A...690A..73S)  
 Salmon, S. J. A. J., Van Grootel, V., Sulis, S., et al.    
 2024, refereed ([2024A&A...690A..73S](http://adsabs.harvard.edu/abs/2024A&A...690A..73S))  
 
-4. [VARIABILITY AND STELLAR PULSATION INCIDENCE IN AM AND FM STARS USING TESS AND GAIA DATA](http://adsabs.harvard.edu/abs/2024A&A...690A.104D)  
+3. [VARIABILITY AND STELLAR PULSATION INCIDENCE IN AM AND FM STARS USING TESS AND GAIA DATA](http://adsabs.harvard.edu/abs/2024A&A...690A.104D)  
 Dürfeldt-Pedros, O., Antoci, V., Smalley, B., et al.    
 2024, refereed ([2024A&A...690A.104D](http://adsabs.harvard.edu/abs/2024A&A...690A.104D))  
 
-5. [THE ACCRETED GALAXY: AN OVERVIEW OF TESS METAL-POOR ACCRETED STAR CANDIDATES](http://adsabs.harvard.edu/abs/2024A&A...690A.120D)  
+4. [THE ACCRETED GALAXY: AN OVERVIEW OF TESS METAL-POOR ACCRETED STAR CANDIDATES](http://adsabs.harvard.edu/abs/2024A&A...690A.120D)  
 de Brito Silva, Danielle, Jofré, Paula, Worley, Clare, et al.    
 2024, refereed ([2024A&A...690A.120D](http://adsabs.harvard.edu/abs/2024A&A...690A.120D))  
 
-6. [SPECTROSCOPY OF ECLIPSING COMPACT HIERARCHICAL TRIPLES: I. LOW-MASS DOUBLE-LINED AND TRIPLE-LINED SYSTEMS](http://adsabs.harvard.edu/abs/2024A&A...690A.153M)  
+5. [SPECTROSCOPY OF ECLIPSING COMPACT HIERARCHICAL TRIPLES: I. LOW-MASS DOUBLE-LINED AND TRIPLE-LINED SYSTEMS](http://adsabs.harvard.edu/abs/2024A&A...690A.153M)  
 Moharana, A., Hełminiak, K. G., Marcadon, F., et al.    
 2024, refereed ([2024A&A...690A.153M](http://adsabs.harvard.edu/abs/2024A&A...690A.153M))  
 
-7. [FIVE NEW ECLIPSING BINARIES WITH LOW-MASS COMPANIONS](http://adsabs.harvard.edu/abs/2024A&A...690A.168L)  
+6. [FIVE NEW ECLIPSING BINARIES WITH LOW-MASS COMPANIONS](http://adsabs.harvard.edu/abs/2024A&A...690A.168L)  
 Lipták, J., Skarka, M., Guenther, E., et al.    
 2024, refereed ([2024A&A...690A.168L](http://adsabs.harvard.edu/abs/2024A&A...690A.168L))  
 
-8. [PLANETARY NEBULAE SEEN WITH TESS: NEW AND REVISITED SHORT-PERIOD BINARY CENTRAL STAR CANDIDATES FROM CYCLES 1 TO 4](http://adsabs.harvard.edu/abs/2024A&A...690A.190A)  
+7. [PLANETARY NEBULAE SEEN WITH TESS: NEW AND REVISITED SHORT-PERIOD BINARY CENTRAL STAR CANDIDATES FROM CYCLES 1 TO 4](http://adsabs.harvard.edu/abs/2024A&A...690A.190A)  
 Aller, Alba, Lillo-Box, Jorge, Jones, David    
 2024, refereed ([2024A&A...690A.190A](http://adsabs.harvard.edu/abs/2024A&A...690A.190A))  
 
-9. [RAPID OPTICAL FLARE IN THE EXTREME TERAELECTRONVOLT BLAZAR 1ES 0229+200 ON INTRADAY TIMESCALES WITH THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2024A&A...690A.223K)  
+8. [RAPID OPTICAL FLARE IN THE EXTREME TERAELECTRONVOLT BLAZAR 1ES 0229+200 ON INTRADAY TIMESCALES WITH THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2024A&A...690A.223K)  
 Kishore, S., Gupta, A. C., Wiita, P. J., et al.    
 2024, refereed ([2024A&A...690A.223K](http://adsabs.harvard.edu/abs/2024A&A...690A.223K))  
 
-10. [EVIDENCE FOR MAGNETIC BOUNDARY LAYER ACCRETION IN RU LUP: A SPECTROPHOTOMETRIC ANALYSIS](http://adsabs.harvard.edu/abs/2024A&A...690A.225A)  
+9. [EVIDENCE FOR MAGNETIC BOUNDARY LAYER ACCRETION IN RU LUP: A SPECTROPHOTOMETRIC ANALYSIS](http://adsabs.harvard.edu/abs/2024A&A...690A.225A)  
 Armeni, A., Stelzer, B., Frasca, A., et al.    
 2024, refereed ([2024A&A...690A.225A](http://adsabs.harvard.edu/abs/2024A&A...690A.225A))  
 
-11. [APSIDAL MOTION AND TESS LIGHT CURVES OF THREE SOUTHERN CLOSE ECCENTRIC ECLIPSING BINARIES: GM NOR, V397 PUP, AND PT VEL](http://adsabs.harvard.edu/abs/2024A&A...690A.231W)  
+10. [APSIDAL MOTION AND TESS LIGHT CURVES OF THREE SOUTHERN CLOSE ECCENTRIC ECLIPSING BINARIES: GM NOR, V397 PUP, AND PT VEL](http://adsabs.harvard.edu/abs/2024A&A...690A.231W)  
 Wolf, M., Zasche, P., Kára, J., et al.    
 2024, refereed ([2024A&A...690A.231W](http://adsabs.harvard.edu/abs/2024A&A...690A.231W))  
 
-12. [BINARITY AT LOW METALLICITY (BLOEM): A SPECTROSCOPIC VLT MONITORING SURVEY OF MASSIVE STARS IN THE SMC](http://adsabs.harvard.edu/abs/2024A&A...690A.289S)  
+11. [BINARITY AT LOW METALLICITY (BLOEM): A SPECTROSCOPIC VLT MONITORING SURVEY OF MASSIVE STARS IN THE SMC](http://adsabs.harvard.edu/abs/2024A&A...690A.289S)  
 Shenar, T., Bodensteiner, J., Sana, H., et al.    
 2024, refereed ([2024A&A...690A.289S](http://adsabs.harvard.edu/abs/2024A&A...690A.289S))  
 
-13. [THE YMDB CATALOG: YOUNG MASSIVE DETACHED BINARIES FOR THE DETERMINATION OF HIGH-PRECISION ABSOLUTE STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2024A&A...690A.306M)  
+12. [THE YMDB CATALOG: YOUNG MASSIVE DETACHED BINARIES FOR THE DETERMINATION OF HIGH-PRECISION ABSOLUTE STELLAR PARAMETERS](http://adsabs.harvard.edu/abs/2024A&A...690A.306M)  
 Martín-Ravelo, Pablo, Gamen, Roberto, Arias, Julia I., et al.    
 2024, refereed ([2024A&A...690A.306M](http://adsabs.harvard.edu/abs/2024A&A...690A.306M))  
 
-14. [TESTING THE ASTEROSEISMIC ESTIMATES OF STELLAR RADII WITH SURFACE BRIGHTNESS-COLOUR RELATIONS AND GAIA DR3 PARALLAXES: RED GIANTS AND RED CLUMP STARS](http://adsabs.harvard.edu/abs/2024A&A...690A.327V)  
+13. [TESTING THE ASTEROSEISMIC ESTIMATES OF STELLAR RADII WITH SURFACE BRIGHTNESS-COLOUR RELATIONS AND GAIA DR3 PARALLAXES: RED GIANTS AND RED CLUMP STARS](http://adsabs.harvard.edu/abs/2024A&A...690A.327V)  
 Valle, G., Dell'Omodarme, M., Prada Moroni, P. G., et al.    
 2024, refereed ([2024A&A...690A.327V](http://adsabs.harvard.edu/abs/2024A&A...690A.327V))  
 
-15. [COMPARISON OF THE DISK PRECESSION MODELS WITH THE PHOTOMETRIC BEHAVIOR OF TT ARI IN 2021-2023](http://adsabs.harvard.edu/abs/2024A&A...690A.358S)  
+14. [COMPARISON OF THE DISK PRECESSION MODELS WITH THE PHOTOMETRIC BEHAVIOR OF TT ARI IN 2021-2023](http://adsabs.harvard.edu/abs/2024A&A...690A.358S)  
 Suleimanov, V. F., Belyakov, K. V., Perales, J. M., et al.    
 2024, refereed ([2024A&A...690A.358S](http://adsabs.harvard.edu/abs/2024A&A...690A.358S))  
 
-16. [HARO 5-2: A NEW PRE-MAIN-SEQUENCE QUADRUPLE STELLAR SYSTEM](http://adsabs.harvard.edu/abs/2024AJ....168..143R)  
+15. [HARO 5-2: A NEW PRE-MAIN-SEQUENCE QUADRUPLE STELLAR SYSTEM](http://adsabs.harvard.edu/abs/2024AJ....168..143R)  
 Reipurth, Bo, Briceño, C., Geballe, T. R., et al.    
 2024, refereed ([2024AJ....168..143R](http://adsabs.harvard.edu/abs/2024AJ....168..143R))  
 
-17. [ANALYSIS OF KIC 7023917: SPOTTED LOW-MASS RATIO ECLIPSING BINARY WITH Δ SCUTI PULSATIONS](http://adsabs.harvard.edu/abs/2024AJ....168..171G)  
+16. [ANALYSIS OF KIC 7023917: SPOTTED LOW-MASS RATIO ECLIPSING BINARY WITH Δ SCUTI PULSATIONS](http://adsabs.harvard.edu/abs/2024AJ....168..171G)  
 Gajdoš, Pavol, Parimucha, Štefan, Skarka, Marek, et al.    
 2024, refereed ([2024AJ....168..171G](http://adsabs.harvard.edu/abs/2024AJ....168..171G))  
 
-18. [FLARING ACTIVITY FOR LOW-MASS STARS IN THE Β PICTORIS MOVING GROUP](http://adsabs.harvard.edu/abs/2024AJ....168..173E)  
+17. [FLARING ACTIVITY FOR LOW-MASS STARS IN THE Β PICTORIS MOVING GROUP](http://adsabs.harvard.edu/abs/2024AJ....168..173E)  
 Ealy, Jordan N., Schlieder, Joshua E., Komacek, Thaddeus D., et al.    
 2024, refereed ([2024AJ....168..173E](http://adsabs.harvard.edu/abs/2024AJ....168..173E))  
 
-19. [ASTEROID PERIOD SOLUTIONS FROM COMBINED DENSE AND SPARSE PHOTOMETRY](http://adsabs.harvard.edu/abs/2024AJ....168..181G)  
+18. [ASTEROID PERIOD SOLUTIONS FROM COMBINED DENSE AND SPARSE PHOTOMETRY](http://adsabs.harvard.edu/abs/2024AJ....168..181G)  
 Gowanlock, Michael, Trilling, David E., McNeill, Andrew, et al.    
 2024, refereed ([2024AJ....168..181G](http://adsabs.harvard.edu/abs/2024AJ....168..181G))  
 
-20. [HX VELORUM: ELLIPSOIDAL/ROTATIONAL BINARY WITH Β CEP TYPE COMPONENT](http://adsabs.harvard.edu/abs/2024AN....34540028G)  
+19. [HX VELORUM: ELLIPSOIDAL/ROTATIONAL BINARY WITH Β CEP TYPE COMPONENT](http://adsabs.harvard.edu/abs/2024AN....34540028G)  
 Gürol, B.    
 2024, refereed ([2024AN....34540028G](http://adsabs.harvard.edu/abs/2024AN....34540028G))  
 
-21. [INVESTIGATION OF THE STABILITY OF THE EXTREME LOW MASS RATIO CONTACT BINARIES SX CRV AND XX SEX, WHICH ARE ANALYSED PHOTOMETRICALLY](http://adsabs.harvard.edu/abs/2024AdSpR..74.4223Y)  
+20. [INVESTIGATION OF THE STABILITY OF THE EXTREME LOW MASS RATIO CONTACT BINARIES SX CRV AND XX SEX, WHICH ARE ANALYSED PHOTOMETRICALLY](http://adsabs.harvard.edu/abs/2024AdSpR..74.4223Y)  
 Yıldırım, M. F.    
 2024, refereed ([2024AdSpR..74.4223Y](http://adsabs.harvard.edu/abs/2024AdSpR..74.4223Y))  
 
-22. [A PORTRAIT OF THE ROTATION OF ULTRA-COOL DWARFS REVEALED BY TESS](http://adsabs.harvard.edu/abs/2024ApJ...973..106F)  
+21. [A PORTRAIT OF THE ROTATION OF ULTRA-COOL DWARFS REVEALED BY TESS](http://adsabs.harvard.edu/abs/2024ApJ...973..106F)  
 Fontinele, D. O., de Lima, P. D. S., Messias, Y. S., et al.    
 2024, refereed ([2024ApJ...973..106F](http://adsabs.harvard.edu/abs/2024ApJ...973..106F))  
 
-23. [WASP 0346-21: AN EL CVN-TYPE ECLIPSING BINARY WITH MULTIPERIODIC PULSATIONS IN A TRIPLE SYSTEM](http://adsabs.harvard.edu/abs/2024ApJ...973..114L)  
+22. [WASP 0346-21: AN EL CVN-TYPE ECLIPSING BINARY WITH MULTIPERIODIC PULSATIONS IN A TRIPLE SYSTEM](http://adsabs.harvard.edu/abs/2024ApJ...973..114L)  
 Lee, Jae Woo, Hong, Kyeongsoo, Jeong, Min-Ji, et al.    
 2024, refereed ([2024ApJ...973..114L](http://adsabs.harvard.edu/abs/2024ApJ...973..114L))  
 
-24. [CAUGHT IN THE ACT: OBSERVATIONS OF THE DOUBLE-MODE RR LYRAE V338 BOO DURING THE DISAPPEARANCE OF A PULSATION MODE](http://adsabs.harvard.edu/abs/2024ApJ...973..157C)  
+23. [CAUGHT IN THE ACT: OBSERVATIONS OF THE DOUBLE-MODE RR LYRAE V338 BOO DURING THE DISAPPEARANCE OF A PULSATION MODE](http://adsabs.harvard.edu/abs/2024ApJ...973..157C)  
 Carrell, Kenneth, Wilhelm, Ronald, Tom, Andrew, et al.    
 2024, refereed ([2024ApJ...973..157C](http://adsabs.harvard.edu/abs/2024ApJ...973..157C))  
 
-25. [MASSIVE WHITE DWARFS IN THE 100 PC SAMPLE: MAGNETISM, ROTATION, PULSATIONS, AND THE MERGER FRACTION](http://adsabs.harvard.edu/abs/2024ApJ...974...12J)  
+24. [MASSIVE WHITE DWARFS IN THE 100 PC SAMPLE: MAGNETISM, ROTATION, PULSATIONS, AND THE MERGER FRACTION](http://adsabs.harvard.edu/abs/2024ApJ...974...12J)  
 Jewett, Gracyn, Kilic, Mukremin, Bergeron, Pierre, et al.    
 2024, refereed ([2024ApJ...974...12J](http://adsabs.harvard.edu/abs/2024ApJ...974...12J))  
 
-26. [TIC 290061484: A TRIPLY ECLIPSING TRIPLE SYSTEM WITH THE SHORTEST KNOWN OUTER PERIOD OF 24.5 DAYS](http://adsabs.harvard.edu/abs/2024ApJ...974...25K)  
+25. [TIC 290061484: A TRIPLY ECLIPSING TRIPLE SYSTEM WITH THE SHORTEST KNOWN OUTER PERIOD OF 24.5 DAYS](http://adsabs.harvard.edu/abs/2024ApJ...974...25K)  
 Kostov, V. B., Rappaport, S. A., Borkovits, T., et al.    
 2024, refereed ([2024ApJ...974...25K](http://adsabs.harvard.edu/abs/2024ApJ...974...25K))  
 
-27. [TESS ASTEROSEISMOLOGY OF Β HYDRI: A SUBGIANT WITH A BORN-AGAIN DYNAMO](http://adsabs.harvard.edu/abs/2024ApJ...974...31M)  
+26. [TESS ASTEROSEISMOLOGY OF Β HYDRI: A SUBGIANT WITH A BORN-AGAIN DYNAMO](http://adsabs.harvard.edu/abs/2024ApJ...974...31M)  
 Metcalfe, Travis S., van Saders, Jennifer L., Huber, Daniel, et al.    
 2024, refereed ([2024ApJ...974...31M](http://adsabs.harvard.edu/abs/2024ApJ...974...31M))  
 
-28. [KM UMA: AN ACTIVE SHORT-PERIOD DETACHED ECLIPSING BINARY IN A HIERARCHICAL QUADRUPLE SYSTEM](http://adsabs.harvard.edu/abs/2024ApJ...974..103M)  
+27. [KM UMA: AN ACTIVE SHORT-PERIOD DETACHED ECLIPSING BINARY IN A HIERARCHICAL QUADRUPLE SYSTEM](http://adsabs.harvard.edu/abs/2024ApJ...974..103M)  
 Meng, Fangbin, Zhu, Liying, Liu, Nianping, et al.    
 2024, refereed ([2024ApJ...974..103M](http://adsabs.harvard.edu/abs/2024ApJ...974..103M))  
 
-29. [THE PHOTOMETRIC STUDY OF EX DRA: A DWARF NOVA EXHIBITING A TITLED AND PRECESSIONAL DISK](http://adsabs.harvard.edu/abs/2024ApJ...974..130L)  
+28. [THE PHOTOMETRIC STUDY OF EX DRA: A DWARF NOVA EXHIBITING A TITLED AND PRECESSIONAL DISK](http://adsabs.harvard.edu/abs/2024ApJ...974..130L)  
 Liu, Wei, Qian, Sheng-Bang, Shi, Xiang-Dong, et al.    
 2024, refereed ([2024ApJ...974..130L](http://adsabs.harvard.edu/abs/2024ApJ...974..130L))  
 
-30. [TILTED DISK PRECESSION AND NEGATIVE SUPERHUMPS IN HS 2325+8205: A MULTIWINDOW ANALYSIS](http://adsabs.harvard.edu/abs/2024ApJ...974..132S)  
+29. [TILTED DISK PRECESSION AND NEGATIVE SUPERHUMPS IN HS 2325+8205: A MULTIWINDOW ANALYSIS](http://adsabs.harvard.edu/abs/2024ApJ...974..132S)  
 Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
 2024, refereed ([2024ApJ...974..132S](http://adsabs.harvard.edu/abs/2024ApJ...974..132S))  
 
-31. [XMM-NEWTON PERSPECTIVE OF THE UNIQUE MAGNETIC BINARY-Ε LUPI](http://adsabs.harvard.edu/abs/2024ApJ...974..182B)  
+30. [XMM-NEWTON PERSPECTIVE OF THE UNIQUE MAGNETIC BINARY-Ε LUPI](http://adsabs.harvard.edu/abs/2024ApJ...974..182B)  
 Biswas, Ayan, Wade, Gregg A., Chandra, Poonam, et al.    
 2024, refereed ([2024ApJ...974..182B](http://adsabs.harvard.edu/abs/2024ApJ...974..182B))  
 
-32. [FIVE NEW HEARTBEAT STAR SYSTEMS WITH TIDALLY EXCITED OSCILLATIONS DISCOVERED BASED ON TESS DATA](http://adsabs.harvard.edu/abs/2024ApJ...974..278L)  
+31. [FIVE NEW HEARTBEAT STAR SYSTEMS WITH TIDALLY EXCITED OSCILLATIONS DISCOVERED BASED ON TESS DATA](http://adsabs.harvard.edu/abs/2024ApJ...974..278L)  
 Li, Min-Yu, Qian, Sheng-Bang, Zhou, Ai-Ying, et al.    
 2024, refereed ([2024ApJ...974..278L](http://adsabs.harvard.edu/abs/2024ApJ...974..278L))  
 
-33. [OPTICAL CONTINUUM REVERBERATION MAPPING OF A CANDIDATE IMBH IN A NEARBY SEYFERT 1 GALAXY](http://adsabs.harvard.edu/abs/2024ApJ...974..288Z)  
+32. [OPTICAL CONTINUUM REVERBERATION MAPPING OF A CANDIDATE IMBH IN A NEARBY SEYFERT 1 GALAXY](http://adsabs.harvard.edu/abs/2024ApJ...974..288Z)  
 Zuo, Wenwen, Guo, Hengxiao, Sun, Jingbo, et al.    
 2024, refereed ([2024ApJ...974..288Z](http://adsabs.harvard.edu/abs/2024ApJ...974..288Z))  
 
-34. [PHOTOMETRIC WHITE DWARF ROTATION](http://adsabs.harvard.edu/abs/2024ApJ...974..314O)  
+33. [PHOTOMETRIC WHITE DWARF ROTATION](http://adsabs.harvard.edu/abs/2024ApJ...974..314O)  
 Oliveira da Rosa, Gabriela, Kepler, S. O., Soethe, L. T. T., et al.    
 2024, refereed ([2024ApJ...974..314O](http://adsabs.harvard.edu/abs/2024ApJ...974..314O))  
 
-35. [IDENTIFYING LIGHT-CURVE SIGNALS WITH A DEEP-LEARNING-BASED OBJECT DETECTION ALGORITHM. II. A GENERAL LIGHT-CURVE CLASSIFICATION FRAMEWORK](http://adsabs.harvard.edu/abs/2024ApJS..274...29C)  
+34. [IDENTIFYING LIGHT-CURVE SIGNALS WITH A DEEP-LEARNING-BASED OBJECT DETECTION ALGORITHM. II. A GENERAL LIGHT-CURVE CLASSIFICATION FRAMEWORK](http://adsabs.harvard.edu/abs/2024ApJS..274...29C)  
 Cui, Kaiming, Armstrong, D. J., Feng, Fabo    
 2024, refereed ([2024ApJS..274...29C](http://adsabs.harvard.edu/abs/2024ApJS..274...29C))  
 
-36. [DETECTING QUASIPERIODIC PULSATIONS IN SOLAR AND STELLAR FLARES WITH A NEURAL NETWORK](http://adsabs.harvard.edu/abs/2024ApJS..274...31B)  
+35. [DETECTING QUASIPERIODIC PULSATIONS IN SOLAR AND STELLAR FLARES WITH A NEURAL NETWORK](http://adsabs.harvard.edu/abs/2024ApJS..274...31B)  
 Belov, Sergey A., Kolotkov, Dmitrii Y., Nakariakov, Valery M., et al.    
 2024, refereed ([2024ApJS..274...31B](http://adsabs.harvard.edu/abs/2024ApJS..274...31B))  
 
-37. [PHYSICAL PARAMETERS AND MAGNETIC ACTIVITY OF M-TYPE STARS BASED ON THE LAMOST DR9, SDSS, AND TESS SURVEYS](http://adsabs.harvard.edu/abs/2024ApJS..274...36L)  
+36. [PHYSICAL PARAMETERS AND MAGNETIC ACTIVITY OF M-TYPE STARS BASED ON THE LAMOST DR9, SDSS, AND TESS SURVEYS](http://adsabs.harvard.edu/abs/2024ApJS..274...36L)  
 Li, Wenjie, Zhang, Li-yun, Su, Tianhao, et al.    
 2024, refereed ([2024ApJS..274...36L](http://adsabs.harvard.edu/abs/2024ApJS..274...36L))  
 
-38. [TWENTY-THREE NEW HEARTBEAT STAR SYSTEMS DISCOVERED BASED ON TESS DATA](http://adsabs.harvard.edu/abs/2024MNRAS.534..281L)  
+37. [TWENTY-THREE NEW HEARTBEAT STAR SYSTEMS DISCOVERED BASED ON TESS DATA](http://adsabs.harvard.edu/abs/2024MNRAS.534..281L)  
 Li, Min-Yu, Qian, Sheng-Bang, Zhou, Ai-Ying, et al.    
 2024, refereed ([2024MNRAS.534..281L](http://adsabs.harvard.edu/abs/2024MNRAS.534..281L))  
 
-39. [THE FIRST STUDY OF THE SHORT PERIOD CONTACT BINARY V415 GEM](http://adsabs.harvard.edu/abs/2024NewA..11102233Z)  
+38. [THE FIRST STUDY OF THE SHORT PERIOD CONTACT BINARY V415 GEM](http://adsabs.harvard.edu/abs/2024NewA..11102233Z)  
 Zhang, Bin, Gao, Yidan    
 2024, refereed ([2024NewA..11102233Z](http://adsabs.harvard.edu/abs/2024NewA..11102233Z))  
 
-40. [EXPLORING THE PHYSICAL PROPERTIES OF THE Γ DOR BINARY STAR RX DRA WITH PHOTOMETRY AND ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2024NewA..11102234L)  
+39. [EXPLORING THE PHYSICAL PROPERTIES OF THE Γ DOR BINARY STAR RX DRA WITH PHOTOMETRY AND ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2024NewA..11102234L)  
 Li, Ping, Liao, Wen-Ping, Zeng, Qi-Huan, et al.    
 2024, refereed ([2024NewA..11102234L](http://adsabs.harvard.edu/abs/2024NewA..11102234L))  
 
-41. [RESOLVING THE PULSATION CONTENTS OF 13 Δ SCUTI STARS WITH TESS AND K2](http://adsabs.harvard.edu/abs/2024NewA..11102235Z)  
+40. [RESOLVING THE PULSATION CONTENTS OF 13 Δ SCUTI STARS WITH TESS AND K2](http://adsabs.harvard.edu/abs/2024NewA..11102235Z)  
 Zhou, Ai-Ying    
 2024, refereed ([2024NewA..11102235Z](http://adsabs.harvard.edu/abs/2024NewA..11102235Z))  
 
-42. [A PHOTOMETRIC STUDY OF A TOTAL-ECLIPSE CONTACT BINARY V458 MON](http://adsabs.harvard.edu/abs/2024NewA..11102250Z)  
+41. [A PHOTOMETRIC STUDY OF A TOTAL-ECLIPSE CONTACT BINARY V458 MON](http://adsabs.harvard.edu/abs/2024NewA..11102250Z)  
 Zubairi, Ahmed Waqas, Ergang, Zhao, He, Jiajia, et al.    
 2024, refereed ([2024NewA..11102250Z](http://adsabs.harvard.edu/abs/2024NewA..11102250Z))  
 
-43. [A COMPREHENSIVE PHOTOMETRIC ANALYSIS OF THE SHALLOW CONTACT BINARY IR VIR](http://adsabs.harvard.edu/abs/2024NewA..11102252Y)  
+42. [A COMPREHENSIVE PHOTOMETRIC ANALYSIS OF THE SHALLOW CONTACT BINARY IR VIR](http://adsabs.harvard.edu/abs/2024NewA..11102252Y)  
 Yıldırım, M. F.    
 2024, refereed ([2024NewA..11102252Y](http://adsabs.harvard.edu/abs/2024NewA..11102252Y))  
 
-44. [VALIDATING GAIA DR3 PULSATING VARIABLE CLASSIFICATIONS WITH TESS. II. 360+ ECLIPSING BINARIES WITH Δ SCUTI AND Γ DORADUS COMPONENTS](http://adsabs.harvard.edu/abs/2024RNAAS...8..249Z)  
+43. [VALIDATING GAIA DR3 PULSATING VARIABLE CLASSIFICATIONS WITH TESS. II. 360+ ECLIPSING BINARIES WITH Δ SCUTI AND Γ DORADUS COMPONENTS](http://adsabs.harvard.edu/abs/2024RNAAS...8..249Z)  
 Zhou, Ai-Ying    
 2024, not refereed ([2024RNAAS...8..249Z](http://adsabs.harvard.edu/abs/2024RNAAS...8..249Z))  
 
-45. [TESS DETECTIONS OF PULSATIONS IN OF?P STARS IN THE MAGELLANIC CLOUDS](http://adsabs.harvard.edu/abs/2024RNAAS...8..261H)  
+44. [TESS DETECTIONS OF PULSATIONS IN OF?P STARS IN THE MAGELLANIC CLOUDS](http://adsabs.harvard.edu/abs/2024RNAAS...8..261H)  
 Hubrig, S., Jayaraman, R., Järvinen, S. P.    
 2024, not refereed ([2024RNAAS...8..261H](http://adsabs.harvard.edu/abs/2024RNAAS...8..261H))  
 
-46. [THE CATALOGUE OF $\DELTA$ SCT PULSATORS IN BINARY SYSTEMS IN 2024](http://adsabs.harvard.edu/abs/2024arXiv241000763L)  
-Liakos, Alexios    
-2024, not refereed ([2024arXiv241000763L](http://adsabs.harvard.edu/abs/2024arXiv241000763L))  
+45. [REDISCUSSION OF ECLIPSING BINARIES. PAPER 20: HO TEL CHECKOUT](http://adsabs.harvard.edu/abs/2024Obs...144..242S)  
+Southworth, John    
+2024, not refereed ([2024Obs...144..242S](http://adsabs.harvard.edu/abs/2024Obs...144..242S))  
 
-47. [ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2024arXiv241001715B)  
+46. [ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2024arXiv241001715B)  
 Bowman, Dominic M., Bugnet, Lisa    
 2024, not refereed ([2024arXiv241001715B](http://adsabs.harvard.edu/abs/2024arXiv241001715B))  
 
-48. [THE SOLAR NEIGHBORHOOD LII: M DWARF TWIN BINARIES -- PRESUMED IDENTICAL TWINS APPEAR FRATERNAL IN VARIABILITY, ROTATION, H$\ALPHA$, AND X-RAYS](http://adsabs.harvard.edu/abs/2024arXiv241004726C)  
-Couperus, Andrew A., Henry, Todd J., Osten, Rachel A., et al.    
-2024, not refereed ([2024arXiv241004726C](http://adsabs.harvard.edu/abs/2024arXiv241004726C))  
-
-49. [MULTIWAVELENGTH CAMPAIGN OBSERVATIONS OF A YOUNG SOLAR-TYPE STAR, EK DRACONIS. II. UNDERSTANDING PROMINENCE ERUPTION THROUGH DATA-DRIVEN MODELING AND OBSERVED MAGNETIC ENVIRONMENT](http://adsabs.harvard.edu/abs/2024arXiv241005523N)  
-Namekata, Kosuke, Ikuta, Kai, Petit, Pascal, et al.    
-2024, not refereed ([2024arXiv241005523N](http://adsabs.harvard.edu/abs/2024arXiv241005523N))  
-
-50. [SEARCHING FOR THE MHZ VARIABILITY IN THE TESS OBSERVATIONS OF NOVA-LIKE CATACLYSMIC VARIABLES](http://adsabs.harvard.edu/abs/2024arXiv241007898D)  
-Dobrotka, A., Magdolen, J., Janikova, D.    
-2024, not refereed ([2024arXiv241007898D](http://adsabs.harvard.edu/abs/2024arXiv241007898D))  
-
-51. [THE FIRST HIGH FREQUENCY TECHNOSIGNATURE SEARCH SURVEY WITH THE SARDINIA RADIO TELESCOPE](http://adsabs.harvard.edu/abs/2024arXiv241009288M)  
-Manunza, Lorenzo, Vendrame, Alice, Pizzuto, Luca, et al.    
-2024, not refereed ([2024arXiv241009288M](http://adsabs.harvard.edu/abs/2024arXiv241009288M))  
-
-52. [CONVECTION, ROTATION, AND MAGNETIC ACTIVITY OF SOLAR-LIKE STARS FROM ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2024arXiv241009785M)  
+47. [CONVECTION, ROTATION, AND MAGNETIC ACTIVITY OF SOLAR-LIKE STARS FROM ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2024arXiv241009785M)  
 Mathur, Savita    
 2024, not refereed ([2024arXiv241009785M](http://adsabs.harvard.edu/abs/2024arXiv241009785M))  
 
-53. [HOT SUBDWARF STARS](http://adsabs.harvard.edu/abs/2024arXiv241011663H)  
+48. [HOT SUBDWARF STARS](http://adsabs.harvard.edu/abs/2024arXiv241011663H)  
 Heber, Ulrich    
 2024, not refereed ([2024arXiv241011663H](http://adsabs.harvard.edu/abs/2024arXiv241011663H))  
 
-54. [PHOTOMETRIC DETECTION OF INTERNAL GRAVITY WAVES IN UPPER MAIN-SEQUENCE STARS. IV. COMPARABLE STOCHASTIC LOW-FREQUENCY VARIABILITY IN SMC, LMC, AND GALACTIC MASSIVE STARS](http://adsabs.harvard.edu/abs/2024arXiv241012726B)  
-Bowman, Dominic M., Van Daele, Pieterjan, Michielsen, Mathias, et al.    
-2024, not refereed ([2024arXiv241012726B](http://adsabs.harvard.edu/abs/2024arXiv241012726B))  
-
-55. [THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2024arXiv241012905W)  
+49. [THE TRANSITING EXOPLANET SURVEY SATELLITE](http://adsabs.harvard.edu/abs/2024arXiv241012905W)  
 Winn, Joshua N.    
 2024, not refereed ([2024arXiv241012905W](http://adsabs.harvard.edu/abs/2024arXiv241012905W))  
-
-56. [A SEARCH FOR SELF-LENSING BINARIES WITH TESS AND CONSTRAINTS ON THEIR OCCURRENCE RATE](http://adsabs.harvard.edu/abs/2024arXiv241013939Y)  
-Yamaguchi, Natsuko, El-Badry, Kareem    
-2024, not refereed ([2024arXiv241013939Y](http://adsabs.harvard.edu/abs/2024arXiv241013939Y))  
-
-57. [HIP 8522: A PUZZLING YOUNG SOLAR TWIN WITH THE LOWEST DETECTED LITHIUM](http://adsabs.harvard.edu/abs/2024arXiv241017590Y)  
-Yana Galarza, Jhon, Lorenzo-Oliveira, Diego, Ferreira, Thiago, et al.    
-2024, not refereed ([2024arXiv241017590Y](http://adsabs.harvard.edu/abs/2024arXiv241017590Y))  
 
 
 2024-09
 -------
 
-1. [GAMMA-RAY BURSTS OBSERVED BY THE TRANSITING EXOPLANET SURVEY SATELLITE: PROMPT OPTICAL COUNTERPARTS AND AFTERGLOWS OF SWIFT-XRT-LOCALIZED GAMMA-RAY BURSTS](http://adsabs.harvard.edu/abs/2024ApJ...972..162J)  
-Jayaraman, Rahul, Fausnaugh, Michael, Ricker, George R., et al.    
-2024, refereed ([2024ApJ...972..162J](http://adsabs.harvard.edu/abs/2024ApJ...972..162J))  
-
-2. [HIGH-ENERGY SPECTRA OF LTT 1445A AND GJ 486 REVEAL FLARES AND ACTIVITY](http://adsabs.harvard.edu/abs/2024A&A...689A..48D)  
+1. [HIGH-ENERGY SPECTRA OF LTT 1445A AND GJ 486 REVEAL FLARES AND ACTIVITY](http://adsabs.harvard.edu/abs/2024A&A...689A..48D)  
 Diamond-Lowe, H., King, G. W., Youngblood, A., et al.    
 2024, refereed ([2024A&A...689A..48D](http://adsabs.harvard.edu/abs/2024A&A...689A..48D))  
 
-3. [SYMBIOTIC STARS IN X-RAYS: IV. XMM-NEWTON, SWIFT, AND TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024A&A...689A..86L)  
+2. [SYMBIOTIC STARS IN X-RAYS: IV. XMM-NEWTON, SWIFT, AND TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024A&A...689A..86L)  
 Lima, I. J., Luna, G. J. M., Mukai, K., et al.    
 2024, refereed ([2024A&A...689A..86L](http://adsabs.harvard.edu/abs/2024A&A...689A..86L))  
 
-4. [PROPERTIES OF FLARE EVENTS BASED ON LIGHT CURVES FROM THE TESS SURVEY: II. 20-SECOND CADENCE](http://adsabs.harvard.edu/abs/2024A&A...689A.103Z)  
+3. [PROPERTIES OF FLARE EVENTS BASED ON LIGHT CURVES FROM THE TESS SURVEY: II. 20-SECOND CADENCE](http://adsabs.harvard.edu/abs/2024A&A...689A.103Z)  
 Zhang, Liyun, Yang, Zilu, Su, Tianhao, et al.    
 2024, refereed ([2024A&A...689A.103Z](http://adsabs.harvard.edu/abs/2024A&A...689A.103Z))  
 
-5. [UNVEILING THE NATURE OF TWO DWARF NOVAE: CRTS J080846.2+313106 AND V416 DRA](http://adsabs.harvard.edu/abs/2024A&A...689A.158J)  
+4. [UNVEILING THE NATURE OF TWO DWARF NOVAE: CRTS J080846.2+313106 AND V416 DRA](http://adsabs.harvard.edu/abs/2024A&A...689A.158J)  
 Joshi, Arti, Catelan, Márcio, Scaringi, Simone, et al.    
 2024, refereed ([2024A&A...689A.158J](http://adsabs.harvard.edu/abs/2024A&A...689A.158J))  
 
-6. [KIC 4150611: A QUADRUPLY ECLIPSING HEPTUPLE STAR SYSTEM WITH A G-MODE PERIOD-SPACING PATTERN: ECLIPSE MODELLING OF THE TRIPLE AND SPECTROSCOPIC ANALYSIS](http://adsabs.harvard.edu/abs/2024A&A...689A.164K)  
+5. [KIC 4150611: A QUADRUPLY ECLIPSING HEPTUPLE STAR SYSTEM WITH A G-MODE PERIOD-SPACING PATTERN: ECLIPSE MODELLING OF THE TRIPLE AND SPECTROSCOPIC ANALYSIS](http://adsabs.harvard.edu/abs/2024A&A...689A.164K)  
 Kemp, Alex, Tkachenko, Andrew, Torres, Guillermo, et al.    
 2024, refereed ([2024A&A...689A.164K](http://adsabs.harvard.edu/abs/2024A&A...689A.164K))  
 
-7. [THE ENIGMATIC DOUBLE-PEAKED STRIPPED-ENVELOPE SN 2023AEW](http://adsabs.harvard.edu/abs/2024A&A...689A.182K)  
+6. [THE ENIGMATIC DOUBLE-PEAKED STRIPPED-ENVELOPE SN 2023AEW](http://adsabs.harvard.edu/abs/2024A&A...689A.182K)  
 Kangas, T., Kuncarayakti, H., Nagao, T., et al.    
 2024, refereed ([2024A&A...689A.182K](http://adsabs.harvard.edu/abs/2024A&A...689A.182K))  
 
-8. [MAGNETISM IN LAMOST CP STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2024A&A...689A.208T)  
+7. [MAGNETISM IN LAMOST CP STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2024A&A...689A.208T)  
 Thomson-Paressant, K., Neiner, C., Labadie-Bartz, J.    
 2024, refereed ([2024A&A...689A.208T](http://adsabs.harvard.edu/abs/2024A&A...689A.208T))  
 
-9. [SEARCHING FOR THE STELLAR CYCLES OF LOW-MASS STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2024A&A...689A.288R)  
+8. [SEARCHING FOR THE STELLAR CYCLES OF LOW-MASS STARS USING TESS DATA](http://adsabs.harvard.edu/abs/2024A&A...689A.288R)  
 Ramsay, Gavin, Hakala, Pasi, Gerry Doyle, J.    
 2024, refereed ([2024A&A...689A.288R](http://adsabs.harvard.edu/abs/2024A&A...689A.288R))  
 
-10. [TESS OBSERVATIONS OF NON-BE FAST ROTATORS](http://adsabs.harvard.edu/abs/2024A&A...689A.320N)  
+9. [TESS OBSERVATIONS OF NON-BE FAST ROTATORS](http://adsabs.harvard.edu/abs/2024A&A...689A.320N)  
 Nazé, Yaël, Britavskiy, Nikolay, Labadie-Bartz, Jonathan    
 2024, refereed ([2024A&A...689A.320N](http://adsabs.harvard.edu/abs/2024A&A...689A.320N))  
 
-11. [TESS LIGHT CURVES OF CATACLYSMIC VARIABLES. V. IMPROVED OR CORRECTED ORBITAL PERIODS OF 53 SYSTEMS](http://adsabs.harvard.edu/abs/2024AJ....168..121B)  
+10. [TESS LIGHT CURVES OF CATACLYSMIC VARIABLES. V. IMPROVED OR CORRECTED ORBITAL PERIODS OF 53 SYSTEMS](http://adsabs.harvard.edu/abs/2024AJ....168..121B)  
 Bruch, Albert    
 2024, refereed ([2024AJ....168..121B](http://adsabs.harvard.edu/abs/2024AJ....168..121B))  
 
-12. [A PUZZLING ECLIPSING BINARY: KZ VIRGINIS](http://adsabs.harvard.edu/abs/2024AcA....74...27G)  
+11. [A PUZZLING ECLIPSING BINARY: KZ VIRGINIS](http://adsabs.harvard.edu/abs/2024AcA....74...27G)  
 Grüsoytrak-Mutlay, SH., . Gürol, B.    
 2024, refereed ([2024AcA....74...27G](http://adsabs.harvard.edu/abs/2024AcA....74...27G))  
+
+12. [BSN: FIRST PHOTOMETRIC LIGHT CURVE ANALYSIS OF TWO W-TYPE CONTACT BINARY SYSTEMS OP BOO AND V0511 CAM](http://adsabs.harvard.edu/abs/2024Ap.....67..299P)  
+Poro, A., Tanriver, M., Keskin, A., et al.    
+2024, refereed ([2024Ap.....67..299P](http://adsabs.harvard.edu/abs/2024Ap.....67..299P))  
 
 13. [A BROWN DWARF ORBITING AROUND THE PLANETARY-NEBULA CENTRAL BINARY KV VEL](http://adsabs.harvard.edu/abs/2024ApJ...972...13Q)  
 Qian, S. -B., Zhu, L. -Y., Li, F. -X., et al.    
@@ -1408,173 +1299,153 @@ Gootkin, Keyan, Hon, Marc, Huber, Daniel, et al.
 Zheng, Chuanjie, Huang, Yang, Liu, Jifeng, et al.    
 2024, refereed ([2024ApJ...972..151Z](http://adsabs.harvard.edu/abs/2024ApJ...972..151Z))  
 
-19. [EXPLORATION OF A DISSOLVING ASSOCIATION MADE UP OF IC 2602, TUCANA–HOROLOGIUM, AND OTHER YOUNG COMOVING GROUPS](http://adsabs.harvard.edu/abs/2024ApJ...972..178P)  
+19. [GAMMA-RAY BURSTS OBSERVED BY THE TRANSITING EXOPLANET SURVEY SATELLITE: PROMPT OPTICAL COUNTERPARTS AND AFTERGLOWS OF SWIFT-XRT-LOCALIZED GAMMA-RAY BURSTS](http://adsabs.harvard.edu/abs/2024ApJ...972..162J)  
+Jayaraman, Rahul, Fausnaugh, Michael, Ricker, George R., et al.    
+2024, refereed ([2024ApJ...972..162J](http://adsabs.harvard.edu/abs/2024ApJ...972..162J))  
+
+20. [EXPLORATION OF A DISSOLVING ASSOCIATION MADE UP OF IC 2602, TUCANA–HOROLOGIUM, AND OTHER YOUNG COMOVING GROUPS](http://adsabs.harvard.edu/abs/2024ApJ...972..178P)  
 Popinchalk, Mark, Faherty, Jacqueline K., Gagné, Jonathan, et al.    
 2024, refereed ([2024ApJ...972..178P](http://adsabs.harvard.edu/abs/2024ApJ...972..178P))  
 
-20. [ANALYSIS OF THE STELLAR OCCULTATIONS DURING THE UNPRECEDENTED LONG-DURATION FLARE](http://adsabs.harvard.edu/abs/2024ApJ...972L..11B)  
+21. [ANALYSIS OF THE STELLAR OCCULTATIONS DURING THE UNPRECEDENTED LONG-DURATION FLARE](http://adsabs.harvard.edu/abs/2024ApJ...972L..11B)  
 Bicz, K., Falewicz, R., Heinzel, P., et al.    
 2024, refereed ([2024ApJ...972L..11B](http://adsabs.harvard.edu/abs/2024ApJ...972L..11B))  
 
-21. [OPTICAL VARIABILITY PROPERTIES OF SOUTHERN TESS BLAZARS](http://adsabs.harvard.edu/abs/2024ApJ...973...10D)  
+22. [OPTICAL VARIABILITY PROPERTIES OF SOUTHERN TESS BLAZARS](http://adsabs.harvard.edu/abs/2024ApJ...973...10D)  
 Dingler, Ryne, Smith, Krista Lynne    
 2024, refereed ([2024ApJ...973...10D](http://adsabs.harvard.edu/abs/2024ApJ...973...10D))  
 
-22. [THE FREQUENCY OF TRANSITING PLANETARY SYSTEMS AROUND POLLUTED WHITE DWARFS](http://adsabs.harvard.edu/abs/2024MNRAS.533.1756R)  
+23. [STUDY OF THE <INLINE-FORMULA ID="IEQ1"><TEX-MATH ID="IEQ1_TEX">\BOLDSYMBOL{\MU}</TEX-MATH></INLINE-FORMULA> CET BINARY WITH SPECKLE INTERFEROMETRIC, PHOTOMETRIC, AND SPECTROSCOPIC TECHNIQUES](http://adsabs.harvard.edu/abs/2024AstBu..79..445D)  
+Dyachenko, V. V., Yakunin, I. A., Bayazitov, R. M., et al.    
+2024, refereed ([2024AstBu..79..445D](http://adsabs.harvard.edu/abs/2024AstBu..79..445D))  
+
+24. [THE FREQUENCY OF TRANSITING PLANETARY SYSTEMS AROUND POLLUTED WHITE DWARFS](http://adsabs.harvard.edu/abs/2024MNRAS.533.1756R)  
 Robert, Akshay, Farihi, Jay, Van Eylen, Vincent, et al.    
 2024, refereed ([2024MNRAS.533.1756R](http://adsabs.harvard.edu/abs/2024MNRAS.533.1756R))  
 
-23. [OPTICALLY QUIET, BUT FUV LOUD: RESULTS FROM COMPARING THE FAR-ULTRAVIOLET PREDICTIONS OF FLARE MODELS WITH TESS AND HST](http://adsabs.harvard.edu/abs/2024MNRAS.533.1894J)  
+25. [OPTICALLY QUIET, BUT FUV LOUD: RESULTS FROM COMPARING THE FAR-ULTRAVIOLET PREDICTIONS OF FLARE MODELS WITH TESS AND HST](http://adsabs.harvard.edu/abs/2024MNRAS.533.1894J)  
 Jackman, James A. G., Shkolnik, Evgenya L., Loyd, R. O. Parke, et al.    
 2024, refereed ([2024MNRAS.533.1894J](http://adsabs.harvard.edu/abs/2024MNRAS.533.1894J))  
 
-24. [EMPIRICAL INSTABILITY STRIP FOR PRE-HE WD IN EL CVN TYPE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2024MNRAS.533.2058C)  
+26. [EMPIRICAL INSTABILITY STRIP FOR PRE-HE WD IN EL CVN TYPE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2024MNRAS.533.2058C)  
 Çakırlı, Ö., Hoyman, B., Özdarcan, O.    
 2024, refereed ([2024MNRAS.533.2058C](http://adsabs.harvard.edu/abs/2024MNRAS.533.2058C))  
 
-25. [TESSILATOR: A ONE-STOP SHOP FOR MEASURING TESS ROTATION PERIODS](http://adsabs.harvard.edu/abs/2024MNRAS.533.2162B)  
+27. [TESSILATOR: A ONE-STOP SHOP FOR MEASURING TESS ROTATION PERIODS](http://adsabs.harvard.edu/abs/2024MNRAS.533.2162B)  
 Binks, A. S., Günther, H. M.    
 2024, refereed ([2024MNRAS.533.2162B](http://adsabs.harvard.edu/abs/2024MNRAS.533.2162B))  
 
-26. [CHARACTERIZATION OF THE Δ SCUTI ECLIPSING BINARY KIC 4851217 AND ITS TERTIARY COMPANION AS WELL AS DETECTION OF TIDALLY TILTED PULSATIONS](http://adsabs.harvard.edu/abs/2024MNRAS.533.2705J)  
+28. [CHARACTERIZATION OF THE Δ SCUTI ECLIPSING BINARY KIC 4851217 AND ITS TERTIARY COMPANION AS WELL AS DETECTION OF TIDALLY TILTED PULSATIONS](http://adsabs.harvard.edu/abs/2024MNRAS.533.2705J)  
 Jennings, Z., Southworth, J., Rappaport, S. A., et al.    
 2024, refereed ([2024MNRAS.533.2705J](http://adsabs.harvard.edu/abs/2024MNRAS.533.2705J))  
 
-27. [THE MULTIPLE NATURE OF CC COM: ONE OF THE ULTRA-SHORT ORBITAL PERIOD LATE-TYPE CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2024PASA...41...65K)  
-Koçak, Dolunay    
-2024, refereed ([2024PASA...41...65K](http://adsabs.harvard.edu/abs/2024PASA...41...65K))  
-
-28. [ORBITAL PERIOD VARIATION ANALYSIS OF THE HS 0705+6700 POST-COMMON ENVELOPE BINARY](http://adsabs.harvard.edu/abs/2024PASA...41...47E)  
+29. [ORBITAL PERIOD VARIATION ANALYSIS OF THE HS 0705+6700 POST-COMMON ENVELOPE BINARY](http://adsabs.harvard.edu/abs/2024PASA...41...47E)  
 Er, Huseyin, Ã-zdönmez, Aykut, Nasiroglu, Ilham, et al.    
 2024, refereed ([2024PASA...41...47E](http://adsabs.harvard.edu/abs/2024PASA...41...47E))  
 
-29. [SIMULTANEOUS SPECTROSCOPIC AND TESS OBSERVATIONS OF THE SHORT-PERIOD ALGOL-TYPE SYSTEM: U CORONAE BOREALIS](http://adsabs.harvard.edu/abs/2024PASJ..tmp...80N)  
-Narusawa, Shin-ya, Nagai, Kazuo, Maeno, Syota, et al.    
-2024, refereed ([2024PASJ..tmp...80N](http://adsabs.harvard.edu/abs/2024PASJ..tmp...80N))  
+30. [THE MULTIPLE NATURE OF CC COM: ONE OF THE ULTRA-SHORT ORBITAL PERIOD LATE-TYPE CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2024PASA...41...65K)  
+Koçak, Dolunay    
+2024, refereed ([2024PASA...41...65K](http://adsabs.harvard.edu/abs/2024PASA...41...65K))  
 
-30. [SPECTROSCOPIC OBSERVATIONS OF TEN GALACTIC WOLF–RAYET STARS AT BOSSCHA OBSERVATORY: DETERMINATION OF STELLAR PARAMETERS AND MASS-LOSS RATES](http://adsabs.harvard.edu/abs/2024RAA....24i5001M)  
+31. [SPECTROSCOPIC OBSERVATIONS OF TEN GALACTIC WOLF–RAYET STARS AT BOSSCHA OBSERVATORY: DETERMINATION OF STELLAR PARAMETERS AND MASS-LOSS RATES](http://adsabs.harvard.edu/abs/2024RAA....24i5001M)  
 Malasan, Hakim Luthfi, Setyo Budi, Bakuh Danang    
 2024, refereed ([2024RAA....24i5001M](http://adsabs.harvard.edu/abs/2024RAA....24i5001M))  
 
-31. [BSN: FIRST PHOTOMETRIC LIGHT CURVE ANALYSIS OF TWO W-TYPE CONTACT BINARY SYSTEMS OP BOO AND V0511 CAM](http://adsabs.harvard.edu/abs/2024Ap.....67..299P)  
-Poro, A., Tanriver, M., Keskin, A., et al.    
-2024, refereed ([2024Ap.....67..299P](http://adsabs.harvard.edu/abs/2024Ap.....67..299P))  
-
-32. [PRECISE AND ACCURATE MASS AND RADIUS MEASUREMENTS OF FIFTEEN GALACTIC RED GIANTS IN DETACHED ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024arXiv240902983R)  
-Rowan, D. M., Stanek, K. Z., Kochanek, C. S., et al.    
-2024, not refereed ([2024arXiv240902983R](http://adsabs.harvard.edu/abs/2024arXiv240902983R))  
-
-33. [A NEW IW AND-TYPE STAR: KARACHURIN 12 WITH TILTED DISKS AND DIVERSE CYCLES](http://adsabs.harvard.edu/abs/2024arXiv240903011S)  
-Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
-2024, not refereed ([2024arXiv240903011S](http://adsabs.harvard.edu/abs/2024arXiv240903011S))  
-
-34. [MODELLING OF ECLIPSING BINARY SYSTEMS WITH PULSATING COMPONENTS AND TERTIARY COMPANIONS: BF VEL AND RR LEP](http://adsabs.harvard.edu/abs/2024arXiv240904359L)  
-Liakos, Alexios, Moriarty, David J. W., Erdem, Ahmet, et al.    
-2024, not refereed ([2024arXiv240904359L](http://adsabs.harvard.edu/abs/2024arXiv240904359L))  
-
-35. [CONFIRMING THE TIDAL TAILS OF THE YOUNG OPEN CLUSTER BLANCO 1 WITH TESS ROTATION PERIODS](http://adsabs.harvard.edu/abs/2024arXiv240907550S)  
-Sha, Lizhou, Vanderburg, Andrew M., Bouma, Luke G., et al.    
-2024, not refereed ([2024arXiv240907550S](http://adsabs.harvard.edu/abs/2024arXiv240907550S))  
-
-36. [SIMULATING SELF-LENSING AND ECLIPSING SIGNALS DUE TO DETACHED COMPACT OBJECTS IN THE TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2024arXiv240912441S)  
-Sajadian, Sedighe, Afshordi, Niayesh    
-2024, not refereed ([2024arXiv240912441S](http://adsabs.harvard.edu/abs/2024arXiv240912441S))  
-
-37. [STUDY OF THE <INLINE-FORMULA ID="IEQ1"><TEX-MATH ID="IEQ1_TEX">\BOLDSYMBOL{\MU}</TEX-MATH></INLINE-FORMULA> CET BINARY WITH SPECKLE INTERFEROMETRIC, PHOTOMETRIC, AND SPECTROSCOPIC TECHNIQUES](http://adsabs.harvard.edu/abs/2024AstBu..79..445D)  
-Dyachenko, V. V., Yakunin, I. A., Bayazitov, R. M., et al.    
-2024, refereed ([2024AstBu..79..445D](http://adsabs.harvard.edu/abs/2024AstBu..79..445D))  
+32. [OPTICAL AND X-RAY VARIABILITY OF <INLINE-FORMULA ID="IEQ1"><TEX-MATH ID="IEQ1_TEX">\BOLDSYMBOL{\GAMMA}</TEX-MATH></INLINE-FORMULA> CAS STARS II: SAO 49725](http://adsabs.harvard.edu/abs/2024AstBu..79..437K)  
+Kholtygin, A. F., Yakunin, I. A., Bukharinov, V. S., et al.    
+2024, refereed ([2024AstBu..79..437K](http://adsabs.harvard.edu/abs/2024AstBu..79..437K))  
 
 
 2024-08
 -------
 
-1. [THE ORBITAL PERIOD OF THE NOVA V1674 HER AS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2024BAAA...65...60L)  
-Luna, G. J. M., Lima, I. J., Orio, M.    
-2024, refereed ([2024BAAA...65...60L](http://adsabs.harvard.edu/abs/2024BAAA...65...60L))  
-
-2. [PERIODIC VARIABLE A-F SPECTRAL TYPE STARS IN THE SOUTHERN TESS CONTINUOUS VIEWING ZONE. I. IDENTIFICATION AND CLASSIFICATION](http://adsabs.harvard.edu/abs/2024A&A...688A..25S)  
+1. [PERIODIC VARIABLE A-F SPECTRAL TYPE STARS IN THE SOUTHERN TESS CONTINUOUS VIEWING ZONE. I. IDENTIFICATION AND CLASSIFICATION](http://adsabs.harvard.edu/abs/2024A&A...688A..25S)  
 Skarka, M., Henzl, Z.    
 2024, refereed ([2024A&A...688A..25S](http://adsabs.harvard.edu/abs/2024A&A...688A..25S))  
 
-3. [SIMULTANEOUS X-RAY AND OPTICAL VARIABILITY OF M DWARFS OBSERVED WITH EROSITA AND TESS](http://adsabs.harvard.edu/abs/2024A&A...688A..49J)  
+2. [SIMULTANEOUS X-RAY AND OPTICAL VARIABILITY OF M DWARFS OBSERVED WITH EROSITA AND TESS](http://adsabs.harvard.edu/abs/2024A&A...688A..49J)  
 Joseph, W. M., Stelzer, B., Magaudda, E., et al.    
 2024, refereed ([2024A&A...688A..49J](http://adsabs.harvard.edu/abs/2024A&A...688A..49J))  
 
-4. [A BENCHMARK RAPIDLY OSCILLATING CHEMICALLY PECULIAR (ROAP) STAR: Α CIR](http://adsabs.harvard.edu/abs/2024A&A...688A..62K)  
+3. [A BENCHMARK RAPIDLY OSCILLATING CHEMICALLY PECULIAR (ROAP) STAR: Α CIR](http://adsabs.harvard.edu/abs/2024A&A...688A..62K)  
 Kallinger, T., Weiss, W. W., Kuschnig, R., et al.    
 2024, refereed ([2024A&A...688A..62K](http://adsabs.harvard.edu/abs/2024A&A...688A..62K))  
 
-5. [NUMERICAL SIMULATIONS OF EXOCOMET TRANSITS: INSIGHTS FROM Β PIC AND KIC 3542116](http://adsabs.harvard.edu/abs/2024A&A...688A..65L)  
+4. [NUMERICAL SIMULATIONS OF EXOCOMET TRANSITS: INSIGHTS FROM Β PIC AND KIC 3542116](http://adsabs.harvard.edu/abs/2024A&A...688A..65L)  
 Luk'yanyk, I., Kulyk, I., Shubina, O., et al.    
 2024, refereed ([2024A&A...688A..65L](http://adsabs.harvard.edu/abs/2024A&A...688A..65L))  
 
-6. [THE LARGEST METALLICITY DIFFERENCE IN TWIN SYSTEMS: HIGH-PRECISION ABUNDANCE ANALYSIS OF THE BENCHMARK PAIR KRIOS AND KRONOS](http://adsabs.harvard.edu/abs/2024A&A...688A..73M)  
+5. [THE LARGEST METALLICITY DIFFERENCE IN TWIN SYSTEMS: HIGH-PRECISION ABUNDANCE ANALYSIS OF THE BENCHMARK PAIR KRIOS AND KRONOS](http://adsabs.harvard.edu/abs/2024A&A...688A..73M)  
 Miquelarena, P., Saffe, C., Flores, M., et al.    
 2024, refereed ([2024A&A...688A..73M](http://adsabs.harvard.edu/abs/2024A&A...688A..73M))  
 
-7. [CONFRONTING SPARSE GAIA DR3 PHOTOMETRY WITH TESS FOR A SAMPLE OF AROUND 60 000 OBAF-TYPE PULSATORS](http://adsabs.harvard.edu/abs/2024A&A...688A..93H)  
+6. [CONFRONTING SPARSE GAIA DR3 PHOTOMETRY WITH TESS FOR A SAMPLE OF AROUND 60 000 OBAF-TYPE PULSATORS](http://adsabs.harvard.edu/abs/2024A&A...688A..93H)  
 Hey, Daniel, Aerts, Conny    
 2024, refereed ([2024A&A...688A..93H](http://adsabs.harvard.edu/abs/2024A&A...688A..93H))  
 
-8. [DISK EVOLUTION STUDY THROUGH IMAGING OF NEARBY YOUNG STARS (DESTINYS): PDS 111, AN OLD T TAURI STAR WITH A YOUNG-LOOKING DISK](http://adsabs.harvard.edu/abs/2024A&A...688A.149D)  
+7. [DISK EVOLUTION STUDY THROUGH IMAGING OF NEARBY YOUNG STARS (DESTINYS): PDS 111, AN OLD T TAURI STAR WITH A YOUNG-LOOKING DISK](http://adsabs.harvard.edu/abs/2024A&A...688A.149D)  
 Derkink, Annelotte, Ginski, Christian, Pinilla, Paola, et al.    
 2024, refereed ([2024A&A...688A.149D](http://adsabs.harvard.edu/abs/2024A&A...688A.149D))  
 
-9. [X-RAYING THE Ζ TAU BINARY SYSTEM](http://adsabs.harvard.edu/abs/2024A&A...688A.181N)  
+8. [X-RAYING THE Ζ TAU BINARY SYSTEM](http://adsabs.harvard.edu/abs/2024A&A...688A.181N)  
 Nazé, Yaël, Motch, Christian, Rauw, Gregor, et al.    
 2024, refereed ([2024A&A...688A.181N](http://adsabs.harvard.edu/abs/2024A&A...688A.181N))  
 
-10. [METAL ACCRETION SCARS MAY BE COMMON ON MAGNETIC, POLLUTED WHITE DWARFS](http://adsabs.harvard.edu/abs/2024A&A...688L..14B)  
+9. [METAL ACCRETION SCARS MAY BE COMMON ON MAGNETIC, POLLUTED WHITE DWARFS](http://adsabs.harvard.edu/abs/2024A&A...688L..14B)  
 Bagnulo, S., Landstreet, J. D., Farihi, J., et al.    
 2024, refereed ([2024A&A...688L..14B](http://adsabs.harvard.edu/abs/2024A&A...688L..14B))  
 
-11. [EVOLUTION OF FLARE ACTIVITY IN GKM STARS YOUNGER THAN 300 MYR OVER FIVE YEARS OF TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024AJ....168...60F)  
+10. [EVOLUTION OF FLARE ACTIVITY IN GKM STARS YOUNGER THAN 300 MYR OVER FIVE YEARS OF TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024AJ....168...60F)  
 Feinstein, Adina D., Seligman, Darryl Z., France, Kevin, et al.    
 2024, refereed ([2024AJ....168...60F](http://adsabs.harvard.edu/abs/2024AJ....168...60F))  
 
-12. [SHORT-PERIOD VARIABLES IN TESS FULL-FRAME IMAGE LIGHT CURVES IDENTIFIED VIA CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2024AJ....168...83O)  
+11. [SHORT-PERIOD VARIABLES IN TESS FULL-FRAME IMAGE LIGHT CURVES IDENTIFIED VIA CONVOLUTIONAL NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2024AJ....168...83O)  
 Olmschenk, Greg, Barry, Richard K., Ishitani Silva, Stela, et al.    
 2024, refereed ([2024AJ....168...83O](http://adsabs.harvard.edu/abs/2024AJ....168...83O))  
 
-13. [ESTABLISHING BASELINES FOR SIX SHORT-PERIOD Δ SCUTI VARIABLES](http://adsabs.harvard.edu/abs/2024AJ....168...94S)  
+12. [ESTABLISHING BASELINES FOR SIX SHORT-PERIOD Δ SCUTI VARIABLES](http://adsabs.harvard.edu/abs/2024AJ....168...94S)  
 Suggs, Christiana Z., Hintz, Eric G., Stephens, Denise C.    
 2024, refereed ([2024AJ....168...94S](http://adsabs.harvard.edu/abs/2024AJ....168...94S))  
 
-14. [PHOTOMETRIC STUDY OF THE ASYNCHRONOUS POLAR IGR J19552+0044 IN 2019-2022](http://adsabs.harvard.edu/abs/2024Ap.....67..149B)  
+13. [PHOTOMETRIC STUDY OF THE ASYNCHRONOUS POLAR IGR J19552+0044 IN 2019-2022](http://adsabs.harvard.edu/abs/2024Ap.....67..149B)  
 Babina, Ju. V., Pavlenko, E. P., Pit, N. V., et al.    
 2024, refereed ([2024Ap.....67..149B](http://adsabs.harvard.edu/abs/2024Ap.....67..149B))  
 
-15. [A MULTIWAVELENGTH, MULTIEPOCH MONITORING CAMPAIGN OF ACCRETION VARIABILITY IN T TAURI STARS FROM THE ODYSSEUS SURVEY. I. HST FAR-UV AND NEAR-UV SPECTRA](http://adsabs.harvard.edu/abs/2024ApJ...970..118W)  
+14. [A MULTIWAVELENGTH, MULTIEPOCH MONITORING CAMPAIGN OF ACCRETION VARIABILITY IN T TAURI STARS FROM THE ODYSSEUS SURVEY. I. HST FAR-UV AND NEAR-UV SPECTRA](http://adsabs.harvard.edu/abs/2024ApJ...970..118W)  
 Wendeborn, John, Espaillat, Catherine C., Lopez, Sophia, et al.    
 2024, refereed ([2024ApJ...970..118W](http://adsabs.harvard.edu/abs/2024ApJ...970..118W))  
 
-16. [FINAL MOMENTS. II. OBSERVATIONAL PROPERTIES AND PHYSICAL MODELING OF CIRCUMSTELLAR-MATERIAL-INTERACTING TYPE II SUPERNOVAE](http://adsabs.harvard.edu/abs/2024ApJ...970..189J)  
+15. [FINAL MOMENTS. II. OBSERVATIONAL PROPERTIES AND PHYSICAL MODELING OF CIRCUMSTELLAR-MATERIAL-INTERACTING TYPE II SUPERNOVAE](http://adsabs.harvard.edu/abs/2024ApJ...970..189J)  
 Jacobson-Galán, W. V., Dessart, L., Davis, K. W., et al.    
 2024, refereed ([2024ApJ...970..189J](http://adsabs.harvard.edu/abs/2024ApJ...970..189J))  
 
-17. [A MULTIWAVELENGTH SURVEY OF NEARBY M DWARFS: OPTICAL AND NEAR-ULTRAVIOLET FLARES AND ACTIVITY WITH CONTEMPORANEOUS TESS, KEPLER/K2, SWIFT, AND HST OBSERVATIONS](http://adsabs.harvard.edu/abs/2024ApJ...971...24P)  
+16. [A MULTIWAVELENGTH SURVEY OF NEARBY M DWARFS: OPTICAL AND NEAR-ULTRAVIOLET FLARES AND ACTIVITY WITH CONTEMPORANEOUS TESS, KEPLER/K2, SWIFT, AND HST OBSERVATIONS](http://adsabs.harvard.edu/abs/2024ApJ...971...24P)  
 Paudel, Rishi R., Barclay, Thomas, Youngblood, Allison, et al.    
 2024, refereed ([2024ApJ...971...24P](http://adsabs.harvard.edu/abs/2024ApJ...971...24P))  
 
-18. [ORBITS AND DYNAMICAL MASSES FOR SIX BINARY SYSTEMS IN THE HYADES CLUSTER](http://adsabs.harvard.edu/abs/2024ApJ...971...31T)  
+17. [ORBITS AND DYNAMICAL MASSES FOR SIX BINARY SYSTEMS IN THE HYADES CLUSTER](http://adsabs.harvard.edu/abs/2024ApJ...971...31T)  
 Torres, Guillermo, Schaefer, Gail H., Stefanik, Robert P., et al.    
 2024, refereed ([2024ApJ...971...31T](http://adsabs.harvard.edu/abs/2024ApJ...971...31T))  
 
-19. [ON THE DETERMINATION OF STELLAR MASS AND BINARY FRACTION OF OPEN CLUSTERS WITHIN 500 PC FROM THE SUN](http://adsabs.harvard.edu/abs/2024ApJ...971...71J)  
+18. [ON THE DETERMINATION OF STELLAR MASS AND BINARY FRACTION OF OPEN CLUSTERS WITHIN 500 PC FROM THE SUN](http://adsabs.harvard.edu/abs/2024ApJ...971...71J)  
 Jiang, Yueyue, Zhong, Jing, Qin, Songmei, et al.    
 2024, refereed ([2024ApJ...971...71J](http://adsabs.harvard.edu/abs/2024ApJ...971...71J))  
 
-20. [A MULTIWAVELENGTH, MULTIEPOCH MONITORING CAMPAIGN OF ACCRETION VARIABILITY IN T TAURI STARS FROM THE ODYSSEUS SURVEY. II. PHOTOMETRIC LIGHT CURVES](http://adsabs.harvard.edu/abs/2024ApJ...971...96W)  
+19. [A MULTIWAVELENGTH, MULTIEPOCH MONITORING CAMPAIGN OF ACCRETION VARIABILITY IN T TAURI STARS FROM THE ODYSSEUS SURVEY. II. PHOTOMETRIC LIGHT CURVES](http://adsabs.harvard.edu/abs/2024ApJ...971...96W)  
 Wendeborn, John, Espaillat, Catherine C., Thanathibodee, Thanawuth, et al.    
 2024, refereed ([2024ApJ...971...96W](http://adsabs.harvard.edu/abs/2024ApJ...971...96W))  
 
-21. [OO LEO: AN ACTIVE CONTACT BINARY WITH POSSIBLE SOLAR-LIKE DIFFERENTIAL ROTATION](http://adsabs.harvard.edu/abs/2024ApJ...971..113M)  
+20. [OO LEO: AN ACTIVE CONTACT BINARY WITH POSSIBLE SOLAR-LIKE DIFFERENTIAL ROTATION](http://adsabs.harvard.edu/abs/2024ApJ...971..113M)  
 Meng, Zi-Bin, Wu, Pei-Ru, Yu, Yun-Xia, et al.    
 2024, refereed ([2024ApJ...971..113M](http://adsabs.harvard.edu/abs/2024ApJ...971..113M))  
 
-22. [THE WHITE-LIGHT SUPERFLARES FROM COOL STARS IN GWAC TRIGGERS](http://adsabs.harvard.edu/abs/2024ApJ...971..114L)  
+21. [THE WHITE-LIGHT SUPERFLARES FROM COOL STARS IN GWAC TRIGGERS](http://adsabs.harvard.edu/abs/2024ApJ...971..114L)  
 Li, Guang-Wei, Wang, Liang, Yuan, Hai-Long, et al.    
 2024, refereed ([2024ApJ...971..114L](http://adsabs.harvard.edu/abs/2024ApJ...971..114L))  
+
+22. [THE ORBITAL PERIOD OF THE NOVA V1674 HER AS OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2024BAAA...65...60L)  
+Luna, G. J. M., Lima, I. J., Orio, M.    
+2024, refereed ([2024BAAA...65...60L](http://adsabs.harvard.edu/abs/2024BAAA...65...60L))  
 
 23. [LIGHT CURVE ANALYSIS FOR THE TWO ECLIPSING BINARY STARS EM CET AND EL CEN](http://adsabs.harvard.edu/abs/2024CoSka..54c...5H)  
 Hanna, M. A., Nakhlawy, A., Hayman, M., et al.    
@@ -1620,33 +1491,17 @@ Zhong, Hai-Jian, Shen, Dong-Xiang, Zhu, Chun-Hua, et al.
 Mamatha Rani, G., Sriram, K., Lahiri, Deblina, et al.    
 2024, refereed ([2024RAA....24h5017M](http://adsabs.harvard.edu/abs/2024RAA....24h5017M))  
 
-34. [A DEEPER INVESTIGATION OF THE PRIMORDIAL BINARY CLUSTER](http://adsabs.harvard.edu/abs/2024arXiv240803552H)  
-Hu, Qingshun, Li, Yuting, Qin, Mingfeng, et al.    
-2024, not refereed ([2024arXiv240803552H](http://adsabs.harvard.edu/abs/2024arXiv240803552H))  
+34. [MODELING THE TESS LIGHT CURVE OF AP SI STAR MX TRA](http://adsabs.harvard.edu/abs/2024Univ...10..341P)  
+Pakhomov, Yury, Potravnov, Ilya, Romanovskaya, Anna, et al.    
+2024, refereed ([2024Univ...10..341P](http://adsabs.harvard.edu/abs/2024Univ...10..341P))  
 
-35. [MODE IDENTIFICATION AND ENSEMBLE ASTEROSEISMOLOGY OF 164 \BETA CEP STARS DISCOVERED FROM GAIA LIGHT CURVES AND MONITORED BY TESS](http://adsabs.harvard.edu/abs/2024arXiv240806097F)  
+35. [MODE IDENTIFICATION AND ENSEMBLE ASTEROSEISMOLOGY OF 119 $\BETA$ CEP STARS DETECTED BY GAIA LIGHT CURVES AND MONITORED BY TESS](http://adsabs.harvard.edu/abs/2024arXiv240806097F)  
 Fritzewski, D. J., Vanrespaille, M., Aerts, C., et al.    
 2024, not refereed ([2024arXiv240806097F](http://adsabs.harvard.edu/abs/2024arXiv240806097F))  
 
-36. [SUPERFLARE OF A SUN-LIKE STAR OBSERVED WITH XMM-NEWTON AND SRG/EROSITA](http://adsabs.harvard.edu/abs/2024arXiv240807442M)  
-Mukhin, Andrey, Krivonos, Roman, Bikmaev, Ilfan, et al.    
-2024, not refereed ([2024arXiv240807442M](http://adsabs.harvard.edu/abs/2024arXiv240807442M))  
-
-37. [REDISCUSSION OF ECLIPSING BINARIES. PAPER XX. HO TEL CHECKOUT](http://adsabs.harvard.edu/abs/2024arXiv240812955S)  
-Southworth, John    
-2024, not refereed ([2024arXiv240812955S](http://adsabs.harvard.edu/abs/2024arXiv240812955S))  
-
-38. [SIMULATING GRAVITATIONAL MICROLENSING EVENTS BY TESS: PREDICTIONS ON STATISTICS AND PROPERTIES](http://adsabs.harvard.edu/abs/2024arXiv240814231S)  
-Sajadian, Sedighe, Kalantari, Atousa, Fatheddin, Hossein, et al.    
-2024, not refereed ([2024arXiv240814231S](http://adsabs.harvard.edu/abs/2024arXiv240814231S))  
-
-39. [DETECTION OF RADIO EMISSION FROM SUPER-FLARING SOLAR-TYPE STARS IN THE VLA SKY SURVEY](http://adsabs.harvard.edu/abs/2024arXiv240814612D)  
+36. [DETECTION OF RADIO EMISSION FROM SUPER-FLARING SOLAR-TYPE STARS IN THE VLA SKY SURVEY](http://adsabs.harvard.edu/abs/2024arXiv240814612D)  
 Davis, Ivey, Hallinan, Gregg, Ayala, Carlos, et al.    
 2024, not refereed ([2024arXiv240814612D](http://adsabs.harvard.edu/abs/2024arXiv240814612D))  
-
-40. [MODELING THE TESS LIGHT CURVE OF AP SI STAR MX TRA](http://adsabs.harvard.edu/abs/2024Univ...10..341P)  
-Pakhomov, Yury, Potravnov, Ilya, Romanovskaya, Anna, et al.    
-2024, refereed ([2024Univ...10..341P](http://adsabs.harvard.edu/abs/2024Univ...10..341P))  
 
 
 2024-07
@@ -1672,57 +1527,53 @@ Ilin, E., Poppenhäger, K., Stelzer, B., et al.
 Raetz, St., Stelzer, B.    
 2024, refereed ([2024A&A...687A.180R](http://adsabs.harvard.edu/abs/2024A&A...687A.180R))  
 
-6. [HIP 65426 IS A HIGH-FREQUENCY DELTA SCUTI PULSATOR IN PLAUSIBLE SPIN–ORBIT ALIGNMENT WITH ITS DIRECTLY IMAGED EXOPLANET](http://adsabs.harvard.edu/abs/2024AJ....168...13S)  
-Sepulveda, Aldo G., Huber, Daniel, Bedding, Timothy R., et al.    
-2024, refereed ([2024AJ....168...13S](http://adsabs.harvard.edu/abs/2024AJ....168...13S))  
-
-7. [SIGNATURE OF HIGH-AMPLITUDE PULSATIONS IN SEVEN Δ SCT STARS VIA TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024ApJ...969...19V)  
-Vasigh, Fatemeh, Ziaali, Elham, Safari, Hossein    
-2024, refereed ([2024ApJ...969...19V](http://adsabs.harvard.edu/abs/2024ApJ...969...19V))  
-
-8. [LIGHT-CURVE STRUCTURE AND HΑ LINE FORMATION IN THE TIDAL DISRUPTION EVENT AT 2019AZH](http://adsabs.harvard.edu/abs/2024ApJ...969..104F)  
-Faris, Sara, Arcavi, Iair, Makrygianni, Lydia, et al.    
-2024, refereed ([2024ApJ...969..104F](http://adsabs.harvard.edu/abs/2024ApJ...969..104F))  
-
-9. [TESS LIGHT CURVES OF CATACLYSMIC VARIABLES. IV. A SYNOPTIC VIEW OF ECLIPSING OLD NOVAE AND NOVALIKE VARIABLES](http://adsabs.harvard.edu/abs/2024ApJS..273....6B)  
-Bruch, Albert    
-2024, refereed ([2024ApJS..273....6B](http://adsabs.harvard.edu/abs/2024ApJS..273....6B))  
-
-10. [TESS LIGHT-CURVE MODELLING AND PERIOD STUDY OF FOUR ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.531.3823Y)  
-Yang, Yuangui, Wang, Shuang    
-2024, refereed ([2024MNRAS.531.3823Y](http://adsabs.harvard.edu/abs/2024MNRAS.531.3823Y))  
-
-11. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - V. THE CIRCUMBINARY PLANET SYSTEM EBLM J0608-59](http://adsabs.harvard.edu/abs/2024MNRAS.531.4577M)  
-Maxted, P. F. L., Miller, N. J., Sebastian, D., et al.    
-2024, refereed ([2024MNRAS.531.4577M](http://adsabs.harvard.edu/abs/2024MNRAS.531.4577M))  
-
-12. [ASTEROSEISMOLOGY OF THE FAST-ROTATING HIGH-AMPLITUDE Δ SCUTI STAR V2367 CYGNI](http://adsabs.harvard.edu/abs/2024MNRAS.532.1140D)  
-Daszyńska-Daszkiewicz, J., Szewczuk, W., Walczak, P.    
-2024, refereed ([2024MNRAS.532.1140D](http://adsabs.harvard.edu/abs/2024MNRAS.532.1140D))  
-
-13. [OPTICAL SPECTROSCOPIC AND PHOTOMETRIC CLASSIFICATION OF THE X-RAY TRANSIENT EP240309A (EP J115415.8-501810) AS AN INTERMEDIATE POLAR](http://adsabs.harvard.edu/abs/2024MNRAS.532L..21P)  
-Potter, Stephen B., Buckley, David A. H., Scaringi, S., et al.    
-2024, refereed ([2024MNRAS.532L..21P](http://adsabs.harvard.edu/abs/2024MNRAS.532L..21P))  
-
-14. [PHOTOMETRIC STUDY OF THE OVERCONTACT BINARY NSVS2910034](http://adsabs.harvard.edu/abs/2024NewA..10902210T)  
-Tobin, R. Wes, Berrington, Robert C.    
-2024, refereed ([2024NewA..10902210T](http://adsabs.harvard.edu/abs/2024NewA..10902210T))  
-
-15. [EXTREME MAGNETIC FIELD MODULUS VARIABILITY OF THE BP STAR HD 57372](http://adsabs.harvard.edu/abs/2024A&A...687A.282H)  
-Hubrig, S., Chojnowski, S. D., Järvinen, S. P., et al.    
-2024, refereed ([2024A&A...687A.282H](http://adsabs.harvard.edu/abs/2024A&A...687A.282H))  
-
-16. [EXPLORING THE UNEXPECTED: DISHARMONIZED HARMONIC PULSATION MODES IN HIGH-AMPLITUDE Δ SCUTI STARS](http://adsabs.harvard.edu/abs/2024A&A...687L..15X)  
-Xue, Hui-Fang, Niu, Jia-Shu    
-2024, refereed ([2024A&A...687L..15X](http://adsabs.harvard.edu/abs/2024A&A...687L..15X))  
-
-17. [AN IMPROVED ASTEROSEISMIC AGE OF THE RAPID ROTATOR ALTAIR FROM TESS DATA](http://adsabs.harvard.edu/abs/2024A&A...687A.259R)  
+6. [AN IMPROVED ASTEROSEISMIC AGE OF THE RAPID ROTATOR ALTAIR FROM TESS DATA](http://adsabs.harvard.edu/abs/2024A&A...687A.259R)  
 Rieutord, Michel, Reese, Daniel R., Mombarg, Joey S. G., et al.    
 2024, refereed ([2024A&A...687A.259R](http://adsabs.harvard.edu/abs/2024A&A...687A.259R))  
 
-18. [THIRTY TWO NEW BRIGHT ZZ CETI STARS FROM TESS: ADDING CYCLES 4 AND 5](http://adsabs.harvard.edu/abs/2024arXiv240707260R)  
-Romero, Alejandra D., Kepler, S. O., Oliveira da Rosa, Gabriela, et al.    
-2024, not refereed ([2024arXiv240707260R](http://adsabs.harvard.edu/abs/2024arXiv240707260R))  
+7. [EXTREME MAGNETIC FIELD MODULUS VARIABILITY OF THE BP STAR HD 57372](http://adsabs.harvard.edu/abs/2024A&A...687A.282H)  
+Hubrig, S., Chojnowski, S. D., Järvinen, S. P., et al.    
+2024, refereed ([2024A&A...687A.282H](http://adsabs.harvard.edu/abs/2024A&A...687A.282H))  
+
+8. [EXPLORING THE UNEXPECTED: DISHARMONIZED HARMONIC PULSATION MODES IN HIGH-AMPLITUDE Δ SCUTI STARS](http://adsabs.harvard.edu/abs/2024A&A...687L..15X)  
+Xue, Hui-Fang, Niu, Jia-Shu    
+2024, refereed ([2024A&A...687L..15X](http://adsabs.harvard.edu/abs/2024A&A...687L..15X))  
+
+9. [HIP 65426 IS A HIGH-FREQUENCY DELTA SCUTI PULSATOR IN PLAUSIBLE SPIN–ORBIT ALIGNMENT WITH ITS DIRECTLY IMAGED EXOPLANET](http://adsabs.harvard.edu/abs/2024AJ....168...13S)  
+Sepulveda, Aldo G., Huber, Daniel, Bedding, Timothy R., et al.    
+2024, refereed ([2024AJ....168...13S](http://adsabs.harvard.edu/abs/2024AJ....168...13S))  
+
+10. [SIGNATURE OF HIGH-AMPLITUDE PULSATIONS IN SEVEN Δ SCT STARS VIA TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2024ApJ...969...19V)  
+Vasigh, Fatemeh, Ziaali, Elham, Safari, Hossein    
+2024, refereed ([2024ApJ...969...19V](http://adsabs.harvard.edu/abs/2024ApJ...969...19V))  
+
+11. [LIGHT-CURVE STRUCTURE AND HΑ LINE FORMATION IN THE TIDAL DISRUPTION EVENT AT 2019AZH](http://adsabs.harvard.edu/abs/2024ApJ...969..104F)  
+Faris, Sara, Arcavi, Iair, Makrygianni, Lydia, et al.    
+2024, refereed ([2024ApJ...969..104F](http://adsabs.harvard.edu/abs/2024ApJ...969..104F))  
+
+12. [TESS LIGHT CURVES OF CATACLYSMIC VARIABLES. IV. A SYNOPTIC VIEW OF ECLIPSING OLD NOVAE AND NOVALIKE VARIABLES](http://adsabs.harvard.edu/abs/2024ApJS..273....6B)  
+Bruch, Albert    
+2024, refereed ([2024ApJS..273....6B](http://adsabs.harvard.edu/abs/2024ApJS..273....6B))  
+
+13. [TESS LIGHT-CURVE MODELLING AND PERIOD STUDY OF FOUR ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2024MNRAS.531.3823Y)  
+Yang, Yuangui, Wang, Shuang    
+2024, refereed ([2024MNRAS.531.3823Y](http://adsabs.harvard.edu/abs/2024MNRAS.531.3823Y))  
+
+14. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - V. THE CIRCUMBINARY PLANET SYSTEM EBLM J0608-59](http://adsabs.harvard.edu/abs/2024MNRAS.531.4577M)  
+Maxted, P. F. L., Miller, N. J., Sebastian, D., et al.    
+2024, refereed ([2024MNRAS.531.4577M](http://adsabs.harvard.edu/abs/2024MNRAS.531.4577M))  
+
+15. [ASTEROSEISMOLOGY OF THE FAST-ROTATING HIGH-AMPLITUDE Δ SCUTI STAR V2367 CYGNI](http://adsabs.harvard.edu/abs/2024MNRAS.532.1140D)  
+Daszyńska-Daszkiewicz, J., Szewczuk, W., Walczak, P.    
+2024, refereed ([2024MNRAS.532.1140D](http://adsabs.harvard.edu/abs/2024MNRAS.532.1140D))  
+
+16. [OPTICAL SPECTROSCOPIC AND PHOTOMETRIC CLASSIFICATION OF THE X-RAY TRANSIENT EP240309A (EP J115415.8-501810) AS AN INTERMEDIATE POLAR](http://adsabs.harvard.edu/abs/2024MNRAS.532L..21P)  
+Potter, Stephen B., Buckley, David A. H., Scaringi, S., et al.    
+2024, refereed ([2024MNRAS.532L..21P](http://adsabs.harvard.edu/abs/2024MNRAS.532L..21P))  
+
+17. [PHOTOMETRIC STUDY OF THE OVERCONTACT BINARY NSVS2910034](http://adsabs.harvard.edu/abs/2024NewA..10902210T)  
+Tobin, R. Wes, Berrington, Robert C.    
+2024, refereed ([2024NewA..10902210T](http://adsabs.harvard.edu/abs/2024NewA..10902210T))  
 
 
 2024-06
@@ -1920,7 +1771,11 @@ Li, Chao-Yue, Jiang, Lin-Qiao, Zheng, Jie, et al.
 Pyatnytskyy, Maksym Yu., Andronov, Ivan L.    
 2024, not refereed ([2024RNAAS...8..159P](http://adsabs.harvard.edu/abs/2024RNAAS...8..159P))  
 
-49. [MULTI-COLOR AND TESS PHOTOMETRIC INVESTIGATION OF FOUR LO MASS-RATIO CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2024arXiv240605664W)  
+49. [REDISCUSSION OF ECLIPSING BINARIES. PAPER 18: THE A-TYPE SYSTEM 00 PEGASI](http://adsabs.harvard.edu/abs/2024Obs...144..133S)  
+Southworth, John    
+2024, not refereed ([2024Obs...144..133S](http://adsabs.harvard.edu/abs/2024Obs...144..133S))  
+
+50. [MULTI-COLOR AND TESS PHOTOMETRIC INVESTIGATION OF FOUR LO MASS-RATIO CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2024arXiv240605664W)  
 Waqas Zubairi, Ahmed, Ergang, Zhao, Shengbang, Qian, et al.    
 2024, not refereed ([2024arXiv240605664W](http://adsabs.harvard.edu/abs/2024arXiv240605664W))  
 
@@ -2144,25 +1999,9 @@ Poro, Atila, Tanriver, Mehmet, Sarvari, Elham, et al.
 Sepulveda, Aldo G., Bedding, Timothy R., Murphy, Simon J., et al.    
 2024, not refereed ([2024RNAAS...8...98S](http://adsabs.harvard.edu/abs/2024RNAAS...8...98S))  
 
-27. [REDISCUSSION OF ECLIPSING BINARIES. PAPER XVIII. THE F-TYPE SYSTEM OO PEGASI](http://adsabs.harvard.edu/abs/2024arXiv240401092S)  
-Southworth, John    
-2024, not refereed ([2024arXiv240401092S](http://adsabs.harvard.edu/abs/2024arXiv240401092S))  
-
-28. [A BORN ULTRAMASSIVE WHITE DWARF-HOT SUBDWARF SUPER-CHANDRASEKHAR CANDIDATE](http://adsabs.harvard.edu/abs/2024arXiv240404835L)  
-Luo, Changqing, Li, Jiao, Zheng, Chuanjie, et al.    
-2024, not refereed ([2024arXiv240404835L](http://adsabs.harvard.edu/abs/2024arXiv240404835L))  
-
-29. [DETECTING STELLAR FLARES IN PHOTOMETRIC DATA USING HIDDEN MARKOV MODELS](http://adsabs.harvard.edu/abs/2024arXiv240413145E)  
-Esquivel, J. Arturo, Shen, Yunyi, Leos-Barajas, Vianey, et al.    
-2024, not refereed ([2024arXiv240413145E](http://adsabs.harvard.edu/abs/2024arXiv240413145E))  
-
-30. [EXPLORING DETACHED ECLIPSING BINARY SYSTEMS FROM TESS OBSERVATIONS: INSIGHTS INTO OBA-TYPE SYSTEMS AND ORBITAL CIRCULARIZATION](http://adsabs.harvard.edu/abs/2024arXiv240413374S)  
+27. [EXPLORING DETACHED ECLIPSING BINARY SYSTEMS FROM TESS OBSERVATIONS: INSIGHTS INTO OBA-TYPE SYSTEMS AND ORBITAL CIRCULARIZATION](http://adsabs.harvard.edu/abs/2024arXiv240413374S)  
 Siqueira, L., Freitas, B. W., de Freitas, D. B.    
 2024, not refereed ([2024arXiv240413374S](http://adsabs.harvard.edu/abs/2024arXiv240413374S))  
-
-31. [ON THE INCIDENCE RATE OF RR LYRAE STARS WITH NON-RADIAL MODES](http://adsabs.harvard.edu/abs/2024arXiv240414373N)  
-Netzel, H., Varga, V., Szabo, R., et al.    
-2024, not refereed ([2024arXiv240414373N](http://adsabs.harvard.edu/abs/2024arXiv240414373N))  
 
 
 2024-03
@@ -2624,17 +2463,9 @@ Borkovits, Tamás, Mitnyan, Tibor
 Sokolovsky, Kirill V., Aydi, Elias, Malanchev, Konstantin, et al.    
 2023, not refereed ([2023arXiv231104903S](http://adsabs.harvard.edu/abs/2023arXiv231104903S))  
 
-21. [ASTEROSEISMIC MODELLING OF FAST ROTATORS AND ITS OPPORTUNITIES FOR ASTROPHYSICS](http://adsabs.harvard.edu/abs/2023arXiv231108453A)  
-Aerts, Conny, Tkachenko, Andrew    
-2023, not refereed ([2023arXiv231108453A](http://adsabs.harvard.edu/abs/2023arXiv231108453A))  
-
-22. [MULTI-MESSENGER ASTROPHYSICS IN THE GRAVITATIONAL-WAVE ERA](http://adsabs.harvard.edu/abs/2023arXiv231110229M)  
+21. [MULTI-MESSENGER ASTROPHYSICS IN THE GRAVITATIONAL-WAVE ERA](http://adsabs.harvard.edu/abs/2023arXiv231110229M)  
 Mo, Geoffrey, Jayaraman, Rahul, Frostig, Danielle, et al.    
 2023, not refereed ([2023arXiv231110229M](http://adsabs.harvard.edu/abs/2023arXiv231110229M))  
-
-23. [DETECTABILITY OF SELF-LENSING FLARES OF WHITE DWARFS WITH COMPACT COMPANIONS](http://adsabs.harvard.edu/abs/2023arXiv231114392N)  
-Nir, Guy, Bloom, Joshua S.    
-2023, not refereed ([2023arXiv231114392N](http://adsabs.harvard.edu/abs/2023arXiv231114392N))  
 
 
 2023-10
@@ -3664,29 +3495,29 @@ Kato, Taichi, Hambsch, Franz-Josef
 2023-01
 -------
 
-1. [AN EXPLORATION OF SYSTEMATIC ERRORS IN TRANSITING PLANETS AND THEIR HOST STARS](http://adsabs.harvard.edu/abs/2023AAS...24126613D)  
-Duck, Alison, Gaudi, B. Scott, Eastman, Jason, et al.    
-2023, not refereed ([2023AAS...24126613D](http://adsabs.harvard.edu/abs/2023AAS...24126613D))  
-
-2. [PROPERTIES OF FLARE EVENTS BASED ON LIGHT CURVES FROM THE TESS SURVEY](http://adsabs.harvard.edu/abs/2023A&A...669A..15Y)  
+1. [PROPERTIES OF FLARE EVENTS BASED ON LIGHT CURVES FROM THE TESS SURVEY](http://adsabs.harvard.edu/abs/2023A&A...669A..15Y)  
 Yang, Zilu, Zhang, Liyun, Meng, Gang, et al.    
 2023, refereed ([2023A&A...669A..15Y](http://adsabs.harvard.edu/abs/2023A&A...669A..15Y))  
 
-3. [SHORT-PERIOD PULSATING HOT-SUBDWARF STARS OBSERVED BY TESS. I. SOUTHERN ECLIPTIC HEMISPHERE](http://adsabs.harvard.edu/abs/2023A&A...669A..48B)  
+2. [SHORT-PERIOD PULSATING HOT-SUBDWARF STARS OBSERVED BY TESS. I. SOUTHERN ECLIPTIC HEMISPHERE](http://adsabs.harvard.edu/abs/2023A&A...669A..48B)  
 Baran, A. S., Van Grootel, V., Østensen, R. H., et al.    
 2023, refereed ([2023A&A...669A..48B](http://adsabs.harvard.edu/abs/2023A&A...669A..48B))  
 
-4. [GD 99: RE-INVESTIGATION OF AN OLD ZZ CETI COMPANION](http://adsabs.harvard.edu/abs/2023A&A...669A..62B)  
+3. [GD 99: RE-INVESTIGATION OF AN OLD ZZ CETI COMPANION](http://adsabs.harvard.edu/abs/2023A&A...669A..62B)  
 Bognár, Zs., Sódor, Á., Mező, Gy.    
 2023, refereed ([2023A&A...669A..62B](http://adsabs.harvard.edu/abs/2023A&A...669A..62B))  
 
-5. [CATALOGUE OF SOLAR-LIKE OSCILLATORS OBSERVED BY TESS IN 120-S AND 20-S CADENCE](http://adsabs.harvard.edu/abs/2023A&A...669A..67H)  
+4. [CATALOGUE OF SOLAR-LIKE OSCILLATORS OBSERVED BY TESS IN 120-S AND 20-S CADENCE](http://adsabs.harvard.edu/abs/2023A&A...669A..67H)  
 Hatt, Emily, Nielsen, Martin B., Chaplin, William J., et al.    
 2023, refereed ([2023A&A...669A..67H](http://adsabs.harvard.edu/abs/2023A&A...669A..67H))  
 
-6. [ALPHATG: GUI APPLICATION FOR FLUX AND LIMB DERIVATIVES OF UBVRI, KEPLER AND TESS PASS-BANDS FOR ASTEROSEISMOLOGY APPLICATIONS](http://adsabs.harvard.edu/abs/2023A&C....4200670A)  
+5. [ALPHATG: GUI APPLICATION FOR FLUX AND LIMB DERIVATIVES OF UBVRI, KEPLER AND TESS PASS-BANDS FOR ASTEROSEISMOLOGY APPLICATIONS](http://adsabs.harvard.edu/abs/2023A&C....4200670A)  
 Adassuriya, J., Sellahewa, K., Jayaratne, K. P. S. C., et al.    
 2023, refereed ([2023A&C....4200670A](http://adsabs.harvard.edu/abs/2023A&C....4200670A))  
+
+6. [AN EXPLORATION OF SYSTEMATIC ERRORS IN TRANSITING PLANETS AND THEIR HOST STARS](http://adsabs.harvard.edu/abs/2023AAS...24126613D)  
+Duck, Alison, Gaudi, B. Scott, Eastman, Jason, et al.    
+2023, not refereed ([2023AAS...24126613D](http://adsabs.harvard.edu/abs/2023AAS...24126613D))  
 
 7. [EVOLVED ECLIPSING BINARIES AND THE AGE OF THE OPEN CLUSTER NGC 752](http://adsabs.harvard.edu/abs/2023AJ....165....6S)  
 Sandquist, Eric L., Buckner, Andrew J., Shetrone, Matthew D., et al.    
@@ -4440,9 +4271,9 @@ Lu, Hong-peng, Tian, Hui, Zhang, Li-yun, et al.
 Devarapalli, Shanti Priya, Jagirdar, Rukmini, Gundeboina, Vinay Kumar, et al.    
 2022, refereed ([2022AJ....164...11D](http://adsabs.harvard.edu/abs/2022AJ....164...11D))  
 
-7. [LLAMARADAS ESTELARES: MODELING THE MORPHOLOGY OF WHITE-LIGHT FLARES](http://adsabs.harvard.edu/abs/2022AJ....164...17M)  
+7. [LLAMARADAS ESTELARES: MODELING THE MORPHOLOGY OF WHITE-LIGHT FLARES](http://adsabs.harvard.edu/abs/2022AJ....164...17T)  
 Tovar Mendoza, Guadalupe, Davenport, James R. A., Agol, Eric, et al.    
-2022, refereed ([2022AJ....164...17M](http://adsabs.harvard.edu/abs/2022AJ....164...17M))  
+2022, refereed ([2022AJ....164...17T](http://adsabs.harvard.edu/abs/2022AJ....164...17T))  
 
 8. [KIC 5768203: A Δ SCT PULSATOR MODULATED BY ROTATION AND SPOTS](http://adsabs.harvard.edu/abs/2022AJ....164...22M)  
 Ma, Shuguo, Ali, Esamdin, Lv, Chenglong, et al.    
@@ -6323,10 +6154,6 @@ Kipping, David, Jansen, Tiffany
 16. [A KELT-TESS ECLIPSING BINARY IN A YOUNG TRIPLE SYSTEM ASSOCIATED WITH A "STELLAR STRING" THEIA 301](http://adsabs.harvard.edu/abs/2020arXiv200903872C)  
 Clark Cunningham, Joni-Marie, Felix, Dax L., Dixon, Don M., et al.    
 2020, not refereed ([2020arXiv200903872C](http://adsabs.harvard.edu/abs/2020arXiv200903872C))  
-
-17. [DIPPERS FROM THE TESS FULL-FRAME IMAGES I: THE RESULTS OF THE FIRST 1 YEAR DATA AND DISCOVERY OF A RUNAWAY DIPPER](http://adsabs.harvard.edu/abs/2020arXiv200912830T)  
-Tajiri, Tomoyuki, Kawahara, Hajime, Aizawa, Masataka, et al.    
-2020, not refereed ([2020arXiv200912830T](http://adsabs.harvard.edu/abs/2020arXiv200912830T))  
 
 
 2020-08

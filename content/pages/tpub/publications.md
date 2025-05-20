@@ -1,6 +1,5 @@
 Title: Publications
 template: slide
-template: slide
 Save_as: publications.html
 
 We request that scientific publications using data obtained from the TESS project include one of the following acknowledgments:
@@ -12,8 +11,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 2775 publications,
-of which 2433 are peer-reviewed.
+The database contains 2690 publications,
+of which 2458 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -46,9 +45,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 1106 works relate to exoplanets
+While 1065 works relate to exoplanets
 (40%),
-a total of 1669
+a total of 1625
 pertain to other areas of astrophysics
 (60%).
 
@@ -60,7 +59,7 @@ pertain to other areas of astrophysics
 </h2>Most-cited publications</h2>
 
 TESS publications have cumulatively been cited
-38445 times.
+45027 times.
 The list below shows the most-cited publications,
 based on the citation count obtained from NASA ADS.
 
@@ -68,52 +67,52 @@ based on the citation count obtained from NASA ADS.
 1. TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Ricker, George R., Winn, Joshua N., Vanderspek, Roland, et al.    
 [2015JATIS...1a4003R](http://adsabs.harvard.edu/abs/2015JATIS...1a4003R)
-<span class="badge">3114 citations</span>
+<span class="badge">3424 citations</span>
 
 2. THE REVISED TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Paegert, Martin, et al.    
 [2019AJ....158..138S](http://adsabs.harvard.edu/abs/2019AJ....158..138S)
-<span class="badge">776 citations</span>
+<span class="badge">856 citations</span>
 
 3. THE TESS INPUT CATALOG AND CANDIDATE TARGET LIST  
 Stassun, Keivan G., Oelkers, Ryan J., Pepper, Joshua, et al.    
 [2018AJ....156..102S](http://adsabs.harvard.edu/abs/2018AJ....156..102S)
-<span class="badge">554 citations</span>
+<span class="badge">592 citations</span>
 
 4. A FRAMEWORK FOR PRIORITIZING THE TESS PLANETARY CANDIDATES MOST AMENABLE TO ATMOSPHERIC CHARACTERIZATION  
 Kempton, Eliza M. -R., Bean, Jacob L., Louie, Dana R., et al.    
 [2018PASP..130k4401K](http://adsabs.harvard.edu/abs/2018PASP..130k4401K)
-<span class="badge">425 citations</span>
+<span class="badge">461 citations</span>
 
 5. THE TRANSITING EXOPLANET SURVEY SATELLITE: SIMULATIONS OF PLANET DETECTIONS AND ASTROPHYSICAL FALSE POSITIVES  
 Sullivan, Peter W., Winn, Joshua N., Berta-Thompson, Zachory K., et al.    
 [2015ApJ...809...77S](http://adsabs.harvard.edu/abs/2015ApJ...809...77S)
-<span class="badge">405 citations</span>
+<span class="badge">416 citations</span>
 
 6. THE TESS OBJECTS OF INTEREST CATALOG FROM THE TESS PRIME MISSION  
 Guerrero, Natalia M., Seager, S., Huang, Chelsea X., et al.    
 [2021ApJS..254...39G](http://adsabs.harvard.edu/abs/2021ApJS..254...39G)
-<span class="badge">269 citations</span>
+<span class="badge">309 citations</span>
 
-7. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
-Claret, A.    
-[2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
-<span class="badge">262 citations</span>
+7. PHOTOMETRY OF 10 MILLION STARS FROM THE FIRST TWO YEARS OF TESS FULL FRAME IMAGES: PART I  
+Huang, Chelsea X., Vanderburg, Andrew, Pál, Andras, et al.    
+[2020RNAAS...4..204H](http://adsabs.harvard.edu/abs/2020RNAAS...4..204H)
+<span class="badge">294 citations</span>
 
 8. STELLAR FLARES FROM THE FIRST TESS DATA RELEASE: EXPLORING A NEW SAMPLE OF M DWARFS  
 Günther, Maximilian N., Zhan, Zhuchang, Seager, Sara, et al.    
 [2020AJ....159...60G](http://adsabs.harvard.edu/abs/2020AJ....159...60G)
-<span class="badge">256 citations</span>
+<span class="badge">286 citations</span>
 
-9. PHOTOMETRY OF 10 MILLION STARS FROM THE FIRST TWO YEARS OF TESS FULL FRAME IMAGES: PART I  
-Huang, Chelsea X., Vanderburg, Andrew, Pál, Andras, et al.    
-[2020RNAAS...4..204H](http://adsabs.harvard.edu/abs/2020RNAAS...4..204H)
-<span class="badge">253 citations</span>
+9. LIMB AND GRAVITY-DARKENING COEFFICIENTS FOR THE TESS SATELLITE AT SEVERAL METALLICITIES, SURFACE GRAVITIES, AND MICROTURBULENT VELOCITIES  
+Claret, A.    
+[2017A&A...600A..30C](http://adsabs.harvard.edu/abs/2017A&A...600A..30C)
+<span class="badge">280 citations</span>
 
 10. A REVISED EXOPLANET YIELD FROM THE TRANSITING EXOPLANET SURVEY SATELLITE (TESS)  
 Barclay, Thomas, Pepper, Joshua, Quintana, Elisa V.    
 [2018ApJS..239....2B](http://adsabs.harvard.edu/abs/2018ApJS..239....2B)
-<span class="badge">253 citations</span>
+<span class="badge">259 citations</span>
 <hr/>
 
 <!-- 
@@ -130,97 +129,93 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 8389 unique author names.
+by a total of 8339 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
  * Southworth, J (24 publications)
 
- * Sun, Q (13 publications)
+ * Sun, Q (12 publications)
 
- * Poro, A (13 publications)
+ * Poro, A (11 publications)
 
- * Lee, J (12 publications)
+ * Lee, J (11 publications)
 
  * Kunimoto, M (10 publications)
 
- * Bouma, L (10 publications)
-
- * Howard, W (10 publications)
-
  * Balona, L (10 publications)
 
+ * Bouma, L (10 publications)
+
  * Zasche, P (10 publications)
-
- * Koen, C (10 publications)
-
- * Kostov, V (9 publications)
 
  * Maciejewski, G (9 publications)
 
  * Gan, T (9 publications)
 
- * Naze, Y (9 publications)
+ * Koen, C (9 publications)
 
- * Borkovits, T (8 publications)
+ * Howard, W (9 publications)
+
+ * Kostov, V (9 publications)
+
+ * Naze, Y (8 publications)
 
  * Kahraman Alicavus, F (8 publications)
 
- * Doyle, L (7 publications)
-
- * Jayasinghe, T (7 publications)
-
- * Bowman, D (7 publications)
-
- * Nardiello, D (7 publications)
-
- * Savanov, I (7 publications)
-
- * Murphy, S (7 publications)
+ * Lillo-Box, J (7 publications)
 
  * Gaidos, E (7 publications)
 
+ * Savanov, I (7 publications)
+
+ * Jayasinghe, T (7 publications)
+
  * Cloutier, R (7 publications)
 
- * Lillo-Box, J (7 publications)
+ * Borkovits, T (7 publications)
 
- * Shi, X (6 publications)
+ * Doyle, L (7 publications)
 
- * Ulas, B (6 publications)
+ * Bowman, D (7 publications)
 
- * Bognar, Z (6 publications)
-
- * Wong, I (6 publications)
-
- * Knudstrup, E (6 publications)
-
- * Wang, J (6 publications)
+ * Murphy, S (6 publications)
 
  * Uzundag, M (6 publications)
 
- * Yildirim, M (6 publications)
+ * Nardiello, D (6 publications)
 
- * Kanodia, S (6 publications)
-
- * Damasso, M (6 publications)
-
- * Stassun, K (6 publications)
-
- * Kato, T (6 publications)
-
- * Jayaraman, R (6 publications)
-
- * Cakirli, O (6 publications)
-
- * Feinstein, A (6 publications)
-
- * Schaefer, B (6 publications)
-
- * Kalman, S (6 publications)
+ * Littlefield, C (6 publications)
 
  * Gill, S (6 publications)
 
+ * Ulas, B (6 publications)
+
+ * Yildirim, M (6 publications)
+
+ * Wong, I (6 publications)
+
+ * Bognar, Z (6 publications)
+
+ * Knudstrup, E (6 publications)
+
+ * Kanodia, S (6 publications)
+
+ * Jayaraman, R (6 publications)
+
  * Ramsay, G (6 publications)
 
- * Littlefield, C (6 publications)
+ * Shi, X (6 publications)
+
+ * Schaefer, B (6 publications)
+
+ * Stassun, K (6 publications)
+
+ * Damasso, M (6 publications)
+
+ * Feinstein, A (6 publications)
+
+ * Kato, T (6 publications)
+
+ * Kalman, S (6 publications)
 -->
