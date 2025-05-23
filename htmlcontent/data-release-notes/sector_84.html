@@ -7,8 +7,8 @@
 <h2>Sector Summary</h2>
 <li><b>Sector dates: </b>Oct 01 to Oct 26 2024</li>
 <li><b>Pointing: </b>Northern hemisphere</li>
-<li><b>Days of Science Data Collection</b>: TBD </li>
-<li><b>Days of Paused Data Collection</b>: TBD </li>
+<li><b>Days of Science Data Collection</b>: 0.63 </li>
+<li><b>Days of Paused Data Collection</b>: 25.10 </li>
 <br></br>
 
 <h2>Spacecraft Pointing (deg)</h2>
@@ -64,3 +64,87 @@
 </div>
 
 <br></br>
+
+<h2>Orbit Summary</h2>
+<div>
+  <table class="table table-striped table-hover" style="max-width:90em;">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+
+    <thead>
+      <tr>
+        <th style="vertical-align: middle;">Orbits</th>
+        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+        <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+        <th style="vertical-align: middle;">Momentum dumps</th>
+      </tr>
+    </thead>
+
+    <tr>
+      <td>175a</td>
+      <td>2024-10-01 - 2024-10-07</td>
+      <td>1697133 - 1701597</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>175b</td>
+      <td>2024-10-07 - 2024-10-13</td>
+      <td>1701748 - 1706287</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>176a</td>
+      <td>2024-10-14 - 2024-10-20</td>
+      <td>1706438 - 1711094</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>176b</td>
+      <td>2024-10-20 - 2024-10-26</td>
+      <td>1711246 - 1715677</td>
+      <td>1</td>
+    </tr>
+  </table>
+</div>
+<br></br>
+
+<h2>Sector Notes</h2>
+<div>
+  <table class="table table-striped table-hover" style="max-width:90em;">
+    <col style="width:20%">
+    <col style="width:60%">
+    <thread>
+      <tr>
+        <td style="vertical-align: middle;"><b>Noted Issue</b></td>
+        <td style="vertical-align: middle;"><b>Description</b></td>
+      </tr>
+    </thread>
+    <tr>
+      <td>Engineering tests:</td>
+      <td>TESS performed engineering tests lasting ∼1.9 days at the end of the first orbit. Data
+acquired during the test are not suitable for science. The test period is clearly evident in
+the delta-quaternions shown in Figure 1 from TJD 3595.4 – 3597.3. The Manual Exclude
+(bit 8) data quality flag was set in the 2-min and 20-sec data products in the cadence range
+associated with the test. Data with Manual Exclude data quality flag are excluded for
+analysis in PDC, TPS, and DV.
+      </td>
+    </tr>
+    <tr>
+      <td>Spacecraft pointing:</td>
+      <td>The pointing in Sector 84 was set at +55.5 degrees in ecliptic latitude. Camera 4 was pointed
+near the North Ecliptic Pole. Camera 1 and 4 were used for guiding in all four orbit segments
+(Orbits 175a, b and 176a, b).
+      </td>
+    </tr>
+    <tr>
+      <td>Scattered light:</td>
+      <td>
+        In Sector 84, the Earth introduces scattered light signals in Camera 1 towards the beginning and  end of each orbit, and
+the Moon impacts Cameras 1 near the middle of Orbit 176a.
+      </td>
+    </tr>
+  </table>
+
+</div>
