@@ -84,6 +84,21 @@ Save_as: data_release_notes.html
 	<option value="sector-73">73</option>
 	<option value="sector-74">74</option>
 	<option value="sector-75">75</option>
+	<option value="sector-76">76</option>
+        <option value="sector-77">77</option>
+        <option value="sector-78">78</option>
+        <option value="sector-79">79</option>
+        <option value="sector-80">80</option>
+        <option value="sector-81">81</option>
+	<option value="sector-82">82</option>
+        <option value="sector-83">83</option>
+        <option value="sector-84">84</option>
+        <option value="sector-85">85</option>
+        <option value="sector-86">86</option>
+        <option value="sector-87">87</option>
+        <option value="sector-88">88</option>
+        <option value="sector-89">89</option>
+	<option value="sector-90">90</option>
 
       </select>
     </form>
@@ -392,8 +407,65 @@ Save_as: data_release_notes.html
       {! data-release-notes/sector_75.html !}
     </div>
     
-    
-    
+    <div id="sector-76" class="drn">
+      {! data-release-notes/sector_76.html !}
+    </div>
+
+    <div id="sector-77" class="drn">
+      {! data-release-notes/sector_77.html !}
+    </div>
+
+    <div id="sector-78" class="drn">
+      {! data-release-notes/sector_78.html !}
+    </div>
+
+    <div id="sector-79" class="drn">
+      {! data-release-notes/sector_79.html !}
+    </div>
+
+     <div id="sector-80" class="drn">
+      {! data-release-notes/sector_80.html !}
+    </div>
+
+     <div id="sector-81" class="drn">
+      {! data-release-notes/sector_81.html !}
+    </div>
+
+    <div id="sector-82" class="drn">
+      {! data-release-notes/sector_82.html !}
+    </div>
+
+    <div id="sector-83" class="drn">
+      {! data-release-notes/sector_83.html !}
+    </div>
+
+    <div id="sector-84" class="drn">
+      {! data-release-notes/sector_84.html !}
+    </div>
+
+    <div id="sector-85" class="drn">
+      {! data-release-notes/sector_85.html !}
+    </div>
+
+     <div id="sector-86" class="drn">
+      {! data-release-notes/sector_86.html !}
+    </div>
+
+     <div id="sector-87" class="drn">
+      {! data-release-notes/sector_87.html !}
+    </div>
+
+     <div id="sector-88" class="drn">
+      {! data-release-notes/sector_88.html !}
+    </div>
+
+     <div id="sector-89" class="drn">
+      {! data-release-notes/sector_89.html !}
+    </div>
+
+     <div id="sector-90" class="drn">
+      {! data-release-notes/sector_90.html !}
+    </div>
     
   </div>
 </div>

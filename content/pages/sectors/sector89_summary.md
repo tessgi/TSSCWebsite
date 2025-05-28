@@ -19,9 +19,5 @@ author: Nicole Schanche
 <br></br>
 
 
-
-
-
-<!--{! data-release-notes/sector_89.html !}-->
-
+{! data-release-notes/sector_89.html !}
 <img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.089.jpeg">

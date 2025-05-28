@@ -1,7 +1,7 @@
-Title: Sector 80 Noted TIC Issues
-Save_as: sector_80_star_list.html
+Title: Sector 87 Noted TIC Issues
+Save_as: sector_87_star_list.html
 
-TIC ID's that had issues in Sector 80.
+TIC ID's that had issues in Sector 87.
 
 ##Targets not processed in 2-min pipeline and so missing a light curve:
 22942488,
