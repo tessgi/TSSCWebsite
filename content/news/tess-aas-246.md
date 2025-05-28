@@ -10,16 +10,12 @@ During the workshop, you'll use a web browser to run Jupyter notebooks in TIKE's
 install anything on your computer.
 
 You'll also work with a team, using TIKE's real-time notebook collaboration feature (similar to Google Docs, but for Jupyter!).
-From the workshop description:
 
-The evil Dr. Nefarious has used their mind-control device to seize control of MAST! In just three short hours, the archive will be
-deleted and replaced by millions of hours of AI-generated smooth jazz. But there's one hope: the mind-control device isn't perfect.
-If you can convince people that archived data are valuable for science, you can break the spell and prevent MAST from being erased!
-Can you and your team analyze the data and publish results before it's too late?
+Workshop description: The evil Dr. Nefarious has used their mind-control device to seize control of MAST! In just three short hours, the archive will be deleted and replaced by millions of hours of AI-generated smooth jazz. But there's one hope: the mind-control device isn't perfect. If you can convince people that archived data are valuable for science, you can break the spell and prevent MAST from being erased! Can you and your team analyze the data and publish results before it's too late?
 
 Teams of ~3 will face a series of data challenges involving timeseries analysis, catalog cross-matching, cutouts, and more.
 Working on TIKE, you'll use Python-based tools like astroquery and astropy to solve puzzles. Solve them all to defeat Dr. Nefarious and
 save the data for the next generation of astronomers! MAST staff will give a short series of talks beforehand to introduce the tools
 you'll need for the challenge.
 
-Please register for the workshop ASAP! https://my.aas.org/AAS_Member/Events/Event_Display.aspx
+Please register for the [workshop](https://my.aas.org/AAS_Member/Events/Event_Display.aspx) ASAP! 
