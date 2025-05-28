@@ -1,5 +1,5 @@
 Title: MAST Data Challenge at AAS 246: Defeating Dr. Nefarious
-Date: 2025-05-10 10:00
+Date: 2025-05-28 10:00
 Author: Rebekah Hounsell
 
 On Saturday, June 7, 2025, from 09:00 AK to 17:00, MAST will be hosting a data challenge workshop at the AAS 246 in Anchorage, AK.
