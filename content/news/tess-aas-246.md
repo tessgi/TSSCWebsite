@@ -18,4 +18,4 @@ Working on TIKE, you'll use Python-based tools like astroquery and astropy to so
 save the data for the next generation of astronomers! MAST staff will give a short series of talks beforehand to introduce the tools
 you'll need for the challenge.
 
-Please register for the [workshop](https://my.aas.org/AAS_Member/Events/Event_Display.aspx) ASAP! 
+Please register for the [workshop](https://my.aas.org/AAS_Member/Events/Event_Display.aspx?EventKey=SMR_25R) ASAP! 
