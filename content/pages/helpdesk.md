@@ -24,14 +24,15 @@ The members of the TESS GI office are listed below.
     <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Christina Hedges<br>
-        Director of the Guest Investigator Office
+        Director of the GI Office
     </div>
     
     <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr. Rebekah Hounsell<br>
-        Support Scientist
+        <img src="images/faces/Tyler.jpg"  style="max-width:80%;" class="img-circle"><br>
+        Dr. Tyler Pritchard<br>
+        Deputy Director of the GI Office
     </div>
+    
     
 </div>
     
@@ -43,9 +44,9 @@ The members of the TESS GI office are listed below.
         Support Scientist
     </div>
     
-     <div class="col-sm-3 text-center">
-        <img src="images/faces/Tyler.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Dr. Tyler Pritchard<br>
+    <div class="col-sm-3 text-center">
+    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
+        Dr. Rebekah Hounsell<br>
         Support Scientist
     </div>
     
