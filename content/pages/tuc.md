@@ -22,7 +22,7 @@ The [TUC Charter](data/TUC/TESS_Users_Committee_Charter_2023Aug15.pdf) describes
 - Krista Lynne Smith, Texas A&M University
 
 
-The TUC is soliciting self-nominations for new members! Please fill out this form [link](https://forms.gle/MrosBrn25aMmFGws9) by July 15, 2025 to be considered. Terms are for two years, and members may serve up to two consecutive terms.
+The TUC is soliciting self-nominations for new members! Please fill out this form [link](https://forms.gle/MrosBrn25aMmFGws9) by August 1, 2025 to be considered. Terms are for two years, and members may serve up to two consecutive terms.
 
 ### Committee Reports
 <ul>
