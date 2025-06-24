@@ -2,7 +2,7 @@ Title: TESS Science highlights from AAS 246
 Date: 2025-06-23 10:00
 Author: Nicole Schanche
 
-The 246th meeting of the American Astronomical Society was held from June 7-12 in Anchorage, Alaska. The meeting showcased a number of exciting science highlights gleaned from TESS data, including no less than 1 plenary talk, 7 oral presentations, and 20 posters that had significant contributions from TESS. In addition, the team from the MAST archive hosted a successful interactive workshop to get new users started with accessing TESS data. To learn more about the talks, you can check out the [block schedule](https://submissions.mirasmart.com/AAS246/Itinerary/EventsAAG.aspx). 
+The 246th meeting of the American Astronomical Society was held from June 7-12 in Anchorage, Alaska. The meeting showcased a number of exciting science highlights gleaned from TESS data, including no less than 1 plenary talk, 7 oral presentations, and 20 posters that had significant contributions from TESS. In addition, the team from the MAST archive hosted a successful [interactive workshop](https://github.com/spacetelescope/tike_content/tree/main/content/notebooks/aas-246) to get new users started with accessing TESS data. To learn more about the talks, you can check out the [block schedule](https://submissions.mirasmart.com/AAS246/Itinerary/EventsAAG.aspx). 
 
 Below, we highlight the iPosters that utilize TESS data. These posters come from a range of science topics and scientist career stages (including a few high school projects!) It was amazing seeing the breadth of work being carried out with the help of TESS!
 
