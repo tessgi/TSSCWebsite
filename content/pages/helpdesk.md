@@ -22,21 +22,33 @@ The members of the TESS GI office are listed below.
     </div>
 
     <div class="col-sm-3 text-center">
-        <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Dr. Christina Hedges<br>
-        Director of the GI Office
-    </div>
-    
-    <div class="col-sm-3 text-center">
         <img src="images/faces/Tyler.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Tyler Pritchard<br>
+        Director of the GI Office
+    </div>
+
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
+        Dr. Christina Hedges<br>
         Deputy Director of the GI Office
     </div>
     
+
     
 </div>
     
 <div class="row">
+    <div class="col-sm-3 text-center">
+          <img src="images/faces/nicole.jpg"  style="max-width:80%;" class="img-circle"><br>
+        Dr. Nicole Schanche<br>
+        Support Scientist
+    </div>
+
+    <div class="col-sm-3 text-center">
+    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
+        Dr. Rebekah Hounsell<br>
+        Support Scientist
+    </div>
 
     <div class="col-sm-3 text-center">
         <img src="images/faces/veselin.png"  style="max-width:80%;" class="img-circle"><br>
@@ -44,16 +56,11 @@ The members of the TESS GI office are listed below.
         Support Scientist
     </div>
     
+
     <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr. Rebekah Hounsell<br>
-        Support Scientist
-    </div>
-    
-    <div class="col-sm-3 text-center">
-          <img src="images/faces/nicole.jpg"  style="max-width:80%;" class="img-circle"><br>
-        Dr. Nicole Schanche<br>
-        Support Scientist
+          <img src="images/faces/daniel.jpg"  style="max-width:80%;" class="img-circle"><br>
+        Dr. Daniel Giles <br>
+        Scientific Software Developer
     </div>
     
 </div>
