@@ -271,11 +271,10 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               <td>Southern hemisphere</td>
               <td>16.71, -55.94</td>
               <td>223.76</td>
-	      <td></td>	
 	      <td>2025&nbsp;Aug&nbsp;20</td>
               <td>2025&nbsp;Sep&nbsp;15</td>
 	      <td></td>
-              <!--<td><a href='data/target_lists/sector096_targets_lists/GI_S096.csv'>Download</a></td>-->
+	      <!--<td><a href='data/target_lists/sector096_targets_lists/GI_S096.csv'>Download</a></td>-->
               <td style="min-width: 12em;">
               </td>
             </tr>
