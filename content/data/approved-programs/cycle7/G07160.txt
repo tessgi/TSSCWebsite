@@ -109,3 +109,6 @@ Summary: Hot subdwarf B stars are the descendants of red giants that were stripp
 49530836,349.445,-6.4752,9.65,G07160
 262748917,349.9808,4.8761,12.78,G07160
 422603709,353.4924,4.0653,14.96,G07160
+
+# Sector 095 targets observed (2 min: 1, 20 s: 1)
+129683429,321.9015,-41.7557,16.28,G07160;20SECONDTARGET
