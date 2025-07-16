@@ -1,7 +1,7 @@
 Title: Sector 91 Noted TIC Issues
 Save_as: sector_91_star_list.html
 
-TIC ID's that had issues in Sector 90.
+TIC ID's that had issues in Sector 91.
 
 ##Targets not processed in 2-min pipeline and so missing a light curve:
 49231061
