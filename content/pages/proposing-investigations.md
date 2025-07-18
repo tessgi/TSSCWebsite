@@ -12,7 +12,7 @@ save_as: proposing-investigations.html
 <body>
 
 <div class="alert alert-primary" role="alert">
-The TESS Cycle 9 Call for proposals has been released as part of <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BA952E51B-7AD4-B180-2F8C-4E8A79AFFAED%7D&path=&method=init" target="_blank">ROSES-25 D.3C Combined General Investigator General Observer Program</a>, with a deadline of TBD.  Additional Supplementary information to the call may be found <a href="docs/TESS_Cycle9_D3C(S).pdf" target="_blank">here</a>.  The D.3C Program element and supplementary information documents will be updated upon determination of the solicitation deadline.
+The TESS Cycle 9 Call for proposals has been released as part of <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BA952E51B-7AD4-B180-2F8C-4E8A79AFFAED%7D&path=&method=init" target="_blank">ROSES-25 D.3C Combined General Investigator General Observer Program</a>, with a deadline of TBD.  Additional Supplementary information to the call may be found <a href="docs/TESS_Cycle9_D3CS.pdf" target="_blank">here</a>.  The D.3C Program element and supplementary information documents will be updated upon determination of the solicitation deadline.
 </div>
 
 The primary purpose of the TESS General Investigator (GI) Program is to enhance and maximize the science return from the mission. Users can obtain both data and funding through the TESS GI Program. The program facilitates and supports short-cadence observations with TESS as well as research undertaken with the Full-Frame Images.
