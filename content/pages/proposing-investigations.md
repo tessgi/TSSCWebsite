@@ -12,11 +12,11 @@ save_as: proposing-investigations.html
 <body>
 
 <div class="alert alert-primary" role="alert">
-The Cycle 8 Call for Proposals is now available on <a href="https://nspires.nasaprs.com/external/solicitations/summary!init.do?solId=%7BC5F89429-F4A5-1E74-AC89-49F7DB4DD67B%7D&path=open">NSPIRES</a>. The due date for proposals is <b>March 27th 2025</b>. TESS Cycle 8 observations will occur between September 2025 and September 2026. 
+The TESS Cycle 9 Call for proposals has been released as part of <a href="https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7BA952E51B-7AD4-B180-2F8C-4E8A79AFFAED%7D&path=&method=init" target="_blank">ROSES-25 D.3C Combined General Investigator General Observer Program</a>, with a deadline of TBD.  Additional Supplementary information to the call may be found <a href="docs/TESS_Cycle9_D3CS.pdf" target="_blank">here</a>.  The D.3C Program element and supplementary information documents will be updated upon determination of the solicitation deadline.
 </div>
 
 The primary purpose of the TESS General Investigator (GI) Program is to enhance and maximize the science return from the mission. Users can obtain both data and funding through the TESS GI Program. The program facilitates and supports short-cadence observations with TESS as well as research undertaken with the Full-Frame Images.
-<br> Note that the TESS GI program requires that at least 25% of data used by the proposal must be new. For projects primarily using archival data, see "Can I propose to use archival data?" below. </br>
+<br> Note that the TESS GI program requires that proposed projects must be enabled by new TESS observations. For projects primarily using archival data, see "Can I propose to use archival data?" below. </br>
 <br> Below you can find more information on the TESS General Investigator (GI) Program and how to propose for TESS data and research funding. </br>
 <br>
 
@@ -104,7 +104,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
             <tr>
               <th scope="row">Small</th>
               <td>One year</td>
-              <td>Up to $70,000 (~1FTE for a grad student)</td>
+              <td>Up to $90,000 (~1FTE for a grad student)</td>
               <td>No limit</td>
               <td>4</td>
               <td>Ground-based proposals allowed</td>
