@@ -112,3 +112,6 @@ Summary: This project aims to investigate Be stars within binary systems using a
 # Sector 095 targets observed (2 min: 2, 20 s: 2)
 355653322,359.9799,-65.5773,4.57,G07037;G07141;G07166;20SECONDTARGET
 364398342,119.7106,-60.8244,5.93,G07037;G07036;G07141;G07111;G07166;20SECONDTARGET
+
+# Sector 096 targets observed (2 min: 1, 20 s: 1)
+47296054,340.1641,-27.0436,4.26,G07037;G07141;G07166;20SECONDTARGET
