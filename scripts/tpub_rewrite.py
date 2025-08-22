@@ -29,25 +29,25 @@ def file_change(filename_list_in,
 
 
 cw1 = ["Save_as: publications.html","[TOC]","## Publication database","![Publication rate by year](images/tpub/tpub-publication-rate.png)","![Publications by subject](images/tpub/tpub-piechart.png)"]
-rp1 = ["template: slide\nSave_as: publications.html","", "<h2>Publication database</h2>","![Publication rate by year](images/statistics/publications_barchart.png)","![Publications by subject](images/statistics/publications_piechart.png)"]
+rp1 = ["Save_as: publications.html","", "<h2>Publication database</h2>","![Publication rate by year](images/statistics/publications_barchart.png)","![Publications by subject](images/statistics/publications_piechart.png)"]
 
 cw2 = ["Save_as: tpub-astrophysics-by-month.html","[TOC]"]
-rp2 = ["template: slide\nSave_as: tpub-astrophysics-by-month.html",""]
+rp2 = ["Save_as: tpub-astrophysics-by-month.html",""]
 
 cw3 = ["Save_as: tpub-astrophysics.html","[TOC]"]
-rp3 = ["template: slide\nSave_as: tpub-astrophysics.html",""]
+rp3 = ["Save_as: tpub-astrophysics.html",""]
 
 cw4 = ["Save_as: tpub-by-month.html","[TOC]"]
-rp4 = ["template: slide\nSave_as: tpub-by-month.html",""]
+rp4 = ["Save_as: tpub-by-month.html",""]
 
 cw5 = ["Save_as: tpub-exoplanets-by-month.html","[TOC]"]
-rp5 = ["template: slide\nSave_as: tpub-exoplanets-by-month.html",""]
+rp5 = ["Save_as: tpub-exoplanets-by-month.html",""]
 
 cw6 = ["Save_as: tpub-exoplanets.html","[TOC]"]
-rp6 = ["template: slide\nSave_as: tpub-exoplanets.html",""]
+rp6 = ["Save_as: tpub-exoplanets.html",""]
 
 cw7 = ["Save_as: tpub.html","[TOC]"]
-rp7 = ["template: slide\nSave_as: tpub.html",""]
+rp7 = ["Save_as: tpub.html",""]
 
 check_list=[cw1,cw2,cw3,cw4,cw5,cw6,cw7]
 rep_list=[rp1,rp2,rp3,rp4,rp5,rp6,rp7]
