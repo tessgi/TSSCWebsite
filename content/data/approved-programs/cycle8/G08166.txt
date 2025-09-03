@@ -1,0 +1,10 @@
+# TESS Program G08166
+
+Title: Monitoring Stellar Oscillations In Solar-Type Stars Through Simultaneous Intensity And Rv Observations
+
+PI: Li, Yaguang - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Stellar oscillations offer a unique window into the internal dynamics of stars and have become the gold-standard for calibrating fundamental stellar properties. These observations trace the time variation of either intensity (through photometry) or radial velocity (though spectroscopy), but almost never with both. However, simultaneous observations using both methods can yield complementary constraints on stellar interiors and atmospheres that are not accessible through a single channel. To address this critical gap, we propose simultaneous monitoring of stellar oscillations in four solar-type stars using TESS photometry and ground-based Extremely Precise Radial Velocity instruments.
+

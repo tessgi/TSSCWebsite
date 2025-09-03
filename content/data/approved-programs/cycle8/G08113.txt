@@ -1,0 +1,10 @@
+# TESS Program G08113
+
+Title: The Origins Of Initial Stellar Rotation: The Orion Opportunity
+
+PI: Boyle, Andrew - University Of North Carolina
+
+Type: SMALL
+
+Summary: We propose to measure rotation periods for over 17,000 pre-main-sequence stars in the Orion complex using TESS Cycle 8's 54-day continuous coverage. This will yield the largest rotation period catalog in Orion to date, enabling tests of disk-locking, binarity, and environmental effects on angular momentum evolution from 1 10 Myr. We will evaluate the reliability of long-period measurements (>13 days) from TESS s 54-day sectors by leveraging both new TESS data and external ground-based surveys to quantify the limits of TESS rotation measurements in this new observing mode. Our results will constrain how circumstellar disks and stellar companions shape the early rotation distribution, offering critical insights into the initial conditions for stellar and planetary evolution.
+
