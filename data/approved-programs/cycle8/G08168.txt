@@ -1,0 +1,10 @@
+# TESS Program G08168
+
+Title: Asteroseismology And Rotation Of Bright Solar-Type Stars
+
+PI: Buzasi, Derek - University Of Chicago
+
+Type: SMALL
+
+Summary: Solar-type stars play a critical role in stellar astrophysics and exoplanet science, anchoring stellar models and providing prime candidates for direct imaging of exoplanets using next-generation facilities. Asteroseismology is a powerful method to probe these stars, enabling precise determination of fundamental properties such as masses and ages, which are poorly constrained through spectroscopy and Gaia alone. Here we propose to leverage the unique capabilities of the TESS 20-second data in Cycle 8 to detect oscillations in hundreds of solar-type stars, 43 of which were recently selected as precursor science targets for the upcoming NASA flagship mission, the Habitable Worlds Observatory.
+

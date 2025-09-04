@@ -1,0 +1,10 @@
+# TESS Program G08155
+
+Title: Untangling Blazar Variability With Recurrence Analysis
+
+PI: Smith, Krista - Texas A&M University
+
+Type: SMALL
+
+Summary: We propose to leverage the power of recurrence analysis and machine learning to determine whether blazar sub-classes, FRSQs and BL Lac objects, exhibit distinct variability behavior as expected from theoretical ideas about their radio power and inclination. Recurrence analysis has been shown to reveal subtler variability properties than power spectra alone, and produces two-dimensional images friendly to machine learning algorithms. Comparisons of FSRQ and BL Lac power spectra in past TESS analyses have been challenging to interpret due to small sample size and the limited comparable quantities in power spectra (e.g., the slope and normalization). Recurrence and machine learning, coupled with our large sample size, tests these results robustly.
+

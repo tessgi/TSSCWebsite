@@ -1,0 +1,10 @@
+# TESS Program G08136
+
+Title: Searching For Dwarf Active Galactic Nuclei With TESS
+
+PI: Miller, Jake - Texas A&M University
+
+Type: SMALL
+
+Summary: We propose a systematic search for optical variability emitted by dwarf active galactic nuclei (AGN) among a sample of 2,805 dwarf galaxies using the extended and rolling sectors available in Cycle 8. These observations will be used to constrain the intermediate mass black hole (IMBH) occupation fraction, which has implications for formation channels of black hole seeds. Analysis will be completed using Quaver, a pipeline dedicated to reducing TESS light curves for AGN science. The light curves will be modeled with a damped random walk to verify AGN-like variability and determine the characteristic timescale of variability. The occupation fraction determined by this study will provide constraints on the formation mechanisms that created IMBHs at cosmic dawn.
+
