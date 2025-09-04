@@ -232,7 +232,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>2025&nbsp;Sep&nbsp;15</td>
 		<td>2025&nbsp;Nov&nbsp;09</td>
 		<td><a href="data/target_lists/sector097_targets_lists/GI_S097.csv">Download</a></td>
-		<td></td>
 		<td style="min-width: 12em;">Cycle 8 begins
 		</td>
 
