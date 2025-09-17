@@ -51,6 +51,54 @@ Gascón, C., López-Morales, M., MacDonald, R. J., et al.
 Kroft, Maxwell A., Beatty, Thomas G., Crossfield, Ian J. M., et al.    
 2025, refereed ([2025AJ....170..150K](http://adsabs.harvard.edu/abs/2025AJ....170..150K))  
 
+12. [THE TESS GRAND UNIFIED HOT JUPITER SURVEY. III. THIRTY MORE GIANT PLANETS](http://adsabs.harvard.edu/abs/2025ApJS..280...30Y)  
+Yee, Samuel W., Winn, Joshua N., Hartman, Joel D., et al.    
+2025, refereed ([2025ApJS..280...30Y](http://adsabs.harvard.edu/abs/2025ApJS..280...30Y))  
+
+13. [TOI-1743 B, TOI-5799 B, TOI-5799 C AND TOI-6223 B: TESS DISCOVERY AND VALIDATION OF FOUR SUPER-EARTH TO NEPTUNE-SIZED PLANETS AROUND M DWARFS](http://adsabs.harvard.edu/abs/2025arXiv250905038Y)  
+Yalçınkaya, S., Barkaoui, K., Baştürk, Ö., et al.    
+2025, not refereed ([2025arXiv250905038Y](http://adsabs.harvard.edu/abs/2025arXiv250905038Y))  
+
+14. [LEO-VETTER: FULLY AUTOMATED FLUX- AND PIXEL-LEVEL VETTING OF TESS PLANET CANDIDATES TO SUPPORT OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2025arXiv250910619K)  
+Kunimoto, Michelle, Bryson, Steve, Jaffee, Drayson, et al.    
+2025, not refereed ([2025arXiv250910619K](http://adsabs.harvard.edu/abs/2025arXiv250910619K))  
+
+15. [SEARCHING FOR GEMS: THE OCCURRENCE OF GIANT PLANETS ORBITING M-DWARFS WITHIN 100 PC](http://adsabs.harvard.edu/abs/2025arXiv250908773G)  
+Glusman, Rowen I., Cañas, Caleb I., Kanodia, Shubham, et al.    
+2025, not refereed ([2025arXiv250908773G](http://adsabs.harvard.edu/abs/2025arXiv250908773G))  
+
+16. [THE MASS OF TOI-654 B: A SHORT-PERIOD SUB-NEPTUNE TRANSITING A MID-M DWARF](http://adsabs.harvard.edu/abs/2025PASJ..tmp...95I)  
+Ikuta, Kai, Narita, Norio, Takarada, Takuya, et al.    
+2025, refereed ([2025PASJ..tmp...95I](http://adsabs.harvard.edu/abs/2025PASJ..tmp...95I))  
+
+17. [MIGRATION AND EVOLUTION OF GIANT EXOPLANETS (MEEP) II: SUPER-JUPITERS AND LITHIUM-RICH HOST STARS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1399S)  
+Schulte, Jack, Rodriguez, Joseph E., Latham, David W., et al.    
+2025, refereed ([2025MNRAS.tmp.1399S](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1399S))  
+
+18. [OWLS. I. THE OLIN WILSON LEGACY SURVEY](http://adsabs.harvard.edu/abs/2025ApJ...990..113M)  
+Morris, Brett M., Hebb, Leslie, Hawley, Suzanne L., et al.    
+2025, refereed ([2025ApJ...990..113M](http://adsabs.harvard.edu/abs/2025ApJ...990..113M))  
+
+19. [THE HOT-NEPTUNE INITIATIVE (HONEI): I. TWO HOT SUB-NEPTUNES ON A CLOSE-IN ECCENTRIC ORBIT (TOI-5800 B) AND A FARTHER-OUT CIRCULAR ORBIT (TOI-5817 B)](http://adsabs.harvard.edu/abs/2025A&A...701A..79N)  
+Naponiello, L., Vissapragada, S., Bonomo, A. S., et al.    
+2025, refereed ([2025A&A...701A..79N](http://adsabs.harvard.edu/abs/2025A&A...701A..79N))  
+
+20. [MASSIVE RETROGRADE MOONS MAY SURVIVE DURING DIFFERENT HOT JUPITERS' MIGRATION SCENARIO](http://adsabs.harvard.edu/abs/2025arXiv250913263P)  
+Pu, Yangjun, Li, Chenyang, Zhu, Bohang    
+2025, not refereed ([2025arXiv250913263P](http://adsabs.harvard.edu/abs/2025arXiv250913263P))  
+
+21. [A SECOND LOW-MASS PLANET ORBITING THE NEARBY M-DWARF GJ 536](http://adsabs.harvard.edu/abs/2025arXiv250903134S)  
+Suárez Mascareño, A., del Burgo, C., Delisle, J. -B., et al.    
+2025, not refereed ([2025arXiv250903134S](http://adsabs.harvard.edu/abs/2025arXiv250903134S))  
+
+22. [A FOUR-PLANET SYSTEM ORBITING THE OLD THICK DISK STAR TOI-1203](http://adsabs.harvard.edu/abs/2025arXiv250910136G)  
+Gandolfi, D., Alnajjarine, A., Serrano, L. M., et al.    
+2025, not refereed ([2025arXiv250910136G](http://adsabs.harvard.edu/abs/2025arXiv250910136G))  
+
+23. [THE POLAR ORBIT OF TOI-2374 B, A PLANET IN THE NEPTUNIAN RIDGE](http://adsabs.harvard.edu/abs/2025arXiv250911565Y)  
+Yee, Samuel W., Tamburo, Patrick, Stefánsson, Gudmundur, et al.    
+2025, not refereed ([2025arXiv250911565Y](http://adsabs.harvard.edu/abs/2025arXiv250911565Y))  
+
 
 2025-08
 -------
