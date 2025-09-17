@@ -1,5 +1,168 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2025-09-13T00:00:00-04:00</updated><entry><title>TESS Weekly Bulletin: Sep 13th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-sep-13th.html" rel="alternate"></link><published>2025-09-13T00:00:00-04:00</published><updated>2025-09-13T00:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2025-09-13:/docs/tess/tess-weekly-bulletin-sep-13th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"></link><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"></link><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2025-09-17T10:00:00-04:00</updated><entry><title>TESS planet highlights</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-planet-highlights.html" rel="alternate"></link><published>2025-09-17T10:00:00-04:00</published><updated>2025-09-17T10:00:00-04:00</updated><author><name>Nicole Schanche</name></author><id>tag:heasarc.gsfc.nasa.gov,2025-09-17:/docs/tess/tess-planet-highlights.html</id><summary type="html">&lt;p&gt;The &lt;a href="https://exoplanetarchive.ipac.caltech.edu/index.html"&gt;Exoplanet Archive&lt;/a&gt; recently reached a major milestone - 6,000 confirmed exoplanets! Discovering 6,000 exoplanets is a huge achievement shared by scientists and astronomy enthusiasts around the world, using everything from backyard telescopes to cutting edge space-based observatories. We at the TESS Science Support Center are proud of the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The &lt;a href="https://exoplanetarchive.ipac.caltech.edu/index.html"&gt;Exoplanet Archive&lt;/a&gt; recently reached a major milestone - 6,000 confirmed exoplanets! Discovering 6,000 exoplanets is a huge achievement shared by scientists and astronomy enthusiasts around the world, using everything from backyard telescopes to cutting edge space-based observatories. We at the TESS Science Support Center are proud of the contributions made by all of the TESS community, who have used TESS data to lead to the discovery and confirmation of 693 planets so far, with many more to come. &lt;/p&gt;
+&lt;p&gt;To celebrate this achievement, we dug into the table of the 693 &lt;a href="https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&amp;amp;config=PS&amp;amp;constraint=default_flag=1&amp;amp;constraint=disc_facility+like+%27%25TESS%25%27"&gt;TESS planets&lt;/a&gt; currently in the exoplanet archive to find some of TESS' "greatest hits." If your favorite planet didn't make the list, fear not. All exoplanets are amazing and unique balls of gas and rock. Click the drop down menu below to explore the winners of this edition of the TESS planet awards. We hope this list inspires you to dive into learning about the rich variety of planets that we have found, and sparks your imagination for the possibilies of what we have yet to discover.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/news/Spencer_planets.png", style="max-width:90%;" &gt;&lt;/p&gt;
+&lt;figcaption&gt;Image courtesy of Alton Spencer.&lt;/figcaption&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;div class="accordion" id="TESS_Superlatives"&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="BiggestMass"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBiggestMass" aria-expanded="true" aria-controls="collapseBiggestMass" font-size="4rem"&gt;
+        &lt;b&gt;Most Massive&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseBiggestMass" class="accordion-collapse collapse" aria-labelledby="BiggestMass" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/abs/2305.08836" target='blank'&gt;TOI-1994 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;OK, we're already cheating a little bit here. TOI-1994 b isn't technically an exoplanet, it's a low-mass &lt;a href="https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question62.html" target='blank'&gt;brown dwarf&lt;/a&gt; (also known as a "failed star"). These objects have about the same radius as Jupiter, but are much more massive - in this case TOI-1994 b is only 1.2 times the radius of Jupiter but 22 times the mass! TOI-1994 b orbits it host star every 4 days.
+        &lt;/br&gt; 
+        &lt;br&gt;
+        TESS observed the host star in 30-minute cadence Full Frame Images in Sectors 9 and 10 and with 2-minute cadence data in Sector 36, after which the transit was found by the &lt;a href="https://archive.stsci.edu/hlsp/qlp" target='blank'&gt;Quick-Look Pipeline&lt;/a&gt;. Subsequently, TESS observed the star with 2-minute cadence in Sectors 62 and 63. Follow up transit observations were taken by ground-based observatories at the Las Cumbres Observatory Global Telescope Network (LCOGT) and the Evans telescope at El Sauce Observatory to confirm the tranist. The mass was measured using Radial Velocity observations taken by MINERVA-Australis and the CHIRON instrument on the SMARTS telescope.
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="BiggestRadius"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBiggestRadius" aria-expanded="true" aria-controls="collapseBiggestRadius"&gt;
+        &lt;b&gt;Most Rotund&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseBiggestRadius" class="accordion-collapse collapse" aria-labelledby="BiggestRadius" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/pdf/2403.12311" target='blank'&gt;BD-14 3065 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;The TESS planet with the largest radius is a bit tricky to peg down. The exoplanet archive has a number of planets with radii more than twice that of Jupiter. However, they are all grazing planets, which means the planet transits near the limb of the star, not the center, so it is difficult to get a really good estimate of the planet's radius. This is because a planet's radius is measured by the relative drop in stellar flux during the transit which is directly tied to the planet-to-star radius. Therefore, if the planet doesn't completely cover the star, we don't know exactly how big the planet is. So while TOI-1408 b, TOI-3540 A b, and HIP 65 A b are undoubtedly big planets, we currently will withold the prize to a planet with a more definitive measured radius.
+        &lt;/br&gt;
+        &lt;br&gt;That leads us to BD-14 3065 b (also known as TOI-4987 b). This object has a mass right near the boundary of where deuterium burning is expected to start in the planet core, which is one distinguisher between planets and brown dwarfs. Three Sectors of TESS showed the radius of this planet/brown is a whopping 1.9 times that of Jupiter, while ground-based spectroscopy provides an estimated mass of 12.37 times that of Jupiter. Even though this is a massive planet, the radius is larger than expected based on theoretical models. The authors suggest that this could be due to extra internal heating from duterium burning, which may suggest it is more likely a brown dwarf. We look forward to seeing the results of more observations of this interesting system!
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="SmallestMass"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSmallestMass" aria-expanded="true" aria-controls="collapseSmallestMass"&gt;
+        &lt;b&gt;Lightest&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseSmallestMass" class="accordion-collapse collapse" aria-labelledby="SmallestMass" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/pdf/1903.08017" target='blank'&gt;L 98-59 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;Small stars are great for three reasons 1) their small radius makes it easier to find smaller planet transits, 2) they are cooler so planets with periods of only tens of days can be in the habitable zone, and 3) there are a lot of them! Sure, they are faint so it can be a challenge to observe them at great distances, but let's stick to the postive. This next system is around the M dwarf star L 98-59. Originally, this system was found to have 3 different earth-sized planets after 3 Sectors of data in the first year after TESS launched. The innermost planet (L 98-59 b) has a period of only 2.3 days and a radius of only 0.75 times that of Earth. Originally, mass measurements were not available. However, since its discovery, this system has been extensively studied by ground based and space spaced observatories (including Hubble and JWST). By combining radial velocity observations with transit timing variations (TTVs; measuring how much the planets in the system gravitationally 'tug' at each other changing their orbit times) the inner planet currently has a mass measurement of only half the mass of Earth. And that's not all, since it's original discovery, 2 more planets have been found in the system bringing the total to 5. This is a fascinating system with a &lt;a href="https://ui.adsabs.harvard.edu/search/filter_property_fq_property=AND&amp;filter_property_fq_property=property%3A%22refereed%22&amp;fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&amp;fq=%7B!type%3Daqp%20v%3D%24fq_property%7D&amp;fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&amp;fq_property=(property%3A%22refereed%22)&amp;p_=0&amp;q=%20abs%3A%22L%2098-59%22&amp;sort=date%20desc%2C%20bibcode%20desc" target='blank'&gt;rich observation history&lt;/a&gt; that we recommend you explore, as we can't fit all of the details in one blog post!
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="SmallestRadius"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSmallestRadius" aria-expanded="true" aria-controls="collapseSmallestRadius"&gt;
+        &lt;b&gt;Daintiest&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseSmallestRadius" class="accordion-collapse collapse" aria-labelledby="SmallestRadius" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/pdf/2407.18199" target='blank'&gt;GJ 238 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;
+        The smallest radius planet also happens to be orbiting a M dwarf star. TESS' &lt;a href="https://tess.mit.edu/observations/" target='blank'&gt;observing strategy&lt;/a&gt; means that it tiles around the sky in ~27 day long stares, slowly working around the sky. In the primary mission and first extension, this had the pattern of observing the southern sky for a year, then the northern sky for a year. However, near the northern and southern galactic poles, there is an area of sky that is covered near-continuously. GJ 238 b (also known as TOI 486) happens to lie in this zone of coverage, so within a few years TESS observed the star in 25 Sectors. With a period of only 1.74 days, that means there is a lot of data to tease a small transit signal out of. The small size of this planet does make Radial Velocity measurements challenging, but may be possible with the most state-of-the-art facilities. This exemplary planet shows the value of repeated observations with TESS, as signals that are at first too faint to be detected can begin to emerge as we build up more and more observations. 
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="Hottest"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHottest" aria-expanded="true" aria-controls="collapseHottest"&gt;
+        &lt;b&gt;Hottest&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseHottest" class="accordion-collapse collapse" aria-labelledby="Hottest" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/abs/2111.12074" target='blank'&gt;TOI-2109 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;
+        This ultra-hot Jupiter also happens to be in a very tight orbit around it's star, with an orbital period of only ~16 hours. This means it is orbiting with a separation of less than 2.3 times the star's radius away (for context, the Mercury, the planet closest to the Sun in our solar system, orbits at a distance of 62 times the Sun's radius). The host star has a radius 1.4 times larger than the Sun. Radial velocity measurements show that this planet has a mass 5 times larger than Jupiter. This planet reflects so much ligth that it also shows a secondary eclipse, where we can measure how much reflcted light is blocked when the planet passes BEHIND the star. These observations show that the planet itself is 3,631 K
+        &lt;/br&gt;
+        &lt;br&gt;The star was first observed by TESS in Sector 25 in the Full Frame Images. The Quick Look Pipeline identified the transit, and the candidate was added to the TESS Objects of Interest list. This triggered follow-up observations by a number of ground based facilities (20 in total!) The mass was measured via the Radial Velocity method using data from two different facilities, the Tillinghast Reflector Echelle Spectorgraph and the Fiber-fed Echele Spectrograph (FIES).
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="Coldest"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseColdest" aria-expanded="true" aria-controls="collapseColdest"&gt;
+        &lt;b&gt;Most Chill&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseColdest" class="accordion-collapse collapse" aria-labelledby="Coldest" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/pdf/2009.07282" target='blank'&gt;WD 1856 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;
+        Stars may seem like constants in the sky, but they have a lifecycle all their own. Many stars, around the size of our Sun and smaller, will eventually puff up into red giants and shed their outer layers. The core that is left will compress into a really dense ball (think the mass of the sun squeezed inside the Earth). With no more nuclear burning, these objects simply sit there and slowly cool over billions of years. 
+        &lt;/br&gt;
+        &lt;br&gt;
+        Sound like a cozy home for a planet? Absolutely not! But a planet orbiting a white dwarf was actually observed using TESS data. Further ground based observations as well as Spectroscopy from a variety of sources confirmed this bizarre object. The Jupiter-sized planet orbits the white dwarf WD 1856+534 every 1.4 days. Later observations &lt;a href="https://arxiv.org/pdf/2504.16982" target='blank'&gt;with JWST's MIRI&lt;/a&gt; instruments show that the planet has a temperature of 186 K (or -124 degrees Fahrenheit).
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="MostEccentric"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMostEccentric" aria-expanded="true" aria-controls="collapseMostEccentric"&gt;
+        &lt;b&gt;Most Eccentric&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseMostEccentric" class="accordion-collapse collapse" aria-labelledby="MostEccentric" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://www.nature.com/articles/s41586-024-07688-3" target='blank'&gt;TIC 241249530 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;In this case, we don't mean weirdest (we don't judge our planets!). Eccentricity is a measurement of how close the planet's orbit is to a circle. An eccentricity of 0 is a perfect circle, while an eccentricity of 1 would mean the orbit is actually a parabola and the planet would leave the star and never come back. Most of the planets in our &lt;a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/" target='blank'&gt;solar system&lt;/a&gt; have eccentricities near zero. Earth for example has an eccentricity of 0.017. Mercury is the most eccentric with a value of 0.206 (Pluto has an eccentricity of 0.244, but alas had to give up this title when it was &lt;a href="https://science.nasa.gov/dwarf-planets/" target='blank'&gt;demoted&lt;/a&gt;).
+        &lt;/br&gt;
+        &lt;br&gt;TIC 241249530 b on the other hand has an eccentricity of 0.93. This means that over the coarse of its 167 day orbit, it gets 10 times closer to its star than Mercury gets to our Sun, then out to the equivalent of Earth’s orbit. A single transit was first seen in TESS Quick Look Pipeline Sector 20 data from January 2020. Follow-up RV observations with the NEID spectrograph helped to contrain the orbital period and the eccentricity allowing the team to predict when the next transit may be seen. The transit was successfuly caught again in February 2024 with the ground-based ARCTIC imager at Apache Point Observatory. Interestingly, this may be the discovery of a planet &lt;a href="https://news.mit.edu/2024/astronomers-spot-highly-eccentric-planet-becoming-hot-jupiter-0717" target='blank'&gt;in transition&lt;/a&gt;. One theory of 'hot Jupiter' planets (planets ~the size of Jupiter that orbit their stars in just a few day, making them extremely hot) is that they actually form a large distance from their star and through a process called eccentric migration, in which the orbit circularizes close in to their star. We can check back in a billion years confirm the planet becomes a hot Jupiter!
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="ShortestPeriod"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseShortestPeriod" aria-expanded="true" aria-controls="collapseShortestPeriod"&gt;
+        &lt;b&gt;Closest to its Star&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseShortestPeriod" class="accordion-collapse collapse" aria-labelledby="ShortestPeriod" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://arxiv.org/pdf/2407.21167" target='blank'&gt;TOI-6255 b&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;TOI 6255 b (also known as GJ 4256 b) is a roughly Earth-sized planet that orbits its star every - wait for it - 5.7 HOURS! That's right, a year on this planet lasts for less than one work day here on Earth. The host star is smaller and cooler than our Sun, but that proximity still means that the temperature on this planet is aound 1,300 K (1,880 fahrenheit), which means any surface rock would be at least partially melted.
+        &lt;/br&gt;
+        &lt;br&gt;The planet was observed by TESS in Sectors 16 and 56 with 2-minute cadence. Even though the planet has a small radius, the short period allows for many transits to be observed in only two sectors, allowing for a clear transit detection. Radial Velocity observations from KPF and CARMENES showed the planet to be ~1.4 times more massive than earth.
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class="accordion-item"&gt;
+    &lt;h2 class="accordion-header" id="LongestPeriod"&gt;
+      &lt;button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseLongestPeriod" aria-expanded="true" aria-controls="collapseLongestPeriod"&gt;
+        &lt;b&gt;Longest Year&lt;/b&gt;
+      &lt;/button&gt;
+    &lt;/h2&gt;
+    &lt;div id="collapseLongestPeriod" class="accordion-collapse collapse" aria-labelledby="LongestPeriod" data-bs-parent="#TESS_Superlatives" style=""&gt;
+      &lt;div class="accordion-body"&gt;
+        &lt;b&gt;&lt;a href="https://iopscience.iop.org/article/10.3847/2041-8213/adefe5#artAbst" target='blank'&gt;TOI-201 c&lt;/a&gt;&lt;/b&gt;
+        &lt;br&gt;This is our last of the TESS planet awards, and I think it just may be the most fascinating. TOI-201 lies in the continuous viewing zone and was observed for the entirity of TESS' first year. This long-stare allowed for the identification of a long period (~53 days) planet, which is typically tricky for TESS to find given the 27-day Sectors. In addition to TESS, TOI-201 b transits were observed by the Next Generation Transit Survey (NGTS) and RVs were obtained by the FEROS, HARPS, CORALIE, MINERVA-Australis, and NRES spectrographs. All of this together showed a planet with a radius nearly equal to Jupiter, but half the mass. 
+        &lt;/br&gt;
+        &lt;br&gt;This could have been the end of the story, but TESS continued to observed this star after its initial discovery. Observations of the transits from TESS' fifth year showed an increase in the orbital period of TOI-201 b. Modeling of the change in the transit times indicated that there was another object in the system with a long period of ~7.7 years. Shockingly, this prediction was confirmed when TESS observed another single transit of a planet that was consistent with the predicted object. This discovery allowed a much more in depth fit to the system and showed the new planet TOI-201 c to have a mass 14 times that of Jupiter. The planet has a rather eccentric orbit of around 0.6. This sytem is a beautiful demonstration of how different types of measurements really complement each other to piece together more information about planetary systems. 
+        &lt;/br&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: Sep 13th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-sep-13th.html" rel="alternate"></link><published>2025-09-13T00:00:00-04:00</published><updated>2025-09-13T00:00:00-04:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2025-09-13:/docs/tess/tess-weekly-bulletin-sep-13th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
 &lt;p&gt;This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
 &lt;p&gt;First, we highlight a paper on a comprehensive analysis of CM Draconis. This target represents one of the most thoroughly studied low-mass eclipsing binary star systems, located just 47 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
 &lt;p&gt;This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
@@ -1829,31 +1992,4 @@ AU Mic is a cool red dwarf M-star which is approximately 24 million years old, a
 &lt;p&gt;&lt;img alt="Dong2" src="images/news/Dong_2021b.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Dong et., al., (2021). TESS and ground-based transit photometry of TOI-3362b over-plotted with best modeled light curves. Both raw (upper and middle left panels) and folded-detrended (upper and middle right panels) TESS Year 1 (30-minute cadence) and Year 3 (10-minute cadence) light curves are presented. Three detrended, ground-based light curves observed with ASTEP and LCOGT-SSO are presented. The LCOGT-SSO transit was detected in two different filters (B and zs) with no obvious transit depth variation detected.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Cabot2" src="images/news/Cabot_2021b.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Cabot et., al., (2021). Zoomed-in views of the primary transit (left) and secondary eclipse (right) of TOI-1518b. The light curves are binned in 3-minute intervals. Note the difference in vertical scale between the two plots. The difference in out-of- occultation baselines primarily reflects the planetary phase- curve modulation. The bottom panels show the correspond- ing residuals from the best-fit model&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry><entry><title>TESS Weekly Bulletin: August 18th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-august-18th.html" rel="alternate"></link><published>2021-08-18T10:00:00-04:00</published><updated>2021-08-18T10:00:00-04:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2021-08-18:/docs/tess/tess-weekly-bulletin-august-18th.html</id><summary type="html">&lt;p&gt;`STATUS UPDATE: Orbit 2 of Sector 40 is now available to download as a TICA product from MAST&lt;/p&gt;
-&lt;p&gt;Welcome TESS followers!  This week we are looking at three papers from the archive, &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2108.02912"&gt;OO Dra: an Algol-type binary formed through an extremely helium-poor mass accretion revealed by asteroseismology&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Chen et. al …&lt;/em&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;`STATUS UPDATE: Orbit 2 of Sector 40 is now available to download as a TICA product from MAST&lt;/p&gt;
-&lt;p&gt;Welcome TESS followers!  This week we are looking at three papers from the archive, &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2108.02912"&gt;OO Dra: an Algol-type binary formed through an extremely helium-poor mass accretion revealed by asteroseismology&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Chen et. al., 2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;OO Dra is an eclipsing binary with an orbital period of 1.23838 days. Eclipsing binaries are important objects as they help us to understand stellar structure and evolution. 
-Using TESS 2-minute cadenced data, the authors have analyzed the intrinsic oscillations of the primary component and identified seven confident and independent delta Scuti frequencies. &lt;/p&gt;
-&lt;p&gt;Single-star evolutionary models and mass-accreting models are computed to reproduce delta Scuti frequencies, with the fitting of residuals matching well. &lt;/p&gt;
-&lt;p&gt;Through asteroseismology the  authors determine the stellar parameters of the primary as M = 1.92 M⊙, Z = 0.011, R = 2.068 R⊙, log g = 4.090, T = 8346 K, and L = 18.65 L⊙. These parameters match well with the dynamical parameters of the binary model. &lt;/p&gt;
-&lt;p&gt;The asteroseismology results also indicate that OO Dra is an Algol system which has undergone the rapid mass-transfer stage. The pulsator is likely a helium poor star with an age of 8.22 Myr, and that the primary is probably an un-evolved star formed by an extremely helium-poor mass accretion.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2108.02310"&gt;TOI-431/HIP 26013: a super-Earth and a sub-Neptune transiting a bright, early K dwarf, with a third RV planet&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Osborn et al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In this paper the authors present the discovery of TOI-431, a bright, multi-planet system which has a stellar rotation period is 30.5 days. The system has been studied by the authors using radial velocity measurements and photometry. &lt;/p&gt;
-&lt;p&gt;Orbiting the host there are three planets,  a super-Earth known as TOI-431b, a sub-Neptune known as TOI-431d, and TOI-431c which was not seen to transit the host. 
-TOI-431b has a period of 0.49 days, a radius of 1.28 R⊕, a mass of 3.07 M⊕, and a density of 8.0 g cm&lt;sup&gt;-3&lt;/sup&gt;. 
-TOI-431d has a period of 12.46 days, a radius of 3.29 R⊕, a mass of 9.90 M⊕, and a density of 1.36 g cm&lt;sup&gt;-3&lt;/sup&gt;. This planet is also likely to have an extended atmosphere.
-TOI-431c has an M sin i  of 2.83 M⊕, and a period of 4.85 days.&lt;/p&gt;
-&lt;p&gt;All planets straddle the radius gap and present an interesting case-study for atmospheric evolution. &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2108.02294"&gt;TESS Giants Transiting Giants I: A Non-inflated Hot Jupiter Orbiting a Massive Subgiant&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Saunders et. al.,  2021)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The number of confirmed transiting exoplanets around evolved stars is still relatively low. This paper presents the discovery and characterization of a hot Jupiter orbiting a massive evolved sub-giant star, designated TOI-2184. &lt;/p&gt;
-&lt;p&gt;The host star has a mass of 1.53M⊙, a radius of  2.90 R⊙, and is located in the TESS southern continuous viewing zone. Due to periodic systematics which introduced spurious transit depth differences, this planet was originally flagged as a false positive by the TESS Quick-look Pipeline.&lt;/p&gt;
-&lt;p&gt;Using a new pipeline, which removes the scattered light from the TESS full frame images (FFIs), the authors combined the TESS photometry with that from the ground, in addition to radial velocity measurements. From this work a planet radius of 1.017 R&lt;sub&gt;J&lt;/sub&gt; and mass of 0.65 M&lt;sub&gt;J&lt;/sub&gt; were derived. &lt;/p&gt;
-&lt;p&gt;The mass and radius obtained are very close to that of Jupiter, and given the planets close proximity to its host star, this is unusual. The planet is in fact smaller than what is theoretically predicted based on the incident flux. See this paper for more information. &lt;/p&gt;
-&lt;p&gt;&lt;img alt="Chen" src="images/news/Chen_2021.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 1:&lt;/strong&gt; &lt;em&gt;Taken from Chen et., al., (2021).Light curve and O-C residuals of OO Dra. The upper panel presents the light curve (black circles), and the lower panel presents the O-C residuals. The red line in the upper panel denotes the synthesis mean curve..&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Osborn" src="images/news/Osborn_2021.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Osborn et., al., (2021). The TESS data for TOI-431 in Sectors 5 and 6. Top plot: detrending the TESS light curves and fitting models for TOI-431 b and c. Top: the full, 2-min cadence PDCSAP light curve, with no detrending for stellar activity, is shown in grey. Each sector has 2 segments of continuous viewing, and the gaps in the data correspond to the spacecraft down-linking the data to Earth after a TESS orbit of 13.7 days. Overlaid in green is the GP model that has been fit to this data (described in Section 3.2.1 of the paper), in order to detrend the stellar activity . Middle: the flux detrended with the GP model, with the transit models for TOI-431 b (orange) and d (blue) overlaid. The expected transit times for the 2 further transits of TOI-431 d, both of which fall in the data down-link, are marked with blue arrows. Bottom: residuals when the best fit model and GP have been subtracted from the PDCSAP flux. The baseline flux (normalized to 0) is shown in dark grey. Bottom plot: phase folds of the TESS data for TOI-431 b (left), c (middle, with no transit evident), and d (right), with the flux binned as red circles, and the residuals of the folds once the best fit models have been subtracted from the flux shown in the bottom panels.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Saunders" src="images/news/Saunders_2021.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Saunders et., al., (2021).The full systematics-corrected flux light curve for TOI-2184b with transit times marked by triangles. The alternating triangle colors represent the even and odd transits. The gray sections mark the data gaps due to data downlinks or the spacecraft entering safe mode. While the even transits (blue) fall almost exclusively in the middle of continuous data collection, the odd transits (orange) fall primarily near the beginning or end of a data gap when the TESS detector is experiencing increased scatter due to thermal sensitivity variation and scattered light. This trend is most present in the first seven observing sectors (top two rows), and disappears for the final four sectors (bottom row).&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry></feed>
+&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Cabot et., al., (2021). Zoomed-in views of the primary transit (left) and secondary eclipse (right) of TOI-1518b. The light curves are binned in 3-minute intervals. Note the difference in vertical scale between the two plots. The difference in out-of- occultation baselines primarily reflects the planetary phase- curve modulation. The bottom panels show the correspond- ing residuals from the best-fit model&lt;/em&gt;&lt;/p&gt;</content><category term="news"></category></entry></feed>
