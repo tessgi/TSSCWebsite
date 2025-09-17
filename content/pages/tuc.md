@@ -12,17 +12,17 @@ The [TUC Charter](data/TUC/TESS_Users_Committee_Charter_2023Aug15.pdf) describes
 
 ### Current TUC Chair and Members
 - Dan Huber (chair, email: huberd@hawaii.edu), University of Hawai'i
-- Marcel Agüeros, Columbia University
 - Luke Bouma, Carnegie Observatories
 - Adina Feinstein, Michigan State University
-- Teruyuki Hirano, Astrobiology Center / National Astronomical Observatory of Japan
 - Savita Mathur, Instituto de Astrofisica de Canarias
-- Armin Rest, STScI/JHU
-- Malena Rice, Yale University
 - Krista Lynne Smith, Texas A&M University
+- Ben Cassese, Columbia University / CfA
+- JJ Hermes, Boston University
+- Hugh Osborn, University of Bern
+- Ryan Ridden-Harper, University of Canterbury
+- Liliana Rivera Sandoval, University of Texas Rio Grande Valley
 
-
-The TUC is soliciting self-nominations for new members! Please fill out this form [link](https://forms.gle/MrosBrn25aMmFGws9) by August 1, 2025 to be considered. Terms are for two years, and members may serve up to two consecutive terms.
+A list of previous TUC members can be found [here](https://heasarc.gsfc.nasa.gov/docs/tess/tuc_past_members.html). 
 
 ### Committee Reports
 <ul>
@@ -39,4 +39,5 @@ The TUC is soliciting self-nominations for new members! Please fill out this for
 </ul>
 
 
-*Modified September 10th 2024*
+
+*Modified September 13th 2025*
