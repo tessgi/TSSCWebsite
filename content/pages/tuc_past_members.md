@@ -6,3 +6,4 @@ save_as: tuc_past_members.html
 - Teruyuki Hirano, Astrobiology Center / National Astronomical Observatory of Japan
 - Armin Rest, STScI/JHU
 - Malena Rice, Yale University
+- Nora Eisner, Flatiron Institute
