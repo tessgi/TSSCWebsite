@@ -19,7 +19,7 @@ The [TUC Charter](data/TUC/TESS_Users_Committee_Charter_2023Aug15.pdf) describes
 - Ben Cassese, Columbia University / CfA
 - JJ Hermes, Boston University
 - Hugh Osborn, University of Bern
-- Ryan Ridden-Harper, University of Canterbury
+- Ryan Ridden, University of Canterbury
 - Liliana Rivera Sandoval, University of Texas Rio Grande Valley
 
 A list of previous TUC members can be found [here](https://heasarc.gsfc.nasa.gov/docs/tess/tuc_past_members.html). 
