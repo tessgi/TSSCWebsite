@@ -99,6 +99,50 @@ Gandolfi, D., Alnajjarine, A., Serrano, L. M., et al.
 Yee, Samuel W., Tamburo, Patrick, Stefánsson, Gudmundur, et al.    
 2025, not refereed ([2025arXiv250911565Y](http://adsabs.harvard.edu/abs/2025arXiv250911565Y))  
 
+24. [TRANSIT TIMING VARIATIONS IN HIP 41378: CHEOPS AND TESS CONFIRM A NON-TRANSITING SIXTH PLANET IN THE SYSTEM](http://adsabs.harvard.edu/abs/2025arXiv250914156L)  
+Leonardi, P., Borsato, L., Pagliaro, L., et al.    
+2025, not refereed ([2025arXiv250914156L](http://adsabs.harvard.edu/abs/2025arXiv250914156L))  
+
+25. [TOI-2155B: A HIGH-MASS BROWN DWARF NEAR THE HYDROGEN BURNING MASS LIMIT FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2025arXiv250918503R)  
+Redyan Ahmed, Md, Daylan, Tansu, Carmichael, Theron W., et al.    
+2025, not refereed ([2025arXiv250918503R](http://adsabs.harvard.edu/abs/2025arXiv250918503R))  
+
+26. [RAVEN: RANKING AND VALIDATION OF EXOPLANETS](http://adsabs.harvard.edu/abs/2025arXiv250917645H)  
+Hadjigeorghiou, Andreas, Armstrong, David J., Cui, Kaiming, et al.    
+2025, not refereed ([2025arXiv250917645H](http://adsabs.harvard.edu/abs/2025arXiv250917645H))  
+
+27. [THYME XIII: TWO YOUNG NEPTUNES ORBITING A 75-MYR STAR IN THE ALPHA PERSEI CLUSTER](http://adsabs.harvard.edu/abs/2025arXiv250915313D)  
+Dattilo, Anne, Vanderburg, Andrew M., Barber, Madyson G., et al.    
+2025, not refereed ([2025arXiv250915313D](http://adsabs.harvard.edu/abs/2025arXiv250915313D))  
+
+28. [DETECTION AND CHARACTERISATION OF A 106-DAY TRANSITING JUPITER : TOI-2449 B / NGTS-36 B](http://adsabs.harvard.edu/abs/2025arXiv250915424U)  
+Ulmer-Moll, S., Gill, S., Brahm, R., et al.    
+2025, not refereed ([2025arXiv250915424U](http://adsabs.harvard.edu/abs/2025arXiv250915424U))  
+
+29. [SIBLING SUB-NEPTUNES AROUND SIBLING M DWARFS: TOI-521 AND TOI-912](http://adsabs.harvard.edu/abs/2025arXiv250914782L)  
+Lacedelli, G., Pallé, E., Luque, R., et al.    
+2025, not refereed ([2025arXiv250914782L](http://adsabs.harvard.edu/abs/2025arXiv250914782L))  
+
+30. [A DECADE OF TRANSIT-TIMING MEASUREMENTS CONFIRM RESONANCE IN THE K2-19 SYSTEM](http://adsabs.harvard.edu/abs/2025arXiv250918031E)  
+Entrican, Paige M., Petigura, Erik A., Petit, Antoine C., et al.    
+2025, not refereed ([2025arXiv250918031E](http://adsabs.harvard.edu/abs/2025arXiv250918031E))  
+
+31. [SEARCHING FOR GEMS: TOI-5349B IS A SATURN-LIKE PLANET ORBITING A METAL-RICH EARLY M-DWARF](http://adsabs.harvard.edu/abs/2025arXiv250919492S)  
+Sandoval, Angeli, Cañas, Caleb I., Kanodia, Shubham, et al.    
+2025, not refereed ([2025arXiv250919492S](http://adsabs.harvard.edu/abs/2025arXiv250919492S))  
+
+32. [ATREIDES: I. EMBARKING ON A TREK ACROSS THE EXO-NEPTUNIAN LANDSCAPE WITH THE TOI-421 SYSTEM](http://adsabs.harvard.edu/abs/2025A&A...701A.190B)  
+Bourrier, V., Steiner, M., Castro-González, A., et al.    
+2025, refereed ([2025A&A...701A.190B](http://adsabs.harvard.edu/abs/2025A&A...701A.190B))  
+
+33. [IDENTIFYING CLOSE-IN JUPITERS THAT ARRIVED VIA DISK MIGRATION: EVIDENCE OF PRIMORDIAL ALIGNMENT, PREFERENCE OF NEARBY COMPANIONS AND HINT OF RUNAWAY MIGRATION](http://adsabs.harvard.edu/abs/2025arXiv250916322K)  
+Kawai, Yugo, Fukui, Akihiko, Watanabe, Noriharu, et al.    
+2025, not refereed ([2025arXiv250916322K](http://adsabs.harvard.edu/abs/2025arXiv250916322K))  
+
+34. [ATREIDES I. EMBARKING ON A TREK ACROSS THE EXO-NEPTUNIAN LANDSCAPE WITH THE TOI-421 SYSTEM](http://adsabs.harvard.edu/abs/2025arXiv250915746B)  
+Bourrier, V., Steiner, M., Castro-González, A., et al.    
+2025, not refereed ([2025arXiv250915746B](http://adsabs.harvard.edu/abs/2025arXiv250915746B))  
+
 
 2025-08
 -------
