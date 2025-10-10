@@ -24,4 +24,4 @@ author: Nicole Schanche
 
 {! data-release-notes/sector_93.html !}
 
-<!---<img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.093.jpeg">--->
+<img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.093.jpeg">
