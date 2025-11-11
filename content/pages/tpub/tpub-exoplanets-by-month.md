@@ -4,6 +4,38 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2025-11
+-------
+
+1. [DISCOVERY OF A NEARBY HABITABLE ZONE SUPER-EARTH CANDIDATE AMENABLE TO DIRECT IMAGING](http://adsabs.harvard.edu/abs/2025AJ....170..279B)  
+Beard, Corey, Robertson, Paul, Lubin, Jack, et al.    
+2025, refereed ([2025AJ....170..279B](http://adsabs.harvard.edu/abs/2025AJ....170..279B))  
+
+2. [THE POLAR ORBIT OF TOI-2374 B, A PLANET IN THE NEPTUNIAN RIDGE](http://adsabs.harvard.edu/abs/2025AJ....170..275Y)  
+Yee, Samuel W., Tamburo, Patrick, Stefánsson, Gudmundur, et al.    
+2025, refereed ([2025AJ....170..275Y](http://adsabs.harvard.edu/abs/2025AJ....170..275Y))  
+
+3. [LEO-VETTER: FULLY AUTOMATED FLUX- AND PIXEL-LEVEL VETTING OF TESS PLANET CANDIDATES TO SUPPORT OCCURRENCE RATES](http://adsabs.harvard.edu/abs/2025AJ....170..280K)  
+Kunimoto, Michelle, Bryson, Steve, Jaffee, Drayson, et al.    
+2025, refereed ([2025AJ....170..280K](http://adsabs.harvard.edu/abs/2025AJ....170..280K))  
+
+4. [EXOMINER++: ENHANCED TRANSIT CLASSIFICATION AND A NEW VETTING CATALOG FOR 2-MINUTE TESS DATA](http://adsabs.harvard.edu/abs/2025AJ....170..287V)  
+Valizadegan, Hamed, Martinho, Miguel J. S., Jenkins, Jon M., et al.    
+2025, refereed ([2025AJ....170..287V](http://adsabs.harvard.edu/abs/2025AJ....170..287V))  
+
+5. [DETERMINING THE IMPACT OF POST-MAIN-SEQUENCE STELLAR EVOLUTION ON THE TRANSITING GIANT PLANET POPULATION](http://adsabs.harvard.edu/abs/2025arXiv251102896B)  
+Bryant, Edward M., Van Eylen, Vincent    
+2025, not refereed ([2025arXiv251102896B](http://adsabs.harvard.edu/abs/2025arXiv251102896B))  
+
+6. [TEN ALIGNED ORBITS: PLANET MIGRATION IN THE ERA OF JWST AND ARIEL](http://adsabs.harvard.edu/abs/2025AJ....170..274Z)  
+Zak, J., Boffin, H. M. J., Bocchieri, A., et al.    
+2025, refereed ([2025AJ....170..274Z](http://adsabs.harvard.edu/abs/2025AJ....170..274Z))  
+
+7. [IN SEARCH OF DECAY: AN ANALYSIS OF TRANSIT TIMES OF HOT JUPITERS IN MAIN-SEQUENCE AND POST-MAIN-SEQUENCE SYSTEMS](http://adsabs.harvard.edu/abs/2025ApJ...993...78S)  
+Sodickson, Noah, Grunblatt, Samuel    
+2025, refereed ([2025ApJ...993...78S](http://adsabs.harvard.edu/abs/2025ApJ...993...78S))  
+
+
 2025-10
 -------
 
@@ -78,6 +110,94 @@ Persson, Carina M., Knudstrup, Emil, Carleo, Ilaria, et al.
 18. [ORBITAL DECAY CANDIDATES RECONSIDERED: WASP-4 B IS NOT DECAYING AND KEPLER-1658 B IS NOT A PLANET](http://adsabs.harvard.edu/abs/2025arXiv251005229W)  
 Winn, Joshua N., Stefánsson, Guðmundur    
 2025, not refereed ([2025arXiv251005229W](http://adsabs.harvard.edu/abs/2025arXiv251005229W))  
+
+19. [THE CHANGING TRANSIT SHAPE OF TOI-3884 B](http://adsabs.harvard.edu/abs/2025A&A...702A.100C)  
+Chakraborty, H., Almenara, J. M., Lendl, M., et al.    
+2025, refereed ([2025A&A...702A.100C](http://adsabs.harvard.edu/abs/2025A&A...702A.100C))  
+
+20. [NIRPS AND TESS REVEAL A PECULIAR SYSTEM AROUND THE M DWARF TOI-756: A TRANSITING SUB-NEPTUNE AND A COLD ECCENTRIC GIANT](http://adsabs.harvard.edu/abs/2025A&A...702A.138P)  
+Parc, Léna, Bouchy, François, Cook, Neil J., et al.    
+2025, refereed ([2025A&A...702A.138P](http://adsabs.harvard.edu/abs/2025A&A...702A.138P))  
+
+21. [THE GAPS PROGRAMME AT TNG XYZ. A SUB-NEPTUNE SUITABLE FOR ATMOSPHERIC CHARACTERIZATION IN A MULTIPLANET AND MUTUALLY INCLINED SYSTEM ORBITING THE BRIGHT K DWARF TOI-5789 (HIP 99452)](http://adsabs.harvard.edu/abs/2025arXiv251011490B)  
+Bonomo, A. S., Naponiello, L., Sozzetti, A., et al.    
+2025, not refereed ([2025arXiv251011490B](http://adsabs.harvard.edu/abs/2025arXiv251011490B))  
+
+22. [TOI-3288 B AND TOI-4666 B: TWO GAS GIANTS TRANSITING LOW-MASS STARS CHARACTERISED BY NIRPS](http://adsabs.harvard.edu/abs/2025arXiv251011703F)  
+Frensch, Yolanda G. C., Bouchy, François, Lo Curto, Gaspare, et al.    
+2025, not refereed ([2025arXiv251011703F](http://adsabs.harvard.edu/abs/2025arXiv251011703F))  
+
+23. [TOI-283 B: A TRANSITING MINI-NEPTUNE IN A 17.6-DAY ORBIT DISCOVERED WITH TESS AND ESPRESSO](http://adsabs.harvard.edu/abs/2025arXiv251015084M)  
+Murgas, F., Pallé, E., Suárez Mascareño, A., et al.    
+2025, not refereed ([2025arXiv251015084M](http://adsabs.harvard.edu/abs/2025arXiv251015084M))  
+
+24. [AN ULTRA-SHORT PERIOD SUPER-EARTH AND SUB-NEPTUNE SPANNING THE RADIUS VALLEY ORBITING THE KINEMATIC THICK DISK STAR TOI-2345](http://adsabs.harvard.edu/abs/2025arXiv251012783E)  
+Eschen, Yoshi Nike Emilia, Wilson, Thomas G., Bonfanti, Andrea, et al.    
+2025, not refereed ([2025arXiv251012783E](http://adsabs.harvard.edu/abs/2025arXiv251012783E))  
+
+25. [SEARCHING FOR GEMS: TOI-5916 B &AMP; TOI-6158 B ARE TWO SATURN-DENSITY PLANETS ORBITING M2 DWARFS](http://adsabs.harvard.edu/abs/2025arXiv251011798O)  
+O'Brien, Shane, Wong, Amber, Han, Te, et al.    
+2025, not refereed ([2025arXiv251011798O](http://adsabs.harvard.edu/abs/2025arXiv251011798O))  
+
+26. [MANGOS II: FIVE NEW GIANT PLANETS ORBITING LOW-MASS STARS](http://adsabs.harvard.edu/abs/2025arXiv251011528D)  
+Dransfield, G., Timmermans, M., Sebastian, D., et al.    
+2025, not refereed ([2025arXiv251011528D](http://adsabs.harvard.edu/abs/2025arXiv251011528D))  
+
+27. [DISCOVERY OF A MULTI-PLANET SYSTEM ORBITING THE AGED SUN-LIKE STAR HD 224018](http://adsabs.harvard.edu/abs/2025A&A...702A.118D)  
+Damasso, M., Naponiello, L., Anna John, A., et al.    
+2025, refereed ([2025A&A...702A.118D](http://adsabs.harvard.edu/abs/2025A&A...702A.118D))  
+
+28. [NGTS-11 C: A TRANSITING NEPTUNE-MASS PLANET INTERIOR TO THE WARM SATURN NGTS-11 B](http://adsabs.harvard.edu/abs/2025arXiv251014083A)  
+Anderson, David R., Vines, Jose I., Hesse, Katharine, et al.    
+2025, not refereed ([2025arXiv251014083A](http://adsabs.harvard.edu/abs/2025arXiv251014083A))  
+
+29. [DEMONSTRATING EXOPLANET TRANSIT PHOTOMETRY FROM SPACE WITH A 15-MM APERTURE OPTICAL NAVIGATION CAMERA ON HAYABUSA2](http://adsabs.harvard.edu/abs/2025arXiv251014229Y)  
+Yumoto, Koki, Kouyama, Toru, Yamada, Manabu, et al.    
+2025, not refereed ([2025arXiv251014229Y](http://adsabs.harvard.edu/abs/2025arXiv251014229Y))  
+
+30. [A COMPACT MULTI-PLANET SYSTEM OF THREE TRANSITING GIANT PLANETS AROUND TIC118798035](http://adsabs.harvard.edu/abs/2025arXiv251019162B)  
+Brahm, Rafael, Trifonov, Trifon, Jordán, Andrés, et al.    
+2025, not refereed ([2025arXiv251019162B](http://adsabs.harvard.edu/abs/2025arXiv251019162B))  
+
+31. [DETERMINING THE IMPACT OF POST-MAIN SEQUENCE STELLAR EVOLUTION ON THE TRANSITING GIANT PLANET POPULATION](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1665B)  
+Bryant, Edward M., Van Eylen, Vincent    
+2025, refereed ([2025MNRAS.tmp.1665B](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1665B))  
+
+32. [TRANSIT TIMING VARIATIONS IN HIP 41378: CHEOPS AND TESS CONFIRM A NON-TRANSITING SIXTH PLANET IN THE SYSTEM](http://adsabs.harvard.edu/abs/2025A&A...702A.211L)  
+Leonardi, P., Borsato, L., Pagliaro, L., et al.    
+2025, refereed ([2025A&A...702A.211L](http://adsabs.harvard.edu/abs/2025A&A...702A.211L))  
+
+33. [TOI-1743 B, TOI-5799 B, TOI-5799 C, AND TOI-6223 B: TESS DISCOVERY AND VALIDATION OF FOUR SUPER-EARTH TO NEPTUNE-SIZED PLANETS AROUND M DWARFS](http://adsabs.harvard.edu/abs/2025A&A...702A.209Y)  
+Yalçinkaya, S., Barkaoui, K., Baştürk, Ö., et al.    
+2025, refereed ([2025A&A...702A.209Y](http://adsabs.harvard.edu/abs/2025A&A...702A.209Y))  
+
+34. [AN ULTRA-SHORT PERIOD SUPER-EARTH AND SUB-NEPTUNE SPANNING THE RADIUS VALLEY ORBITING THE KINEMATIC THICK DISK STAR TOI-2345](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1696E)  
+Eschen, Yoshi Nike Emilia, Wilson, Thomas G., Bonfanti, Andrea, et al.    
+2025, refereed ([2025MNRAS.tmp.1696E](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1696E))  
+
+35. [CORONAL MASS EJECTIONS FROM YOUNG SUNS: INSIGHTS FROM SOLAR AND STELLAR OBSERVATIONS AND MODELS](http://adsabs.harvard.edu/abs/2025arXiv251022112N)  
+Namekata, Kosuke    
+2025, not refereed ([2025arXiv251022112N](http://adsabs.harvard.edu/abs/2025arXiv251022112N))  
+
+36. [TOI-7166 B: A HABITABLE ZONE MINI-NEPTUNE PLANET AROUND A NEARBY LOW-MASS STAR](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1714B)  
+Barkaoui, Khalid, Pozuelos, Francisco J., Rackham, Benjamin V., et al.    
+2025, refereed ([2025MNRAS.tmp.1714B](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1714B))  
+
+37. [TWO WARM EARTH-SIZED EXOPLANETS AND AN EARTH-SIZED CANDIDATE IN THE M5V-M6V BINARY SYSTEM TOI-2267](http://adsabs.harvard.edu/abs/2025A&A...702A..85Z)  
+Zúñiga-Fernández, S., Pozuelos, F. J., Dévora-Pajares, M., et al.    
+2025, refereed ([2025A&A...702A..85Z](http://adsabs.harvard.edu/abs/2025A&A...702A..85Z))  
+
+38. [EARLY EVIDENCE FOR POLAR ORBITS OF SUB-SATURNS AROUND HOT STARS](http://adsabs.harvard.edu/abs/2025arXiv251020740D)  
+Dugan, Emma, Wang, Xian-Yu, Heron, Agustin, et al.    
+2025, not refereed ([2025arXiv251020740D](http://adsabs.harvard.edu/abs/2025arXiv251020740D))  
+
+39. [A SECOND LOW-MASS PLANET ORBITING THE NEARBY M-DWARF GJ 536](http://adsabs.harvard.edu/abs/2025A&A...702A.121S)  
+Suárez Mascareño, A., del Burgo, C., Delisle, J.-B., et al.    
+2025, refereed ([2025A&A...702A.121S](http://adsabs.harvard.edu/abs/2025A&A...702A.121S))  
+
+40. [HOT JUPITER ORIGIN AND TIDAL EVOLUTION CONSTRAINED BY A BROKEN AGE-FREQUENCY RELATION](http://adsabs.harvard.edu/abs/2025arXiv251026084C)  
+Chen, Di-Chang, Xie, Ji-Wei, Zhou, Ji-Lin, et al.    
+2025, not refereed ([2025arXiv251026084C](http://adsabs.harvard.edu/abs/2025arXiv251026084C))  
 
 
 2025-09
