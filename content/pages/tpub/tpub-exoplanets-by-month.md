@@ -35,6 +35,66 @@ Zak, J., Boffin, H. M. J., Bocchieri, A., et al.
 Sodickson, Noah, Grunblatt, Samuel    
 2025, refereed ([2025ApJ...993...78S](http://adsabs.harvard.edu/abs/2025ApJ...993...78S))  
 
+8. [HARPS-N, TESS, AND CHEOPS DISCOVER A TRANSITING SUB-NEPTUNE AND TWO OUTER COMPANIONS AROUND THE BRIGHT SOLAR ANALOGUE HD 85426](http://adsabs.harvard.edu/abs/2025arXiv251108473L)  
+Lienhard, F., Mortier, A., Collier Cameron, A., et al.    
+2025, not refereed ([2025arXiv251108473L](http://adsabs.harvard.edu/abs/2025arXiv251108473L))  
+
+9. [PLANETS ACROSS SPACE AND TIME (PAST). VIII : KINEMATIC CHARACTERIZATION AND IDENTIFICATION OF RADIAL VELOCITY VARIABLES FOR THE LAMOST-GAIA-TESS STARS](http://adsabs.harvard.edu/abs/2025arXiv251101586W)  
+Wu, Di, Chen, Di-Chang, Xie, Ji-Wei, et al.    
+2025, not refereed ([2025arXiv251101586W](http://adsabs.harvard.edu/abs/2025arXiv251101586W))  
+
+10. [DETAILED SPECTROSCOPIC AND PHOTOMETRIC ANALYSIS OF THE REMARKABLE PLANET-HOSTING WIDE BINARY SYSTEM HD 202772A/B](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1797J)  
+Jofré, Emiliano, Chew, Yilen Gómez Maqueo, Petrucci, Romina, et al.    
+2025, refereed ([2025MNRAS.tmp.1797J](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1797J))  
+
+11. [AN ANALYSIS OF THE RADIUS GAP IN A SAMPLE OF KEPLER, K2, AND TESS EXOPLANETS ORBITING M-DWARF STARS](http://adsabs.harvard.edu/abs/2025ApJ...993..233W)  
+Wanderley, Fábio, Cunha, Katia, Smith, Verne V., et al.    
+2025, refereed ([2025ApJ...993..233W](http://adsabs.harvard.edu/abs/2025ApJ...993..233W))  
+
+12. [A NEW PHOTOMETRIC EPHEMERIS FOR THE 2M1510 AB DOUBLE BROWN DWARF ECLIPSING BINARY SYSTEM](http://adsabs.harvard.edu/abs/2025MNRAS.tmpL.105M)  
+Millward, Seb T., Kunovac, Vedad    
+2025, refereed ([2025MNRAS.tmpL.105M](http://adsabs.harvard.edu/abs/2025MNRAS.tmpL.105M))  
+
+13. [HARPS-N, TESS, AND CHEOPS<SUP></SUP> DISCOVER A TRANSITING SUB-NEPTUNE AND TWO OUTER COMPANIONS AROUND THE BRIGHT SOLAR ANALOGUE HD 85426](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1875L)  
+Lienhard, F., Mortier, A., Cameron, A. Collier, et al.    
+2025, refereed ([2025MNRAS.tmp.1875L](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1875L))  
+
+14. [MASS DETERMINATION OF THE THREE LONG-PERIOD NEPTUNE- AND SUB-NEPTUNE-SIZED PLANETS TRANSITING TOI-282](http://adsabs.harvard.edu/abs/2025arXiv251105147B)  
+Barone, A., Rodler, F., Gandolfi, D., et al.    
+2025, not refereed ([2025arXiv251105147B](http://adsabs.harvard.edu/abs/2025arXiv251105147B))  
+
+15. [TESS INVESTIGATION -- DEMOGRAPHICS OF YOUNG EXOPLANETS (TI-DYE) IV: A JOVIAN RADIUS PLANET ORBITING A 34 MYR SUN-LIKE STAR IN THE VELA ASSOCIATION](http://adsabs.harvard.edu/abs/2025arXiv251110734B)  
+Barber, Madyson G., Mann, Andrew W., Vanderburg, Andrew, et al.    
+2025, not refereed ([2025arXiv251110734B](http://adsabs.harvard.edu/abs/2025arXiv251110734B))  
+
+16. [WATSON-NET: VETTING, VALIDATION, AND ANALYSIS OF TRANSITS FROM SPACE OBSERVATIONS WITH NEURAL NETWORKS](http://adsabs.harvard.edu/abs/2025arXiv251108768D)  
+Dévora-Pajares, M., Pozuelos, F. J., Suárez, J. C., et al.    
+2025, not refereed ([2025arXiv251108768D](http://adsabs.harvard.edu/abs/2025arXiv251108768D))  
+
+17. [A PLANETARY SYSTEM WITH A SUB-NEPTUNE PLANET IN THE HABITABLE ZONE OF TOI-2093](http://adsabs.harvard.edu/abs/2025A&A...703A..93S)  
+Sanz-Forcada, J., González-Álvarez, E., Zapatero Osorio, M. R., et al.    
+2025, refereed ([2025A&A...703A..93S](http://adsabs.harvard.edu/abs/2025A&A...703A..93S))  
+
+18. [PRECISE MASS AND RADIUS DETERMINATION FOR TWO NEW AND ONE KNOWN NEPTUNE-SIZED PLANETS AROUND G DWARF HOSTS](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1855C)  
+Carleo, Ilaria, Nowak, Grzegorz, Murgas, Felipe, et al.    
+2025, refereed ([2025MNRAS.tmp.1855C](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.1855C))  
+
+19. [DETERMINING THE IMPACT OF POST-MAIN-SEQUENCE STELLAR EVOLUTION ON THE TRANSITING GIANT PLANET POPULATION](http://adsabs.harvard.edu/abs/2025MNRAS.544.1186B)  
+Bryant, Edward M., Van Eylen, Vincent    
+2025, refereed ([2025MNRAS.544.1186B](http://adsabs.harvard.edu/abs/2025MNRAS.544.1186B))  
+
+20. [A 34.6-DAY TRANSITING SUB-NEPTUNE IN THE TOI-1422 PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2025arXiv251111492N)  
+Naponiello, L., Leonardi, P., Damasso, M., et al.    
+2025, not refereed ([2025arXiv251111492N](http://adsabs.harvard.edu/abs/2025arXiv251111492N))  
+
+21. [ARE WE THERE YET? CHALLENGES IN QUANTIFYING THE FREQUENCY OF EARTH ANALOGS IN THE HABITABLE ZONE](http://adsabs.harvard.edu/abs/2025arXiv251105660F)  
+Fernandes, Rachel B., Johnson, Samson, Bergsten, Galen J., et al.    
+2025, not refereed ([2025arXiv251105660F](http://adsabs.harvard.edu/abs/2025arXiv251105660F))  
+
+22. [USING STELLAR SPECTRAL ENERGY DISTRIBUTIONS TO MEASURE EXOPLANET PARAMETERS](http://adsabs.harvard.edu/abs/2025arXiv251107536M)  
+Morrell, Sam, Naylor, Tim, Southworth, John, et al.    
+2025, not refereed ([2025arXiv251107536M](http://adsabs.harvard.edu/abs/2025arXiv251107536M))  
+
 
 2025-10
 -------
