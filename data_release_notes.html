@@ -19,7 +19,7 @@ in 2024, using pelican-bootstrap and flatly.
 
     <meta name="dc.title" content="NASA - TESS Science Support Center" />
     <meta name="dc.format" content="text/html" />
-    <meta name="dc.date.modified" content="2025-11-18" />
+    <meta name="dc.date.modified" content="2025-11-21" />
     <meta name="dc.language" content="en" />
     <meta name="dc.description" content="Resources and Information for Users of TESS Data" />
     <meta name="dc.identifier" content="https://heasarc.gsfc.nasa.gov/docs/tess/" />
@@ -313,6 +313,8 @@ in 2024, using pelican-bootstrap and flatly.
     <option value="sector-92">92</option>
     <option value="sector-93">93</option>
     <option value="sector-94">94</option>
+    <option value="sector-95">95</option>
+    <option value="sector-96">96</option>
 
       </select>
     </form>
@@ -15041,6 +15043,296 @@ Two momentum dumps were performed in each orbit.
       <td>Scattered light:</td>
       <td>
         In Sector 94, the Earth introduces scattered light signals in all Cameras towards the beginning and end of each orbit. The Moon introduces a signal in Cameras 1 and at the end of orbit 195.
+       </td>
+    </tr>
+  </table>
+
+</div>
+    </div>
+
+    <div id="sector-95" class="drn">
+      <h1>Sector 95 Information</h1>
+<!---<p>
+  For full data release notes see: <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_80_drn112_v01.pdf">DRN112</a>.
+  For a list of TIC IDs with noted issues, see this <a href="sector_80_star_list.html">list</a>.
+</p>--->
+
+<h2>Sector Summary</h2>
+<li><b>Sector dates: </b>Jul 25 to Aug 20 2025</li>
+<li><b>Pointing: </b>Southern hemisphere</li>
+<li><b>Days of Science Data Collection</b>: 24.6 </li>
+<li><b>Days of Paused Data Collection</b>: 0.63 </li>
+<br></br>
+
+<h2>Spacecraft Pointing (deg)</h2>
+
+<div>
+    <table class="table table-striped table-hover" style="max-width:40em;">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+
+    <thead>
+        <tr>
+            <th style="vertical-align: right;"></th>
+            <th style="vertical-align: middle;">RA</th>
+            <th style="vertical-align: middle;">dec</th>
+            <th style="vertical-align: middle;">roll</th>
+        </tr>
+    </thead>
+
+    <tr>
+      <td>Spacecraft</td>
+      <td>355.7</td>
+      <td>-65.73</td>
+      <td>225.94</td>
+    </tr>
+    <tr>
+      <td>Camera 1</td>
+      <td>324.78</td>
+      <td>-34.71</td>
+      <td>291.06</td>
+    </tr>
+    <tr>
+      <td>Camera 2</td>
+      <td>340.07</td>
+      <td>-56.33</td>
+      <td>302.2</td>
+    </tr>
+    <tr>
+      <td>Camera 3</td>
+      <td>24.63</td>
+      <td>-72.01</td>
+      <td>163.04</td>
+    </tr>
+    <tr>
+      <td>Camera 4</td>
+      <td>91.11</td>
+      <td>-64.89</td>
+      <td>225.87</td>
+    </tr>
+
+  </table>
+</div>
+
+<br></br>
+
+<h2>Orbit Summary</h2>
+<div>
+  <table class="table table-striped table-hover" style="max-width:90em;">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+
+    <thead>
+      <tr>
+        <th style="vertical-align: middle;">Orbits</th>
+        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+        <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+        <th style="vertical-align: middle;">Momentum dumps</th>
+      </tr>
+    </thead>
+
+    <tr>
+      <td>197a</td>
+      <td>2025-07-25 - 2025-07-31</td>
+      <td>1911508 - 1915729</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>197b</td>
+      <td>2025-07-31 - 2025-08-07</td>
+      <td>1915881 - 1920392</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>198a</td>
+      <td>2025-08-07 - 2025-08-13</td>
+      <td>1920543 - 1925024</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>198b</td>
+      <td>2025-08-13 - 2025-08-20</td>
+      <td>1925176 - 1929674</td>
+      <td>1</td>
+    </tr>
+  </table>
+</div>
+
+<h2>Sector Notes</h2>
+<div>
+  <table class="table table-striped table-hover" style="max-width:90em;">
+    <col style="width:20%">
+    <col style="width:60%">
+    <thread>
+      <tr>
+        <td style="vertical-align: middle;"><b>Noted Issue</b></td>
+        <td style="vertical-align: middle;"><b>Description</b></td>
+      </tr>
+    </thread>
+
+    <tr>
+      <td>Coarse Pointing Inertial Mode:</td>
+      <td>Note that during orbit 198a, the spacecraft entered
+Coarse Pointing Inertial mode, impacting 2-minute cadences 1920976–1920979, which have
+been manually flagged as Exclude for subsequent analysis.
+      </td>
+    </tr>
+    <tr>
+      <td>Spacecraft pointing:</td>
+      <td>The pointing in Sector 95 was set at -55.5 degrees in ecliptic latitude. Camera 4 was pointed
+near the South Ecliptic Pole. For guiding, Camera 4 was used in all four half-orbit segments, while Camera 1 was included in Orbits 197b and 198b. 
+      </td>
+    </tr>
+    <tr>
+      <td>Scattered light:</td>
+      <td>
+        In Sector 95, the Earth introduces scattered light signals in Cameras 1, 2, and 3 towards the beginning and end of each orbit. The Moon introduces a signal in Cameras 1 and 2 at the end of orbit 197 and starto of orbit 198.
+       </td>
+    </tr>
+  </table>
+
+</div>
+    </div>
+
+    <div id="sector-96" class="drn">
+      <h1>Sector 96 Information</h1>
+<!---<p>
+  For full data release notes see: <a href="https://archive.stsci.edu/missions/tess/doc/tess_drn/tess_sector_80_drn112_v01.pdf">DRN112</a>.
+  For a list of TIC IDs with noted issues, see this <a href="sector_80_star_list.html">list</a>.
+</p>--->
+
+<h2>Sector Summary</h2>
+<li><b>Sector dates: </b>Aug 20 to Sep 15 2025</li>
+<li><b>Pointing: </b>Southern hemisphere</li>
+<li><b>Days of Science Data Collection</b>: 25.05 </li>
+<li><b>Days of Paused Data Collection</b>: 0.63 </li>
+<br></br>
+
+<h2>Spacecraft Pointing (deg)</h2>
+
+<div>
+    <table class="table table-striped table-hover" style="max-width:40em;">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+
+    <thead>
+        <tr>
+            <th style="vertical-align: right;"></th>
+            <th style="vertical-align: middle;">RA</th>
+            <th style="vertical-align: middle;">dec</th>
+            <th style="vertical-align: middle;">roll</th>
+        </tr>
+    </thead>
+
+    <tr>
+      <td>Spacecraft</td>
+      <td>16.71</td>
+      <td>-55.94</td>
+      <td>223.76</td>
+    </tr>
+    <tr>
+      <td>Camera 1</td>
+      <td>349.91</td>
+      <td>-25.62</td>
+      <td>295.45</td>
+    </tr>
+    <tr>
+      <td>Camera 2</td>
+      <td>4.64</td>
+      <td>-46.57</td>
+      <td>304.3</td>
+    </tr>
+    <tr>
+      <td>Camera 3</td>
+      <td>35.47</td>
+      <td>-63.43</td>
+      <td>150.02</td>
+    </tr>
+    <tr>
+      <td>Camera 4</td>
+      <td>92.7</td>
+      <td>-65.23</td>
+      <td>202.4</td>
+    </tr>
+
+  </table>
+</div>
+
+<br></br>
+
+<h2>Orbit Summary</h2>
+<div>
+  <table class="table table-striped table-hover" style="max-width:90em;">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+    <col style="width:20%">
+
+    <thead>
+      <tr>
+        <th style="vertical-align: middle;">Orbits</th>
+        <th style="vertical-align: middle;">Dates (UTC) <p>Start - End</p></th>
+        <th style="vertical-align: middle;">Cadence # <p>Start - End</p></th>
+        <th style="vertical-align: middle;">Momentum dumps</th>
+      </tr>
+    </thead>
+
+    <tr>
+      <td>199a</td>
+      <td>2025-08-20 - 2025-08-26</td>
+      <td>1929826 - 1934449</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>199b</td>
+      <td>2025-08-26 - 2025-09-01</td>
+      <td>1934601 - 1938979</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>200a</td>
+      <td>2025-09-02 - 2025-09-08</td>
+      <td>1939131 - 1943779</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>200b</td>
+      <td>2025-09-08 - 2025-09-14</td>
+      <td>1943931 - 1948312</td>
+      <td>1</td>
+    </tr>
+  </table>
+</div>
+
+<h2>Sector Notes</h2>
+<div>
+  <table class="table table-striped table-hover" style="max-width:90em;">
+    <col style="width:20%">
+    <col style="width:60%">
+    <thread>
+      <tr>
+        <td style="vertical-align: middle;"><b>Noted Issue</b></td>
+        <td style="vertical-align: middle;"><b>Description</b></td>
+      </tr>
+    </thread>
+
+    <tr>
+      <td>Spacecraft pointing:</td>
+      <td>The pointing in Sector 96 was set at -55.5 degrees in ecliptic latitude. Camera 4 was pointed
+near the South Ecliptic Pole. Camera 1 was used for guiding in Orbits 199b and 200b,
+and Camera 4 was used for guiding in all four half-orbit segments. 
+      </td>
+    </tr>
+    <tr>
+      <td>Scattered light:</td>
+      <td>
+        In Sector 96, the Earth introduces scattered light signals in Cameras 1, 2, ans 3 towards the beginning and end of each orbit. The Moon introduces a signal in Cameras 1 and 2 in orbit 200.
        </td>
     </tr>
   </table>
