@@ -24,4 +24,4 @@ author: Rebekah Hounsell
 
 {! data-release-notes/sector_98.html !}
 
-<!---<img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.098.jpeg">--->
+<img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.098.jpeg">
