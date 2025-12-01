@@ -183,6 +183,110 @@ Cang, Tianqi, Petit, Pascal, Donati, Jean-François, et al.
 Cúneo, V. A., Schwope, A. D., Kurpas, J., et al.    
 2025, not refereed ([2025arXiv251104738C](http://adsabs.harvard.edu/abs/2025arXiv251104738C))  
 
+45. [MAGNETIC ACTIVITIES OF GJ 1151: FLARES IN TESS DATA AND RADIO OBSERVATION IN UGMRT](http://adsabs.harvard.edu/abs/2025ApJ...994..120R)  
+Ram, Diya, Mondal, Soumen, Tej, Anandmayee, et al.    
+2025, refereed ([2025ApJ...994..120R](http://adsabs.harvard.edu/abs/2025ApJ...994..120R))  
+
+46. [EXPLORING LOW-AMPLITUDE VARIABILITY IN FIRST-OVERTONE CEPHEIDS WITH TESS](http://adsabs.harvard.edu/abs/2025A&A...703A.155P)  
+Plachy, E., Netzel, H., Bódi, A.    
+2025, refereed ([2025A&A...703A.155P](http://adsabs.harvard.edu/abs/2025A&A...703A.155P))  
+
+47. [AUTOMATED ALL-SKY DETECTION OF Γ DORADUS/Δ SCUTI HYBRIDS IN TESS DATA FROM POSITIVE UNLABELLED (PU) LEARNING](http://adsabs.harvard.edu/abs/2025A&A...703A.240K)  
+Kliapets, Mykyta, Huijse, Pablo, Tkachenko, Andrew, et al.    
+2025, refereed ([2025A&A...703A.240K](http://adsabs.harvard.edu/abs/2025A&A...703A.240K))  
+
+48. [BSN. IV. THE FIRST MULTIBAND LIGHT CURVE STUDY OF FIVE W UMA-TYPE CONTACT BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2025PASP..137k4203P)  
+Poro, Atila, Michel, Raul, Coliac, Jean-François, et al.    
+2025, refereed ([2025PASP..137k4203P](http://adsabs.harvard.edu/abs/2025PASP..137k4203P))  
+
+49. [TEN NEW, ULTRACOMPACT TRIPLY ECLIPSING TRIPLE STAR SYSTEMS](http://adsabs.harvard.edu/abs/2025A&A...703A.153B)  
+Borkovits, T., Rappaport, S. A., Mitnyan, T., et al.    
+2025, refereed ([2025A&A...703A.153B](http://adsabs.harvard.edu/abs/2025A&A...703A.153B))  
+
+50. [CHARACTERIZING TESS-IDENTIFIED QUADRUPLE- AND HIGHER-ORDER ECLIPSING BINARIES. I. SPECKLE IMAGING WITH DSSI AND HRCAM](http://adsabs.harvard.edu/abs/2025ApJ...994..133M)  
+Majewski, Steven R., Davidson, James W., Jr., Wilson, Robert F., et al.    
+2025, refereed ([2025ApJ...994..133M](http://adsabs.harvard.edu/abs/2025ApJ...994..133M))  
+
+51. [HIGH-PRECISION MULTI-PERIOD ANALYSIS OF THE ELLIPSOIDAL VARIABLE CANDIDATE TIC~470127886 FROM TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2025arXiv251113610W)  
+Weerasinghe, Roo    
+2025, not refereed ([2025arXiv251113610W](http://adsabs.harvard.edu/abs/2025arXiv251113610W))  
+
+52. [SN 2019VXM: A SHOCKING COINCIDENCE BETWEEN FERMI AND TESS](http://adsabs.harvard.edu/abs/2025arXiv251115975L)  
+Lane, Zachary G., Ridden-Harper, Ryan, Rest, Sofia, et al.    
+2025, not refereed ([2025arXiv251115975L](http://adsabs.harvard.edu/abs/2025arXiv251115975L))  
+
+53. [THE TEQUILA CATALOG OF VARIABLES IN TESS FULL-FRAME IMAGES: DIFFERENTIAL PHOTOMETRY LIGHT CURVES FROM THE FIRST TWO YEARS OF OBSERVATIONS](http://adsabs.harvard.edu/abs/2025arXiv251119313O)  
+Ogunwale, Bisi Bernard, Zaguri, Yossi, Perdelwitz, Volker, et al.    
+2025, not refereed ([2025arXiv251119313O](http://adsabs.harvard.edu/abs/2025arXiv251119313O))  
+
+54. [STELLAR FLARES IN THE TESS LIGHT CURVES OF PLANET-HOSTING M DWARFS](http://adsabs.harvard.edu/abs/2025arXiv251113716C)  
+Capistrant, Benjamin K., Dittmann, Jason    
+2025, not refereed ([2025arXiv251113716C](http://adsabs.harvard.edu/abs/2025arXiv251113716C))  
+
+55. [BSN-V: THE FIRST DETAILED LIGHT CURVE MODELING OF EIGHT TOTALLY ECLIPSING CONTACT BINARY STARS USING GROUND-BASED AND TESS OBSERVATIONS](http://adsabs.harvard.edu/abs/2025arXiv251118909P)  
+Poro, Atila, Michel, Raul, Tamayo, Francisco Javier, et al.    
+2025, not refereed ([2025arXiv251118909P](http://adsabs.harvard.edu/abs/2025arXiv251118909P))  
+
+56. [DOPPLER IMAGING COMBINED WITH HIGH-CADENCE PHOTOMETRY. I. REVISITING THE SURFACE OF A PRE-MAIN-SEQUENCE FLARE STAR](http://adsabs.harvard.edu/abs/2025arXiv251112190L)  
+Lee, Sanghee, Bahar, Engin, Şenavcı, Hakan Volkan, et al.    
+2025, not refereed ([2025arXiv251112190L](http://adsabs.harvard.edu/abs/2025arXiv251112190L))  
+
+57. [OBSERVATIONS OF FIVE SOUTHERN-HEMISPHERE CATACLYSMIC BINARY STARS](http://adsabs.harvard.edu/abs/2025arXiv251112762T)  
+Thorstensen, John R., Niblett, Annabelle E., Gandhi, Shreya, et al.    
+2025, not refereed ([2025arXiv251112762T](http://adsabs.harvard.edu/abs/2025arXiv251112762T))  
+
+58. [QUADRUPLE SYSTEM HD 135160 IN A UNIQUE 2+2 CONFIGURATION](http://adsabs.harvard.edu/abs/2025arXiv251115544Z)  
+Zummer, Michal, Harmanec, Petr, Barlow, Brad, et al.    
+2025, not refereed ([2025arXiv251115544Z](http://adsabs.harvard.edu/abs/2025arXiv251115544Z))  
+
+59. [OBSERVING BRIGHT PULSATING WHITE DWARFS WITH PLATO: A NEW WINDOW INTO THE LATE STAGES OF STELLAR EVOLUTION](http://adsabs.harvard.edu/abs/2025arXiv251119196U)  
+Uzundag, Murat, Corsico, Alejandro H., Jannsen, Nicholas, et al.    
+2025, not refereed ([2025arXiv251119196U](http://adsabs.harvard.edu/abs/2025arXiv251119196U))  
+
+60. [AUTOMATED ALL-SKY DETECTION OF Γ DORADUS / Δ SCUTI HYBRIDS IN TESS DATA FROM POSITIVE UNLABELLED (PU) LEARNING](http://adsabs.harvard.edu/abs/2025arXiv251120908K)  
+Kliapets, Mykyta, Huijse, Pablo, Tkachenko, Andrew, et al.    
+2025, not refereed ([2025arXiv251120908K](http://adsabs.harvard.edu/abs/2025arXiv251120908K))  
+
+61. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - VII. THE SOLAR TWIN IN LL AQUARII](http://adsabs.harvard.edu/abs/2025arXiv251116519M)  
+Miller, N. J., Maxted, P. F. L., Hahlin, A., et al.    
+2025, not refereed ([2025arXiv251116519M](http://adsabs.harvard.edu/abs/2025arXiv251116519M))  
+
+62. [A STUDY OF TRANSIENTS FROM GROUND-BASED SURVEYS REVEALS NEW AM CVN STARS](http://adsabs.harvard.edu/abs/2025arXiv251116774K)  
+Kára, Jan, Rivera Sandoval, Liliana, Mendoza, Wendy, et al.    
+2025, not refereed ([2025arXiv251116774K](http://adsabs.harvard.edu/abs/2025arXiv251116774K))  
+
+63. [FQ CIRCINI: AN ORDINARY NOVA WITH A HIGH-MASS B1 V(N)(E) COMPANION WHOSE DECRETION DISK TRANSFERS MASS TO THE WHITE DWARF VIA ROCHE-LOBE OVERFLOW](http://adsabs.harvard.edu/abs/2025arXiv251116594S)  
+Schaefer, Bradley E., Pearce, Andrew, Love, Tom, et al.    
+2025, not refereed ([2025arXiv251116594S](http://adsabs.harvard.edu/abs/2025arXiv251116594S))  
+
+64. [TIC 322208686: AN ECLIPSING SYSTEM WITH $Γ$ DORADUS PULSATIONS AND A THIRD COMPONENT ON A WIDER ORBIT](http://adsabs.harvard.edu/abs/2025arXiv251117819L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Jeong, Min-Ji, et al.    
+2025, not refereed ([2025arXiv251117819L](http://adsabs.harvard.edu/abs/2025arXiv251117819L))  
+
+65. [OUTBURSTS IN ULTRA-COMPACT AM CVN BINARIES](http://adsabs.harvard.edu/abs/2025arXiv251118008R)  
+Ramsay, Gavin    
+2025, not refereed ([2025arXiv251118008R](http://adsabs.harvard.edu/abs/2025arXiv251118008R))  
+
+66. [BEYOND MESA DEFAULTS: THE IMPACT OF STRUCTURAL RESOLUTION UNCERTAINTY IN P-MODE ASTEROSEISMOLOGY](http://adsabs.harvard.edu/abs/2025ApJ...994..127L)  
+Li, Yaguang, Joyce, Meridith    
+2025, refereed ([2025ApJ...994..127L](http://adsabs.harvard.edu/abs/2025ApJ...994..127L))  
+
+67. [REVISITING THE EXTREMELY LONG-PERIOD CATACLYSMIC VARIABLES V479 ANDROMEDAE AND V1082 SAGITTARII](http://adsabs.harvard.edu/abs/2025A&A...703A.119T)  
+Tovmassian, Gagik, Belloni, Diogo, Pala, Anna F., et al.    
+2025, refereed ([2025A&A...703A.119T](http://adsabs.harvard.edu/abs/2025A&A...703A.119T))  
+
+68. [PREPERIHELION DEVELOPMENT OF INTERSTELLAR COMET 3I/ATLAS](http://adsabs.harvard.edu/abs/2025ApJ...994L...3J)  
+Jewitt, David, Luu, Jane    
+2025, refereed ([2025ApJ...994L...3J](http://adsabs.harvard.edu/abs/2025ApJ...994L...3J))  
+
+69. [V570 PER: CHARACTERIZATION OF A BENCHMARK ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2025arXiv251114830Y)  
+Yücel, Gökhan, Alan, Neslihan, Banks, Timothy, et al.    
+2025, not refereed ([2025arXiv251114830Y](http://adsabs.harvard.edu/abs/2025arXiv251114830Y))  
+
+70. [THE JWST WEATHER REPORT FROM THE NEAREST BROWN DWARFS III: HETEROGENEOUS CLOUDS AND THERMOCHEMICAL INSTABILITIES AS POSSIBLE DRIVERS OF WISE 1049AB'S SPECTROSCOPIC VARIABILITY](http://adsabs.harvard.edu/abs/2025arXiv251115667O)  
+Oliveros-Gomez, Natalia, Manjavacas, Elena, Karalidi, Theodora, et al.    
+2025, not refereed ([2025arXiv251115667O](http://adsabs.harvard.edu/abs/2025arXiv251115667O))  
+
 
 2025-10
 -------
