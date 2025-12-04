@@ -220,7 +220,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>2026&nbsp;Jan&nbsp;05</td>
 		<!--<td><a href="data/target_lists/sector098_targets_lists/GI_S098.csv">Download</a></td>-->
 		<td></td>
-		<td style="min-width: 12em;">
+		<td style="min-width: 12em;">extended sector length
 		</td>
 		</tr>
 		
@@ -232,7 +232,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>2025&nbsp;Sep&nbsp;15</td>
 		<td>2025&nbsp;Nov&nbsp;09</td>
 		<td><a href="data/target_lists/sector097_targets_lists/GI_S097.csv">Download</a></td>
-		<td style="min-width: 12em;">Cycle 8 begins
+		<td style="min-width: 12em;">Cycle 8 begins; extended sector length
 		</td>
 
           </table>
