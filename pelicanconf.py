@@ -163,12 +163,12 @@ MENUITEMS = (
 
 
 # Defines the "meetings" box on the front page
-#MEETINGS = (
-#    (
-#        "<b>11th January - 16th January 2025</b>",
-#        "AAS 245 - National Harbor, MD",
-#        "https://aas.org/meetings/aas245",
-#        "The TESS Science Support Center will be present at the NASA booth during AAS 245 at the Gaylord National Resort & Convention Center. In addition, we will also be hosting the following events:<br></br>i) <i>NASA's TESS Mission Interactive Data workshop:</i> January 11th and 12th, 9am - 5pm, room  National Harbor 2.<br></br>ii)<i>Science from the TESS Extended Mission Splinter Session:</i> January 15th, 6pm - 9pm, room Maryland Ballroom C.<br></br> We look forward to seeing you there.",
-#    ),
+MEETINGS = (
+    (
+        "<b>4th January - 8th January 2026</b>",
+        "AAS 247 - Phoenix, AZ",
+        "https://aas.org/meetings/aas247",
+        "The TESS Science Support Center will be present at the NASA exhibitor booth from 1-3pm daily during the 247th AAS meeting. In addition, the TESS mission will be holding the special splinter session 'Science from the TESS Extended Mission' on Wednesday, January 7th, 6pm - 9pm in room 301 C at the Phoenix Convention Center<br></br> We look forward to seeing you there.",
+    ),
    
-#)
+)

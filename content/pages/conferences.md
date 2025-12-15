@@ -6,6 +6,26 @@ Save_as: conferences.html
 <table class="table table-striped table-hover" style="max-width:55em;">
 
 
+  <tr>
+    <td style="width: 9em;">Jan 2025</td>
+    <td style="width: 25em;">AAS #245: Workshop - The TESS Mission: How to access and use the data</a></td>
+    <td><a
+     href="https://submissions.mirasmart.com/AAS245/Itinerary/EventDetail.aspx?evt=41">website</a></td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">Jan 2025</td>
+    <td style="width: 25em;">AAS #245: Splinter Session - Science from the TESS Extended Mission</a></td>
+    <td><a
+     href="https://submissions.mirasmart.com/AAS245/Itinerary/EventDetail.aspx?evt=121">website</a></td>
+  </tr>
+
+  <tr>
+    <td style="width: 9em;">July-August 2024</td>
+    <td style="width: 25em;">TESS Science Conference III</a></td>
+    <td><a
+     href='https://tsc.mit.edu'>website</a></td>
+  </tr>
 
   <tr>
     <td style="width: 9em;">Jan 2024</td>
