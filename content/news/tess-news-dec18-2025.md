@@ -27,7 +27,7 @@ Both Sector 99 and comet observation data will be calibrated and publicly archiv
 
 Comet 3I/ATLAS will be visible in in Sector 1751, Camera 2. Pointing information for Sector 1751 is available in detail via: 
 
-- [TESS Sector 1751 Summary](https://heasarc.gsfc.nasa.gov/docs/tess/sector1751_summary.html)
+- [TESS Sector 1751 Summary](sector1751_summary.html)
 - [MIT pointing information](https://tess.mit.edu/observations/3i_atlas/)
 - [tesswcs](https://github.com/tessgi/tesswcs) and [tess-point](https://github.com/tessgi/tess-point) python tools
 
@@ -35,6 +35,6 @@ Comet 3I/ATLAS will be visible in in Sector 1751, Camera 2. Pointing information
 
 Sector 99 data will be observed, processed, and archived normally and will have a multi-day gap in the middle of the sector without observed data. This gap will be qualitatively similar to other data gaps in TESS observations that happen for routine reasons including spacecraft communication passes, data downlink times, and spacecraft anomalies. The principal investigators of proposals submitted to the Cycle 8 call for proposals have been notified that their proposed observations may be impacted. 
 
-Want to stay up to date on the latest mission news about the TESS Comet 3I/ATLAS observation? **Register your interest <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-MEDPcBuu1RopOu8VeLNGvYf6MVyeQiJTJ7R0OOGE5jyRBw/viewform" target="_blank">here</a> to receive more information direct to your inbox or keep an eye on our website for additional updates.**   
+**Want to stay up to date on the latest mission news about the TESS Comet 3I/ATLAS observation?** Register your interest <a href="https://docs.google.com/forms/d/e/1FAIpQLSc-MEDPcBuu1RopOu8VeLNGvYf6MVyeQiJTJ7R0OOGE5jyRBw/viewform" target="_blank">here</a> to receive more information direct to your inbox or keep an eye on our website for additional updates.  
 
 Questions? Contact the [TESS Science Support Center helpdesk](mailto:tesshelp@bigbang.gsfc.nasa.gov). 
