@@ -202,8 +202,37 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>Southern ecliptic pole</td>
 		<td>157.205,-41.1581</td>
 		<td>215.9362</td>
-		<td>2026&nbsp;Jan&nbsp05</td>
+		<td>2026&nbsp;Jan&nbsp22</td>
 		<td>2026&nbsp;Feb&nbsp;02</td>
+		<!--<td><a href="data/target_lists/sector099_targets_lists/GI_S099.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+
+		</tr>
+		<tr>
+		<td><a href="sector1751_summary.html">s1751</a></td>
+		<td>Ecliptic</td>
+		<td>109.4916,21.8424</td>
+		<td>84.3356</td>
+		<td>2026&nbsp;Jan&nbsp05</td>
+		<td>2026&nbsp;Jan&nbsp;22</td>
+		<!--<td><a href="data/target_lists/sector1751_targets_lists/GI_S1751.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		</tr>
+		<tr>
+		<td><a href="sector99_summary.html">s099</a></td>
+		<td>Southern ecliptic pole</td>
+		<td>157.205,-41.1581</td>
+		<td>215.9362</td>
+		<td>2026&nbsp;Jan&nbsp05</td>
+		<td>2026&nbsp;Jan&nbsp;15</td>
 		<!--<td><a href="data/target_lists/sector099_targets_lists/GI_S099.csv">Download</a></td>-->
 		<td></td>
 		<td style="min-width: 12em;">
