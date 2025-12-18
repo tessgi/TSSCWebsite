@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"/><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"/><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2025-12-17T00:00:00-05:00</updated><entry><title>TESS Special News Bulletin: Dec 18th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-special-news-bulletin-dec-18th.html" rel="alternate"/><published>2025-12-17T00:00:00-05:00</published><updated>2025-12-17T00:00:00-05:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2025-12-17:/docs/tess/tess-special-news-bulletin-dec-18th.html</id><summary type="html">&lt;p&gt;&lt;strong&gt;TESS Special Observation of Interstellar Comet 3I/ATLAS (January 2026)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Transiting Exoplanet Survey Satellite (TESS) will conduct a special observation of interstellar comet 3I/ATLAS in January 2026, temporarily interrupting Sector 99 to capture this rare opportunity to observe this object from another solar system. TESS's high-precision, continuous photometry …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;strong&gt;TESS Special Observation of Interstellar Comet 3I/ATLAS (January 2026)&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"/><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"/><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2025-12-17T00:00:00-05:00</updated><entry><title>TESS Special News Bulletin: Dec 18th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-special-news-bulletin-dec-18th.html" rel="alternate"/><published>2025-12-17T00:00:00-05:00</published><updated>2025-12-17T00:00:00-05:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2025-12-17:/docs/tess/tess-special-news-bulletin-dec-18th.html</id><summary type="html">&lt;h1&gt;TESS Special Observation of Interstellar Comet 3I/ATLAS (January 2026)&lt;/h1&gt;
+
+&lt;p&gt;The Transiting Exoplanet Survey Satellite (TESS) will conduct a special observation of interstellar comet 3I/ATLAS in January 2026, temporarily interrupting Sector 99 to capture this rare opportunity to observe this object from another solar system. TESS's high-precision, continuous photometry …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;TESS Special Observation of Interstellar Comet 3I/ATLAS (January 2026)&lt;/h1&gt;
+
 &lt;p&gt;The Transiting Exoplanet Survey Satellite (TESS) will conduct a special observation of interstellar comet 3I/ATLAS in January 2026, temporarily interrupting Sector 99 to capture this rare opportunity to observe this object from another solar system. TESS's high-precision, continuous photometry could provide unique insights into the comet's activity following its closest approach to the Sun. &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Updated Sector Schedule:&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Updated Sector Schedule:&lt;/h2&gt;
+
 &lt;ul&gt;
 &lt;li&gt;January 5-15, 2026: Sector 99 (Part 1)&lt;/li&gt;
 &lt;li&gt;January 15-22, 2026: Sector 1751&lt;sup&gt;*&lt;/sup&gt; (special comet observation pointing along the ecliptic)&lt;/li&gt;
@@ -10,20 +13,23 @@
 &lt;li&gt;February 2 – March 1, 2026: Sector 100&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;sup&gt;*&lt;/sup&gt;For mission planning purposes, the comet observation will be designated Sector 1751.&lt;/p&gt;
-&lt;p&gt;Data Collection and Archiving: &lt;/p&gt;
+&lt;h2&gt;Data Collection and Archiving:&lt;/h2&gt;
+
 &lt;p&gt;During Sector 1751, TESS will collect full-frame images (FFIs) and a series of 20-s and 120-s target pixel files (TPFs) surrounding the path of 3I/ATLAS. The TPFs will be 50x50 pixel boxes. No additional TPFs will be collected during Sector 1751. &lt;/p&gt;
 &lt;p&gt;Both Sector 99 and comet observation data will be calibrated and publicly archived at MAST following standard mission practices (i.e., no proprietary period). &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Sector Pointing:&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Sector Pointing:&lt;/h2&gt;
+
 &lt;p&gt;&lt;img alt="TESS_3IATLAS" src="images/news/TESS_3IATLAS.png"&gt;&lt;/p&gt;
-&lt;p&gt;Comet 3I/ATLAS will be visible in in Sector 1751, Camera 2, CCD 1. Pointing information for Sector 1751 is available in detail via: &lt;/p&gt;
+&lt;p&gt;Comet 3I/ATLAS will be visible in in Sector 1751, Camera 2. Pointing information for Sector 1751 is available in detail via: &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://heasarc.gsfc.nasa.gov/docs/tess/sector1751_summary.html"&gt;TESS Sector 1751 Summary&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://tess.mit.edu/observations/3i_atlas/"&gt;tess.mit.edu/observations/3i_atlas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tess.mit.edu/observations/3i_atlas/"&gt;MIT pointing information&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/tessgi/tesswcs"&gt;tesswcs&lt;/a&gt; and &lt;a href="https://github.com/tessgi/tess-point"&gt;tess-point&lt;/a&gt; python tools&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Impacts to Sector 99:&lt;/em&gt; &lt;/p&gt;
+&lt;h2&gt;Impacts to Sector 99:&lt;/h2&gt;
+
 &lt;p&gt;Sector 99 data will be observed, processed, and archived normally and will have a multi-day gap in the middle of the sector without observed data. This gap will be qualitatively similar to other data gaps in TESS observations that happen for routine reasons including spacecraft communication passes, data downlink times, and spacecraft anomalies. The principal investigators of proposals submitted to the Cycle 8 call for proposals have been notified that their proposed observations may be impacted. &lt;/p&gt;
-&lt;p&gt;Want to stay up to date on the latest mission news about the TESS Comet 3I/ATLAS observation? Register your interest &lt;a href="https://forms.gle/sTnjPyXnihg4ZSgy9"&gt;here&lt;/a&gt; to receive more information direct to your inbox or keep an eye on our website for additional updates.   &lt;/p&gt;
+&lt;p&gt;Want to stay up to date on the latest mission news about the TESS Comet 3I/ATLAS observation? &lt;strong&gt;Register your interest &lt;a href="https://docs.google.com/forms/d/e/1FAIpQLSc-MEDPcBuu1RopOu8VeLNGvYf6MVyeQiJTJ7R0OOGE5jyRBw/viewform" target="_blank"&gt;here&lt;/a&gt; to receive more information direct to your inbox or keep an eye on our website for additional updates.&lt;/strong&gt;   &lt;/p&gt;
 &lt;p&gt;Questions? Contact the &lt;a href="mailto:tesshelp@bigbang.gsfc.nasa.gov"&gt;TESS Science Support Center helpdesk&lt;/a&gt;. &lt;/p&gt;</content><category term="news"/></entry><entry><title>TESS Weekly Bulletin: Nov 20th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-weekly-bulletin-nov-20th.html" rel="alternate"/><published>2025-11-20T00:00:00-05:00</published><updated>2025-11-20T00:00:00-05:00</updated><author><name>Veselin Kostov</name></author><id>tag:heasarc.gsfc.nasa.gov,2025-11-20:/docs/tess/tess-weekly-bulletin-nov-20th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
 &lt;p&gt;This week, we are looking at three recent papers from the archive. Enjoy!&lt;/p&gt;
 &lt;p&gt;First, we highlight the discovery of a vast stellar complex surrounding the Pleiades star cluster, demonstrating how TESS observations can reveal hidden structures in well-known objects. The study combines …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;/p&gt;
