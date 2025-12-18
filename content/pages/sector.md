@@ -217,11 +217,11 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>Ecliptic</td>
 		<td>109.4916,21.8424</td>
 		<td>84.3356</td>
-		<td>2026&nbsp;Jan&nbsp05</td>
+		<td>2026&nbsp;Jan&nbsp15</td>
 		<td>2026&nbsp;Jan&nbsp;22</td>
 		<!--<td><a href="data/target_lists/sector1751_targets_lists/GI_S1751.csv">Download</a></td>-->
 		<td></td>
-		<td style="min-width: 12em;">
+		<td style="min-width: 12em;">3I/ATLAS observations
 		</td>
 		</tr>
 
