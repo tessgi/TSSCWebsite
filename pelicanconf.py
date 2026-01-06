@@ -168,7 +168,7 @@ MEETINGS = (
         "<b>4th January - 8th January 2026</b>",
         "AAS 247 - Phoenix, AZ",
         "https://aas.org/meetings/aas247",
-        "The TESS Science Support Center will be present at the NASA exhibitor booth from 1-3pm daily during the 247th AAS meeting. In addition, the TESS mission will be holding the special splinter session 'Science from the TESS Extended Mission' on Wednesday, January 7th, 6pm - 9pm in room 301 C at the Phoenix Convention Center - West Building. A copy of the agenda can be found <a href='/docs/Science_from_the_TESS_Extended_Mission.pdf'>here.</a><br></br> We look forward to seeing you there.",
+        "The TESS Science Support Center will be present at the NASA exhibitor booth from 1-3pm daily during the 247th AAS meeting. In addition, the TESS mission will be holding the special splinter session 'Science from the TESS Extended Mission' on Wednesday, January 7th, 6pm - 9pm in room 301 C at the Phoenix Convention Center - West Building. A copy of the agenda can be found <a href='https://heasarc.gsfc.nasa.gov/docs/tess/data/Science_from_the_TESS_Extended_Mission.pdf'>here.</a><br></br> We look forward to seeing you there.",
     ),
    
 )
