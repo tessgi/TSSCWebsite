@@ -278,7 +278,7 @@ def make_static_publication_bar_chart(results, image_path="content/images/statis
     extrapolation = int((365-last_article_date_int) * latest_pub_rate)
 
         
-    fig, ax = plt.subplots(1, figsize=(12, 7))
+    fig, ax = plt.subplots(1, figsize=(14, 7))
     ax.yaxis.grid()
     plot_years = [y.year for y in years][:-1]
 

@@ -127,6 +127,50 @@ Brahm, Rafael, Trifonov, Trifon, Jordán, Andrés, et al.
 Millholland, Sarah C., Winn, Joshua N.    
 2025, not refereed ([2025arXiv251206120M](http://adsabs.harvard.edu/abs/2025arXiv251206120M))  
 
+31. [EVIDENCE FOR NO ORBITAL DECAY IN THE HOT JUPITER XO-3B FROM TRANSIT-TIMING ANALYSIS](http://adsabs.harvard.edu/abs/2025RNAAS...9..333Z)  
+Zhou, Jinyi    
+2025, not refereed ([2025RNAAS...9..333Z](http://adsabs.harvard.edu/abs/2025RNAAS...9..333Z))  
+
+32. [DOOMED WORLDS. II. REASSESSING SUGGESTIONS OF ORBITAL DECAY FOR TRES-5 B](http://adsabs.harvard.edu/abs/2025PSJ.....6..292R)  
+Rothmeier, Marvin, Adams, Elisabeth R., Schindler, Karsten, et al.    
+2025, refereed ([2025PSJ.....6..292R](http://adsabs.harvard.edu/abs/2025PSJ.....6..292R))  
+
+33. [TOI-7510: A SOLAR-ANALOG SYSTEM OF THREE TRANSITING GIANT PLANETS NEAR A LAPLACE RESONANCE CHAIN](http://adsabs.harvard.edu/abs/2025A&A...704L..16A)  
+Almenara, J. M., Leleu, A., Guillot, T., et al.    
+2025, refereed ([2025A&A...704L..16A](http://adsabs.harvard.edu/abs/2025A&A...704L..16A))  
+
+34. [ORBITAL DECAY CANDIDATES RECONSIDERED: WASP-4 B IS NOT DECAYING AND KEPLER-1658 B IS NOT A PLANET](http://adsabs.harvard.edu/abs/2025PSJ.....6..300W)  
+Winn, Joshua N., Stefánsson, Guđmundur    
+2025, refereed ([2025PSJ.....6..300W](http://adsabs.harvard.edu/abs/2025PSJ.....6..300W))  
+
+35. [THE JWST ROCKY WORLDS DDT PROGRAM REVEALS GJ 3929B TO LIKELY BE A BARE ROCK](http://adsabs.harvard.edu/abs/2025ApJ...995L..52X)  
+Xue, Qiao, Zhang, Michael, Coy, Brandon Park, et al.    
+2025, refereed ([2025ApJ...995L..52X](http://adsabs.harvard.edu/abs/2025ApJ...995L..52X))  
+
+36. [A 43 DAY TRANSITING NEPTUNE AND TWO 25 DAY SATURNS FROM TESS, NGTS AND ASTEP](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.2078K)  
+Kendall, Alicia, Ulmer-Moll, Solène, Gill, Samuel, et al.    
+2025, refereed ([2025MNRAS.tmp.2078K](http://adsabs.harvard.edu/abs/2025MNRAS.tmp.2078K))  
+
+37. [HARPS-N REVEALS A WELL-ALIGNED ORBIT FOR THE HIGHLY ECCENTRIC WARM JUPITER TOI-4127 B](http://adsabs.harvard.edu/abs/2025A&A...704A.194M)  
+Mireles, I., Murgas, F., Dragomir, D., et al.    
+2025, refereed ([2025A&A...704A.194M](http://adsabs.harvard.edu/abs/2025A&A...704A.194M))  
+
+38. [FROM EARTHS TO SUPER-EARTHS: FIVE NEW SMALL PLANETS TRANSITING M DWARF STARS](http://adsabs.harvard.edu/abs/2025arXiv251211971G)  
+Gomez Barrientos, Jonathan, Knutson, Heather A., Saidel, Morgan, et al.    
+2025, not refereed ([2025arXiv251211971G](http://adsabs.harvard.edu/abs/2025arXiv251211971G))  
+
+39. [DOOMED WORLDS II: REASSESSING SUGGESTIONS OF ORBITAL DECAY FOR TRES-5 B](http://adsabs.harvard.edu/abs/2025arXiv251213937R)  
+Rothmeier, Marvin, Adams, Elisabeth R., Schindler, Karsten, et al.    
+2025, not refereed ([2025arXiv251213937R](http://adsabs.harvard.edu/abs/2025arXiv251213937R))  
+
+40. [ARE WE THERE YET? CHALLENGES IN QUANTIFYING THE FREQUENCY OF EARTH ANALOGS IN THE HABITABLE ZONE](http://adsabs.harvard.edu/abs/2025PASP..137l1001F)  
+Fernandes, Rachel B., Johnson, Samson, Bergsten, Galen J., et al.    
+2025, refereed ([2025PASP..137l1001F](http://adsabs.harvard.edu/abs/2025PASP..137l1001F))  
+
+41. [HIDDEN COMPANIONS OF THE EARLY MILKY WAY I. NEW ALPHA-ENHANCED EXOPLANET HOSTS](http://adsabs.harvard.edu/abs/2025arXiv251217072F)  
+Ferreira, Thiago, Yana Galarza, Jhon, Reggiani, Henrique, et al.    
+2025, not refereed ([2025arXiv251217072F](http://adsabs.harvard.edu/abs/2025arXiv251217072F))  
+
 
 2025-11
 -------
