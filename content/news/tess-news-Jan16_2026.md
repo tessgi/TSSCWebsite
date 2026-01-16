@@ -11,7 +11,9 @@ Welcome to the first update about Sector 1751, TESS’s special observation of i
 
 **Data availability:** All data will be made publicly available on MAST with no proprietary period following standard data processing. The FFIs (SPOC and TICA) are expected to be available to the public within a few days of each downlink. FFI cubes will be available a few days later. TPFs will be available on MAST in February. Standard mission light curves derived from the TPFs along the comet’s path are not expected to be useful and so will not be archived. Light curves of the calibration targets will be archived, but planet search products will not be. Visit MAST’s [TESS Holdings webpage](https://outerspace.stsci.edu/spaces/TESS/pages/35094700/TESS+Holdings+Available+by+MAST+Service) for updates about data availability.
 
-**High-level science products:** 3I/ATLAS is expected to be roughly 16th magnitude and moving ~0.5 pixels per 200-s cadence. To assist the TESS community in making use of this unique dataset, the mission team will be archiving data cubes centered on the comet derived from the 20-s TPFs and 200-s FFIs. These products are expected to be available a couple weeks after the relevant mission products are archived. Want more information?
+**High-level science products:** 3I/ATLAS is expected to be roughly 16th magnitude and moving ~0.5 pixels per 200-s cadence. To assist the TESS community in making use of this unique dataset, the mission team will be archiving data cubes centered on the comet derived from the 20-s TPFs and 200-s FFIs. These products are expected to be available a couple weeks after the relevant mission products are archived.
+
+Want more information?
 
 - Visit the [TESS Science Support Center website](https://heasarc.gsfc.nasa.gov/docs/tess/) to view all updates about the TESS observation of Comet 3I/ATLAS.
 - Email [tesshelp@bigbang.gsfc.nasa.gov](mailto:tesshelp@bigbang.gsfc.nasa.gov) with any questions you have about the observation, data, and analysis techniques.
