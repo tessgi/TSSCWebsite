@@ -34,7 +34,7 @@ Patel et al. (2025) investigated the atmospheric properties and orbital architec
 
 ![Lopez2025](images/news/Lopez_2025_Fig2.png)
 
-**Fig. 2:** *Taken from Lopez-Santiago et al. (2025). Upper panels: Scalogram for 13 days of TESS observations of GJ 3512. Lower panels: Same as upper panels, zoomed in on 2 days of data to highlight the detected quasi-periodic pulsation. *
+**Fig. 2:** *Taken from Lopez-Santiago et al. (2025). Upper panels: Scalogram for 13 days of TESS observations of GJ 3512. Lower panels: Same as upper panels, zoomed in on 2 days of data to highlight the detected quasi-periodic pulsation.*
 
 ![Patel2025](images/news/Patel_2025_Fig1.png)
 

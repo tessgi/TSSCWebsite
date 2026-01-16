@@ -1,4 +1,4 @@
-Title: TESS Weekly Bulletin: Jan 15th
+Title: TESS Special News Bulletin: Jan 15th
 Date: 2026-01-15 11:00
 Author: Tyler Pritchard
 
