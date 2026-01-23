@@ -18,11 +18,12 @@ Welcome to the second update about Sector 1751, TESS’s special observation of 
 
 **High-level science products:** To assist the TESS community in making use of this unique dataset, the mission team will be archiving data cubes centered on the comet derived from the 20-s TPFs and 200-s FFIs. These products are expected to be available within a couple weeks after the relevant mission products are archived.
 
-**Next steps:** Sector 1751 data collection continues until January 22, and the remaining data is expected to be downlinked on January 26. MAST’s [TESS Holdings webpage](https://outerspace.stsci.edu/spaces/TESS/pages/35094700/TESS+Holdings+Available+by+MAST+Service) provides up-to-date information about data availability, and we will continue to provide updates via email, our website, and Slack.
+**Next steps:** Sector 1751 data collection concluded on January 22, and the remaining data is expected to be downlinked on January 26. MAST’s [TESS Holdings webpage](https://outerspace.stsci.edu/spaces/TESS/pages/35094700/TESS+Holdings+Available+by+MAST+Service) provides up-to-date information about data availability, and we will continue to provide updates via email, our website, and Slack.
 
 **Want more information?**
-Visit the [TESS Science Support Center website](https://heasarc.gsfc.nasa.gov/docs/tess/) to view all updates about the TESS observation of Comet 3I/ATLAS.
-Email [tesshelp@bigbang.gsfc.nasa.gov](mailto:tesshelp@bigbang.gsfc.nasa.gov) with any questions you have about the observation, data, and analysis techniques.
+
+- Visit the [TESS Science Support Center website](https://heasarc.gsfc.nasa.gov/docs/tess/) to view all updates about the TESS observation of Comet 3I/ATLAS.
+- Email [tesshelp@bigbang.gsfc.nasa.gov](mailto:tesshelp@bigbang.gsfc.nasa.gov) with any questions you have about the observation, data, and analysis techniques.
 - Join a [Slack workspace](https://join.slack.com/t/tesssciencesu-gr67411/shared_invite/zt-3no67rc41-nPc46Fvf1_rEbODGBneb8g) to connect with experts from the mission team and other researchers interested in TESS and comets. By joining, users agree to abide by the standards of ethical behavior outlined in the [AAS code of ethics](https://aas.org/policies/ethics).
 - We are planning a virtual community meeting in early February. This will be an opportunity to learn more about TESS, its special 3I/ATLAS observations, and ask questions about how to work with TESS data of 3I/ATLAS. Finalized scheduling details will be distributed to this list, the TESS Science Support Center website, and the Slack workspace.
 
