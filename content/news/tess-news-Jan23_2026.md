@@ -9,12 +9,12 @@ Welcome to the second update about Sector 1751, TESS’s special observation of 
 
 **Updated Sector 1751 timeline (all durations approximate):**
 
-- Jan 15: 18 hours of Sector 1751
-- Jan 15-18: 67 hours of contingency modeJan 18-19: 10 hours of Sector 1751
-- Jan 19: 5 hours data downlink
-- Jan 19-22: 73 hours of Sector 1751
+- **Jan 15:** 18 hours of Sector 1751
+- **Jan 15-18:** 67 hours of contingency modeJan 18-19: 10 hours of Sector 1751
+- **Jan 19:** 5 hours data downlink
+- **Jan 19-22:** 73 hours of Sector 1751
 
-**Data availability:** The first FFIs of Sector 1751 are available. They cover an 18-hour period on January 15 and a 10-hour period on January 18-19. You can bulk download the data from MAST [here](https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.htmlhttps://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html) (FFIs) or [here](https://archive.stsci.edu/hlsp/tica) (TICA “quick-look” FFIs).
+**Data availability:** The first FFIs of Sector 1751 are available. They cover an 18-hour period on January 15 and a 10-hour period on January 18-19. You can bulk download the data from MAST [here](https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html) (FFIs) or [here](https://archive.stsci.edu/hlsp/tica) (TICA “quick-look” FFIs).
 
 **High-level science products:** To assist the TESS community in making use of this unique dataset, the mission team will be archiving data cubes centered on the comet derived from the 20-s TPFs and 200-s FFIs. These products are expected to be available within a couple weeks after the relevant mission products are archived.
 
