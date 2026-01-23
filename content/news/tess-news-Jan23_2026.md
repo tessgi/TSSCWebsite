@@ -16,7 +16,17 @@ Welcome to the second update about Sector 1751, TESS’s special observation of 
 
 **Data availability:** The first FFIs of Sector 1751 are available. They cover an 18-hour period on January 15 and a 10-hour period on January 18-19. You can bulk download the data from MAST [here](https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html) (FFIs) or [here](https://archive.stsci.edu/hlsp/tica) (TICA “quick-look” FFIs).
 
-**High-level science products:** To assist the TESS community in making use of this unique dataset, the mission team will be archiving data cubes centered on the comet derived from the 20-s TPFs and 200-s FFIs. These products are expected to be available within a couple weeks after the relevant mission products are archived.
+**High-level science products:** To assist the TESS community in making use of this unique dataset, the mission team will be archiving data cubes centered on the comet derived from the 20-s TPFs and 200-s FFIs. The first version of this product is now available and includes:
+
+- A comet-centered image cutout that follows the motion of the target, called a moving target pixel file (mTPF). This image time series is background corrected using two linear models, one that accounts for the scattered light and another for the background stars.
+- Light curves extracted from the corrected images in a light curve file (LCF). These were extracted with two apertures, one for the nucleus and one for the nucleus plus tail, and also PSF photometry of the nucleus.
+- A set of Jupyter notebook explaining the pixel data extraction, flux corrections, light curve extraction, and details of what is contained in the data product files (LCF and mTPF).
+
+You can find the data products in this [Zenodo](https://zenodo.org/records/18344942) repository and the explanatory notebooks in this [GitHub](https://github.com/tessgi/tess-3i) repository.
+
+The version 1.0 of the data products cover observations between 2026-01-15T06:04:18 and 2026-01-15T23:54:18 UTC. We will continue updating our data products and notebooks as new SPOC FFI data becomes available at MAST. We will also create similar products for the 20s TPFs in the upcoming weeks. These will be announced via email, Slack, and our website and properly versioned in our repositories.
+
+We encourage the community to use our data products and reach out if you have any questions about them. Feel free to ask questions in the Slack channel, open issues in the GitHub repository, or reach out to the help desk.
 
 **Next steps:** Sector 1751 data collection concluded on January 22, and the remaining data is expected to be downlinked on January 26. MAST’s [TESS Holdings webpage](https://outerspace.stsci.edu/spaces/TESS/pages/35094700/TESS+Holdings+Available+by+MAST+Service) provides up-to-date information about data availability, and we will continue to provide updates via email, our website, and Slack.
 
