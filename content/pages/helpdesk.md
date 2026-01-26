@@ -50,11 +50,11 @@ The members of the TESS GI office are listed below.
         Support Scientist
     </div>
 
-    <div class="col-sm-3 text-center">
+    <!--<div class="col-sm-3 text-center">
         <img src="images/faces/veselin.png"  style="max-width:80%;" class="img-circle"><br>
         Dr. Veselin Kostov<br>
         Support Scientist
-    </div>
+    </div>-->
 
     <div class="col-sm-3 text-center">
         <img src="images/faces/Jorge.jpg"  style="max-width:80%;" class="img-circle"><br>
