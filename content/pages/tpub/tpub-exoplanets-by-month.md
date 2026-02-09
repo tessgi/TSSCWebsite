@@ -4,6 +4,70 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2026-02
+-------
+
+1. [AN OASIS IN THE BROWN DWARF DESERT: CONFIRMATION OF TWO LOW-MASS TRANSITING BROWN DWARFS DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2026AJ....171...62Z)  
+Zhang, Elina Yuchen, Carmichael, Theron W., Huber, Daniel, et al.    
+2026, refereed ([2026AJ....171...62Z](http://adsabs.harvard.edu/abs/2026AJ....171...62Z))  
+
+2. [SEARCHING FOR TRANSIT TIMING VARIATIONS IN YOUNG TRANSITING SYSTEMS](http://adsabs.harvard.edu/abs/2026AJ....171...63L)  
+Lopez Murillo, Ana Isabel, Mann, Andrew W., Barber, Madyson G., et al.    
+2026, refereed ([2026AJ....171...63L](http://adsabs.harvard.edu/abs/2026AJ....171...63L))  
+
+3. [PLANETARY HABITABILITY UNDER THE LIGHT OF A RAPIDLY CHANGING STAR](http://adsabs.harvard.edu/abs/2026AJ....171...83F)  
+Fetherolf, Tara, Welter, Sadie G., Ostberg, Colby M., et al.    
+2026, refereed ([2026AJ....171...83F](http://adsabs.harvard.edu/abs/2026AJ....171...83F))  
+
+4. [VALIDATION OF A THIRD EARTH-SIZED PLANET IN THE TOI-2267 BINARY SYSTEM](http://adsabs.harvard.edu/abs/2026AJ....171...97G)  
+Greklek-McKeon, Michael, Gomez Barrientos, Jonathan, Knutson, Heather A., et al.    
+2026, refereed ([2026AJ....171...97G](http://adsabs.harvard.edu/abs/2026AJ....171...97G))  
+
+5. [DYNAMICAL ARCHITECTURES OF S-TYPE TRANSITING PLANETS IN BINARIES. II. A DICHOTOMY IN ORBITAL ALIGNMENT OF SMALL PLANETS IN CLOSE BINARY SYSTEMS](http://adsabs.harvard.edu/abs/2026AJ....171...77Z)  
+Zhang, Jingwen, Huber, Daniel, Bottom, Michael, et al.    
+2026, refereed ([2026AJ....171...77Z](http://adsabs.harvard.edu/abs/2026AJ....171...77Z))  
+
+6. [A COOL EARTH-SIZED PLANET CANDIDATE TRANSITING A TENTH MAGNITUDE K-DWARF FROM K2](http://adsabs.harvard.edu/abs/2026ApJ...997L..38V)  
+Venner, Alexander, Vanderburg, Andrew, Huang, Chelsea X., et al.    
+2026, refereed ([2026ApJ...997L..38V](http://adsabs.harvard.edu/abs/2026ApJ...997L..38V))  
+
+7. [UNRAVELING THE BROWN DWARF DESERT: FOUR NEW DISCOVERIES AND A UNIFYING, PERIOD-CODED PICTURE](http://adsabs.harvard.edu/abs/2026arXiv260202836S)  
+Šubjak, Ján, Brahm, Rafael, Lipták, Jozef, et al.    
+2026, not refereed ([2026arXiv260202836S](http://adsabs.harvard.edu/abs/2026arXiv260202836S))  
+
+8. [FROM EARTHS TO SUPER-EARTHS: FIVE NEW SMALL PLANETS TRANSITING M DWARF STARS](http://adsabs.harvard.edu/abs/2026AJ....171...99G)  
+Gomez Barrientos, Jonathan, Knutson, Heather A., Saidel, Morgan, et al.    
+2026, refereed ([2026AJ....171...99G](http://adsabs.harvard.edu/abs/2026AJ....171...99G))  
+
+9. [TESS PHASE CURVE OF ULTRA-HOT JUPITER WASP-189 B](http://adsabs.harvard.edu/abs/2026A&A...706A..75P)  
+Patel, J. A., Kitzmann, D., Brandeker, A., et al.    
+2026, refereed ([2026A&A...706A..75P](http://adsabs.harvard.edu/abs/2026A&A...706A..75P))  
+
+10. [DEMOGRAPHICS OF CLOSE-IN TESS EXOPLANETS ORBITING FGK MAIN-SEQUENCE STARS](http://adsabs.harvard.edu/abs/2026MNRAS.546ag022C)  
+Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.    
+2026, refereed ([2026MNRAS.546ag022C](http://adsabs.harvard.edu/abs/2026MNRAS.546ag022C))  
+
+11. [VISUAL INSPECTION OF POTENTIAL EXOCOMET TRANSITS IDENTIFIED THROUGH MACHINE LEARNING AND STATISTICAL METHODS](http://adsabs.harvard.edu/abs/2026arXiv260202701D)  
+Dobrycheva, D. V., Kulyk, I. V., Karakuts, D. R., et al.    
+2026, not refereed ([2026arXiv260202701D](http://adsabs.harvard.edu/abs/2026arXiv260202701D))  
+
+12. [THE ORBITAL ECCENTRICITY─RADIUS RELATION FOR PLANETS ORBITING M DWARFS](http://adsabs.harvard.edu/abs/2026AJ....171..115S)  
+Sagear, Sheila, Ballard, Sarah, Gilbert, Gregory J., et al.    
+2026, refereed ([2026AJ....171..115S](http://adsabs.harvard.edu/abs/2026AJ....171..115S))  
+
+13. [THERMAL ECLIPSE OBSERVATION OF THE YOUNG HOT NEPTUNE AU MIC B WITH SPITZER](http://adsabs.harvard.edu/abs/2026arXiv260205168C)  
+Collins, Kevin I., Plavchan, Peter, Berta-Thompson, Zachory, et al.    
+2026, not refereed ([2026arXiv260205168C](http://adsabs.harvard.edu/abs/2026arXiv260205168C))  
+
+14. [USING STELLAR SPECTRAL ENERGY DISTRIBUTIONS TO MEASURE EXOPLANET PARAMETERS](http://adsabs.harvard.edu/abs/2026MNRAS.545f2063M)  
+Morrell, Sam, Naylor, Tim, Southworth, John, et al.    
+2026, refereed ([2026MNRAS.545f2063M](http://adsabs.harvard.edu/abs/2026MNRAS.545f2063M))  
+
+15. [ATMOSPHERIC CHARACTERIZATION OF HIP 67522 B WITH VLT/CRIRES+. VLT/CRIRES+ SUGGESTS A HEAVIER PLANET AND HINTS AT DEUTERIUM FRACTIONATION](http://adsabs.harvard.edu/abs/2026arXiv260203498L)  
+Lavail, A., Debras, F., Klein, B., et al.    
+2026, not refereed ([2026arXiv260203498L](http://adsabs.harvard.edu/abs/2026arXiv260203498L))  
+
+
 2026-01
 -------
 
@@ -158,6 +222,54 @@ Barragán, Oscar, Mallorquín, Manuel, Fernández-Fernández, Jorge, et al.
 38. [A YOUNG PROGENITOR FOR THE MOST COMMON PLANETARY SYSTEMS IN THE GALAXY](http://adsabs.harvard.edu/abs/2026Natur.649..310L)  
 Livingston, John H., Petigura, Erik A., David, Trevor J., et al.    
 2026, refereed ([2026Natur.649..310L](http://adsabs.harvard.edu/abs/2026Natur.649..310L))  
+
+39. [TOI-333B: A NEPTUNE-DESERT PLANET AROUND AN F7V STAR](http://adsabs.harvard.edu/abs/2026A&A...705A.210A)  
+Alves, Douglas R., Jenkins, James S., Vinés, José I., et al.    
+2026, refereed ([2026A&A...705A.210A](http://adsabs.harvard.edu/abs/2026A&A...705A.210A))  
+
+40. [HARPS-N, TESS, AND CHEOPS DISCOVER A TRANSITING SUB-NEPTUNE AND TWO OUTER COMPANIONS AROUND THE BRIGHT SOLAR ANALOGUE HD 85426](http://adsabs.harvard.edu/abs/2026MNRAS.545f1934L)  
+Lienhard, F., Mortier, A., Cameron, A. Collier, et al.    
+2026, refereed ([2026MNRAS.545f1934L](http://adsabs.harvard.edu/abs/2026MNRAS.545f1934L))  
+
+41. [HIDDEN GEMS IN TESS: SHERLOCK FINDS TWO NEW ROCKY PLANETS AROUND NEARBY M DWARFS](http://adsabs.harvard.edu/abs/2026arXiv260121774T)  
+Timmermans, M., Dévora-Pajares, M., Pozuelos, F. J., et al.    
+2026, not refereed ([2026arXiv260121774T](http://adsabs.harvard.edu/abs/2026arXiv260121774T))  
+
+42. [SPIROU DETECTS TWO PLANETS AROUND THE NEARBY M4.5V STAR GJ 4274](http://adsabs.harvard.edu/abs/2026A&A...705A.243C)  
+Charpentier, Paul, Moutou, Claire, Donati, Jean-François, et al.    
+2026, refereed ([2026A&A...705A.243C](http://adsabs.harvard.edu/abs/2026A&A...705A.243C))  
+
+43. [DENSITIES OF SMALL PLANETS AROUND THE M DWARFS TOI-4336 A AND TOI-4342 WITH ESPRESSO: THREE SUB-NEPTUNES, ONE SUPER-EARTH, AND A NEPTUNE-MASS CANDIDATE](http://adsabs.harvard.edu/abs/2026arXiv260122115P)  
+Parc, Léna, Cadieux, Charles, Grieves, Nolan, et al.    
+2026, not refereed ([2026arXiv260122115P](http://adsabs.harvard.edu/abs/2026arXiv260122115P))  
+
+44. [THE K-DWARFS SURVEY I. FOUR VALIDATED PLANETS FROM THE RADIUS VALLEY TO THE NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..176M)  
+Morello, G., Peláez-Torres, A., Pozuelos, F. J., et al.    
+2026, refereed ([2026MNRAS.tmp..176M](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..176M))  
+
+45. [THE SPIROU LEGACY SURVEY: DETECTION OF A NEARBY WORLD ORBITING IN THE HABITABLE ZONE OF GL 725B ACHIEVED BY CORRECTING STRONG TELLURIC CONTAMINATION IN NEAR-INFRARED RADIAL VELOCITIES WITH WAPITI](http://adsabs.harvard.edu/abs/2026A&A...705A.234O)  
+Ould-Elhkim, M., Moutou, C., Donati, J.-F., et al.    
+2026, refereed ([2026A&A...705A.234O](http://adsabs.harvard.edu/abs/2026A&A...705A.234O))  
+
+46. [TIGHTER CONSTRAINTS ON THE ATMOSPHERE OF GJ 436 B FROM COMBINED HIGH-RESOLUTION CARMENES AND CRIRES<SUP>+</SUP> OBSERVATIONS](http://adsabs.harvard.edu/abs/2026A&A...705A.256P)  
+Peláez-Torres, A., Sánchez-López, A., Nortmann, L., et al.    
+2026, refereed ([2026A&A...705A.256P](http://adsabs.harvard.edu/abs/2026A&A...705A.256P))  
+
+47. [THE SPIROU LEGACY SURVEY: DETECTION OF A NEARBY WORLD ORBITING IN THE HABITABLE ZONE OF GL725B ACHIEVED BY CORRECTING STRONG TELLURIC CONTAMINATION IN NEAR-INFRARED RADIAL VELOCITIES WITH WAPITI](http://adsabs.harvard.edu/abs/2026arXiv260122815O)  
+Ould-Elhkim, M., Moutou, C., Donati, J.-F., et al.    
+2026, not refereed ([2026arXiv260122815O](http://adsabs.harvard.edu/abs/2026arXiv260122815O))  
+
+48. [THE ROPES PROJECT WITH HARPS AND HARPS-N: II. A THIRD PLANET IN THE MULTI-PLANET SYSTEM HD 176986](http://adsabs.harvard.edu/abs/2026A&A...705A.252N)  
+Nari, N., Suárez Mascareño, A., González Hernández, J. I., et al.    
+2026, refereed ([2026A&A...705A.252N](http://adsabs.harvard.edu/abs/2026A&A...705A.252N))  
+
+49. [SIBLING SUB-NEPTUNES AROUND SIBLING M DWARFS: TOI-521 AND TOI-912](http://adsabs.harvard.edu/abs/2026A&A...705A.260L)  
+Lacedelli, G., Pallé, E., Luque, R., et al.    
+2026, refereed ([2026A&A...705A.260L](http://adsabs.harvard.edu/abs/2026A&A...705A.260L))  
+
+50. [A TRANSITING HOT JUPITER WITH TWO OUTER SIBLINGS ORBITING AN INTERMEDIATE-MASS POST-MAIN-SEQUENCE STAR](http://adsabs.harvard.edu/abs/2026A&A...706A..20R)  
+Reinarz, Y., Jones, M. I., Brahm, R., et al.    
+2026, refereed ([2026A&A...706A..20R](http://adsabs.harvard.edu/abs/2026A&A...706A..20R))  
 
 
 2025-12
