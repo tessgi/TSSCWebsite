@@ -264,7 +264,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTemplate">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTemplate" aria-expanded="false" aria-controls="collapseTwo"
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTemplate" aria-expanded="false" aria-controls="collapseTwo">
         Are there proposal templates available?
       </button>
     </h2>
