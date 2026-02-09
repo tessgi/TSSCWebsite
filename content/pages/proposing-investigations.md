@@ -264,7 +264,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
   </div>
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTemplate">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTemplate" aria-expanded="false" aria-controls="collapseTwo">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTemplate" aria-expanded="false" aria-controls="collapseTwo"
         Are there proposal templates available?
       </button>
     </h2>
@@ -275,23 +275,23 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
           <tr>
             <td>
             <td>Template for small and large proposals</td>
-            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle7.tex" download>Latex</a></td>
-            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle7.docx" download>Word</a></td>
-            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle7.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle9.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle9.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_small_large_template_Cycle9.pdf" download>PDF</a></td>
           </tr>
           <tr>
             <td>
             <td>Template for mini proposals</td>
-            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle7.tex" download>Latex</a></td>
-            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle7.docx" download>Word</a></td>
-            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle7.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle9.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle9.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_mini_template_Cycle9.pdf" download>PDF</a></td>
           </tr>
           <tr>
             <td>
             <td>Template for team expertise</td>
-            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle7.tex" download>Latex</a></td>
-            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle7.docx" download>Word</a></td>
-            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle7.pdf" download>PDF</a></td>
+            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle9.tex" download>Latex</a></td>
+            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle9.docx" download>Word</a></td>
+            <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle9.pdf" download>PDF</a></td>
           </tr>
         </table>
       </div>
