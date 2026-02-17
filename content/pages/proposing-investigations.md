@@ -68,6 +68,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
             <br>The technical justification should be clearly described and sufficiently detailed to support the science case.</br>
             <br>All except the mini proposals should also provide at least one paragraph for the work plan detailing how the proposed effort will be carried out.</br>
             <br>The work plan should include the allocation of effort amongst investigators. This should be expressed in terms of each participant's role in the investigation to preserve the anonymity of the document.</br>
+	    <br>Each proposals must also provide an Open Science and Data Management Plan (OSDMP). In the OSDMP proposers must clearly describe the plans to make any new software, higher level data products and/or supporting data publicly available. Software developed with TESS GI funds must add value to the TESS science community, be freely available, and have the source code openly accessible. Please view the provided templates for an example of what should be included in an OSDMP.</br> 
         </ul>
       </div>
     </div>
@@ -288,7 +289,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
           </tr>
           <tr>
             <td>
-            <td>Template for team expertise</td>
+            <td>Template for team expertise</td> 
             <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle9.tex" download>Latex</a></td>
             <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle9.docx" download>Word</a></td>
             <td><a href="docs/proposal-templates/tessgi_team_expertise_template_Cycle9.pdf" download>PDF</a></td>
