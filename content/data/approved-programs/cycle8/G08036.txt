@@ -1,0 +1,10 @@
+# TESS Program G08036
+
+Title: The TESS Legacy Survey Of Accreting Compact Binaries
+
+PI: Scaringi, Simone - Durham University
+
+Type: MINI
+
+Summary: Accretion is responsible for the growth and evolution of most objects in the Universe, yet many unanswered questions remain in accretion disk physics. We propose to continue this ongoing program and observe a sample accreting compact objects (comprising a mix of accreting white dwarfs, neutron stars, and stellar-mass black holes) at 2-minute cadence with TESS, with a small number of systems at 20 second cadence. This on-going program is providing a long-lasting legacy dataset for the community by unravelling the optical variability properties of a variety of accreting compact objects.
+

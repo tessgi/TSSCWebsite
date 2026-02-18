@@ -1,0 +1,10 @@
+# TESS Program G08088
+
+Title: Periodic Varibility In Erosita-Discovered Accreting Compact White-Dwarf Binaries
+
+PI: Schwope, Axel - Leibniz-Institut Fur Astrophysik Potsdam (Aip)
+
+Type: MINI
+
+Summary: Accreting compact white-dwarf binaries (ACWDBs) are crucial to understand several important astrophysical phenomena such as Type Ia supernovae and gravitational waves. Despite their fundamental importance for astrophysics and recent progress with the comprehension of these objects, we still do not fully understand how they form and evolve. Progress is hampered by the presently available samples that are either too small or heavily biased through various detection routes. All ACWDBs are known to be X-ray emitters which allows to build large samples of CVs from the stack of eROSITA all-sky surveys and associated Gaia sources. Here we propose photometric follow-up with TESS of spectroscopically confirmed systems for classifications and period determination.
+

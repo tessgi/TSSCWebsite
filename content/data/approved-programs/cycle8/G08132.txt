@@ -1,0 +1,10 @@
+# TESS Program G08132
+
+Title: The Spatial Exent Of Clouds In Hot-Jupiter Atmospheres
+
+PI: Challener, Ryan - Cornell University
+
+Type: MINI
+
+Summary: Hot-Jupiter atmospheres have significant spatial variation in thermal and chemical properties due to their permanent day- and nightsides. This temperature contrast gives rise to strong winds, potentially driving nightside clouds onto the western edge of the dayside. These clouds are reflective, increasing the visible-wavelength brightness of the planet's western limb and creating a westward phase-curve offset relative to emission-dominated longer wavelengths. We propose in Cycle 8 to measure this phase-curve offset and understand the spatial extent of clouds on the daysides of hot-Jupiter atmospheres over a range of temperatures. This will be crucial for understanding atmospheric dynamics and cloud dissipation, as well as refining theoretical models of these atmospheres.
+

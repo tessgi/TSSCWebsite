@@ -1,0 +1,10 @@
+# TESS Program G08094
+
+Title: Exploring The Excitation Mechanisms Of Roap Stars: Kappa-Mechanism Vs Turbulent Pressure
+
+PI: Antoci, Victoria - Danmarks Tekniske Universitet
+
+Type: MINI
+
+Summary: Rapidly oscillating Ap (roAp) stars are rare magnetic pulsators that offer unique insight into the interplay between magnetism, convection, and chemical segregation. Many predicted high-frequency modes lie above the 2-minute cadence Nyquist limit, requiring TESS s 20-second cadence for detection. We propose observing 32 roAp stars in Cycle 8 to determine their true frequency range, test competing pulsation driving mechanisms, and assess the role of magnetic suppression of convection. These observations will resolve key questions in roAp star physics and advance our understanding of magnetic stellar interiors.
+

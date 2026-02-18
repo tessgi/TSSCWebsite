@@ -1,0 +1,10 @@
+# TESS Program G08192
+
+Title: Creating The Largest Catalog Of Well-Characterized Quadruple Eclipsing Binaries
+
+PI: Majewski, Steven - University Of Virginia
+
+Type: SMALL
+
+Summary: While eclipsing binaries (EBs) provide an outsized contribution as calibrators of stellar masses, sizes, temperatures, and luminosities, quadruple EB systems (QEBs), especially compact ones, give unparalleled insight into the complex intra-system dynamics of multistar systems. An unprecedented 200 QEBs have been found with TESS. Exploiting this rich dataset for astrophysics requires follow-up observations to characterize constituent stars, their arrangements, and orbits. To do this, we propose a program of diffraction-limited imaging (to resolve and monitor QEB subsystems), including time series observations to associate eclipse families with specific resolved sources, as well as analysis of all extant TESS plus new ground-based photometry for stellar characterization.
+

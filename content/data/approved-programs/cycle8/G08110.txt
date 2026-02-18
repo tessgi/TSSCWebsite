@@ -1,0 +1,10 @@
+# TESS Program G08110
+
+Title: Phase Monitoring Of Compact, Post-Common Envelope Hot Subdwarf Binaries Using TESS Cycle 8 Photometry
+
+PI: Barlow, Brad - University Of North Carolina
+
+Type: SMALL
+
+Summary: Hot subdwarf stars are the descendants of red giants that were stripped of their outer envelopes due to binary interactions. Here we propose 20-s cadence TESS observations of compact, post-common envelope hot subdwarf binaries falling in Cycle 8. When combined with data from previous cycles, these light curves will allow us to generate the first large and homogeneous set of orbital ephemerides for three types of systems: (i) ellipsoidally modulated sdB+WD binaries, (ii) eclipsing sdB+dM/BD reflection effect binaries, and (iii) non-eclipsing sdB+dM/BD binaries. Together, these ephemerides will help us determine the prevalence of circumbinary planets around post-common envelope binaries and measure orbital period changes due to gravitational wave radiation or tidal effects.
+

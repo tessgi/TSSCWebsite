@@ -1,0 +1,10 @@
+# TESS Program G08147
+
+Title: Evolutionary Study Of Be Stars In Binary And Hierarchical Systems
+
+PI: Da Rocha, Danilo - Observatorio Nacional
+
+Type: MINI
+
+Summary: Classical Be stars are B-type stars with circumstellar disks and Balmer emission lines, rotating at 65% of the critical limit and present non-radial pulsations. Be stars are frequently found in both binary and hierarchical systems, and their evolution is influenced mass transfer, angular momentum, and disk formation. The TESS telescope provides high-precision photometric data, revealing variability associated with rotation, pulsations, and stellar interactions. A key aspect of this research is tracking photometric signals alongside H&#945; emission, which traces disk activity. Frequency analysis with Lomb-Scargle and Wavelet will be important for investigates the rotation and NRPs in Be stars. This research will refines evolution models and our understanding about multiple-star systems.
+

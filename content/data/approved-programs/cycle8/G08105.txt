@@ -1,0 +1,10 @@
+# TESS Program G08105
+
+Title: Investigating The Rotation Of The Magnetic White Dwarf In Ae Cir With TESS
+
+PI: Merc, Jaroslav - Charles University In Prague
+
+Type: MINI
+
+Summary: The late emergence of magnetic fields in white dwarfs (WDs) remains poorly understood. Symbiotic stars, red giant binaries with accreting WDs, may help explain their origins. Several systems show fast periodic variability linked to WD rotation, including AE Cir, where a 27.3-min signal was detected in TESS data. In Z And, a similar signal showed spin-up, raising questions about period evolution in symbiotic binaries, in particular related to their activity. We propose 20-s cadence TESS observations of AE Cir (Sectors 99 102) to determine if its variability is multiperiodic, which can hint at different underlying mechanisms, whether its period has changed, and how it evolves over time. This will help determine if any changes are tied to accretion activity and different states of the system.
+

@@ -1,0 +1,10 @@
+# TESS Program G08026
+
+Title: Solar-Like Periodic Modulations And Flare Emissions From The Nearest Neighbour Proxima Centauri
+
+PI: Notsu, Yuta - University Of Colorado
+
+Type: SMALL
+
+Summary: We propose (i) simultaneous NICER (X-ray) and TESS (optical) monitoring and (ii) simultaneous Swift Grism (NUV) and TESS (optical) monitoring of the closest and planet-hosting M-dwarf Proxima Centauri. In Project (i), we investigate the potential anti-correlation of X-ray and optical emission over the 83-day roational period, with the TESS continuous 4-sectror observation and simultaneous NICER data. In Project (ii), we aim to constrain the spectral peak and slope in the NUV during late M-dwarf flares, especially Balmer continuum emission. These analyses will provide powerful insights into the dynamo mechanism and variable magnetic activity of Proxima Cen, and will be a critical constraint for the host star activity (e.g., flare X-ray + UV emission) effects on the surrounding exoplanets.
+
