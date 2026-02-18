@@ -1,0 +1,21 @@
+# TESS Program G08042
+
+Title: Planetary Systems Around Thick-Disk Stars
+
+PI: Dai, Fei - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Thick disk-stars differ from their thin-disk counterparts in kinematics, age, metallicity, and alpha abundance, which may significantly impact the outcome of planet formation. Our program will validate and characterize sub-Neptune planets around thick-disk stars. Shorter lifetimes and limited supply solid material may inhibit planet formation around thick disk star. Using transit searches and follow-up observations, we will triple the number of confirmed thick-disk planets and test this claim (6-20). We will also constrain the bulk composition of six thick-disk rocky planets (again tripling existing sample 3-9) using follow-up radial velocity measurements to determine if the iron-poor-alpha-rich chemistry indeed gives rise to rocky planets with smaller iron core but larger silicate mantle.
+
+
+# Sector 097 targets observed (2 min: 3, 20 s: 1)
+260004324,91.0934,-55.3106,10.14,G08042;G08042;G08140;20SECONDTARGET
+179580045,80.624,-70.2543,10.46,G08042;G08137
+167600516,102.0212,-65.6246,10.69,G08042;G08140
+
+# Sector 098 targets observed (2 min: 4, 20 s: 1)
+150033920,91.3072,-65.0567,11.69,G08042
+260004324,91.0935,-55.3105,10.14,G08042;G08042;G08140;20SECONDTARGET
+179580045,80.624,-70.2543,10.46,G08042;G08137
+167600516,102.0212,-65.6246,10.69,G08042;G08140

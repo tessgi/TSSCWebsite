@@ -8,3 +8,8 @@ Type: MINI
 
 Summary: In 2002 a group of delta Scuti were found with two closely spaces periods that led to a beat frequency that disrupted the pulsational pattern of the stars. This led to a phase step seen in the O-C diagram for these objects, or a drift in the cycle number. However, those observations were ground based and sparse compared to TESS data sets. This group of objects was rediscovered in 2024 from TESS observations. With an original group of 10 stars, plus three inconclusive targets. However, only one target was at the 2 minute cadence, with most at 30 minutes. We are requesting 2 minute cadence observations of those targets from this set of 13, plus those from 2002, that are in the field of view for Cycle 8, as given in the target list. That is a list of 4 targets.
 
+
+# Sector 099 targets observed (2 min: 3, 20 s: 0)
+44845403,146.597,-39.9491,9.39,G08018
+396465600,213.7623,-74.2464,10.67,G08018
+453848870,225.259,-64.5765,6.26,G08018;G08101

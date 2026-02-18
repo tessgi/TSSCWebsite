@@ -1,0 +1,13 @@
+# TESS Program G08087
+
+Title: Unlocking The Asteroseismic Potential Of Delta Scuti Stars With TESS And Song
+
+PI: Hey, Daniel - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: One of the breakthroughs in stellar astrophysics enabled by TESS during its prime mission was the discovery of high-frequency delta Scuti stars with regular frequency spacings, paving the way for modeling akin to less massive solar-like oscillators. However, most of these stars still show complex frequency patterns, and many modes remain unidentified. Ground-based radial velocity have a long tradition for being used to perform mode identification via line-profile variations. We propose to perform the first simultaneous RV observations of a high-frequency delta Scuti star observed by TESS using the SONG network of 1-m class telescopes. The observations are expected to enable a complete mode identification in delta Scuti for the first time, unlocking asteroseismology for this class of stars.
+
+
+# Sector 097 targets observed (2 min: 1, 20 s: 0)
+142889338,52.0483,-35.8535,6.44,G08101;G08046;G08087

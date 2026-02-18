@@ -8,3 +8,12 @@ Type: SMALL
 
 Summary: NASA s Pandora SmallSat mission will observe at least 20 exoplanets and their host stars to disentangle stellar contamination from the exoplanet atmospheric spectrum. We propose to observe 13 of the Pandora science targets with TESS to obtain 20 second data to determine their stellar rotation periods, obtain updated spot and faculae covering fractions, search for flares, and observe these targets simultaneously with Pandora, which will launch this October. Pandora s ability to disentangle stellar contamination from exoplanet spectra relies on a precise understanding of the host star, making short cadence, simultaneous TESS data critical to maximizing Pandora s science output. The unique long duration of TESS sectors is key to achieving this more precise understanding of stellar activity.
 
+
+# Sector 097 targets observed (2 min: 1, 20 s: 1)
+10837041,20.9221,-8.7021,10.42,G08145;20SECONDTARGET
+
+# Sector 098 targets observed (2 min: 4, 20 s: 4)
+146520535,76.6497,-20.2456,11.05,G08145;G08041;20SECONDTARGET
+200322593,76.3094,-47.9375,11.51,G08145;G08140;20SECONDTARGET
+55652896,73.9799,-63.2605,11.57,G08145;G08041;20SECONDTARGET
+307210830,124.5336,-68.3155,9.41,G08145;G08041;G08140;20SECONDTARGET

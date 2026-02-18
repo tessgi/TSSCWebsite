@@ -1,0 +1,29 @@
+# TESS Program G08162
+
+Title: An Order-Of-Magnitude Increase In "Holy Grail" Calibrators: Doubly Oscillating Binaries Pre-Screened With Gaia
+
+PI: Joyce, Meridith - University Of Wyoming
+
+Type: SMALL
+
+Summary: We propose to obtain a mix of 20-s cadence and FFIs for 533 binary systems likely to host detectable oscillations in both components, selected with Gaia. We will combine asteroseismic parameters (nu max, delta nu) extracted from these images with luminosities, distances, and temperatures to obtain asteroseismic masses. Combined with XP/gaia-xgboost metallicities, these masses will complete the set of constraints needed to calibrate isochrones. Such systems are rare: this campaign will yield a more than order-of-magnitude increase in the number of "holy grail" targets whose components share an age but have two different masses. Such targets are capable of discerning between physical assumptions in isochrones, ultimately addressing the over-estimation of stellar ages from these models.
+
+
+# Sector 097 targets observed (2 min: 10, 20 s: 0)
+129781461,36.1653,-37.1411,9.98,G08162
+632038199,31.0749,-33.157,9.84,G08162
+65344233,39.1944,-25.7024,9.63,G08162
+144103139,59.1158,-42.6255,9.54,G08162
+301051477,49.9767,-45.2362,10.56,G08162
+220413105,70.8474,-54.0993,10.25,G08162
+149423305,84.4911,-61.4928,8.01,G08162
+220389296,67.9828,-59.875,9.28,G08119;G08143;G08158;G08162
+25118797,61.9398,-69.0526,9.29,G08162
+272466542,120.5775,-74.7891,9.4,G08162
+
+# Sector 098 targets observed (2 min: 1, 20 s: 0)
+220389296,67.9828,-59.875,9.28,G08119;G08143;G08158;G08162
+
+# Sector 099 targets observed (2 min: 2, 20 s: 1)
+118427067,129.668,-19.7369,4.56,G08162;20SECONDTARGET
+42603984,228.4968,-58.6214,9.34,G08119;G08162
