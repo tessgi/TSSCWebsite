@@ -1,0 +1,10 @@
+# TESS Program G08142
+
+Title: Constraining Be Star Outburst Mechanisms With TESS And Ground-Based Observations
+
+PI: Emilio, Marcelo - Universidade Estadual De Ponta Grossa
+
+Type: MINI
+
+Summary: We propose to continue the search for and characterization of discrete mass-loss events (outbursts) in Be stars located in TESS observation fields. Rapid rotation alone cannot explain the ejection episodes of Be stars, and non-radial pulsations (NRP) have been proposed as an explanation. Our long-term goal is to verify the correlation between the NRP regime and the feeding of the envelope by combining ground-based spectroscopy data with the identification of outbursts and the measurement of small changes in pulsation frequencies with TESS 20-second cadence observations. Fourier analysis of photometric data is performed using a methodology developed for CoRoT and K2 Be stars.
+

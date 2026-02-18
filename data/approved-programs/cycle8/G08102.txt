@@ -1,0 +1,10 @@
+# TESS Program G08102
+
+Title: The Role Of Magnetism In Pulsation Driving: Roap Stars And Their Am/Fm Counterparts
+
+PI: Antoci, Victoria - Danmarks Tekniske Universitet
+
+Type: SMALL
+
+Summary: Rapidly oscillating Ap (roAp) stars offer a unique window into the interplay between pulsation, magnetic fields, and chemical diffusion in main-sequence A stars. Despite their importance, the mechanisms driving high-frequency pulsations especially above the acoustic cutoff remain poorly understood. This project aims to expand the sample of roAp stars using TESS 2-min cadence data and to constrain the roles of the kappa-mechanism and turbulent pressure in mode excitation. Comparative analysis with weakly magnetic Am stars will investigate how differences in magnetic field strength and envelope helium abundance affect pulsation properties. Together, these studies will provide new insight into the interior structure, excitation physics, and possible merger origin of magnetic Ap stars.
+

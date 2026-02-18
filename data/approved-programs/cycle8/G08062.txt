@@ -1,0 +1,10 @@
+# TESS Program G08062
+
+Title: Discovery And Occurrence Rates Of Disintegrating Minor Planets Transiting White Dwarfs
+
+PI: Soares-Furtado, Melinda - University Of Wisconsin-Madison
+
+Type: SMALL
+
+Summary: Many white dwarfs have been found to have their surfaces "polluted" by remnant rocky bodies from their progenitors' planetary systems. These polluted white dwarfs are our best observational probe of exoplanet interior chemical compositions, which they can reveal with exquisite sensitivity. However, without a good understanding of the origins of white dwarf pollution, it is impossible to fully leverage the information about chemical compositions from the pollution on their surfaces. Observations by Kepler and TESS have begun illuminating the origins and process by which white dwarf pollution takes place by identifying transiting disintegrating minor planets on their way to polluting white dwarfs. Here for TESS Cycle 7, we propose the largest search to date to search for transiting debris ar
+

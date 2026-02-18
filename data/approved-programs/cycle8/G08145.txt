@@ -1,0 +1,10 @@
+# TESS Program G08145
+
+Title: Characterizing The Host Stars Of Pandora Smallsat Mission Exoplanet Targets
+
+PI: Hord, Benjamin - NASA/GSFC
+
+Type: SMALL
+
+Summary: NASA s Pandora SmallSat mission will observe at least 20 exoplanets and their host stars to disentangle stellar contamination from the exoplanet atmospheric spectrum. We propose to observe 13 of the Pandora science targets with TESS to obtain 20 second data to determine their stellar rotation periods, obtain updated spot and faculae covering fractions, search for flares, and observe these targets simultaneously with Pandora, which will launch this October. Pandora s ability to disentangle stellar contamination from exoplanet spectra relies on a precise understanding of the host star, making short cadence, simultaneous TESS data critical to maximizing Pandora s science output. The unique long duration of TESS sectors is key to achieving this more precise understanding of stellar activity.
+
