@@ -38,7 +38,7 @@ TESS data is completely open access, so it's impact can be seen around the globe
 {! statistics/images/lead_author_affiliation.html !}
 
 ## Career Stage of TESS GIs
-TESS GI funding awards ~$3M a year to support science conducted with TESS data. The Principal Investigators (PIs) of successful proposals have a broad range of experience. As shown in the pie chart below, for TESS Cycles 1-6, 63% of PIs are early career scientists, meaning within 10 years of receiving their PhD. Impressively, nearly 10% of successful PIs are still students. The career stage is further broken down in the histogram on the right. 
+TESS GI funding awards ~$3M a year to support science conducted with TESS data. The Principal Investigators (PIs) of successful proposals have a broad range of experience. As shown in the pie chart below, for TESS Cycles 1-8, 60% of PIs are early career scientists, meaning within 10 years of receiving their PhD. Impressively, 10% of successful PIs are still students. The career stage is further broken down in the histogram on the right. 
 
 <table>
 <div class="row" style="width: 100%;">
