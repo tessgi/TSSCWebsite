@@ -8,3 +8,6 @@ Type: MINI
 
 Summary: Increasing the number of benchmarked brown dwarfs and exoplanets is a vital step to calibrate and improve our models of the formation, evolution, and current atmospheres of sub-stellar objects. We propose to obtain 2 min cadence TESS data of stars potentially harbouring long-period companions identified with GAIA astrometry, to check for transits pertaining to the long-period candidate and search for additional planets. Only two stars from the GAIA non-single-star (NSS) catalog are compatible with an edge-on orbit and observable with TESS in cycle 8. The system WT 766 is of particular interest, as it has a BD in a 1.6 year orbit with a 89.9 deg inclination. Winterhalder+2024 find a 10% chance that the BD may be transiting.
 
+
+# Sector 099 targets observed (2 min: 1, 20 s: 0)
+313869987,183.9816,-68.1091,13.08,G08022

@@ -1,0 +1,46 @@
+# TESS Program G08055
+
+Title: TESS Insights Into The Multiplicity Of High Amplitude Delta Scuti And Classical Cepheid Variables
+
+PI: Gokuldass, Priyadarshini - Embry-Riddle Aeronautical University
+
+Type: SMALL
+
+Summary: Classical Cepheids and High-Amplitude Delta Scuti stars provide key insights into stellar evolution. As intermediaries between main-sequence and evolved stars, they are crucial for understanding stellar structure and binary interactions. This study examines 1,105 Galactic Cepheids and 66 HADS with TESS magnitudes between 2 and 18.5. TESS Cycle 8 data will enable pulsation timing analysis to detect companions and determine orbital properties of the targets. By comparing their multiplicity fraction to B-type stars, we aim to explore evolutionary links. This work will refine our understanding of binary formation, stellar evolution, and the role of pulsating stars in shaping the Milky Way.
+
+
+# Sector 097 targets observed (2 min: 16, 20 s: 1)
+142945544,53.0784,-35.654,10.47,G08055
+91592810,44.4267,-33.8598,11.21,G08055;G08137
+219234987,64.0078,-51.4853,3.96,G08055;G08195;20SECONDTARGET
+259703453,74.5053,-50.1855,12.65,G08055
+391474560,60.404,-53.7013,12.09,G08055
+149346418,83.4063,-62.4897,3.26,G08055
+179204713,79.5036,-69.7364,14.97,G08055
+276867903,83.6733,-68.6907,14.62,G08055
+277316761,84.3679,-66.6286,14.11,G08055
+373521228,80.8928,-69.7561,16.53,G08055
+40611402,77.9959,-69.0573,14.38,G08055
+55742740,74.4377,-65.7084,12.51,G08055
+676681349,77.9406,-70.205,18.39,G08055
+729568115,83.4403,-69.7274,15.37,G08055
+41113181,91.0461,-68.2163,14.3,G08055
+260654645,98.1885,-57.8054,12.55,G08055
+
+# Sector 098 targets observed (2 min: 2, 20 s: 1)
+67265166,89.7546,-9.3821,5.83,G08055;20SECONDTARGET
+149346418,83.4063,-62.4897,3.26,G08055
+
+# Sector 099 targets observed (2 min: 12, 20 s: 7)
+303519120,164.4507,-59.7322,6.21,G08055
+306916925,167.1474,-58.975,2.85,G08055;20SECONDTARGET
+322418709,175.8799,-62.4894,3.0,G08055
+457801419,158.2951,-58.4986,7.57,G08147;G08055
+315035146,202.8891,-61.5824,5.92,G08055;20SECONDTARGET
+68179248,193.5915,-58.4306,8.84,G08055
+310883625,185.3379,-62.2816,5.76,G08055;20SECONDTARGET
+313263000,183.1957,-70.1518,5.4,G08055;20SECONDTARGET
+328476086,190.5209,-69.4076,5.7,G08055;20SECONDTARGET
+262929483,229.9404,-66.4961,5.89,G08055;20SECONDTARGET
+291766513,218.1378,-56.8878,6.01,G08055
+397886324,219.2998,-62.0109,5.8,G08055;20SECONDTARGET

@@ -8,3 +8,31 @@ Type: MINI
 
 Summary: Classical Be stars are B-type stars with circumstellar disks and Balmer emission lines, rotating at 65% of the critical limit and present non-radial pulsations. Be stars are frequently found in both binary and hierarchical systems, and their evolution is influenced mass transfer, angular momentum, and disk formation. The TESS telescope provides high-precision photometric data, revealing variability associated with rotation, pulsations, and stellar interactions. A key aspect of this research is tracking photometric signals alongside H&#945; emission, which traces disk activity. Frequency analysis with Lomb-Scargle and Wavelet will be important for investigates the rotation and NRPs in Be stars. This research will refines evolution models and our understanding about multiple-star systems.
 
+
+# Sector 097 targets observed (2 min: 1, 20 s: 0)
+349907707,114.1051,-61.8738,8.29,G08147;G08017
+
+# Sector 098 targets observed (2 min: 10, 20 s: 3)
+11286198,84.6865,-2.6001,3.96,G08147
+11411724,85.41,-2.259,7.66,G08147
+264459943,81.1868,1.8464,4.75,G08147;20SECONDTARGET
+264631173,82.2019,2.1647,7.44,G08147
+323348984,84.4727,0.9686,7.53,G08147
+4154938,80.4928,-2.9637,7.13,G08147
+427395049,83.8454,-5.4161,5.02,G08147
+427396133,83.9753,-5.6284,7.46,G08147;G08017
+140214221,84.9123,-34.0743,2.65,G08147;20SECONDTARGET
+201373582,91.7653,-34.312,5.85,G08147;20SECONDTARGET
+
+# Sector 099 targets observed (2 min: 11, 20 s: 0)
+415502268,131.1706,-21.4303,8.9,G08147
+322104948,175.7771,-60.7346,10.35,G08147
+457801419,158.2951,-58.4986,7.57,G08147;G08055
+333670784,182.0892,-50.7225,2.76,G08147
+253212775,195.395,-56.0919,9.14,G08147
+253380837,196.3872,-56.8517,8.74,G08147
+261993378,193.6628,-59.1468,4.78,G08147
+258704817,222.1855,-66.5936,6.06,G08147;G08119
+296969980,224.1831,-62.7811,6.45,G08147
+324252945,208.9744,-61.5038,8.99,G08147
+455463415,229.1528,-60.904,6.01,G08147

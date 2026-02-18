@@ -1,0 +1,18 @@
+# TESS Program G08149
+
+Title: Orbital Dynamics As A Probe Of Tidal Heating In Rocky Planets
+
+PI: Greklek-Mckeon, Michael - California Institute Of Technology
+
+Type: SMALL
+
+Summary: We will use TESS Cycle 8 data to measure orbital eccentricities and tidal heat fluxes in rocky planets through transit timing variations (TTVs). Even tiny eccentricities (<0.01) for close-in planets can generate significant tidal heating, affecting interior/atmospheric composition and habitability. We will analyze 3 systems already targeted by JWST that lack precise tidal heating constraints. Combining Cycle 8 data with archival data will extend the TTV baseline by 2-5 years, breaking model degeneracies and yielding precise eccentricities. This will provide the first ever sample of tidal heat flux measurements for rocky planets with atmospheric characterization beyond TRAPPIST-1, enhancing our understanding of how tidal heating affects small planet composition, evolution, and habitability.
+
+
+# Sector 097 targets observed (2 min: 3, 20 s: 3)
+120896927,36.8676,-27.6367,8.32,G08149;20SECONDTARGET
+259377017,68.4165,-51.9582,10.5,G08149;G08041;G08140;20SECONDTARGET
+150428135,97.095,-65.5782,10.91,G08149;G08041;G08140;20SECONDTARGET
+
+# Sector 098 targets observed (2 min: 1, 20 s: 1)
+259377017,68.4165,-51.9582,10.5,G08149;G08041;G08140;20SECONDTARGET

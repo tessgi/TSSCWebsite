@@ -1,0 +1,21 @@
+# TESS Program G08180
+
+Title: Tidal Asteroseismology With TESS
+
+PI: Jayaraman, Rahul - Massachusetts Institute Of Technology
+
+Type: SMALL
+
+Summary: TESS has enabled the discovery of several new kinds of pulsating stars, including the tidally tilted pulsators, which are stars in which the pulsation axis is pulled in line with the tidal axis of the binary. These stars offer a unique way to identify pulsation modes and constrain the pulsator's structure. This proposal aims to use short-cadence data to determine the incidence fraction of TTPs, as well as study why not all pulsating stars in close binaries exhibit TTPs. With our target sample, we will also identify common properties of TTPs and evaluate the role of prior mass transfer in inducing the TTP phenomenon. Our proposal will result in the first ensemble analysis of TTPs, as well as several modeling tools that the community can use to model pulsating stars in binaries.
+
+
+# Sector 097 targets observed (2 min: 6, 20 s: 1)
+268718018,18.2609,-22.6099,11.78,G08180
+129861919,55.55,-38.4969,10.39,G08180
+393491149,67.5997,-59.4683,12.54,G08180;20SECONDTARGET
+25195864,63.7538,-69.5367,10.46,G08180
+177283493,102.4684,-73.4007,11.85,G08180
+150437909,97.6437,-65.5463,12.05,G08180
+
+# Sector 098 targets observed (2 min: 1, 20 s: 1)
+393491149,67.5997,-59.4683,12.54,G08180;20SECONDTARGET

@@ -1,0 +1,13 @@
+# TESS Program G08184
+
+Title: The Frequencies Of Classical Novae
+
+PI: Walter, Frederick - State University Of New York At Stony Brook
+
+Type: SMALL
+
+Summary: The classical novae are thermonuclear runaways on the surfaces of white dwarf stars in close binary systems. As they fade to quiescence, the underlying system is shrouded by an expanding, optically-thick envelope. TESS photometry offers a way to peer though this fog and illuminate the evolution of the underlying binary system and the re-establishment of the accretion disk. We propose to generate and analyze high-fidelity, continuous cadence TESS FFI light curves of five recent novae that will be re-observed during Cycle 8. Earlier observations showed variable periods which may reflect the dynamics of the accretion disk as it reforms following the nova explosion.
+
+
+# Sector 098 targets observed (2 min: 1, 20 s: 0)
+167485724,71.9759,-10.1787,14.62,G08036;G08184

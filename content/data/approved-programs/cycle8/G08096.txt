@@ -1,0 +1,39 @@
+# TESS Program G08096
+
+Title: Measuring Masses And Radii Of Low-Metallicity Eclipsing Binaries In The Southern Sky
+
+PI: Rowan, Dominick - Ohio State University
+
+Type: SMALL
+
+Summary: We propose to combine TESS photometry and ground-based spectroscopy to measure masses and radii of 60 low-metallicity eclipsing binaries (EBs). Detached EBs are the most effective tool to measure precise masses and radii of stars. These measurements are widely used to calibrate stellar models, characterize exoplanet host stars, and understand stellar populations in galaxies. However, current catalogs have a critical gap in the sample of metal-poor EBs. We have identified 72 metal-poor ([Fe/H] < -1.0) EB candidates in the Southern sky. We propose to use TESS light curves and ground-based radial velocities from CHIRON to dynamically measure the masses and radii of 60 systems. In doing so, we will improve models for metal-poor stars and empirical relations between stellar properties.
+
+
+# Sector 097 targets observed (2 min: 6, 20 s: 0)
+167458680,17.772,-14.0898,11.36,G08096;G08158
+72729777,34.3238,-26.4308,11.32,G08096
+146689695,43.5128,-47.5934,11.67,G08096
+197882909,56.5205,-56.1248,11.67,G08096
+38586438,64.0891,-62.0134,11.67,G08096;G08158
+281636697,116.9363,-60.7183,11.44,G08096;G08137
+
+# Sector 098 targets observed (2 min: 3, 20 s: 0)
+298769313,69.1638,-5.2451,12.5,G08096
+38586438,64.0891,-62.0134,11.67,G08096;G08158
+364537633,71.2558,-77.2235,10.79,G08096
+
+# Sector 099 targets observed (2 min: 14, 20 s: 0)
+409797166,126.4636,-16.3797,8.94,G08085;G08096
+293522110,142.7793,-13.229,12.4,G08096
+265338723,133.4954,0.2956,12.1,G08096
+290588609,140.0045,0.0495,12.65,G08096
+54361956,161.8956,-30.6359,10.81,G08096
+189569821,143.7679,-28.0251,12.62,G08096
+152145351,169.9721,-37.0201,11.31,G08096
+162585265,170.3404,-47.601,9.3,G08046;G08096;G08158;G08137
+29937483,166.4406,-38.356,12.17,G08096
+464030037,155.221,-56.2227,11.81,G08096
+459812750,163.6149,-58.7157,12.59,G08096
+467244015,167.8473,-60.5522,12.52,G08096
+21864784,181.8268,-43.7936,12.56,G08096
+263775090,231.3809,-67.5537,12.43,G08096

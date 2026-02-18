@@ -1,0 +1,13 @@
+# TESS Program G08084
+
+Title: A Multiwavelength Analysis Of The Radiative Losses In The Transitional Millisecond Pulsar Xss J12270-4859
+
+PI: Coley, Joel - Howard University
+
+Type: SMALL
+
+Summary: We propose contemporaneous TESS and NICER observations of the Transitional Millisecond Pulsar (tMSP) XSS J12270-4859 (hereafter, J12270) simultaneous to Fermi observations during the TESS Sector 99-101 Timeframe. Consisting of a recycled rotation-powered 1.69 ms pulsar and a late type G star irradiated by the rapidly spinning pulsar, J12270 shows large amplitude variations in its orbital modulation in optical, X-ray and GeV energies along with a deep radio eclipse spanning 30% of its binary orbit. Our goal is to discriminate between the synchrotron or inverse-Compton losses driving the strong variations in the intrabinary shock (hereafter, IBS) using a discrete cross-correlation analysis between the NICER, TESS and Fermi light curves.
+
+
+# Sector 099 targets observed (2 min: 1, 20 s: 1)
+21162863,186.9946,-48.8952,17.55,G08084;20SECONDTARGET
