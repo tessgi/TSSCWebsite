@@ -31,6 +31,7 @@ for fname in tqdm(fnames):
         selected = 'True'
     else:
         selected = 'False'
+    data['Summary'] = data['Summary'].replace('<','&lt')
     htmlstrs.append(f"""
     <tr>
         <th scope="row">{data['Proposal ID']}</th>
