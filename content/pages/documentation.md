@@ -128,7 +128,7 @@ The [TESS Science Data Products Description Document](https://archive.stsci.edu/
 
 ## TESS Transient Policy
 
-A description of the [TESS policy](/docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf) regarding the analysis and dissemination of data for extraordinary transient events when they occur within the TESS field of view.
+A description of the <a href="docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf"> policy</a> regarding the analysis and dissemination of data for extraordinary transient events when they occur within the TESS field of view.
 
 
 <!-- ## Additional Links

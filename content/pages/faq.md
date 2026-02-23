@@ -42,5 +42,5 @@ Here we list some common questions. If you have a question not found here, you c
 **What happens if an extraordinary transient (or other) event happens in the TESS field of view that would benefit from a rapid analysis of TESS data?**
 
 <p style="margin-left: 2em">
-When an extraordinary transient event occurs within the TESS field of view, data is analyzed and disseminated to the community via the procedures outlined in <a href="/docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf">this policy document</a>.</p>
+When an extraordinary transient event occurs within the TESS field of view, data is analyzed and disseminated to the community via the procedures outlined in <a href="docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf">this policy document</a>.</p>
 
