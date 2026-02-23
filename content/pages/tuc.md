@@ -39,6 +39,9 @@ If you have any comments on or requested additions to the agenda, please contact
 
 ### Committee Reports
 <ul>
+
+<li><a href="data/TUC/TESS-Users-Committee-Meeting-Report-2-20260219.pdf" target='blank'>Report from January 30, 2026 meeting</a></li>
+
 <li><a href="data/TUC/TESS-Users-Committee-Meeting-Report-1-240308.pdf" target='blank'>Report from November 08, 2023 meeting</a></li>
 
 <li><a href="data/TUC/TUC-Community-Survey-Summary-Part-1.pdf" target='blank'>TUC Community Survey Summary Slides</a></li>

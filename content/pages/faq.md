@@ -39,5 +39,12 @@ Here we list some common questions. If you have a question not found here, you c
 
 <p style="margin-left: 2em">For HLSPs, you should acknowledge the primary papers describing the HLSPs.  The <a href="https://archive.stsci.edu/hlsp/"> HLSP homepage</a> for each individual product contians the primary paper reference and the DOI information on the top-left section of the page. On the bottom of the page under the "Citations", you can find more information on the data licence, which conveys how users may use and share the data.</p>
 
+**What happens if an extraordinary transient (or other) event happens in the TESS field of view that would benefit from a rapid analysis of TESS data?**
+
+<p style="margin-left: 2em">
+When extraordinary transient events occur within the TESS field of view, members of the TESS SOC are permitted, following the process described in [this document](/docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf), to perform basic analysis on data that are not yet public. Analysis conducted under this policy can provide the scientific community with actionable information an estimated 12-48 hours sooner than when TESS data become publicly available. Analysis shall not delay delivery of files in the appropriate format to the SPOC or to the MAST. Results of the analysis shall be communicated to the scientific community as quickly as possible via a broadly and publicly accessible bulletins.
+</p>
+
+<p style="margin-left: 2em">TESS project personnel may only pursue follow-up proposals using information from not-yet-public TESS data after the release of a public bulletin that includes the information.</p>
 
 

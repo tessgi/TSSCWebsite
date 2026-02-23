@@ -126,7 +126,9 @@ The SPOC pipeline is based on the Kepler Science Processing Pipeline, which is d
 The [TESS Science Data Products Description Document](https://archive.stsci.edu/missions/tess/doc/EXP-TESS-ARC-ICD-TM-0014.pdf) describes data product formats. Files are produced primarily by the TESS Science Processing Operations Center (SPOC) at NASA Ames Research Center.
 
 
+## TESS Transient Policy
 
+A description of the [TESS policy](/docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf) regarding the analysis and dissemination of data for extraordinary transient events when they occur within the TESS field of view.
 
 
 <!-- ## Additional Links
