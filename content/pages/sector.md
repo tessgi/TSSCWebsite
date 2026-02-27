@@ -265,7 +265,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
         </div>
       </div>
     </div>
-  </div>
 
 <div class="accordion" id="accordionPointings">
   <div class="accordion-item">
