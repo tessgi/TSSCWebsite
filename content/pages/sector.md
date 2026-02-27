@@ -70,12 +70,12 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 
 <div class="accordion" id="accordionPointings">
   <div class="accordion-item">
-     <h2 class="accordion-header" id="headingSec7">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec7" aria-expanded="false" aria-controls="collapseSec7">
+     <h2 class="accordion-header" id="headingSec8">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec8" aria-expanded="false" aria-controls="collapseSec8">
         Cycle 8
       </button>
       </h2>
-      <div id="collapseSec7" class="accordion-collapse collapse show" aria-labelledby="headingSec7" data-bs-parent="#accordionPointings" style="">
+      <div id="collapseSec8" class="accordion-collapse collapse show" aria-labelledby="headingSec8" data-bs-parent="#accordionPointings" style="">
         <div class="accordion-body">
           <table class="table table-striped table-hover" style="font-size: 0.77em;">
             <thead>
@@ -265,17 +265,16 @@ The spacecraft and individual camera pointing positions are [available from MIT]
         </div>
       </div>
     </div>
-
-
+  </div>
 
 <div class="accordion" id="accordionPointings">
   <div class="accordion-item">
      <h2 class="accordion-header" id="headingSec7">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec7" aria-expanded="false" aria-controls="collapseSec7">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec7" aria-expanded="false" aria-controls="collapseSec7">
         Cycle 7
       </button>
       </h2>
-      <div id="collapseSec7" class="accordion-collapse collapse show" aria-labelledby="headingSec7" data-bs-parent="#accordionPointings" style="">
+      <div id="collapseSec7" class="accordion-collapse collapse" aria-labelledby="headingSec7" data-bs-parent="#accordionPointings" style="">
         <div class="accordion-body">
           <table class="table table-striped table-hover" style="font-size: 0.77em;">
             <thead>
