@@ -24,19 +24,6 @@ The [TUC Charter](data/TUC/TESS_Users_Committee_Charter_2023Aug15.pdf) describes
 
 A list of previous TUC members can be found [here](https://heasarc.gsfc.nasa.gov/docs/tess/tuc_past_members.html).
 
-
-###TUC Meeting Agenda: January 30th
-
-If you have any comments on or requested additions to the agenda, please contact the TUC chair, Dan Huber (email: [huberd@hawaii.edu](mailto:[huberd@hawaii.edu)
-)
-
-- Revisit recommendation of SPOC generated light curves from more/all FFI targets. What has been done?
-- What is the best way to involve the community in special observing events such as 3I/ATLAS campaign? 
-- Synergies with other missions such as JWST, Roman, CHEOPS and Pandora. What already exists and how can it be improved? 
-- New TESS Community Survey. Do we need one and if yes, what should be the topics & goals?
-- Input on project policy for rapid analysis of transients
-- Early preparations for Extended Mission 4
-
 ### Committee Reports
 <ul>
 
