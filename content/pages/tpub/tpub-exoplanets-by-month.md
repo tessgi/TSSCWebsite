@@ -27,6 +27,50 @@ Glusman, Rowen I., Cañas, Caleb I., Kanodia, Shubham, et al.
 Kokori, A., Tsiaras, A., Pantelidou, G., et al.    
 2026, refereed ([2026ApJS..283....5K](http://adsabs.harvard.edu/abs/2026ApJS..283....5K))  
 
+6. [A WARM MASSIVE PAIR OF PLANETS AROUND TOI-1232 REVEALED WITH TRANSIT-TIMING VARIATIONS AND DOPPLER SPECTROSCOPY](http://adsabs.harvard.edu/abs/2026AJ....171..173M)  
+Mihaylov, Deyan P., Eberhardt, Jan, Trifonov, Trifon, et al.    
+2026, refereed ([2026AJ....171..173M](http://adsabs.harvard.edu/abs/2026AJ....171..173M))  
+
+7. [DISCOVERY AND CHARACTERIZATION OF TWO EXOPLANETS ORBITING THE METAL-POOR, SOLAR-TYPE STAR TOI-5788 WITH TESS, CHEOPS, AND HARPS-N](http://adsabs.harvard.edu/abs/2026MNRAS.546ag158L)  
+Lakeland, Ben S., Mortier, A., Haywood, R. D., et al.    
+2026, refereed ([2026MNRAS.546ag158L](http://adsabs.harvard.edu/abs/2026MNRAS.546ag158L))  
+
+8. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME) XIV: A COMOVING-BASED AGE CONSTRAINT FOR KELT-20](http://adsabs.harvard.edu/abs/2026arXiv260301313D)  
+Distler, Adam, Soares-Furtado, Melinda, Mann, Andrew W., et al.    
+2026, not refereed ([2026arXiv260301313D](http://adsabs.harvard.edu/abs/2026arXiv260301313D))  
+
+9. [DEMONSTRATING EXOPLANET TRANSIT PHOTOMETRY FROM SPACE WITH A 15 MM APERTURE OPTICAL NAVIGATION CAMERA ON HAYABUSA2](http://adsabs.harvard.edu/abs/2026AJ....171..187Y)  
+Yumoto, Koki, Kouyama, Toru, Yamada, Manabu, et al.    
+2026, refereed ([2026AJ....171..187Y](http://adsabs.harvard.edu/abs/2026AJ....171..187Y))  
+
+10. [THE EFFECT OF ATMOSPHERIC CHEMISTRY ON THE OPTICAL GEOMETRIC ALBEDOS OF HOT JUPITERS](http://adsabs.harvard.edu/abs/2026arXiv260302409J)  
+Jones, K. D., Morris, B. M., Heng, K.    
+2026, not refereed ([2026arXiv260302409J](http://adsabs.harvard.edu/abs/2026arXiv260302409J))  
+
+11. [JWST COMPASS: NIRSPEC/G395H TRANSMISSION OBSERVATIONS OF THE SUB-NEPTUNE HD 15337 C](http://adsabs.harvard.edu/abs/2026AJ....171..180W)  
+Wallack, Nicole L., Gao, Peter, Greklek-McKeon, Michael, et al.    
+2026, refereed ([2026AJ....171..180W](http://adsabs.harvard.edu/abs/2026AJ....171..180W))  
+
+12. [WD 1054-226 REVISITED: A STABLE TRANSITING DEBRIS SYSTEM](http://adsabs.harvard.edu/abs/2026arXiv260307677K)  
+Korth, J., Mustill, A. J., Parviainen, H., et al.    
+2026, not refereed ([2026arXiv260307677K](http://adsabs.harvard.edu/abs/2026arXiv260307677K))  
+
+13. [PHOTODYNAMICAL MODELING OF TOI-4504 REVEALS ITS DEEPLY RESONANT STATE AND SIMILARITY TO GJ 876](http://adsabs.harvard.edu/abs/2026arXiv260305720A)  
+Almenara, J. M., Mardling, R., Leleu, A., et al.    
+2026, not refereed ([2026arXiv260305720A](http://adsabs.harvard.edu/abs/2026arXiv260305720A))  
+
+14. [HIGH VELOCITY CIRCUMSTELLAR GAS ORBITING A WHITE DWARF STAR](http://adsabs.harvard.edu/abs/2026arXiv260302309Z)  
+Zuckerman, B., Le Bourdais, Érika, Klein, Beth L., et al.    
+2026, not refereed ([2026arXiv260302309Z](http://adsabs.harvard.edu/abs/2026arXiv260302309Z))  
+
+15. [AN ADOLESCENT AND NEAR-RESONANT PLANETARY SYSTEM NEAR THE END OF PHOTOEVAPORATION](http://adsabs.harvard.edu/abs/2026arXiv260302550W)  
+Wang, Mu-Tian, Dai, Fei, Liu, Hui-Gen, et al.    
+2026, not refereed ([2026arXiv260302550W](http://adsabs.harvard.edu/abs/2026arXiv260302550W))  
+
+16. [LONG-PERIOD MAGNETIC ACTIVITY IN THE K DWARF GJ 1137 AND A NEW SUPER-EARTH ON A 9-DAY ORBIT](http://adsabs.harvard.edu/abs/2026arXiv260304919S)  
+Stoeva, Denitza, Stefanov, Atanas K., Stefanov, Stefan Y., et al.    
+2026, not refereed ([2026arXiv260304919S](http://adsabs.harvard.edu/abs/2026arXiv260304919S))  
+
 
 2026-02
 -------
