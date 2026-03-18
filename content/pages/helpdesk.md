@@ -8,44 +8,40 @@ The Guest Investigator (GI) office is part of the TESS Science Support Center at
 The members of the TESS GI office are listed below.
 
 <div class="row">
-
-    <div class="col-sm-3 text-center"> 
+     <div class="col-sm-3 text-center"> 
         <img src="images/faces/allison.jpg" style="max-width:80%;" class="img-circle"><br>
         Dr. Allison Youngblood<br>
         Project Scientist 
-    </div>
+     </div>
     
-    <div class="col-sm-3 text-center"> 
+     <div class="col-sm-3 text-center"> 
         <img src="images/faces/susan.jpg" style="max-width:80%;" class="img-circle"><br>
         Dr. Susan Neff<br>
         Deputy Project Scientist
-    </div>
+     </div>
 
-    <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
+     <div class="col-sm-3 text-center">
+    	<img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
         Dr. Rebekah Hounsell<br>
         Associate Project Scientist
-    </div>
+     </div>
 
-    <div class="col-sm-3 text-center">
+     <div class="col-sm-3 text-center">
         <img src="images/faces/Tyler.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Tyler Pritchard<br>
         Director of the GI Office
-    </div>
-    
-
-    
+     </div>
 </div>
 
-  <div class="col-sm-3 text-center">
+<div class="row">
+     <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Christina Hedges<br>
         Deputy Director of the GI Office
     </div>
     
-<div class="row">
     <div class="col-sm-3 text-center">
-          <img src="images/faces/nicole.jpg"  style="max-width:80%;" class="img-circle"><br>
+        <img src="images/faces/nicole.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Nicole Schanche<br>
         Support Scientist
     </div>
@@ -64,7 +60,7 @@ The members of the TESS GI office are listed below.
     
 
     <div class="col-sm-3 text-center">
-          <img src="images/faces/daniel.jpg"  style="max-width:80%;" class="img-circle"><br>
+        <img src="images/faces/daniel.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Daniel Giles <br>
         Scientific Software Developer
     </div>
