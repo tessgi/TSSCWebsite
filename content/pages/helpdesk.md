@@ -18,7 +18,13 @@ The members of the TESS GI office are listed below.
     <div class="col-sm-3 text-center"> 
         <img src="images/faces/susan.jpg" style="max-width:80%;" class="img-circle"><br>
         Dr. Susan Neff<br>
-        Deputy Project Scientist 
+        Deputy Project Scientist
+    </div>
+
+    <div class="col-sm-3 text-center">
+    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
+        Dr. Rebekah Hounsell<br>
+        Associate Project Scientist
     </div>
 
     <div class="col-sm-3 text-center">
@@ -26,27 +32,21 @@ The members of the TESS GI office are listed below.
         Dr. Tyler Pritchard<br>
         Director of the GI Office
     </div>
+    
 
-    <div class="col-sm-3 text-center">
+    
+</div>
+
+  <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Christina Hedges<br>
         Deputy Director of the GI Office
     </div>
     
-
-    
-</div>
-    
 <div class="row">
     <div class="col-sm-3 text-center">
           <img src="images/faces/nicole.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Nicole Schanche<br>
-        Support Scientist
-    </div>
-
-    <div class="col-sm-3 text-center">
-    <img src="images/faces/rebekah.jpg" style="max-width:80%;" class="img-circle"><br>
-        Dr. Rebekah Hounsell<br>
         Support Scientist
     </div>
 
