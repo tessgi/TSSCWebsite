@@ -4,6 +4,38 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2026-04
+-------
+
+1. [TOI-6692 B: AN ECCENTRIC 130 DAY PERIOD GIANT PLANET WITH A SINGLE TRANSIT FROM TESS](http://adsabs.harvard.edu/abs/2026AJ....171..203B)  
+Bieryla, Allyson, Collins, Karen A., Zhou, George, et al.    
+2026, refereed ([2026AJ....171..203B](http://adsabs.harvard.edu/abs/2026AJ....171..203B))  
+
+2. [A 43 D TRANSITING NEPTUNE AND TWO 25 D SATURNS FROM TESS, NGTS, AND ASTEP](http://adsabs.harvard.edu/abs/2026MNRAS.547f2189K)  
+Kendall, Alicia, Ulmer-Moll, Solène, Gill, Samuel, et al.    
+2026, refereed ([2026MNRAS.547f2189K](http://adsabs.harvard.edu/abs/2026MNRAS.547f2189K))  
+
+3. [WORLDS NEXT DOOR. III. INDIRECT EVIDENCE FOR ENHANCED ATMOSPHERIC METALLICITY AND/OR THE PRESENCE OF WATER CLOUDS IN THE NEAREST JUPITER-ANALOG Ε ERI B](http://adsabs.harvard.edu/abs/2026AJ....171..225S)  
+Sanghi, Aniket, Mang, James, Llop-Sayson, Jorge, et al.    
+2026, refereed ([2026AJ....171..225S](http://adsabs.harvard.edu/abs/2026AJ....171..225S))  
+
+4. [MULTICOLOUR VALIDATION OF TWO TEMPERATE MINI-NEPTUNES AROUND M-DWARF HABITABLE ZONES](http://adsabs.harvard.edu/abs/2026MNRAS.547ag367J)  
+Jiang, Chengzi, Selezneva, Aleksandra, Parviainen, Hannu, et al.    
+2026, refereed ([2026MNRAS.547ag367J](http://adsabs.harvard.edu/abs/2026MNRAS.547ag367J))  
+
+5. [TESS HUNT FOR YOUNG AND MATURING EXOPLANETS (THYME). XIV. A COMOVING-BASED AGE CONSTRAINT FOR KELT-20](http://adsabs.harvard.edu/abs/2026AJ....171..248D)  
+Distler, Adam, Soares-Furtado, Melinda, Mann, Andrew W., et al.    
+2026, refereed ([2026AJ....171..248D](http://adsabs.harvard.edu/abs/2026AJ....171..248D))  
+
+6. [REVISITING THE ORBITAL DYNAMICS OF THE HOT JUPITER WASP-12 B WITH NEW TRANSIT TIMES](http://adsabs.harvard.edu/abs/2026AJ....171..246B)  
+Biswas, Shraddha, Jiang, Ing-Guey, Yeh, Li-Chin, et al.    
+2026, refereed ([2026AJ....171..246B](http://adsabs.harvard.edu/abs/2026AJ....171..246B))  
+
+7. [A GROUND-BASED TRANSIT OBSERVATION OF THE LONG-PERIOD EXTREMELY LOW-DENSITY PLANET HIP 41378 F](http://adsabs.harvard.edu/abs/2026AJ....171..245G)  
+García-Mejía, Juliana, de Beurs, Zoë L., Tamburo, Patrick, et al.    
+2026, refereed ([2026AJ....171..245G](http://adsabs.harvard.edu/abs/2026AJ....171..245G))  
+
+
 2026-03
 -------
 
@@ -182,6 +214,34 @@ Apergis, Ioannis, Bayliss, Daniel, Chote, Paul, et al.
 44. [EXOPLANET SEARCH AND CHARACTERIZATION WITH THE PROPOSED POET CANADIAN SPACE MISSION](http://adsabs.harvard.edu/abs/2026arXiv260324485M)  
 Metchev, S., Rowe, J., Miles-Páez, P., et al.    
 2026, not refereed ([2026arXiv260324485M](http://adsabs.harvard.edu/abs/2026arXiv260324485M))  
+
+45. [CONSTRAINING THE PRESENCE OF EXOTROJANS IN HOT JUPITER SYSTEMS USING TTV OBSERVATIONS FROM TESS](http://adsabs.harvard.edu/abs/2026arXiv260327215Z)  
+Zhang, Zixin, Wang, Wenqin, Ma, Xinyue, et al.    
+2026, not refereed ([2026arXiv260327215Z](http://adsabs.harvard.edu/abs/2026arXiv260327215Z))  
+
+46. [HOMOGENEOUS STELLAR PARAMETERS FOR 717,807 TESS FGK STARS USING GAIA DR3](http://adsabs.harvard.edu/abs/2026arXiv260329817W)  
+Waines, Francesca, Weeks, Angharad, Van Eylen, Vincent    
+2026, not refereed ([2026arXiv260329817W](http://adsabs.harvard.edu/abs/2026arXiv260329817W))  
+
+47. [AUTOMATIC SEARCH FOR TRANSITING PLANETS IN TESS-SPOC FFIS WITH RAVEN: OVER 100 NEWLY VALIDATED PLANETS AND OVER 2000 VETTED CANDIDATES](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..514L)  
+Lafarga, M., Armstrong, D. J., Cui, K., et al.    
+2026, refereed ([2026MNRAS.tmp..514L](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..514L))  
+
+48. [TOI-7169 B: A HOT JUPITER TRANSITING A METAL-POOR STAR](http://adsabs.harvard.edu/abs/2026arXiv260325787S)  
+Simon, Joshua D., Rodriguez, Joseph E., Yana Galarza, Jhon, et al.    
+2026, not refereed ([2026arXiv260325787S](http://adsabs.harvard.edu/abs/2026arXiv260325787S))  
+
+49. [CONSTRAINING SMALL PLANET COMPOSITIONS FOR FUTURE MISSIONS](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..532P)  
+Palethorpe, Larissa, Mortier, Annelies, Egger, Jo Ann, et al.    
+2026, refereed ([2026MNRAS.tmp..532P](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..532P))  
+
+50. [WEIGHING THE MASS OF LHS 3844 B](http://adsabs.harvard.edu/abs/2026arXiv260328237H)  
+Hacker, Alejandro, Astudillo-Defru, Nicola, Díaz, Rodrigo F., et al.    
+2026, not refereed ([2026arXiv260328237H](http://adsabs.harvard.edu/abs/2026arXiv260328237H))  
+
+51. [MASS DETERMINATION OF THE ULTRA-SHORT-PERIOD PLANET LHS 3844 B. FIRST K-BAND RADIAL VELOCITY MEASUREMENTS WITH CRIRES+](http://adsabs.harvard.edu/abs/2026arXiv260328238N)  
+Nagel, E., Köhler, J., Zechmeister, M., et al.    
+2026, not refereed ([2026arXiv260328238N](http://adsabs.harvard.edu/abs/2026arXiv260328238N))  
 
 
 2026-02
