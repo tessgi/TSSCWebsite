@@ -353,6 +353,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingDDT">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDDT" aria-expanded="false" aria-controls="collapseTwo">
@@ -370,6 +371,26 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
     </div>
   </div>
 </div>
+
+
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingDDT">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDDT" aria-expanded="false" aria-controls="collapseTwo">
+      How can I become a reviewer for TESS?
+      </button>
+    </h2>
+    <div id="collapseDDT" class="accordion-collapse collapse" aria-labelledby="headingDDT" data-bs-parent="#accordionProposalBasics" style="">
+      <div class="accordion-body">  
+        <br>If you would like participate as a reviewer for TESS please email the <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> at tesshelp@bigbang.gsfc.nasa.gov. Note you must meet the following requirements to be a reviewer:<\br>
+	<br> 1. Panelists should have achieved their PhD before June 2026</br>
+	<br> 2. Panelists should not be a Primary Investigator (PI) on a TESS proposal, or supervising an early career researcher who is a PI within the Cycle they wish to act as a reviewer</br>
+	<br> Reviews may be in person or virtual, invitation of non-US based panelists will vary.<br>
+        </br>
+      </div>
+    </div>
+  </div>
+</div>
+
 <br>Are any of your questions not answered? You can always reach out to <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> at tesshelp@bigbang.gsfc.nasa.gov. We are happy to help answer any TESS-related questions!</br>
 </div>
 
