@@ -11,3 +11,6 @@ Summary: Increasing the number of benchmarked brown dwarfs and exoplanets is a v
 
 # Sector 099 targets observed (2 min: 1, 20 s: 0)
 313869987,183.9816,-68.1091,13.08,G08022
+
+# Sector 100 targets observed (2 min: 1, 20 s: 0)
+313869987,183.9816,-68.1091,13.08,G08022
