@@ -1,0 +1,17 @@
+# TESS Program G08190
+
+Title: Probing Cataclysmic Variable Evolution Through Period Distributions In The Galactic Disk And Bulge
+
+PI: Miller, Niall - University Of Wyoming
+
+Type: SMALL
+
+Summary: This proposal aims to systematically investigate cataclysmic variable (CV) evolution through period distributions across metallicity environments in the Galactic bulge and disk. We leverage TESS Cycle 8's unique continuous 54-day observation windows to precisely measure orbital periods for 155 pre-selected CV candidates, with particular focus on systems near the critical 2-3 hour "Period Gap" that constrains evolutionary models. By integrating TESS's continuous optical monitoring with deep near-infrared VVV survey data, we overcome traditional observational limitations in crowded, extincted bulge regions.
+
+
+# Sector 100 targets observed (2 min: 5, 20 s: 0)
+305365636,178.5576,-64.2945,12.57,G08190
+324122633,176.8587,-61.9394,12.88,G08190
+378803253,180.5637,-62.3621,12.95,G08190
+313514331,202.2196,-62.303,12.75,G08190
+35674219,225.0917,-58.6825,12.89,G08190

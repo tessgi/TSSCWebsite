@@ -11,3 +11,13 @@ Summary: The classical novae are thermonuclear runaways on the surfaces of white
 
 # Sector 098 targets observed (2 min: 1, 20 s: 0)
 167485724,71.9759,-10.1787,14.62,G08036;G08184
+
+# Sector 100 targets observed (2 min: 2, 20 s: 0)
+316228093,171.5722,-65.5201,15.83,G08184
+208504429,208.6889,-59.1512,11.42,G08036;G08184
+
+# Sector 101 targets observed (2 min: 1, 20 s: 0)
+208504429,208.6889,-59.1512,11.42,G08036;G08184
+
+# Sector 102 targets observed (2 min: 1, 20 s: 0)
+208504429,208.6889,-59.1512,11.42,G08036;G08184
