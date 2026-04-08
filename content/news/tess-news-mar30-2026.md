@@ -34,4 +34,4 @@ Eclipse timing analysis spanning approximately 46 years revealed that OY Car's o
 
 **Fig. 3:** *Taken from Han et al., (2026). The TESS light curves of OY Carinae capturing two distinct outburst events — a superoutburst (top panel) and a normal outburst (bottom panel). The superoutburst sees the system's flux surge from a quiescent baseline of 400 electrons per second to nearly 3,000, lingering for 18 days with characteristic superhump brightness modulations rippling through the light curve near peak. The normal outburst, by contrast, shows a sharp, clean rise to 600 electrons per second followed by a smooth decay over just 4 days, with no superhumps present. Throughout both panels, the recurring deep dips of white dwarf eclipses are clearly visible, allowing eclipse depth, width, and timing to be tracked continuously across the full outburst cycle — a feat impossible with nightly ground-based observations alone.*
 
- [^1]:Please note that this news item was created with input from OpenAI / NASA GSFC, 2026
+ [^1] This news item was created with input from OpenAI / NASA GSFC, 2026
