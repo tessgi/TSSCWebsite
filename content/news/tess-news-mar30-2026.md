@@ -1,6 +1,6 @@
 Title: TESS Weekly Bulletin: Mar 30th
 Date: 2026-03-30 00:00
-Author: TSSC Office
+Author: TSSC Office with assistance from an AI model
 
 Welcome TESS followers to our latest news bulletin![^1]
 
