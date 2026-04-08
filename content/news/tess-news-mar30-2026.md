@@ -1,8 +1,8 @@
 Title: TESS Weekly Bulletin: Mar 30th
 Date: 2026-03-30 00:00
-Author: NASA GSFC. (2026). ChatGSFC [AI assistant]. NASA Goddard Space Flight Center.
+Author: TSSC Office
 
-Welcome TESS followers to our latest news bulletin!
+Welcome TESS followers to our latest news bulletin![^1]
 
 This week, we are looking at three recent papers from the archive. Enjoy!
 
@@ -33,3 +33,5 @@ Eclipse timing analysis spanning approximately 46 years revealed that OY Car's o
 ![Han2026](images/news/Han2026.png)
 
 **Fig. 3:** *Taken from Han et al., (2026). The TESS light curves of OY Carinae capturing two distinct outburst events — a superoutburst (top panel) and a normal outburst (bottom panel). The superoutburst sees the system's flux surge from a quiescent baseline of 400 electrons per second to nearly 3,000, lingering for 18 days with characteristic superhump brightness modulations rippling through the light curve near peak. The normal outburst, by contrast, shows a sharp, clean rise to 600 electrons per second followed by a smooth decay over just 4 days, with no superhumps present. Throughout both panels, the recurring deep dips of white dwarf eclipses are clearly visible, allowing eclipse depth, width, and timing to be tracked continuously across the full outburst cycle — a feat impossible with nightly ground-based observations alone.*
+
+ [^1]:Please note that this news item was created with input from an AI assistant.

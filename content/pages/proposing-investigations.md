@@ -38,6 +38,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingWho">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWho" aria-expanded="false" aria-controls="collapseTwo">
@@ -53,6 +54,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingWhat">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseWhat" aria-expanded="false" aria-controls="collapseTwo">
@@ -73,6 +75,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
     <div class="accordion-item">
       <h2 class="accordion-header" id="headingTypes">
         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTypes" aria-expanded="false" aria-controls="collapseTwo">
@@ -131,6 +134,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSelection">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSelection" aria-expanded="false" aria-controls="collapseTwo">
@@ -145,6 +149,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTargetList">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTargetList" aria-expanded="false" aria-controls="collapseTwo">
@@ -176,6 +181,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingHowMany">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHowMany" aria-expanded="false" aria-controls="collapseTwo">
@@ -189,6 +195,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSubmit">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSubmit" aria-expanded="false" aria-controls="collapseTwo">
@@ -203,6 +210,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingDAPR">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDAPR" aria-expanded="false" aria-controls="collapseTwo">
@@ -221,6 +229,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingDue">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDue" aria-expanded="false" aria-controls="collapseTwo">
@@ -233,6 +242,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingEval">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEval" aria-expanded="false" aria-controls="collapseTwo">
@@ -251,6 +261,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingScienceCase">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseScienceCase" aria-expanded="false" aria-controls="collapseTwo">
@@ -263,6 +274,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTemplate">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTemplate" aria-expanded="false" aria-controls="collapseTwo">
@@ -297,7 +309,8 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
         </table>
       </div>
     </div>
-  </div> 
+  </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingSuccess">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSuccess" aria-expanded="false" aria-controls="collapseTwo">
@@ -310,6 +323,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingTutorials">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTutorials" aria-expanded="false" aria-controls="collapseTwo">
@@ -322,6 +336,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingExtension">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExtension" aria-expanded="false" aria-controls="collapseTwo">
@@ -335,6 +350,7 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
+  
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingArchival">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseArchival" aria-expanded="false" aria-controls="collapseTwo">
@@ -370,26 +386,27 @@ The primary purpose of the TESS General Investigator (GI) Program is to enhance 
       </div>
     </div>
   </div>
-</div>
 
 
   <div class="accordion-item">
-    <h2 class="accordion-header" id="headingDDT">
+    <h2 class="accordion-header" id="headingReview">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDDT" aria-expanded="false" aria-controls="collapseTwo">
       How can I become a reviewer for TESS?
       </button>
     </h2>
-    <div id="collapseDDT" class="accordion-collapse collapse" aria-labelledby="headingDDT" data-bs-parent="#accordionProposalBasics" style="">
-      <div class="accordion-body">  
-        <br>If you would like participate as a reviewer for TESS please email the <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> at tesshelp@bigbang.gsfc.nasa.gov. Note you must meet the following requirements to be a reviewer:<\br>
+    <div id="collapseDDT" class="accordion-collapse collapse" aria-labelledby="headingReview" data-bs-parent="#accordionProposalBasics" style="">
+      <div class="accordion-body">
+      
+        <br>If you would like participate as a reviewer for TESS please email the <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> at tesshelp@bigbang.gsfc.nasa.gov. Note you must meet the following requirements to be a reviewer:
+	</br>
 	<br> 1. Panelists should have achieved their PhD before June 2026</br>
 	<br> 2. Panelists should not be a Primary Investigator (PI) on a TESS proposal, or supervising an early career researcher who is a PI within the Cycle they wish to act as a reviewer</br>
-	<br> Reviews may be in person or virtual, invitation of non-US based panelists will vary.<br>
-        </br>
+	<br>
+	 Reviews may be in person or virtual, invitation of non-US based panelists will vary.</br>
       </div>
     </div>
   </div>
-</div>
+  
 
 <br>Are any of your questions not answered? You can always reach out to <a href="https://heasarc.gsfc.nasa.gov/docs/tess/helpdesk.html" target="_blank"> TESS GI Helpdesk</a> at tesshelp@bigbang.gsfc.nasa.gov. We are happy to help answer any TESS-related questions!</br>
 </div>
