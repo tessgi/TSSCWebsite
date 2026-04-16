@@ -35,6 +35,82 @@ Biswas, Shraddha, Jiang, Ing-Guey, Yeh, Li-Chin, et al.
 García-Mejía, Juliana, de Beurs, Zoë L., Tamburo, Patrick, et al.    
 2026, refereed ([2026AJ....171..245G](http://adsabs.harvard.edu/abs/2026AJ....171..245G))  
 
+8. [FINDING CIRCUMBINARY PLANETS: A SEMI-AUTOMATED TRANSIT SEARCH OF TESS ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2026arXiv260409435D)  
+Davies, Benjamin D. R., Brown, David J. A., Gill, Samuel, et al.    
+2026, not refereed ([2026arXiv260409435D](http://adsabs.harvard.edu/abs/2026arXiv260409435D))  
+
+9. [MANGOS ─ II. FIVE NEW GIANT PLANETS ORBITING LOW-MASS STARS](http://adsabs.harvard.edu/abs/2026MNRAS.547ag448D)  
+Dransfield, G., Timmermans, M., Sebastian, D., et al.    
+2026, refereed ([2026MNRAS.547ag448D](http://adsabs.harvard.edu/abs/2026MNRAS.547ag448D))  
+
+10. [SCIENTIFIC VALIDATION OF THE SPARC4 PIPELINE: MULTI-BAND IMAGING, POLARIMETRY, AND PHOTOMETRIC TIME SERIES FOR IMPROVED CHARACTERIZATION OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2026arXiv260405305M)  
+Martioli, Eder, Rodrigues, Claudia V., Campagnolo, Julio C. N., et al.    
+2026, not refereed ([2026arXiv260405305M](http://adsabs.harvard.edu/abs/2026arXiv260405305M))  
+
+11. [UMI: GPU-ACCELERATED ASYMMETRIC ROBUST ESTIMATOR FOR PHOTOMETRIC DETRENDING IN EXOPLANET TRANSIT SEARCHES](http://adsabs.harvard.edu/abs/2026arXiv260406602K)  
+Khan, Omar    
+2026, not refereed ([2026arXiv260406602K](http://adsabs.harvard.edu/abs/2026arXiv260406602K))  
+
+12. [THE GAPS PROGRAMME AT TNG. LXXIII. CONFIRMATION OF THE HOT SUB-NEPTUNE TOI-4602 B (HD 25295 B), A KEY TARGET FOR FUTURE ATMOSPHERIC CHARACTERIZATION](http://adsabs.harvard.edu/abs/2026arXiv260411728D)  
+Di Maio, C., Benatti, S., Locci, D., et al.    
+2026, not refereed ([2026arXiv260411728D](http://adsabs.harvard.edu/abs/2026arXiv260411728D))  
+
+13. [THE TRANSIT TIMING AND TRANSMISSION SPECTRUM OF HOT JUPITER WASP-43 B FROM A DECADE OF MULTI-BAND TRANSIT FOLLOW-UP OBSERVATIONS](http://adsabs.harvard.edu/abs/2026arXiv260405907A)  
+A-thano, Napaporn, Awiphan, Supachai, Kerins, Eamonn, et al.    
+2026, not refereed ([2026arXiv260405907A](http://adsabs.harvard.edu/abs/2026arXiv260405907A))  
+
+14. [PLATOSPEC FIRST RESULTS: THREE NEW TRANSITING WARM JUPITERS FROM THE WINE SURVEY, TIC 147027702, TIC 245076932, AND TIC 87422071](http://adsabs.harvard.edu/abs/2026A&A...708A.189G)  
+Gajdoš, Pavol, Brahm, Rafael, Acuña-Aguirre, Lorena, et al.    
+2026, refereed ([2026A&A...708A.189G](http://adsabs.harvard.edu/abs/2026A&A...708A.189G))  
+
+15. [TWO-STAGE DISRUPTION OF RESONANT CHAINS](http://adsabs.harvard.edu/abs/2026arXiv260405035C)  
+Choksi, Nick, Lithwick, Yoram, Chiang, Eugene, et al.    
+2026, not refereed ([2026arXiv260405035C](http://adsabs.harvard.edu/abs/2026arXiv260405035C))  
+
+16. [INVESTIGATION OF TRANSIT TIMING AND AN OPTICAL TRANSMISSION SPECTRUM OF THE HOT JUPITER WASP-11 B](http://adsabs.harvard.edu/abs/2026arXiv260405570A)  
+A-thano, Napaporn, Awiphan, Supachai, Kerins, Eamonn, et al.    
+2026, not refereed ([2026arXiv260405570A](http://adsabs.harvard.edu/abs/2026arXiv260405570A))  
+
+17. [ORIGIN AND CHARACTERIZATION OF SUPER-EARTHS AND SUB-NEPTUNES](http://adsabs.harvard.edu/abs/2026arXiv260411779P)  
+Parc, Léna, Venturini, Julia, Bouchy, François, et al.    
+2026, not refereed ([2026arXiv260411779P](http://adsabs.harvard.edu/abs/2026arXiv260411779P))  
+
+18. [POSEIDON II: THE ANTI-ALIGNED ORBIT OF THE WARM NEPTUNE TOI-1710 A B](http://adsabs.harvard.edu/abs/2026arXiv260403364E)  
+Espinoza-Retamal, Juan I., Bhaskar, Hareesh, Winn, Joshua N., et al.    
+2026, not refereed ([2026arXiv260403364E](http://adsabs.harvard.edu/abs/2026arXiv260403364E))  
+
+19. [THE DISPERSED MATTER PLANET PROJECT SAMPLE ─ DETECTION LIMITS, OCCURRENCE RATES, AND NEW PLANETS](http://adsabs.harvard.edu/abs/2026MNRAS.547ag370S)  
+Standing, Matthew R., Barnes, John R., Haswell, Carole A., et al.    
+2026, refereed ([2026MNRAS.547ag370S](http://adsabs.harvard.edu/abs/2026MNRAS.547ag370S))  
+
+20. [AN ALIGNED VERY-LOW-MASS STAR ORBITING AN M DWARF AND OBLIQUITY PATTERNS ACROSS GIANT PLANETS, BROWN DWARFS, AND BINARY STARS](http://adsabs.harvard.edu/abs/2026arXiv260406595G)  
+Gan, Tianjun, L'Heureux, Alexandrine, Artigau, Étienne, et al.    
+2026, not refereed ([2026arXiv260406595G](http://adsabs.harvard.edu/abs/2026arXiv260406595G))  
+
+21. [DENSITIES OF SMALL PLANETS AROUND THE M DWARFS TOI-4336 A AND TOI-4342 WITH ESPRESSO: THREE SUB-NEPTUNES, ONE SUPER-EARTH, AND A NEPTUNE-MASS CANDIDATE](http://adsabs.harvard.edu/abs/2026A&A...708A..81P)  
+Parc, Léna, Cadieux, Charles, Grieves, Nolan, et al.    
+2026, refereed ([2026A&A...708A..81P](http://adsabs.harvard.edu/abs/2026A&A...708A..81P))  
+
+22. [THE JWST SEARCH FOR EARTH-LUNA ANALOGS: UPPER LIMITS ON EXOMOONS AND REFINED EPHEMERIDES FOR TOI 700 D AND E](http://adsabs.harvard.edu/abs/2026arXiv260405235P)  
+Pass, Emily K., Charbonneau, David, Vanderburg, Andrew, et al.    
+2026, not refereed ([2026arXiv260405235P](http://adsabs.harvard.edu/abs/2026arXiv260405235P))  
+
+23. [GEMS JWST: TRANSMISSION SPECTROSCOPY OF TOI-5205B REVEALS SIGNIFICANT STELLAR CONTAMINATION AND A METAL-POOR ATMOSPHERE](http://adsabs.harvard.edu/abs/2026AJ....171..260C)  
+Cañas, Caleb I., Lustig-Yaeger, Jacob, Tsai, Shang-Min, et al.    
+2026, refereed ([2026AJ....171..260C](http://adsabs.harvard.edu/abs/2026AJ....171..260C))  
+
+24. [SUPER-EARTH MASSES AND STELLAR ABUNDANCES FROM NIRPS REVEAL TENTATIVE EVIDENCE FOR WATER-RICH FORMATION AROUND M DWARFS](http://adsabs.harvard.edu/abs/2026arXiv260407447W)  
+Weisserman, Drew, Gromek, Nicole, Cloutier, Ryan, et al.    
+2026, not refereed ([2026arXiv260407447W](http://adsabs.harvard.edu/abs/2026arXiv260407447W))  
+
+25. [ASSESSMENT OF PLATO SCIENCE PERFORMANCE](http://adsabs.harvard.edu/abs/2026arXiv260404818C)  
+Cabrera, Juan, Rauer, Heike, Samadi, Reza, et al.    
+2026, not refereed ([2026arXiv260404818C](http://adsabs.harvard.edu/abs/2026arXiv260404818C))  
+
+26. [LONG-PERIOD TRANSITING EXOPLANETS: ADVANCES IN DETECTION AND CHARACTERIZATION](http://adsabs.harvard.edu/abs/2026arXiv260409254U)  
+Ulmer-Moll, Solène, Akinsanmi, Babatunde, Müller, Simon    
+2026, not refereed ([2026arXiv260409254U](http://adsabs.harvard.edu/abs/2026arXiv260409254U))  
+
 
 2026-03
 -------
