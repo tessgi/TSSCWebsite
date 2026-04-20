@@ -887,3 +887,6 @@ Summary: We propose a joint analysis of stellar rotation in TESS Cycle 8 using t
 
 # Sector 103 targets observed (2 min: 1, 20 s: 0)
 197954314,347.1217,-49.5158,10.71,G08143
+
+# Sector 104 targets observed (2 min: 1, 20 s: 0)
+197954314,347.1217,-49.5158,10.71,G08143

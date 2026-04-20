@@ -151,3 +151,6 @@ Summary: This project leverages TESS s photometry to observe 75 Alpha Cygni vari
 411204873,244.1868,-52.4196,12.52,G08020
 125108479,256.3287,-47.0691,6.36,G08020
 337793038,252.8905,-41.2305,5.24,G08020
+
+# Sector 104 targets observed (2 min: 1, 20 s: 0)
+125108479,256.3287,-47.0691,6.36,G08020
