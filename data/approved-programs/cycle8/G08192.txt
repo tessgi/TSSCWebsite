@@ -101,3 +101,6 @@ Summary: While eclipsing binaries (EBs) provide an outsized contribution as cali
 308731030,222.8298,-49.7235,12.19,G08192
 337346017,270.4586,-50.9438,14.14,G08192
 201310151,4.1121,-58.1418,14.29,G08192
+
+# Sector 104 targets observed (2 min: 1, 20 s: 0)
+201310151,4.1121,-58.1418,14.29,G08192

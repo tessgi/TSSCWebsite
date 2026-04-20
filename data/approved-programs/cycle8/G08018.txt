@@ -27,3 +27,6 @@ Summary: In 2002 a group of delta Scuti were found with two closely spaces perio
 
 # Sector 103 targets observed (2 min: 1, 20 s: 0)
 173503902,257.5915,-54.2514,9.87,G08018
+
+# Sector 104 targets observed (2 min: 1, 20 s: 0)
+173503902,257.5915,-54.2514,9.87,G08018
