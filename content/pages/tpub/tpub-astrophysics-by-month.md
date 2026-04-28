@@ -183,6 +183,86 @@ Uyama, Taichi, Currie, Thayne, Xuan, Jerry W., et al.
 Anugu, Narsireddy, Klement, Robert, Monnier, John D., et al.    
 2026, refereed ([2026AJ....171..253A](http://adsabs.harvard.edu/abs/2026AJ....171..253A))  
 
+45. [COINCIDENCE BETWEEN ROTATIONAL MODULATIONS OF CORONAL AND PHOTOSPHERIC ACTIVITIES ON THE SATURATED STAR AB DOR](http://adsabs.harvard.edu/abs/2026AJ....171..258X)  
+Xu, Fu-Kun, Gu, Shenghong    
+2026, refereed ([2026AJ....171..258X](http://adsabs.harvard.edu/abs/2026AJ....171..258X))  
+
+46. [GAIA DR3 IDS FOR TESS INPUT CATALOG TARGETS](http://adsabs.harvard.edu/abs/2026RNAAS..10...77H)  
+Hardegree-Ullman, Kevin K., Swain, Melanie A., Christiansen, Jessie L., et al.    
+2026, not refereed ([2026RNAAS..10...77H](http://adsabs.harvard.edu/abs/2026RNAAS..10...77H))  
+
+47. [SPECTROSCOPIC DETECTION OF PULSATIONS IN THE CANDIDATE Δ SCUTI STAR V845 MON](http://adsabs.harvard.edu/abs/2026RNAAS..10...73D)  
+Divakaran, Akhila, Rain, Maria Jose, Boffin, Henri M. J., et al.    
+2026, not refereed ([2026RNAAS..10...73D](http://adsabs.harvard.edu/abs/2026RNAAS..10...73D))  
+
+48. [FIRST PHOTOMETRIC, ORBITAL PERIOD, AND TIDAL INSTABILITY INVESTIGATIONS FOR FOUR CONTACT BINARIES WITH EXTREMELY LOW MASS RATIOS](http://adsabs.harvard.edu/abs/2026AJ....171..254Y)  
+Yu, Yun-Xia, Liu, Xue-Tong, Meng, Zi-Bin, et al.    
+2026, refereed ([2026AJ....171..254Y](http://adsabs.harvard.edu/abs/2026AJ....171..254Y))  
+
+49. [THE RISE OF THE BLACK HOLE X-RAY BINARY AT 2019WEY OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2026RNAAS..10...79J)  
+Jusino, Alyana, De, Kishalay, Antoni, Andrea    
+2026, not refereed ([2026RNAAS..10...79J](http://adsabs.harvard.edu/abs/2026RNAAS..10...79J))  
+
+50. [CHARA INTERFEROMETRY AND TESS ASTEROSEISMOLOGY OF THE CORE-HELIUM BURNING RED GIANT $Κ$ CYG](http://adsabs.harvard.edu/abs/2026arXiv260413501C)  
+Chowhan, Arnab, Bedding, Timothy R., Huber, Daniel, et al.    
+2026, not refereed ([2026arXiv260413501C](http://adsabs.harvard.edu/abs/2026arXiv260413501C))  
+
+51. [GLOBAL ASTEROSEISMOLOGY OF 19,000 RED GIANTS IN THE TESS CONTINUOUS VIEWING ZONES](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..627S)  
+Sreenivas, K. R., Bedding, Timothy R., Huber, Daniel, et al.    
+2026, refereed ([2026MNRAS.tmp..627S](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..627S))  
+
+52. [EVIDENCE FOR SYMPATHETIC FLARING IN TESS DATA](http://adsabs.harvard.edu/abs/2026ApJ..1001..171P)  
+Pratt, Veronica, Reeves, Jason R., Martin, David V., et al.    
+2026, refereed ([2026ApJ..1001..171P](http://adsabs.harvard.edu/abs/2026ApJ..1001..171P))  
+
+53. [CALIBRATION OF THE [C/N] AND [Y/MG] CHEMICAL CLOCKS WITH ASTEROSEISMIC AGES FROM THE TESS SPACE MISSION](http://adsabs.harvard.edu/abs/2026A&A...708A.250P)  
+Pakštienė, E., Tautvaišienė, G., Bagdonas, V., et al.    
+2026, refereed ([2026A&A...708A.250P](http://adsabs.harvard.edu/abs/2026A&A...708A.250P))  
+
+54. [RAPIDLY OSCILLATING AP STARS OBSERVED WITH TESS. THE LAMOST AP SAMPLE AND 49 CAM](http://adsabs.harvard.edu/abs/2026arXiv260419255R)  
+Rolo, Inês, Holdsworth, Daniel L., Cunha, Margarida S., et al.    
+2026, not refereed ([2026arXiv260419255R](http://adsabs.harvard.edu/abs/2026arXiv260419255R))  
+
+55. [DETECTION OF RADIO EMISSION FROM SUPERFLARING SOLAR-TYPE STARS IN THE VLA SKY SURVEY](http://adsabs.harvard.edu/abs/2026ApJ..1001..143D)  
+Davis, Ivey, Hallinan, Gregg, Ayala, Carlos, et al.    
+2026, refereed ([2026ApJ..1001..143D](http://adsabs.harvard.edu/abs/2026ApJ..1001..143D))  
+
+56. [THE PUZZLING STORY OF FLARE INACTIVE ULTRA FAST ROTATING M DWARFS - III. INVESTIGATING X-RAY ACTIVITY](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..635D)  
+Doyle, Lauren, King, George W., Ramsay, Gavin, et al.    
+2026, refereed ([2026MNRAS.tmp..635D](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..635D))  
+
+57. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - VIII. NIRPS SPECTROSCOPY OF CD-27 2812](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..675A)  
+Adshead, N. J., Maxted, P. F. L., Hahlin, A.    
+2026, refereed ([2026MNRAS.tmp..675A](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..675A))  
+
+58. [FIRST MEASUREMENT OF WIND LINE FORMATION REGIONS IN AN EARLY O-TYPE STAR](http://adsabs.harvard.edu/abs/2026arXiv260421920P)  
+Pauli, D., Parsons, T. N., Prinja, R. K.    
+2026, not refereed ([2026arXiv260421920P](http://adsabs.harvard.edu/abs/2026arXiv260421920P))  
+
+59. [IZ TEL AND UW VIR: SOUTHERN OSCILLATING ECLIPSING ALGOL SYSTEMS WITH ACTIVE MASS TRANSFER](http://adsabs.harvard.edu/abs/2026arXiv260419402L)  
+Liakos, Alexios, Moriarty, David J. W., West, Julian F., et al.    
+2026, not refereed ([2026arXiv260419402L](http://adsabs.harvard.edu/abs/2026arXiv260419402L))  
+
+60. [DISCOVERY OF THE FIRST OCTUPOLE PULSATION MODE IN A DELTA SCUTI STAR: A STATIONARY L = 3 SECTORAL MODE](http://adsabs.harvard.edu/abs/2026arXiv260418836R)  
+Rappaport, S. A., Jayaraman, R., Handler, G., et al.    
+2026, not refereed ([2026arXiv260418836R](http://adsabs.harvard.edu/abs/2026arXiv260418836R))  
+
+61. [POTENTIAL OF GAIA XP SPECTRA IN RED GIANT STAR ASTEROSEISMOLOGY: A DEEP-LEARNING APPROACH](http://adsabs.harvard.edu/abs/2026arXiv260417045B)  
+Barman, Rajarshi, Bhattacharya, Shatanik, Hanasoge, Shravan M., et al.    
+2026, not refereed ([2026arXiv260417045B](http://adsabs.harvard.edu/abs/2026arXiv260417045B))  
+
+62. [UNVEILING THE HYBRID Δ SCUTI-Γ DORADUS NATURE OF KL PER WITHIN A DOUBLE-LINED ECLIPSING BINARY SYSTEM](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..618O)  
+Özavcı, İbrahim, Ayașlı, Meltemnur    
+2026, refereed ([2026MNRAS.tmp..618O](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..618O))  
+
+63. [W UMA-TYPE CONTACT BINARIES IN THE TIDAL TAILS OF YOUNG OPEN CLUSTER COIN-GAIA 25 AND MAMAJEK 4](http://adsabs.harvard.edu/abs/2026arXiv260416803B)  
+Bin, Xiang, Liang, Liu, Liying, Zhu, et al.    
+2026, not refereed ([2026arXiv260416803B](http://adsabs.harvard.edu/abs/2026arXiv260416803B))  
+
+64. [A NEARLY PRISTINE STAR FROM THE LARGE MAGELLANIC CLOUD](http://adsabs.harvard.edu/abs/2026NatAs.tmp...67J)  
+Ji, Alexander P., Chandra, Vedant, Mejias-Torres, Selenna, et al.    
+2026, refereed ([2026NatAs.tmp...67J](http://adsabs.harvard.edu/abs/2026NatAs.tmp...67J))  
+
 
 2026-03
 -------
