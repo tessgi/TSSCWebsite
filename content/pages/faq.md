@@ -39,6 +39,10 @@ Here we list some common questions. If you have a question not found here, you c
 
 <p style="margin-left: 2em">For HLSPs, you should acknowledge the primary papers describing the HLSPs.  The <a href="https://archive.stsci.edu/hlsp/"> HLSP homepage</a> for each individual product contians the primary paper reference and the DOI information on the top-left section of the page. On the bottom of the page under the "Citations", you can find more information on the data licence, which conveys how users may use and share the data.</p>
 
+**Depending on the Product, which papers should I cite?**
+
+<p style="margin-left: 2em">You can find useful lists of papers, and acknowledgements on our <a href="citation_guidelines.html">citation guidelines page</a>. This page also provides suggested text for TOIs and points of contact if additional help is needed.</p> 
+
 **What happens if an extraordinary transient (or other) event happens in the TESS field of view that would benefit from a rapid analysis of TESS data?**
 
 <p style="margin-left: 2em">
