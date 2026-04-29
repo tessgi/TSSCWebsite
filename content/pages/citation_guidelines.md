@@ -2,7 +2,7 @@ Title: Citation Guidelines
 template: slide
 save_as: citation_guidelines.html
 
-<p>Here we list how to cite some of the TESS data products. We also provide a <a href="data/BibTeX_Citations.bib">BiBTex file</a> which lists all relevant papers.</p>
+<p>If you use TESS data products in your paper, please cite the relevant papers as suggested below. We also provide a <a href="data/BibTeX_Citations.bib">BiBTex file</a> which lists all relevant papers.</p>
 
 <div class="accordion" id="accordionCitationGuidelines">
   
@@ -23,7 +23,7 @@ save_as: citation_guidelines.html
           <li>TESS-SPOC FFI light curves: <a href="https://iopscience.iop.org/article/10.3847/2515-5172/abc9b3">Caldwell et al. (2020)</a></li>
         </ul>
         <h3>Suggested acknowledgments:</h3>
-        <p>“We acknowledge the use of TESS data processed by the TESS Science Processing Operations Center at NASA Ames Research Center, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate.”</p>
+        <p>“We acknowledge the use of TESS data processed by the TESS Science Processing Operations Center at NASA Ames Research Center, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission Directorate.”</p>
       </div>
     </div>
   </div>
@@ -42,7 +42,7 @@ save_as: citation_guidelines.html
           <li>QLP light curves: <a href="https://ui.adsabs.harvard.edu/abs/2020RNAAS...4..204H/abstract">Huang et al. (2020a)</a>, <a href="https://ui.adsabs.harvard.edu/abs/2020RNAAS...4..206H/abstract">(Huang et al. (2020b)</a>, <a href="https://ui.adsabs.harvard.edu/abs/2021RNAAS...5..234K/abstract">Kunimoto et al. (2021)</a>, <a href="https://ui.adsabs.harvard.edu/abs/2022RNAAS...6..236K/abstract">Kunimoto et al. (2022)</a></li>
         </ul>
         <h3>Suggested acknowledgments:</h3>
-        <p>“We acknowledge the use of TESS High Level Science Products (HLSP) produced by the Quick-Look Pipeline (QLP) at the TESS Science Office at MIT, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate.”</p>
+        <p>“We acknowledge the use of TESS High Level Science Products (HLSP) produced by the Quick-Look Pipeline (QLP) at the TESS Science Office at MIT, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission Directorate.”</p>
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@ save_as: citation_guidelines.html
           <li>TICA FFIs: <a href="https://ui.adsabs.harvard.edu/abs/2020RNAAS...4..251F/abstract">Fausnaugh et al. (2020)</a></li>
         </ul>
         <h3>Suggested acknowledgments:</h3>
-        <p>"We acknowledge the use of TESS High Level Science Products (HLSP) produced by the TESS Image CAlibrator Full Frame Image (TICA) pipeline at the TESS Science Office at MIT, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate."</p>
+        <p>"We acknowledge the use of TESS High Level Science Products (HLSP) produced by the TESS Image CAlibrator Full Frame Image (TICA) pipeline at the TESS Science Office at MIT, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission Directorate."</p>
       </div>
     </div>
   </div>
@@ -75,8 +75,23 @@ save_as: citation_guidelines.html
     </h2>
     <div id="collapseTois" class="accordion-collapse collapse" aria-labelledby="headingTois" data-bs-parent="#accordionCitationGuidelines">
       <div class="accordion-body">
-        <h3>Suggested text that can be adapted as necessary:</h3>
+        <h3>Suggested text that should be adapted as necessary:</h3>
         <p>“The SPOC conducted a transit search of Sector <strong>X</strong> on <strong>day/month/year</strong> with an adaptive, noise-compensating matched filter (Jenkins 2002; Jenkins et al. 2010, 2020), producing a TCE for which an initial limb-darkened transit model was fitted (Li et al. 2019) and a suite of diagnostic tests were conducted to help make or break the planetary nature of the signal (Twicken et al. 2018). The transit signature was also detected in a search of Full Frame Image (FFI) data by the Quick Look Pipeline (QLP) at MIT (Huang et al. 2020a, b, Kunimoto et al. 2021, Kunimoto et al. 2022). The TESS Science Office (TSO) reviewed the vetting information and issued an alert on <strong>day/month/year</strong> (Guerrero et al. 2021). The signal was repeatedly recovered as additional observations were made in <strong>Sectors x, y, z, etc.</strong>, and the transit signature passed all the diagnostic tests presented in the Data Validation reports. The difference image centroiding test indicated that host star is located within <strong>x ± i</strong> arcsec of the source of the transit signal.”</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Additional Mission Documents -->
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="headingMD">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMD" aria-expanded="false" aria-controls="collapseMD">
+        Mission Documents
+      </button>
+    </h2>
+    <div id="collapseMD" class="accordion-collapse collapse" aria-labelledby="headingMD" data-bs-parent="#accordionCitationGuidelines">
+      <div class="accordion-body">
+        <p>There are several other Mission Documents and White Papers which can be found on our <href = "documentation.html">Documentation Page.</a></p>
+	<p>We ask that you reference white papers i.e., those without official citations, as  footnotes - linking documents as appropriate.</p>
       </div>
     </div>
   </div>
@@ -100,7 +115,7 @@ save_as: citation_guidelines.html
     </div>
   </div>
 
-  <!-- Additional notes about SPOC data products -->
+  <!-- Additional notes about SPOC data products 
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingNotes">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNotes" aria-expanded="false" aria-controls="collapseNotes">
@@ -120,6 +135,6 @@ save_as: citation_guidelines.html
         <p>The out-of-transit (OOT) offset can be compromised in crowded fields and is not recommended as the TIC-offset is usually more reliable. The difference image centroiding test complements high resolution imaging and is usually available well before any follow-up observations are conducted. For multisector searches from June 2025 onwards the joint TIC offset, <em>TicOffset-jnt</em>, is recommended as it is significantly more accurate than the <em>TicOffset-rm</em> metric. The TOI alert date can be found in the TOI Catalog at tev.mit.edu along with QLP, FAINT and SPOC DV reports for each TOI (note the TOI catalog does not include all SPOC DV reports, all of which can be found at MAST).</p>
       </div>
     </div>
-  </div>
+  </div>--->
 
 </div>
