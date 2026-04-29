@@ -9,7 +9,7 @@ in 2024, using pelican-bootstrap and flatly.
 <html lang="en">
 
 <head>
-    <title>Update on pointing for Sectors 24, 25, and 26 - TESS</title>
+    <title>Additional Data Validation Information - TESS </title>
     <!-- Using the latest rendering mode for IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
@@ -42,19 +42,16 @@ in 2024, using pelican-bootstrap and flatly.
 
     <link href="./images/logos/favicon.png" rel="icon">
 
-<link rel="canonical" href="./update-on-pointing-for-sectors-24-25-and-26.html">
+<link rel="canonical" href="./pages/additional-data-validation-information.html">
 
-<meta name="author" content="Knicole Colon" />
-<meta name="description" content="As previously announced, the field-of-view of the TESS camera array was shifted north by 31° with respect to its nominal pointing in Sectors 14, 15, and 16 in order to reduce the impact of scattered light from the Earth and Moon. The TESS project has determined that photometry from TESS …" />
+<meta name="author" content="TSSC" />
+<meta name="description" content="In data validation please note that the difference image test conducted by the SPOC can typically locate the source of the transits to within 2.5 arcsec for reasonably strong transit signals. We recommending using the ticoffset-rm entry from the DV report, which indicates the source offset from the catalog …" />
 
 <meta property="og:site_name" content="TESS" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Update on pointing for Sectors 24, 25, and 26" />
-<meta property="og:url" content="./update-on-pointing-for-sectors-24-25-and-26.html" />
-<meta property="og:description" content="As previously announced, the field-of-view of the TESS camera array was shifted north by 31° with respect to its nominal pointing in Sectors 14, 15, and 16 in order to reduce the impact of scattered light from the Earth and Moon. The TESS project has determined that photometry from TESS …" />
-<meta property="article:published_time" content=" 2019-12-03" />
-<meta property="article:section" content="news" />
-<meta property="article:author" content="Knicole Colon" />
+<meta property="og:title" content="Additional Data Validation Information" />
+<meta property="og:url" content="./pages/additional-data-validation-information.html" />
+<meta property="og:description" content="In data validation please note that the difference image test conducted by the SPOC can typically locate the source of the transits to within 2.5 arcsec for reasonably strong transit signals. We recommending using the ticoffset-rm entry from the DV report, which indicates the source offset from the catalog …" />
 
     <!--    -->
 
@@ -212,38 +209,18 @@ in 2024, using pelican-bootstrap and flatly.
         <div class="row">
             <div class="col-lg-12">
 
-<section id="content">
-    <article>
-        <header>
-            <h1>
-                <a href="./update-on-pointing-for-sectors-24-25-and-26.html" rel="bookmark"
-                    title="Permalink to Update on pointing for Sectors 24, 25, and 26">
-                    Update on pointing for Sectors 24, 25, and 26
-                </a>
-            </h1>
-        </header>
-        <div class="entry-content">
-<footer class="post-info">
-    <span class="label label-default">Date</span>
-    <span class="published">
-        <i class="fa fa-calendar"></i><time datetime="2019-12-03T10:00:00-05:00"> Tue 03 December 2019</time>
-    </span>
+    <div class="col-sm-12">
+        <section id="content" class="body">
+            <h1 class="entry-title">Additional Data Validation Information</h1>
+            <div class="entry-content">
+                <p>In data validation please note that the difference image test conducted by the SPOC can typically locate the source of the transits to within 2.5 arcsec for reasonably strong transit signals. We recommending using the ticoffset-rm entry from the DV report, which indicates the source offset from the catalog location in arcsec and the significance, in sigma. Dividing the source offset by the significance yields the 1-sigma uncertainty in arcsec.</p>
 
+<p>The out-of-transit (OOT) offset can be compromised in crowded fields and is not recommended as the TIC-offset is usually more reliable. The difference image centroiding test complements high resolution imaging and is usually available well before any follow-up observations are conducted. For multisector searches from June 2025 onwards the joint TIC offset, TicOffset-jnt, is recommended as it is significantly more accurate than the TicOffset-rm metric. The TOI alert date can be found in the TOI Catalog at tev.mit.edu along with QLP, FAINT and SPOC DV reports for each TOI (note the TOI catalog does not include all SPOC DV reports, all of which can be found at MAST).</p>
 
-            <span class="label label-default">By</span>
-            <a href="./author/knicole-colon.html"><i class="fa fa-user"></i> Knicole Colon</a>
-
-
-
-    
-</footer><!-- /.post-info -->            <div style="margin-top: 2em"><p>As previously announced, the field-of-view of the TESS camera array was shifted north by 31° with respect to its nominal pointing in Sectors 14, 15, and 16 in order to reduce the impact of scattered light from the Earth and Moon.</p>
-<p>The TESS project has determined that photometry from TESS would further benefit by shifting the pointing of Sectors 24, 25, and 26 as well. These sectors will be observed between April 15, 2020 and July 4, 2020. The status of all TESS sectors and data availability can be found <a href="https://outerspace.stsci.edu/display/TESS/TESS+Holdings+Available+by+MAST+Service">here.</a></p>
-<p>Additional details on the pointing change can be found at the <a href="https://tess.mit.edu/observations/">MIT TESS website</a> and correspondingly on the <a href="telescope_information.html">Technical Details page of our website</a>.</p>
-<p>The <a href="https://heasarc.gsfc.nasa.gov/wsgi-scripts/TESS/TESS-point_Web_Tool/TESS-point_Web_Tool/wtv_v2.0.py/">Web TESS Viewing Tool (WTV)</a> that is hosted on our website has been updated to reflect the change in pointing for Sectors 24, 25, and 26.</p></div>
-        </div>
-        <!-- /.entry-content -->
-    </article>
-</section>
+<p>If you need help running data validation in a forced ephemeris mode to generate DV reports for any additional candidates identified through independent transit searches to help bolster confidence in the detection and planetary classification or to help identify issues with such candidates please reach out to the <a href="helpdesk.html">TESS helpdesk</a>.</p>
+            </div>
+        </section>
+    </div>
 
             </div>
         </div>
