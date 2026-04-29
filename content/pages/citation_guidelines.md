@@ -90,7 +90,7 @@ save_as: citation_guidelines.html
     </h2>
     <div id="collapseMD" class="accordion-collapse collapse" aria-labelledby="headingMD" data-bs-parent="#accordionCitationGuidelines">
       <div class="accordion-body">
-        <p>There are several other Mission Documents and White Papers which can be found on our <href = "documentation.html">Documentation Page.</a></p>
+        <p>There are several other Mission Documents and White Papers which can be found on our <a href = "documentation.html">Documentation Page.</a></p>
 	<p>We ask that you reference white papers i.e., those without official citations, as  footnotes - linking documents as appropriate.</p>
       </div>
     </div>

@@ -1,0 +1,8 @@
+Title: Additional Data Validation Information 
+Save_as: dv_info.html
+
+<p>In data validation please note that the difference image test conducted by the SPOC can typically locate the source of the transits to within 2.5 arcsec for reasonably strong transit signals. We recommending using the ticoffset-rm entry from the DV report, which indicates the source offset from the catalog location in arcsec and the significance, in sigma. Dividing the source offset by the significance yields the 1-sigma uncertainty in arcsec.</p>
+
+<p>The out-of-transit (OOT) offset can be compromised in crowded fields and is not recommended as the TIC-offset is usually more reliable. The difference image centroiding test complements high resolution imaging and is usually available well before any follow-up observations are conducted. For multisector searches from June 2025 onwards the joint TIC offset, TicOffset-jnt, is recommended as it is significantly more accurate than the TicOffset-rm metric. The TOI alert date can be found in the TOI Catalog at tev.mit.edu along with QLP, FAINT and SPOC DV reports for each TOI (note the TOI catalog does not include all SPOC DV reports, all of which can be found at MAST).</p>
+
+<p>If you need help running data validation in a forced ephemeris mode to generate DV reports for any additional candidates identified through independent transit searches to help bolster confidence in the detection and planetary classification or to help identify issues with such candidates please reach out to the <a href="helpdesk.html">TESS helpdesk</a>.</p>

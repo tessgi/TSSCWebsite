@@ -127,7 +127,7 @@ The [TESS Science Data Products Description Document](https://archive.stsci.edu/
 
 ## Citation Guidelines
 
-For an additional list of useful papers, and acknowledgements on please view our <a href="citation_guidelines.html">citation guidelines page</a>. This page also provides suggested text for TOIs and points of contact if additional help is needed.
+For an additional list of useful papers and acknowledgements please view our <a href="citation_guidelines.html">citation guidelines page</a>. This page also provides suggested text for TOIs and points of contact if additional help is needed.
 
 ## TESS Transient Policy
 

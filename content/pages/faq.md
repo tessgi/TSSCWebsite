@@ -45,13 +45,7 @@ Here we list some common questions. If you have a question not found here, you c
 
 **Where can I find SPOC Data Validation (DV) reports?**
 
-<p>SPOC DV reports can be found via the <a href = "https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html">MAST Bulk downloads page</a> towards the bottom of the page. You may also retrive DV products with Astroquery as shown via a <a href="https://spacetelescope.github.io/mast_notebooks/notebooks/TESS/beginner_astroquery_dv/beginner_astroquery_dv.html">MAST notebook</a>.</p>
-
-<p>Please Note that the difference image test conducted by the SPOC can typically locate the source of the transits to within 2.5 arcsec for reasonably strong transit signals. We recommending using the ticoffset-rm entry from the DV report, which indicates the source offset from the catalog location in arcsec and the significance, in sigma. Dividing the source offset by the significance yields the 1-sigma uncertainty in arcsec.</p>
-
-<p>The out-of-transit (OOT) offset can be compromised in crowded fields and is not recommended as the TIC-offset is usually more reliable. The difference image centroiding test complements high resolution imaging and is usually available well before any follow-up observations are conducted. For multisector searches from June 2025 onwards the joint TIC offset, TicOffset-jnt, is recommended as it is significantly more accurate than the TicOffset-rm metric. The TOI alert date can be found in the TOI Catalog at tev.mit.edu along with QLP, FAINT and SPOC DV reports for each TOI (note the TOI catalog does not include all SPOC DV reports, all of which can be found at MAST).</p>
-
-<p>If you need help running data validation in a forced ephemeris mode to generate DV reports for any additional candidates identified through independent transit searches to help bolster confidence in the detection and planetary classification or to help identify issues with such candidates please reach out to the <a href="helpdesk.html">TESS helpdesk</a>.</p>
+<p style="margin-left: 2em">SPOC DV reports can be found via the <a href = "https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html">MAST Bulk downloads page</a> towards the bottom of the page. You may also retrive DV products with Astroquery as shown via a <a href="https://spacetelescope.github.io/mast_notebooks/notebooks/TESS/beginner_astroquery_dv/beginner_astroquery_dv.html">MAST notebook</a>. More information about data validation can be found on our <a href="dv_info.html">Additional Data Validation Information</a> page.</p>
 
 **What happens if an extraordinary transient (or other) event happens in the TESS field of view that would benefit from a rapid analysis of TESS data?**
 
