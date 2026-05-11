@@ -4,6 +4,42 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2026-05
+-------
+
+1. [TESS PLANET OCCURRENCE RATES REVEAL THE DISAPPEARANCE OF THE RADIUS VALLEY AROUND MID-TO-LATE M DWARFS](http://adsabs.harvard.edu/abs/2026AJ....171..317G)  
+Gillis, Erik Diego, Cloutier, Ryan, Pass, Emily K.    
+2026, refereed ([2026AJ....171..317G](http://adsabs.harvard.edu/abs/2026AJ....171..317G))  
+
+2. [SEARCHING FOR EXTRAGALACTIC EXOPLANETS: A SURVEY OF THE SAGITTARIUS DWARF GALAXY STREAM WITH TESS](http://adsabs.harvard.edu/abs/2026AJ....171..273S)  
+Schap, William, Dittmann, Jason, Lada, Elizabeth    
+2026, refereed ([2026AJ....171..273S](http://adsabs.harvard.edu/abs/2026AJ....171..273S))  
+
+3. [THE T16 PLANET HUNT: 10,000 NEW PLANET CANDIDATES FROM TESS CYCLE 1 AND THE CONFIRMATION OF A HOT JUPITER AROUND TIC 183374187](http://adsabs.harvard.edu/abs/2026ApJS..284...19R)  
+Roth, Joshua T., Hartman, Joel D., Bakos, Gáspár Á., et al.    
+2026, refereed ([2026ApJS..284...19R](http://adsabs.harvard.edu/abs/2026ApJS..284...19R))  
+
+4. [AN ALIGNED VERY-LOW-MASS STAR ORBITING AN M DWARF AND OBLIQUITY PATTERNS ACROSS GIANT PLANETS, BROWN DWARFS, AND BINARY STARS](http://adsabs.harvard.edu/abs/2026ApJ..1002L...8G)  
+Gan, Tianjun, L'Heureux, Alexandrine, Artigau, Étienne, et al.    
+2026, refereed ([2026ApJ..1002L...8G](http://adsabs.harvard.edu/abs/2026ApJ..1002L...8G))  
+
+5. [CONSTRAINING SMALL PLANET COMPOSITIONS FOR FUTURE MISSIONS](http://adsabs.harvard.edu/abs/2026MNRAS.548ag520P)  
+Palethorpe, Larissa, Mortier, Annelies, Egger, Jo Ann, et al.    
+2026, refereed ([2026MNRAS.548ag520P](http://adsabs.harvard.edu/abs/2026MNRAS.548ag520P))  
+
+6. [JWST COMPASS: A NIRSPEC G395H TRANSMISSION SPECTRUM OF RADIUS VALLEY DWELLER TOI-260 B](http://adsabs.harvard.edu/abs/2026AJ....171..274M)  
+Meech, Annabella, Gao, Peter, Wallack, Nicole L., et al.    
+2026, refereed ([2026AJ....171..274M](http://adsabs.harvard.edu/abs/2026AJ....171..274M))  
+
+7. [TOI-1080 B: A TEMPERATE, ROCKY PLANET ORBITING A QUIET M4V HOST](http://adsabs.harvard.edu/abs/2026MNRAS.548ag438G)  
+Gómez Maqueo Chew, Y., Dransfield, G., Barkaoui, K., et al.    
+2026, refereed ([2026MNRAS.548ag438G](http://adsabs.harvard.edu/abs/2026MNRAS.548ag438G))  
+
+8. [THE NEID EARTH TWIN SURVEY. IV. CONFIRMING AN 89 DAYS, <INLINE-FORMULA> <MML:MATH><MML:MI>M</MML:MI><MML:MSPACE></MML:MSPACE><MML:MI>SIN</MML:MI><MML:MSPACE></MML:MSPACE><MML:MI>I</MML:MI><MML:MO>=</MML:MO><MML:MN>10</MML:MN><MML:MSPACE></MML:MSPACE><MML:MSUB><MML:MI>M</MML:MI><MML:MO>⊕</MML:MO></MML:MSUB></MML:MATH> </INLINE-FORMULA> PLANET ORBITING A NEARBY SUN-LIKE STAR](http://adsabs.harvard.edu/abs/2026AJ....171..286G)  
+Giovinazzi, Mark R., Fitzmaurice, Evan, Gupta, Arvind F., et al.    
+2026, refereed ([2026AJ....171..286G](http://adsabs.harvard.edu/abs/2026AJ....171..286G))  
+
+
 2026-04
 -------
 
