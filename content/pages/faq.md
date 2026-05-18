@@ -29,24 +29,18 @@ Here we list some common questions. If you have a question not found here, you c
 
 <p style="margin-left: 2em">Some common sources of anomalous light curves features include the target star being on a bad CCD column, scattered light from the Earth and/or Moon, or asteroids quickly crossing your target. It is recommended that Full-Frame Images taken at the same time as the anomalous feature be checked to verify whether or not the interesting feature seen is astrophysical in nature. The <a href = "https://lightkurve.github.io/lightkurve/tutorials/1-getting-started/interactively-inspecting-data.html"> lighkurve package</a> can also be used to interactively inspect the region surrounding your target.</p>
 
-**How should I acknowledge and cite TESS data, High Level Science Products (HLSPs), and specific papers in my publications?**
+**Is there a standard acknowledgement to use when publishing TESS data?**
 
-<p style="margin-left: 2em">When publishing work using TESS data, please include the following standard acknowledgment: "This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate."
+<p style="margin-left: 2em">In your acknowledgments, please add "This paper includes data collected by the TESS mission, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission directorate."</p>
 
-<p style="margin-left: 2em">Depending on the specific data products you used, you should also include the following:</p>
+<p style="margin-left: 2em">It is also encouraged to consider making a DOI of the TESS datasets you used in your work.  This allows other users to retrieve the same exact data sets you used. You can find more information on this process <a href = "https://archive.stsci.edu/publishing/doi">here</a>.</p>
 
-<ul style="margin-left: 2em">
-<li><strong>High Level Science Products (HLSPs):</strong> You should acknowledge the primary papers describing the HLSPs. The <a href="https://archive.stsci.edu/hlsp/">homepage</a> for each individual HLSP contains the primary paper reference and DOI information on the top-left section. At the bottom of the page under "Citations", you can also find information on the data license, which explains how you may use and share the data.</li>
-<li><strong>Specific Products and TOIs:</strong> For a comprehensive list of which papers to cite based on the product, please visit our <a href="citation_guidelines.html">citation guidelines page</a>. This page provides useful lists of papers, additional acknowledgments, suggested text for TESS Objects of Interest (TOIs), and points of contact if you need additional help.</li>
-</ul>
+**How do I acknowledge High Level Science Products?**
 
-<p style="margin-left: 2em">Finally, we highly encourage you to create a DOI for the specific TESS datasets you used in your work. This allows other researchers to easily retrieve the exact datasets you analyzed. You can find more information on this process <a href="https://archive.stsci.edu/publishing/doi">here</a>.</p>
+<p style="margin-left: 2em">For HLSPs, you should acknowledge the primary papers describing the HLSPs.  The <a href="https://archive.stsci.edu/hlsp/"> HLSP homepage</a> for each individual product contians the primary paper reference and the DOI information on the top-left section of the page. On the bottom of the page under the "Citations", you can find more information on the data licence, which conveys how users may use and share the data.</p>
 
-<strong>Where can I find SPOC Data Validation (DV) reports?</strong>
-<p></p>
-<p style="margin-left: 2em">SPOC DV reports can be found via the <a href = "https://archive.stsci.edu/tess/bulk_downloads/bulk_downloads_ffi-tp-lc-dv.html">MAST Bulk downloads page</a> towards the bottom of the page. You may also retrive DV products with Astroquery as shown via a <a href="https://spacetelescope.github.io/mast_notebooks/notebooks/TESS/beginner_astroquery_dv/beginner_astroquery_dv.html">MAST notebook</a>. More information about data validation can be found on our <a href="dv_info.html">Additional Data Validation Information</a> page.</p>
+**What happens if an extraordinary transient (or other) event happens in the TESS field of view that would benefit from a rapid analysis of TESS data?**
 
-<strong>What happens if an extraordinary transient (or other) event happens in the TESS field of view that would benefit from a rapid analysis of TESS data?</strong>
-<p></p>
-<p style="margin-left: 2em">When an extraordinary transient event occurs within the TESS field of view, data is analyzed and disseminated to the community via the procedures outlined in <a href="docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf">this policy document</a>.</p>
+<p style="margin-left: 2em">
+When an extraordinary transient event occurs within the TESS field of view, data is analyzed and disseminated to the community via the procedures outlined in <a href="docs/Standard_Processes_for_Rapid_TESS_Data_Release_and_Access_20260219.pdf">this policy document</a>.</p>
 
