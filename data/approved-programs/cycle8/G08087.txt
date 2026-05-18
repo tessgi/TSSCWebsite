@@ -11,3 +11,6 @@ Summary: One of the breakthroughs in stellar astrophysics enabled by TESS during
 
 # Sector 097 targets observed (2 min: 1, 20 s: 0)
 142889338,52.0483,-35.8535,6.44,G08101;G08046;G08087
+
+# Sector 105 targets observed (2 min: 1, 20 s: 0)
+142889338,52.0484,-35.8535,6.44,G08101;G08046;G08087
