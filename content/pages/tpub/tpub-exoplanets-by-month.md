@@ -39,6 +39,58 @@ Gómez Maqueo Chew, Y., Dransfield, G., Barkaoui, K., et al.
 Giovinazzi, Mark R., Fitzmaurice, Evan, Gupta, Arvind F., et al.    
 2026, refereed ([2026AJ....171..286G](http://adsabs.harvard.edu/abs/2026AJ....171..286G))  
 
+9. [TOI-4552 B: A NEW ULTRA-SHORT-PERIOD ROCKY WORLD REVEALED BY NIRPS AND TESS](http://adsabs.harvard.edu/abs/2026A&A...709A..73S)  
+Srivastava, Avidaan, Doyon, René, Bouchy, François, et al.    
+2026, refereed ([2026A&A...709A..73S](http://adsabs.harvard.edu/abs/2026A&A...709A..73S))  
+
+10. [DETECTION OF 27 CANDIDATE CIRCUMBINARY PLANETS THROUGH APSIDAL PRECESSION OF ECLIPSING BINARIES OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2026MNRAS.548ag515T)  
+Thornton, Margo, Montet, Benjamin T., White, Riley, et al.    
+2026, refereed ([2026MNRAS.548ag515T](http://adsabs.harvard.edu/abs/2026MNRAS.548ag515T))  
+
+11. [A GEM SYSTEM WITH A LAVA WORLD AND A HABITABLE ZONE SUB-NEPTUNE ORBITING TOI─1752](http://adsabs.harvard.edu/abs/2026MNRAS.548ag713P)  
+Peláez-Torres, A., Pozuelos, F. J., Morello, G., et al.    
+2026, refereed ([2026MNRAS.548ag713P](http://adsabs.harvard.edu/abs/2026MNRAS.548ag713P))  
+
+12. [TOI-159 B: AN ECCENTRIC HOT-JUPITER PLANET AROUND A YOUNG, PULSATING $Γ$ DORADUS STAR](http://adsabs.harvard.edu/abs/2026arXiv260504149M)  
+Mantovan, G., Llancaqueo Albornoz, A., Psaridi, A., et al.    
+2026, not refereed ([2026arXiv260504149M](http://adsabs.harvard.edu/abs/2026arXiv260504149M))  
+
+13. [AUTOMATIC SEARCH FOR TRANSITING PLANETS IN TESS─SPOC FFIS WITH RAVEN: OVER 100 NEWLY VALIDATED PLANETS AND OVER 2000 VETTED CANDIDATES](http://adsabs.harvard.edu/abs/2026MNRAS.548ag512L)  
+Lafarga, M., Armstrong, D. J., Cui, K., et al.    
+2026, refereed ([2026MNRAS.548ag512L](http://adsabs.harvard.edu/abs/2026MNRAS.548ag512L))  
+
+14. [THE RANGE OF CUMULATIVE XUV FLUX ON GJ 1132 B](http://adsabs.harvard.edu/abs/2026arXiv260503939B)  
+Barnes, Rory, do Amaral, Laura N. R., Birky, Jessica, et al.    
+2026, not refereed ([2026arXiv260503939B](http://adsabs.harvard.edu/abs/2026arXiv260503939B))  
+
+15. [SCIENTIFIC VALIDATION OF THE SPARC4 PIPELINE: MULTI-BAND IMAGING, POLARIMETRY, AND PHOTOMETRIC TIME SERIES FOR IMPROVED CHARACTERIZATION OF TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2026PASP..138e4502M)  
+Martioli, Eder, Rodrigues, Claudia V., Campagnolo, Julio C. N., et al.    
+2026, refereed ([2026PASP..138e4502M](http://adsabs.harvard.edu/abs/2026PASP..138e4502M))  
+
+16. [FINDING ALIEN WORLDS IN QUEENSLAND -- A DECADE OF MINERVA-AUSTRALIS](http://adsabs.harvard.edu/abs/2026arXiv260505449H)  
+Horner, Jonathan, Wittenmyer, Robert A., Kane, Stephen R., et al.    
+2026, not refereed ([2026arXiv260505449H](http://adsabs.harvard.edu/abs/2026arXiv260505449H))  
+
+17. [JWST UNVEILS A HIGH MEAN MOLECULAR WEIGHT ATMOSPHERE FOR MINI-NEPTUNE TOI-1130 B: EVIDENCE FOR FORMATION BEYOND THE WATER ICE LINE](http://adsabs.harvard.edu/abs/2026ApJ..1002L..32B)  
+Barat, Saugata, Fairnington, Tyler, Courreges, Shelby, et al.    
+2026, refereed ([2026ApJ..1002L..32B](http://adsabs.harvard.edu/abs/2026ApJ..1002L..32B))  
+
+18. [THE TRANSIT TIMING AND TRANSMISSION SPECTRUM OF HOT JUPITER WASP-43 B FROM A DECADE OF MULTIBAND TRANSIT FOLLOW-UP OBSERVATIONS](http://adsabs.harvard.edu/abs/2026AJ....171..321A)  
+A-thano, Napaporn, Awiphan, Supachai, Kerins, Eamonn, et al.    
+2026, refereed ([2026AJ....171..321A](http://adsabs.harvard.edu/abs/2026AJ....171..321A))  
+
+19. [THE NUV TRANSIT OF XO-3 B](http://adsabs.harvard.edu/abs/2026arXiv260505068C)  
+Cilley, Raven, Corrales, Lia, King, George W., et al.    
+2026, not refereed ([2026arXiv260505068C](http://adsabs.harvard.edu/abs/2026arXiv260505068C))  
+
+20. [A SINGLE POWER LAW FOR THE TRAPPIST-1 FLARE DISTRIBUTION ACROSS FOUR ORDERS OF MAGNITUDE IN ENERGY](http://adsabs.harvard.edu/abs/2026arXiv260505468V)  
+Vasilyev, Valeriy, Shapiro, Alexander I., Kostogryz, Nadiia, et al.    
+2026, not refereed ([2026arXiv260505468V](http://adsabs.harvard.edu/abs/2026arXiv260505468V))  
+
+21. [AN ANCIENT BROWN DWARF TRANSITING A METAL-POOR THICK-DISK STAR](http://adsabs.harvard.edu/abs/2026ApJ..1002L..41A)  
+Adams Redai, Jéa, Chandra, Vedant, Yee, Samuel W., et al.    
+2026, refereed ([2026ApJ..1002L..41A](http://adsabs.harvard.edu/abs/2026ApJ..1002L..41A))  
+
 
 2026-04
 -------
