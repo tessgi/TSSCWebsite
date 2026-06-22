@@ -63,6 +63,74 @@ Bello-Arufe, Aaron, Hu, Renyu, Zilinskas, Mantas, et al.
 Rackham, Benjamin V., Iyer, Aishwarya R., Apai, Dániel, et al.    
 2026, refereed ([2026AJ....171..338R](http://adsabs.harvard.edu/abs/2026AJ....171..338R))  
 
+15. [COUNTESS I: A UNIFORMLY VETTED CATALOG OF KNOWN AND NEW TRANSITING EXOPLANETS IN THE TESS NORTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2026arXiv260613789H)  
+Hotnisky, Andrew, Fernandes, Rachel B., Hardegree-Ullman, Kevin K., et al.    
+2026, not refereed ([2026arXiv260613789H](http://adsabs.harvard.edu/abs/2026arXiv260613789H))  
+
+16. [A COMPREHENSIVE ROSSITER-MCLAUGHLIN MODELLING FRAMEWORK IN TLCM: APPLICATION TO HD 2685 $=$ TOI-135 SYSTEM](http://adsabs.harvard.edu/abs/2026arXiv260603456C)  
+Csizmadia, Szilárd, Smith, Alexis M. S., Harre, J. V., et al.    
+2026, not refereed ([2026arXiv260603456C](http://adsabs.harvard.edu/abs/2026arXiv260603456C))  
+
+17. [TRANSIT TIMING VARIATIONS IN TESS: A CATALOG FROM THE FIRST FIVE YEARS](http://adsabs.harvard.edu/abs/2026arXiv260617218N)  
+Nabbie, Emma, Huang, Chelsea X., Wittenmyer, Robert A., et al.    
+2026, not refereed ([2026arXiv260617218N](http://adsabs.harvard.edu/abs/2026arXiv260617218N))  
+
+18. [TIC-65910228 B/NGTS-38 B, A 180 DAY TRANSITING WARM SUPER-JUPITER](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..998R)  
+Rodel, Toby, Ulmer-Moll, Solène, Gill, Samuel, et al.    
+2026, refereed ([2026MNRAS.tmp..998R](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..998R))  
+
+19. [TOWARDS INSTRUMENT-AGNOSTIC EXOPLANET CANDIDATE PRIORITIZATION](http://adsabs.harvard.edu/abs/2026arXiv260607769K)  
+Kopparapu, Vivaswan, Laha, Sibasish, Powell, Brian P., et al.    
+2026, not refereed ([2026arXiv260607769K](http://adsabs.harvard.edu/abs/2026arXiv260607769K))  
+
+20. [PREPARING FOR THE EARLY EVOLUTION EXPLORER: DETECTING THE PRIMORDIAL, TRANSITING EXOPLANET POPULATION](http://adsabs.harvard.edu/abs/2026arXiv260604283Z)  
+Zhou, George, Rogers, James G., Burt, Jennifer A., et al.    
+2026, not refereed ([2026arXiv260604283Z](http://adsabs.harvard.edu/abs/2026arXiv260604283Z))  
+
+21. [ORBIT REFINEMENT OF WASP-18 B AND EVIDENCE AGAINST THE EXISTENCE OF WASP-18 C](http://adsabs.harvard.edu/abs/2026arXiv260602473S)  
+Salguneswaran Nediyedath, Avinash, Pearson, Kyle A., Fetherolf, Tara, et al.    
+2026, not refereed ([2026arXiv260602473S](http://adsabs.harvard.edu/abs/2026arXiv260602473S))  
+
+22. [ONE TRANSIT IS ALL YOU NEED: DETECTING EXOPLANETS THROUGH LEARNED STELLAR BEHAVIOUR WITH EXOVEIL](http://adsabs.harvard.edu/abs/2026arXiv260602778P)  
+Priyanshu, Pratik    
+2026, not refereed ([2026arXiv260602778P](http://adsabs.harvard.edu/abs/2026arXiv260602778P))  
+
+23. [TOI-3664 B, TOI-4034 B &AMP; TOI-6564 B: THREE NEW HOT JUPITERS AROUND STARS APPROACHING THE TERMINAL AGE MAIN SEQUENCE](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..989B)  
+Battley, Matthew P., Lafarga, Marina, Gillen, Edward, et al.    
+2026, refereed ([2026MNRAS.tmp..989B](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..989B))  
+
+24. [REVISITING THE EXO-MERCURY CANDIDATE GJ 367 B WITH ESPRESSO AND A SELF-CONSISTENT TIDAL DISTORTION MODEL](http://adsabs.harvard.edu/abs/2026arXiv260618355L)  
+Lee, Rena A., Dai, Fei, Price, Ellen M., et al.    
+2026, not refereed ([2026arXiv260618355L](http://adsabs.harvard.edu/abs/2026arXiv260618355L))  
+
+25. [TRANSIT TIMING AND STARSPOT-INDUCED TRANSIT DEPTH VARIATIONS IN THE $\SIM$17 MYR OLD HIP 67522 SYSTEM](http://adsabs.harvard.edu/abs/2026arXiv260618045C)  
+Chakraborty, H., Lendl, M., Nigioni, A., et al.    
+2026, not refereed ([2026arXiv260618045C](http://adsabs.harvard.edu/abs/2026arXiv260618045C))  
+
+26. [THE 35-MYR OLD INFANT PLANET TOI-837 B HAS A MILDLY MISALIGNED ORBIT](http://adsabs.harvard.edu/abs/2026arXiv260612010M)  
+Mantovan, G., Malavolta, L., Marzari, F., et al.    
+2026, not refereed ([2026arXiv260612010M](http://adsabs.harvard.edu/abs/2026arXiv260612010M))  
+
+27. [A PANCHROMATIC JWST SPECTRUM OF A GIANT STARSPOT ON THE FULLY CONVECTIVE M DWARF TOI-3884](http://adsabs.harvard.edu/abs/2026ApJ..1003L..45M)  
+Murray, C. A., Garcia, L., Rackham, B. V., et al.    
+2026, refereed ([2026ApJ..1003L..45M](http://adsabs.harvard.edu/abs/2026ApJ..1003L..45M))  
+
+28. [THE ATMOSPHERE OF THE WARM NEPTUNE GJ 436 B PROBED WITH ESPRESSO](http://adsabs.harvard.edu/abs/2026A&A...710A..82H)  
+Herrero-Cisneros, E., Zapatero Osorio, M. R., Sanz-Forcada, J., et al.    
+2026, refereed ([2026A&A...710A..82H](http://adsabs.harvard.edu/abs/2026A&A...710A..82H))  
+
+29. [ATMOSPHERIC CHARACTERISATION OF HIP 67522 B WITH VLT/CRIRES+: VLT/CRIRES+ SUGGESTS A HEAVIER PLANET AND HINTS AT DEUTERIUM FRACTIONATION](http://adsabs.harvard.edu/abs/2026A&A...710A..85L)  
+Lavail, A., Debras, F., Klein, B., et al.    
+2026, refereed ([2026A&A...710A..85L](http://adsabs.harvard.edu/abs/2026A&A...710A..85L))  
+
+30. [STELLAR OBLIQUITIES OF YOUNG SYSTEMS, ATMOSPHERES UNDERGOING CONTRACTION AND ESCAPE (SOYSAUCE) II: A 135 MYR PLANET ON AN ALIGNED ORBIT WITH TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2026arXiv260609973B)  
+Barber, Madyson G., Mann, Andrew W., Vach, Sydney, et al.    
+2026, not refereed ([2026arXiv260609973B](http://adsabs.harvard.edu/abs/2026arXiv260609973B))  
+
+31. [COMPREHENSIVE STATISTICAL VALIDATION OF TOI-7701.01: A SUB-SATURN COMPANION AT THE GIANT PLANET BOUNDARY](http://adsabs.harvard.edu/abs/2026arXiv260615430E)  
+Escolà-Rodrigo, Biel    
+2026, not refereed ([2026arXiv260615430E](http://adsabs.harvard.edu/abs/2026arXiv260615430E))  
+
 
 2026-05
 -------

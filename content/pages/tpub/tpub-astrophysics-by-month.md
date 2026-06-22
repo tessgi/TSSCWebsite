@@ -115,6 +115,74 @@ Hu, Zhecheng, Zhu, Wei, Wang, Shuming, et al.
 Khalack, Viktor, Lovekin, Catherine    
 2026, not refereed ([2026arXiv260607230K](http://adsabs.harvard.edu/abs/2026arXiv260607230K))  
 
+28. [PHYSICAL PARAMETERS OF 146 CONTACT BINARIES DERIVED FROM LIGHT AND RADIAL VELOCITY CURVES](http://adsabs.harvard.edu/abs/2026ApJS..284...65L)  
+Li, Kai, Gao, Xiang, Wang, Si-Rui, et al.    
+2026, refereed ([2026ApJS..284...65L](http://adsabs.harvard.edu/abs/2026ApJS..284...65L))  
+
+29. [TESS DETECTION OF PERIODIC BRIGHTNESS VARIATIONS DURING THE RISE OF CLASSICAL NOVA PGIR22AKGYLF](http://adsabs.harvard.edu/abs/2026arXiv260612532S)  
+Sokolovsky, Kirill V., Aydi, Elias, Malanchev, Konstantin, et al.    
+2026, not refereed ([2026arXiv260612532S](http://adsabs.harvard.edu/abs/2026arXiv260612532S))  
+
+30. [THE TESS ALL-SKY ROTATION SURVEY: PERIODS FOR 1,046,317 STARS WITHIN 500 PC](http://adsabs.harvard.edu/abs/2026ApJS..284...75B)  
+Boyle, Andrew W., Bouma, Luke G., Mann, Andrew W.    
+2026, refereed ([2026ApJS..284...75B](http://adsabs.harvard.edu/abs/2026ApJS..284...75B))  
+
+31. [A PREVIOUSLY UNDEREXPLORED REGIME IN TESS: MINUTE-SCALE ECLIPSES REVEAL TEN WHITE DWARF-COOL M-DWARF BINARIES](http://adsabs.harvard.edu/abs/2026arXiv260603850C)  
+Cavalier, Tristan, de Wit, Julien, Timmermans, Mathilde, et al.    
+2026, not refereed ([2026arXiv260603850C](http://adsabs.harvard.edu/abs/2026arXiv260603850C))  
+
+32. [CONSTRAINTS ON LATE-TIME FLARING FROM LUMINOUS FAST BLUE OPTICAL TRANSIENTS USING THE TRANSITING EXOPLANET SURVEY SATELLITE AND THE ZWICKY TRANSIENT FACILITY](http://adsabs.harvard.edu/abs/2026arXiv260617129J)  
+Jayaraman, Rahul, Ho, Anna Y. Q., Fausnaugh, Michael M., et al.    
+2026, not refereed ([2026arXiv260617129J](http://adsabs.harvard.edu/abs/2026arXiv260617129J))  
+
+33. [NGC 1647: A YOUNG OPEN CLUSTER WITH A BROAD MAIN SEQUENCE OBSERVED WITH LAMOST](http://adsabs.harvard.edu/abs/2026A&A...710A.164F)  
+Frasca, A., Qin, M., Alonso-Santiago, J., et al.    
+2026, refereed ([2026A&A...710A.164F](http://adsabs.harvard.edu/abs/2026A&A...710A.164F))  
+
+34. [BLUE STRAGGLER STARS IN BERKELEY 18: A MULTIWAVELENGTH STUDY OF THEIR PHYSICAL PROPERTIES AND DYNAMICAL EVOLUTION](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..997B)  
+Bisht, D., Jiang, Ing-Guey, Belwal, K., et al.    
+2026, refereed ([2026MNRAS.tmp..997B](http://adsabs.harvard.edu/abs/2026MNRAS.tmp..997B))  
+
+35. [DISCOVERY OF A COMPACT HIERARCHICAL TRIPLE MAIN-SEQUENCE STAR SYSTEM WHILE SEARCHING FOR BINARY STARS WITH COMPACT OBJECTS](http://adsabs.harvard.edu/abs/2026PASJ...78.1046T)  
+Tanikawa, Ataru, Tajitsu, Akito, Honda, Satoshi, et al.    
+2026, refereed ([2026PASJ...78.1046T](http://adsabs.harvard.edu/abs/2026PASJ...78.1046T))  
+
+36. [THE DOUBLE-LINED ECLIPSING $Γ$ DORADUS SYSTEM AX DRACONIS IN A 0.568-DAY ORBIT](http://adsabs.harvard.edu/abs/2026arXiv260605529L)  
+Lee, Jae Woo, Jeong, Min-Ji, Hong, Kyeongsoo, et al.    
+2026, not refereed ([2026arXiv260605529L](http://adsabs.harvard.edu/abs/2026arXiv260605529L))  
+
+37. [OPTICAL SUPER-ORBITAL MODULATION OF SMC X-1: DISK PRECESSION AND A REVISED PULSAR MASS](http://adsabs.harvard.edu/abs/2026PASJ..tmp..168N)  
+Niwano, Masafumi, Kawai, Nobuyuki, Fausnaugh, Michael    
+2026, refereed ([2026PASJ..tmp..168N](http://adsabs.harvard.edu/abs/2026PASJ..tmp..168N))  
+
+38. [GRAVITY-MODE MAIN-SEQUENCE PULSATORS IN THE OPEN CLUSTERS NGC 3532 AND NGC 2516: INSTABILITY STRIP, NEAR-CORE ROTATION, AND INTERNAL STRUCTURE](http://adsabs.harvard.edu/abs/2026arXiv260614359L)  
+Li, Gang, He, Chenyu, Mombarg, Joey S. G., et al.    
+2026, not refereed ([2026arXiv260614359L](http://adsabs.harvard.edu/abs/2026arXiv260614359L))  
+
+39. [A MICRONOVA BURST IN THE INTERMEDIATE POLAR IGR J17014-4306](http://adsabs.harvard.edu/abs/2026arXiv260606305O)  
+Oliveira, Alexandre S., Souza, D. C., Luna, G. J. M., et al.    
+2026, not refereed ([2026arXiv260606305O](http://adsabs.harvard.edu/abs/2026arXiv260606305O))  
+
+40. [LAMOST J010103.13+275449.6: A NEW BINARY WITH A GRADUALLY HALVING PHOTOMETRIC VARIABILITY PERIOD](http://adsabs.harvard.edu/abs/2026arXiv260601867C)  
+Chen, Y. H., Yu, Y., Han, Z.    
+2026, not refereed ([2026arXiv260601867C](http://adsabs.harvard.edu/abs/2026arXiv260601867C))  
+
+41. [NSV 4031 IS A GAMMA DORADUS VARIABLE AFTER ALL](http://adsabs.harvard.edu/abs/2026arXiv260604117L)  
+Lloyd, Christopher    
+2026, not refereed ([2026arXiv260604117L](http://adsabs.harvard.edu/abs/2026arXiv260604117L))  
+
+42. [A SEARCH FOR VARIABILITY OF ULTRACOOL DWARFS WITH THE ZWICKY TRANSIENT FACILITY](http://adsabs.harvard.edu/abs/2026ApJ..1003..217H)  
+Huang, Haomiao, Wang, Shu, Chen, Xiaodian, et al.    
+2026, refereed ([2026ApJ..1003..217H](http://adsabs.harvard.edu/abs/2026ApJ..1003..217H))  
+
+43. [WILDLY OSCILLATING STARS -- UNEXPLAINED DENSE RIDGE-LIKE FREQUENCY AGGLOMERATIONS IN A AND F TYPE PULSATORS](http://adsabs.harvard.edu/abs/2026arXiv260617207A)  
+Antoci, V., Labadie-Bartz, J., Swiech, M., et al.    
+2026, not refereed ([2026arXiv260617207A](http://adsabs.harvard.edu/abs/2026arXiv260617207A))  
+
+44. [LONG-TERM INVESTIGATION OF GAMMA CAS ANALOGS](http://adsabs.harvard.edu/abs/2026arXiv260604692N)  
+Naze, Yael, Rauw, Gregor, Webbe, Robbie, et al.    
+2026, not refereed ([2026arXiv260604692N](http://adsabs.harvard.edu/abs/2026arXiv260604692N))  
+
 
 2026-05
 -------
