@@ -8,6 +8,7 @@ The Guest Investigator (GI) office is part of the TESS Science Support Center at
 The members of the TESS GI office are listed below.
 
 <div class="row">
+    <div class="col-sm-1 text-center"></div>
      <div class="col-sm-3 text-center"> 
         <img src="images/faces/allison.jpg" style="max-width:80%;" class="img-circle"><br>
         Dr. Allison Youngblood<br>
@@ -25,15 +26,19 @@ The members of the TESS GI office are listed below.
         Dr. Rebekah Hounsell<br>
         Associate Project Scientist
      </div>
+</div>
 
+
+
+<div class="row">
+    <!--The grid is broken up by 12, so to keep the sizing right for 3x3, we make the first column blank (the last 2 are automatically blank)-->
+    <div class="col-sm-1 text-center"></div>
      <div class="col-sm-3 text-center">
         <img src="images/faces/Tyler.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Tyler Pritchard<br>
         Director of the GI Office
      </div>
-</div>
 
-<div class="row">
      <div class="col-sm-3 text-center">
         <img src="images/faces/christina.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Christina Hedges<br>
@@ -51,19 +56,28 @@ The members of the TESS GI office are listed below.
         Dr. Veselin Kostov<br>
         Support Scientist
     </div>-->
-
+</div>
+<div class="row">
+    <div class="col-sm-1 text-center"></div>
     <div class="col-sm-3 text-center">
         <img src="images/faces/Jorge.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Jorge Martínez Palomera<br>
         Support Scientist
     </div>
-    
 
+    <div class="col-sm-3 text-center">
+        <img src="images/faces/atuson.jpg"  style="max-width:80%;" class="img-circle"><br>
+        Dr. Amy Tuson <br>
+        Support Scientist
+    </div>  
+    
     <div class="col-sm-3 text-center">
         <img src="images/faces/daniel.jpg"  style="max-width:80%;" class="img-circle"><br>
         Dr. Daniel Giles <br>
         Scientific Software Developer
     </div>
+
+ 
     
 </div>
 
