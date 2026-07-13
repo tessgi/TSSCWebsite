@@ -99,8 +99,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>271.3363</td>
 		<td>2026&nbsp;Aug&nbsp;09</td>
 		<td>2026&nbsp;Sep&nbsp;07</td>
-		<!--<td><a href="data/target_lists/sector107_targets_lists/GI_S107.csv">Download</a></td>-->
-		<td></td>
+		<td><a href="data/target_lists/sector107_targets_lists/GI_S107.csv">Download</a></td>
 	   	<td style="min-width: 12em;">
     	   	</td>		      
 		</tr>
@@ -111,8 +110,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>279.1045</td>
 		<td>2026&nbsp;Jul&nbsp;11</td>
 		<td>2026&nbsp;Aug&nbsp;09</td>
-		<!--<td><a href="data/target_lists/sector106_targets_lists/GI_S106.csv">Download</a></td>-->
-		<td></td>
+		<td><a href="data/target_lists/sector106_targets_lists/GI_S106.csv">Download</a></td>
 		<td style="min-width: 12em;">
 		</td>
 		</tr>
