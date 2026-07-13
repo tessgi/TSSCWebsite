@@ -19,3 +19,9 @@ Summary: We will use TESS Cycle 8 data to measure orbital eccentricities and tid
 
 # Sector 105 targets observed (2 min: 1, 20 s: 1)
 120896927,36.8676,-27.6368,8.32,G08149;20SECONDTARGET
+
+# Sector 106 targets observed (2 min: 1, 20 s: 1)
+120896927,36.8676,-27.6368,8.32,G08149;20SECONDTARGET
+
+# Sector 107 targets observed (2 min: 1, 20 s: 1)
+120896927,36.8676,-27.6368,8.32,G08149;20SECONDTARGET

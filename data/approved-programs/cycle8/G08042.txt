@@ -34,3 +34,10 @@ Summary: Thick disk-stars differ from their thin-disk counterparts in kinematics
 # Sector 105 targets observed (2 min: 2, 20 s: 1)
 370133522,306.931,-56.466,10.12,G08042;G08140;20SECONDTARGET
 355446093,350.8697,-52.176,11.75,G08042
+
+# Sector 106 targets observed (2 min: 1, 20 s: 0)
+77995724,79.9085,-31.6089,10.83,G08042
+
+# Sector 107 targets observed (2 min: 2, 20 s: 1)
+12421862,2.2739,-27.1215,9.93,G08042;G08140;20SECONDTARGET
+77995724,79.9085,-31.6089,10.83,G08042
