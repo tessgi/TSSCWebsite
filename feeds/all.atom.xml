@@ -1,5 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"/><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"/><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2026-05-18T11:00:00-04:00</updated><entry><title>TESS Multi-Sector Stitching Working Group</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-multi-sector-stitching-working-group.html" rel="alternate"/><published>2026-05-18T11:00:00-04:00</published><updated>2026-05-18T11:00:00-04:00</updated><author><name>Tyler Pritchard</name></author><id>tag:heasarc.gsfc.nasa.gov,2026-05-18:/docs/tess/tess-multi-sector-stitching-working-group.html</id><summary type="html">&lt;p&gt;The TESS mission has organized a working group to investigate “sector stitching” effects, and invites interested community members to participate.  &lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>TESS</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/" rel="alternate"/><link href="https://heasarc.gsfc.nasa.gov/docs/tess/feeds/all.atom.xml" rel="self"/><id>https://heasarc.gsfc.nasa.gov/docs/tess/</id><updated>2026-06-15T00:00:00-04:00</updated><entry><title>TESS News Bulletin: June 15th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-news-bulletin-june-15th.html" rel="alternate"/><published>2026-06-15T00:00:00-04:00</published><updated>2026-06-15T00:00:00-04:00</updated><author><name>TSSC Office with assistance from an AI model</name></author><id>tag:heasarc.gsfc.nasa.gov,2026-06-15:/docs/tess/tess-news-bulletin-june-15th.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;This week, we are looking at three recent papers from the archive. These papers cover recent work in stellar activity, asteroid detection, and planet discovery. Enjoy!&lt;/p&gt;
+&lt;p&gt;First, astronomers are investigating a cosmic mystery involving small, incredibly fast-spinning stars that surprisingly produce …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to our latest news bulletin!&lt;sup id="fnref:1"&gt;&lt;a class="footnote-ref" href="#fn:1"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;This week, we are looking at three recent papers from the archive. These papers cover recent work in stellar activity, asteroid detection, and planet discovery. Enjoy!&lt;/p&gt;
+&lt;p&gt;First, astronomers are investigating a cosmic mystery involving small, incredibly fast-spinning stars that surprisingly produce very few explosive flares. By analyzing X-ray data from Swift and XMM-Newton and optical data from TESS, researchers discovered that, contrary to larger Sun-like stars, this small M-dwarf sample does not show magnetic supersaturation, or a decline in magnetic activity despite increasing rotation rates. The true reason for their unusual calmness remains an active mystery.&lt;/p&gt;
+&lt;p&gt;Next, scientists have developed a new artificial intelligence tool to uncover asteroids hidden within the vast image archives of NASA's TESS space telescope. By automatically learning to spot faint objects moving at any speed or direction, this method will help us discover and map previously unknown minor bodies in our own solar system.&lt;/p&gt;
+&lt;p&gt;Finally, astronomers recently discovered two new TESS systems that each contain a massive, hot giant planet accompanied by a smaller, closer in planetary companion. The survival of these fragile inner worlds reveals that the giant planets must have formed in place or migrated to their current orbits through a smooth, peaceful process, rather than through more dynamic planet migration or scattering that would have destroyed their smaller neighbors.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2604.07976"&gt;The puzzling story of flare inactive ultra-fast-rotating M dwarfs –III. Investigating X-ray activity&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Doyle et al. 2026)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This paper investigates the ongoing astronomical mystery of why certain ultra-fast-rotating M dwarf stars, which complete a full rotation in under a single day, exhibit unexpectedly low levels of optical flaring, a phenomenon that contradicts standard stellar magnetic activity models. NASA’s TESS mission played a critical role in this research by providing the highly precise, continuous optical light curves necessary to measure the rotation periods and to track the stars' optical flare rates across a seven-year baseline. Using multi-year TESS data spanning several observation cycles, the researchers cataloged hundreds of optical flares from a sample of 10 M dwarfs. The authors noted greater long-term variations in flare rates and starspot modulation for stars with rotation periods &amp;lt; 0.6 days, hinting at underlying magnetic activity cycles. To understand the suppressed flaring, the authors combined these TESS optical data with X-ray observations from the Swift and XMM-Newton observatories to test for "supersaturation"—a theoretical state where extreme rotation stifles magnetic activity. Ultimately, the X-ray data showed these stars are operating at normal, saturated X-ray levels rather than being supersaturated, meaning the root cause of the quiet optical flare behavior observed by TESS remains an intriguing puzzle. Observations by TESS in the cycles to come will allow for continued monitoring of the flare rates, allowing a better understanding of the magnetic cycles for these unexpectedly quiet stars.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://arxiv.org/abs/2605.12391"&gt;Trajectory-Agnostic Asteroid Detection in TESS with Deep Learning&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Powell et al. 2026)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TESS was primarily designed to hunt for planets outside our solar system, but its unique ability to stare continuously at large patches of the sky with a wide field of view and high image cadence makes it a powerful facility for observing asteroids within our own solar system. Leveraging the massive archive of TESS Full Frame Images, researchers have developed a trajectory-agnostic deep learning approach—utilizing a novel stacked 3D U-Net neural network, dubbed a "W-Net"—to detect faint moving objects without needing to place priors on their speed or direction. As illustrated in Figure 3 (which shows dense, colorful tracks of thousands of asteroids serendipitously captured across TESS's four cameras during a single 27-day observation sector), the spacecraft's fixed-pointing strategy and vast spatial coverage provide the perfect environment for spotting minor bodies, particularly near the ecliptic plane, as seen in the increase of tracks in Camera 1. The W-Net learns to filter out the static starry background and intelligently scale the data to isolate the faint signals of moving objects. The success of this method is demonstrated by the model's ability to take barely visible asteroids in single TESS frames and detect them by learning image shifting and stacking in order to improve the signal strengths of faint asteroids. Ultimately, the uninterrupted, high-cadence astronomical data provided by the TESS spacecraft serves as the foundational cornerstone for this machine learning pipeline, enabling a comprehensive, automated census of our solar system that could be used in future sky surveys such as NASA’s Nancy Grace Roman Space Telescope.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://ui.adsabs.harvard.edu/abs/2026AJ....171..359Q/abstract"&gt;TOI-2494 c and TOI-5143 c: A Hot Saturn and a Hot Jupiter with Interior Planetary Companions&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;(Quinn et al, 2026)&lt;/em&gt; &lt;strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The recent discovery of two unique planetary systems, TOI-2494 and TOI-5143, provides crucial insights into the formation and migration of giant planets, a breakthrough made possible by the precise photometric data from NASA’s TESS. Each of these star systems hosts a massive, close-orbiting giant planet—a "hot Saturn" and a "hot Jupiter," respectively—that is accompanied by a smaller, inner mini-Neptune companion. TESS's continuous, high-precision space-based observations were able to capture the faint, periodic dips in starlight that revealed both the grazing transits of the outer giant planets and the much shallower transit signals of their smaller inner companions. As illustrated in the figure, the phase-folded TESS light curves clearly isolate the distinct transit signatures of both planets in each of these compact, multi-planet systems. Adding these new systems to the already known planet population, the authors show that hot Jupiters with close planetary companions tend to have well-aligned orbital planes. This alignment suggests that these specific compact planetary hot Jupiter systems with inner companions formed and migrated through a dynamically quiet process rather than through violent gravitational scattering or high-eccentricity migration, providing astronomers with new hints to decode the evolutionary history of these giant planet systems.&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/news/Doyle2026_Fig3.png" width="50%"/&gt;&lt;/p&gt;
+&lt;!--![Doyle2026](images/news/Doyle2026_Fig3.png)--&gt;
+
+&lt;p&gt;&lt;strong&gt;Fig. 1:&lt;/strong&gt; &lt;em&gt;Taken from Doyle et al (2026). The flare number per day plotted as a function of the stellar rotation period for the 10 stars observed across TESS cycles. The top panel shows only higher-energy (&lt;span class="math"&gt;\(&amp;gt;\)&lt;/span&gt;10&lt;span class="math"&gt;\(^{33}\)&lt;/span&gt; erg) flares, while the bottom panel shows all identified flares. This figure highlights TESS's crucial contribution to the study by illustrating the long-term monitoring of flare rates and capturing the subtle variability in these ultra-fast-rotating M dwarfs over several years.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Powell2026" src="images/news/Powell2026_Fig3.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Powell et al. (2026). Composite image from all TESS Camera and CCD observations taken during Sector 6. Plotted on top are the tracks of all known asteroids observed during the Sector. More tracks are seen towards the top of the image, as the spacecraft is oriented such that Camera 1 is closest to the galactic plane.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Quinn2025" src="images/news/Quinn2026_Fig5.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Quinn et al (2026). Relative orientation of the known systems with an outer giant planet with a smaller inner companion. The mutual inclination of the systems is low, hinting at a dynamically quiet formation history.&lt;/em&gt;&lt;/p&gt;
+&lt;div class="footnote"&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id="fn:1"&gt;
+&lt;p&gt;This news item was created with input from OpenAI / NASA GSFC, 2026&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
+    var align = "center",
+        indent = "0em",
+        linebreak = "false";
+
+    if (false) {
+        align = (screen.width &lt; 768) ? "left" : align;
+        indent = (screen.width &lt; 768) ? "0em" : indent;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
+    }
+
+    var mathjaxscript = document.createElement('script');
+    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
+    mathjaxscript.type = 'text/javascript';
+    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
+
+    var configscript = document.createElement('script');
+    configscript.type = 'text/x-mathjax-config';
+    configscript[(window.opera ? "innerHTML" : "text")] =
+        "MathJax.Hub.Config({" +
+        "    config: ['MMLorHTML.js']," +
+        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
+        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
+        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
+        "    displayAlign: '"+ align +"'," +
+        "    displayIndent: '"+ indent +"'," +
+        "    showMathMenu: true," +
+        "    messageStyle: 'normal'," +
+        "    tex2jax: { " +
+        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
+        "        displayMath: [ ['$$','$$'] ]," +
+        "        processEscapes: true," +
+        "        preview: 'TeX'," +
+        "    }, " +
+        "    'HTML-CSS': { " +
+        "        availableFonts: ['STIX', 'TeX']," +
+        "        preferredFont: 'STIX'," +
+        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
+        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
+        "    }, " +
+        "}); " +
+        "if ('default' !== 'default') {" +
+            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
+                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
+                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
+                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
+                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
+                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
+            "});" +
+        "}";
+
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
+    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
+}
+&lt;/script&gt;</content><category term="news"/></entry><entry><title>TESS Multi-Sector Stitching Working Group</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-multi-sector-stitching-working-group.html" rel="alternate"/><published>2026-05-18T11:00:00-04:00</published><updated>2026-05-18T11:00:00-04:00</updated><author><name>Tyler Pritchard</name></author><id>tag:heasarc.gsfc.nasa.gov,2026-05-18:/docs/tess/tess-multi-sector-stitching-working-group.html</id><summary type="html">&lt;p&gt;The TESS mission has organized a working group to investigate “sector stitching” effects, and invites interested community members to participate.  &lt;/p&gt;
 &lt;p&gt;"Sector stitching" refers to a common challenge in TESS data where a source’s measured flux is observed to be discontinuous across sector boundaries.  The TESS mission is currently investigating …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The TESS mission has organized a working group to investigate “sector stitching” effects, and invites interested community members to participate.  &lt;/p&gt;
 &lt;p&gt;"Sector stitching" refers to a common challenge in TESS data where a source’s measured flux is observed to be discontinuous across sector boundaries.  The TESS mission is currently investigating calibration techniques to seamlessly "stitch" this data together into single, extended light curves. Creating these longer baselines is essential for advancing numerous scientific studies, such as tracking long-period variable stars, observing long-term trends, and detecting slowly evolving extragalactic transients.&lt;/p&gt;
 &lt;p&gt;The group comprises of a diverse array of participants, including personnel from the TESS project and representatives from the broader scientific community.  If you are interested in participating, please contact Michael Fausnaugh (michael.fausnaugh@ttu.edu), and you will be added to a distribution list for upcoming meetings.  We expect the group to meet approximately monthly, with subgroups investigating different effects and calibration methods.  &lt;/p&gt;</content><category term="news"/></entry><entry><title>TESS special observation of interstellar comet 3I/ATLAS update: April 9th</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-special-observation-of-interstellar-comet-3iatlas-update-april-9th.html" rel="alternate"/><published>2026-04-09T11:00:00-04:00</published><updated>2026-04-09T11:00:00-04:00</updated><author><name>Allison Youngblood</name></author><id>tag:heasarc.gsfc.nasa.gov,2026-04-09:/docs/tess/tess-special-observation-of-interstellar-comet-3iatlas-update-april-9th.html</id><summary type="html">&lt;p&gt;Welcome to the third update about Sector 1751, TESS’s special observation of interstellar comet 3I/ATLAS!&lt;/p&gt;
@@ -1767,104 +1857,4 @@ The UPS planets discussed here are TOI-1442 b and TOI-2445 b, which have been ex
 &lt;p&gt;&lt;img alt="Subjak" src="images/news/Subjak_2022.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fig. 2:&lt;/strong&gt; &lt;em&gt;Taken from Šubjak et. al., (2022). The population of known planets within the mass interval 70–110 M⊕. The position of TOI-1268b is highlighted together with two planets sharing similar properties. The left subplot is colored with respect to the age of the systems (the grey color is used for systems without an age estimate in literature), the middle one with respect to the equilibrium temperature of the planets, and the right one with respect to the transmission spectroscopic metric.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img alt="Kemmer" src="images/news/Kemmer_2022.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Kemmer et. al., (2022). Mass-radius diagram of well-characterized planets with R &amp;lt; 3 R⊕ and M &amp;lt; 10M⊕. The plot shows the planets from the TEPcat catalogue (Southworth 2011, visited on 8 November 2021) with ∆M and ∆R&amp;lt;30%. Planets with host star temperatures Teff &amp;lt; 4000 K are shown in orange, and planets with hotter hosts are shown in grey. GJ 3929 b is marked with a red diamond. Additionally, theoretical mass-radius relations from Zeng et al. (2019) are shown for reference.&lt;/em&gt;&lt;/p&gt;</content><category term="news"/></entry><entry><title>TESS AAS Splinter Session</title><link href="https://heasarc.gsfc.nasa.gov/docs/tess/tess-aas-splinter-session.html" rel="alternate"/><published>2022-01-31T10:00:00-05:00</published><updated>2022-01-31T10:00:00-05:00</updated><author><name>Rebekah Hounsell</name></author><id>tag:heasarc.gsfc.nasa.gov,2022-01-31:/docs/tess/tess-aas-splinter-session.html</id><summary type="html">&lt;p&gt;Welcome TESS followers to this special news bulletin. &lt;/p&gt;
-&lt;p&gt;With the cancellation of the Winter AAS #239 meeting in January, the organizers of the splinter session titled "Science from the TESS Extended Mission", have decided to take the meeting online. 
-This virtual event will occur on &lt;b&gt;Wednesday the 16th of February …&lt;/b&gt;&lt;/p&gt;</summary><content type="html">&lt;p&gt;Welcome TESS followers to this special news bulletin. &lt;/p&gt;
-&lt;p&gt;With the cancellation of the Winter AAS #239 meeting in January, the organizers of the splinter session titled "Science from the TESS Extended Mission", have decided to take the meeting online. 
-This virtual event will occur on &lt;b&gt;Wednesday the 16th of February at 2:00 - 4:00pm East Coast Time (11:00am - 1:00pm Pacific Time)&lt;/b&gt;.&lt;/p&gt;
-&lt;p&gt;The agenda for this event are listed in the table below in addition to the meeting link. We hope that you can attend.&lt;/p&gt;
-&lt;div class="panel panel-primary"&gt;
-  &lt;div class="panel-heading"&gt;
-    &lt;h3 class="panel-title"&gt;Meeting Agenda&lt;/h3&gt;
-  &lt;/div&gt;
-  &lt;div class="panel-body"&gt;
-
-&lt;table class="table table-striped table-hover" style="font-size: 0.77em;"&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style="vertical-align: middle;"&gt;Start Time&lt;/th&gt;
-      &lt;th style="vertical-align: middle;"&gt;End Time&lt;/th&gt;
-      &lt;th style="vertical-align: middle;"&gt;Speaker&lt;/th&gt;
-      &lt;th style="vertical-align: middle;"&gt;Title&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-
- &lt;tr&gt;
-    &lt;td&gt;2:00&lt;/td&gt;
-    &lt;td&gt;2:15&lt;/td&gt;
-    &lt;td&gt;George Ricker (MIT)&lt;/td&gt;
-    &lt;td&gt;The TESS extended mission&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-   &lt;tr&gt;
-    &lt;td&gt;2:15&lt;/td&gt;
-    &lt;td&gt;2:30&lt;/td&gt;
-    &lt;td&gt;Malena Rice (Yale)&lt;/td&gt;
-    &lt;td&gt;Solar System science with TESS&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-     &lt;tr&gt;
-    &lt;td&gt;2:30&lt;/td&gt;
-    &lt;td&gt;2:45&lt;/td&gt;
-    &lt;td&gt;Ben Shappee (University of Hawaii)&lt;/td&gt;
-    &lt;td&gt;The Transient Explorer Survey Satelite&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-     &lt;tr&gt;
-    &lt;td&gt;2:45&lt;/td&gt;
-    &lt;td&gt;3:00&lt;/td&gt;
-    &lt;td&gt;May Pedersen (UCSB)&lt;/td&gt;
-    &lt;td&gt;Asteroseismology in the TESS era&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-     &lt;tr&gt;
-    &lt;td&gt;3:00&lt;/td&gt;
-    &lt;td&gt;3:15&lt;/td&gt;
-    &lt;td&gt;Rebekah Hounsell (UMBC)&lt;/td&gt;
-    &lt;td&gt;The software and tools developed to reduce and analyze TESS data&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-       &lt;tr&gt;
-    &lt;td&gt;3:15&lt;/td&gt;
-    &lt;td&gt;3:30&lt;/td&gt;
-    &lt;td&gt;Jennifer Burt (JPL)&lt;/td&gt;
-    &lt;td&gt;The plethora of planets discovered by TESS&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-         &lt;tr&gt;
-    &lt;td&gt;3:30&lt;/td&gt;
-    &lt;td&gt;3:45&lt;/td&gt;
-    &lt;td&gt;Michelle Kunimoto (MIT)&lt;/td&gt;
-    &lt;td&gt;Predicting the exoplanet yield from TESS: Years 1 - 7&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-     &lt;tr&gt;
-    &lt;td&gt;3:45&lt;/td&gt;
-    &lt;td&gt;4:00&lt;/td&gt;
-    &lt;td&gt;All speakers&lt;/td&gt;
-    &lt;td&gt;Question and Answer session&lt;/td&gt;
-    &lt;td style="min-width: 12em;"&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-
-&lt;/table&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;b&gt;Meeting Link: Click this &lt;a href="https://mit.zoom.us/j/99205547876"&gt;Zoom link&lt;/a&gt; to join the meeting.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Meeting Organizers: Avi Shporer, Rebekah Hounsell, Knicole Colon, Tom Barclay&lt;/p&gt;
-&lt;p&gt;This meeting will be recorded and posted online after the event. &lt;/p&gt;</content><category term="news"/></entry></feed>
+&lt;p&gt;&lt;strong&gt;Fig. 3:&lt;/strong&gt; &lt;em&gt;Taken from Kemmer et. al., (2022). Mass-radius diagram of well-characterized planets with R &amp;lt; 3 R⊕ and M &amp;lt; 10M⊕. The plot shows the planets from the TEPcat catalogue (Southworth 2011, visited on 8 November 2021) with ∆M and ∆R&amp;lt;30%. Planets with host star temperatures Teff &amp;lt; 4000 K are shown in orange, and planets with hotter hosts are shown in grey. GJ 3929 b is marked with a red diamond. Additionally, theoretical mass-radius relations from Zeng et al. (2019) are shown for reference.&lt;/em&gt;&lt;/p&gt;</content><category term="news"/></entry></feed>
