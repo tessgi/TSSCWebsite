@@ -274,7 +274,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 <div class="accordion" id="accordionPointings">
   <div class="accordion-item">
      <h2 class="accordion-header" id="headingSec8">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec8" aria-expanded="false" aria-controls="collapseSec8">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec8" aria-expanded="false" aria-controls="collapseSec8">
         Cycle 8
       </button>
       </h2>
