@@ -68,6 +68,209 @@ The spacecraft and individual camera pointing positions are [available from MIT]
   </div>
 </div>-->
 
+
+<div class="accordion" id="accordionPointings">
+  <div class="accordion-item">
+     <h2 class="accordion-header" id="headingSec9">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec9" aria-expanded="false" aria-controls="collapseSec9">
+        Cycle 9
+      </button>
+      </h2>
+      <div id="collapseSec9" class="accordion-collapse collapse show" aria-labelledby="headingSec9" data-bs-parent="#accordionPointings" style="">
+        <div class="accordion-body">
+          <table class="table table-striped table-hover" style="font-size: 0.77em;">
+            <thead>
+              <tr>
+                <th style="vertical-align: middle;">Sector</th>
+                <th style="vertical-align: middle;">Pointing</th>
+                <th style="vertical-align: middle;">Spacecraft RA, dec</th>
+                <th style="vertical-align: middle;">Spacecraft roll (deg)</th>
+                <th style="vertical-align: middle;">Start</th>
+                <th style="vertical-align: middle;">Stop</th>
+                <th style="vertical-align: middle;">GI target list</th>
+                <!-- <th style="vertical-align: middle;" class="text-center">Release<br>notes</th> -->
+                <th style="vertical-align: middle;">Comments</th>
+              </tr>
+	      
+            </thead>
+	    	<tr>
+		<td><a href="sector120_summary.html">s120</a></td>
+		<td>Northern hemisphere</td>
+		<td>278.15, 62.96</td>
+		<td>40.31</td>
+		<td>2027&nbsp;Jun&nbsp;29</td>
+		<td>2027&nbsp;Aug&nbsp;23</td>
+		<!---<td><a href="data/target_lists/sector120_targets_lists/GI_S120.csv">Download</a></td>--->
+		<td></td>
+	   	<td style="min-width: 12em;">
+    	   	</td>		      
+		</tr>
+
+		<td><a href="sector119_summary.html">s119</a></td>
+		<td>Northern hemispher</td>
+		<td>274.19, 61.90</td>
+		<td>19.43</td>
+		<td>2027&nbsp;Jul&nbsp;03</td>
+		<td>2027&nbsp;Jul&nbsp;29</td>
+		<!---<td><a href="data/target_lists/sector119_targets_lists/GI_S119.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector118_summary.html">s118</a></td>
+		<td>Northern hemisphere</td>
+		<td>269.06, 30.57</td>
+		<td>359.36</td>
+		<td>2027&nbsp;Jun&nbsp;07</td>
+		<td>2027&nbsp;Jul&nbsp;03</td>
+		<!---<td><a href="data/target_lists/sector118_targets_lists/GI_S118.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+		<tr>
+
+		<tr>
+		<td><a href="sector117_summary.html">s117</a></td>
+		<td>Northern hemisphe</td>
+		<td>251.56, 32.28</td>
+		<td>347.64</td>
+		<td>2027&nbsp;May&nbsp;10</td>
+		<td>2027&nbsp;Jun&nbsp;07</td>
+		<!---<td><a href="data/target_lists/sector117_targets_lists/GI_S117.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector116_summary.html">s116</a></td>
+		<td>Ecliptic</td>
+		<td>288.16, -23.34</td>
+		<td>276.79</td>
+		<td>2027&nbsp;Apr&nbsp;12</td>
+		<td>2027&nbsp;May&nbsp;10</td>
+		<!---<td><a href="data/target_lists/sector116_targets_lists/GI_S116.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector115_summary.html">s115</a></td>
+		<td>Ecliptic</td>
+		<td>219.65, -16.06</td>
+		<td>251.35</td>
+		<td>2027&nbsp;Mar&nbsp;14</td>
+		<td>2027&nbsp;Apr&nbsp;12</td>
+		<!---<td><a href="data/target_lists/sector115_targets_lists/GI_S115.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector114_summary.html">s114</a></td>
+		<td>Southern ecliptic hemisphere</td>
+		<td>192.22, -56.62</td>
+		<td>213.77</td>
+		<td>2027&nbsp;Feb&nbsp;13</td>
+		<td>2027&nbsp;Mar&nbsp;14</td>
+		<!---<td><a href="data/target_lists/sector114_targets_lists/GI_S114.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
+		<td><a href="sector113_summary.html">s113</a></td>
+		<td>Southern ecliptic hemisphere</td>
+		<td>166.48, -45.53</td>
+		<td> 213.97</td>
+		<td>2027&nbsp;Jan&nbsp;17</td>
+		<td>2027&nbsp;Feb&nbsp;13</td>
+		<!---<td><a href="data/target_lists/sector113_targets_lists/GI_S113.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		</tr>
+		<tr>
+		<td><a href="sector112_summary.html">s112</a></td>
+		<td>Southern ecliptic hemisphere</td>
+		<td>145.16, -35.69</td>
+		<td>219.77</td>
+		<td>2026&nbsp;Dec&nbsp26</td>
+		<td>2027&nbsp;Jan&nbsp;17</td>
+		<!---<td><a href="data/target_lists/sector112_targets_lists/GI_S112.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+
+		</tr>
+		<tr>
+		<td><a href="sector111_summary.html">s111</a></td>
+		<td>>Southern ecliptic hemisphere</td>
+		<td>125.46, -28.27</td>
+		<td>228.41</td>
+		<td>2026&nbsp;Nov&nbsp26</td>
+		<td>2026&nbsp;Dec&nbsp;26</td>
+		<!--<td><a href="data/target_lists/sector111_targets_lists/GI_S111.csv">Download</a></td>-->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		</tr>
+		<tr>
+		<td><a href="sector110_summary.html">s110</a></td>
+		<td>Southern ecliptic hemisphere</td>
+		<td>106.07, -23.79</td>
+		<td>238.70</td>
+		<td>2026&nbsp;Oct&nbsp31</td>
+		<td>2026&nbsp;Nov&nbsp;26</td>
+		<!---<td><a href="data/target_lists/sector110_targets_lists/GI_S110.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		</tr>
+		<tr>
+		<td><a href="sector109_summary.html">s109</a></td>
+		<td>Southern ecliptic hemisphere</td>
+		<td>86.38, -22.67</td>
+		<td>249.90</td>
+		<td>2025&nbsp;Oct&nbsp05</td>
+		<td>2026&nbsp;Oct&nbsp;31</td>
+		<!---<td><a href="data/target_lists/sector109_targets_lists/GI_S109.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+		
+		<tr>
+	    	<td><a href="sector108_summary.html">s108</a></td>
+		<td>Southern ecliptic hemisphere</td>
+		<td>66.27, -25.18</td>
+		<td>261.16</td>
+		<td>2025&nbsp;Sep&nbsp;07</td>
+		<td>2025&nbsp;Oct&nbsp;05</td>
+		<!---<td><a href="data/target_lists/sector108_targets_lists/GI_S108.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">Cycle 9 begins
+		</td>
+
+          </table>
+        </div>
+      </div>
+    </div>
+
 <div class="accordion" id="accordionPointings">
   <div class="accordion-item">
      <h2 class="accordion-header" id="headingSec8">
@@ -75,7 +278,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
         Cycle 8
       </button>
       </h2>
-      <div id="collapseSec8" class="accordion-collapse collapse show" aria-labelledby="headingSec8" data-bs-parent="#accordionPointings" style="">
+      <div id="collapseSec8" class="accordion-collapse collapse" aria-labelledby="headingSec8" data-bs-parent="#accordionPointings" style="">
         <div class="accordion-body">
           <table class="table table-striped table-hover" style="font-size: 0.77em;">
             <thead>
