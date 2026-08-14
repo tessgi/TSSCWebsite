@@ -215,7 +215,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</tr>
 		<tr>
 		<td><a href="sector111_summary.html">s111</a></td>
-		<td>>Southern ecliptic hemisphere</td>
+		<td>Southern ecliptic hemisphere</td>
 		<td>125.46, -28.27</td>
 		<td>228.41</td>
 		<td>2026&nbsp;Nov&nbsp26</td>
