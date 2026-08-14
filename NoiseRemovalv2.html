@@ -261,9 +261,9 @@ allows users to write and execute <em>Python</em> in a TESS specific environment
 your browser with zero configuration required.</p>
 <p>To import the packages necessary for this tutorial, you can run the following.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span><span class="w"> </span><span class="nn">lightkurve</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span><span class="w">
-</span><span class="kn">import</span><span class="w"> </span><span class="nn">matplotlib.pyplot</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">plt</span><span class="w">
+<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
+</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
 </span><span class="o">%</span><span class="k">matplotlib</span> inline
 </pre>
 </div>
@@ -407,7 +407,7 @@ for more information.</p>
 <p>First, we must import the <em>CBVCorrector</em> from <em>lightkurve.correctors</em>,
 and then we can refer to our generate light curve.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">CBVCorrector</span><span class="w">
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">CBVCorrector</span><span class="w">
 </span><span class="n">cbvCorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">lc_S32</span><span class="p">,</span> <span class="n">interpolate_cbvs</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span><span class="w">
 </span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">cbvs</span>
 </pre>
@@ -487,7 +487,7 @@ previously defined object aperture to determine our systematics. We can
 apply regression correction as follows.</p>
 <pre class="code ipython3 literal-block">
 <span class="c1">#Import the packages you need</span><span class="w">
-</span><span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span>
+</span><span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span>
 </pre>
 <p>Next, we are going to define a design matrix which will contain all the
 systematics detected in the pixels outside of our aperture.</p>
@@ -564,7 +564,7 @@ define the pixels, where as <em>PLDCorrector</em> does not.</p>
 <p>We will create a <em>PLDCorrector</em> object, and use the default values for
 PLDCorrector.correct to remove this scattered light background.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
+<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
 </span><span class="n">pld_S32</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">S32</span><span class="p">)</span><span class="w">
 </span><span class="n">pld_S32</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span><span class="w">
 </span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld_S32</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
