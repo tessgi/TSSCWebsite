@@ -262,12 +262,12 @@ command at the top of your colab notebook:</p>
 <p><tt class="docutils literal">!pip install <span class="pre">git+https://github.com/lightkurve/lightkurve.git</span> <span class="pre">--quiet</span></tt></p>
 <p>This downloads the <em>Lightkurve</em> package.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
-</span><span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span><span class="w">
-</span><span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">warnings</span>
+<span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span><span class="w">
+</span><span class="kn">import</span><span class="w"> </span><span class="nn">lightkurve</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">lk</span><span class="w">
+</span><span class="kn">import</span><span class="w"> </span><span class="nn">matplotlib.pyplot</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">plt</span><span class="w">
+</span><span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">RegressionCorrector</span><span class="p">,</span> <span class="n">DesignMatrix</span><span class="w">
+</span><span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
+</span><span class="kn">import</span><span class="w"> </span><span class="nn">warnings</span>
 </pre>
 </div>
 <div class="section" id="introduction-into-crowding">
@@ -517,7 +517,7 @@ improve this reduction.</p>
 <div class="section" id="cbvcorrector">
 <h3>CBVCorrector</h3>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">CBVCorrector</span><span class="w">
+<span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">CBVCorrector</span><span class="w">
 </span><span class="n">cbvCorrector</span> <span class="o">=</span> <span class="n">CBVCorrector</span><span class="p">(</span><span class="n">tpf_lc</span><span class="p">)</span><span class="w">
 </span><span class="n">cbvCorrector</span><span class="o">.</span><span class="n">cbvs</span>
 </pre>

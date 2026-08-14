@@ -291,9 +291,9 @@ create time series.</li>
 <em>TESS</em> data (v2.0.1) - <a class="reference external" href="https://matplotlib.org/">Matplotlib</a> for
 plotting. - <a class="reference external" href="https://numpy.org">Numpy</a> for manipulating the data.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">lightkurve</span> <span class="k">as</span> <span class="nn">lk</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span><span class="w">
-</span><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span><span class="w">
+<span class="kn">import</span><span class="w"> </span><span class="nn">lightkurve</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">lk</span><span class="w">
+</span><span class="kn">import</span><span class="w"> </span><span class="nn">numpy</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">np</span><span class="w">
+</span><span class="kn">import</span><span class="w"> </span><span class="nn">matplotlib.pyplot</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">plt</span><span class="w">
 </span><span class="o">%</span><span class="k">matplotlib</span> inline
 </pre>
 <div class="section" id="first-time-users">
@@ -650,7 +650,7 @@ uncertainty of those points.</p>
 <div class="section" id="binning-the-light-curve">
 <h4>Binning the light curve</h4>
 <pre class="code ipython3 literal-block">
-<span class="kn">import</span> <span class="nn">astropy.units</span> <span class="k">as</span> <span class="nn">u</span><span class="w">
+<span class="kn">import</span><span class="w"> </span><span class="nn">astropy.units</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">u</span><span class="w">
 </span><span class="n">binned_lc</span> <span class="o">=</span> <span class="n">folded_lc</span><span class="o">.</span><span class="n">bin</span><span class="p">(</span><span class="n">time_bin_size</span><span class="o">=</span><span class="mi">5</span><span class="o">*</span><span class="n">u</span><span class="o">.</span><span class="n">minute</span><span class="p">)</span><span class="w">
 </span><span class="n">binned_lc</span><span class="o">.</span><span class="n">errorbar</span><span class="p">();</span>
 </pre>
@@ -802,7 +802,7 @@ that effectively models the systematic noise introduced by spacecraft
 motion. This noise model is then subtracted from the uncorrected light
 curve. We can apply it to our data using the code shown below.</p>
 <pre class="code ipython3 literal-block">
-<span class="kn">from</span> <span class="nn">lightkurve.correctors</span> <span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
+<span class="kn">from</span><span class="w"> </span><span class="nn">lightkurve.correctors</span><span class="w"> </span><span class="kn">import</span> <span class="n">PLDCorrector</span><span class="w">
 </span><span class="n">pld</span> <span class="o">=</span> <span class="n">PLDCorrector</span><span class="p">(</span><span class="n">ffi_data</span><span class="p">[</span><span class="n">mask_ffi</span><span class="p">],</span> <span class="n">aperture_mask</span><span class="o">=</span><span class="n">target_mask</span><span class="p">)</span><span class="w">
 </span><span class="n">pld</span><span class="o">.</span><span class="n">correct</span><span class="p">(</span><span class="n">pca_components</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span><span class="w">
 </span><span class="n">pltAxis</span> <span class="o">=</span> <span class="n">pld</span><span class="o">.</span><span class="n">diagnose</span><span class="p">()</span><span class="w">
