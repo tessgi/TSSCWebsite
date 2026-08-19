@@ -98,7 +98,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>Northern hemisphere</td>
 		<td>278.15, 62.96</td>
 		<td>40.31</td>
-		<td>2027&nbsp;Jun&nbsp;29</td>
+		<td>2027&nbsp;Jul&nbsp;29</td>
 		<td>2027&nbsp;Aug&nbsp;23</td>
 		<!---<td><a href="data/target_lists/sector120_targets_lists/GI_S120.csv">Download</a></td>--->
 		<td></td>
@@ -107,7 +107,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</tr>
 
 		<td><a href="sector119_summary.html">s119</a></td>
-		<td>Northern hemispher</td>
+		<td>Northern hemisphere</td>
 		<td>274.19, 61.90</td>
 		<td>19.43</td>
 		<td>2027&nbsp;Jul&nbsp;03</td>
@@ -134,7 +134,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 
 		<tr>
 		<td><a href="sector117_summary.html">s117</a></td>
-		<td>Northern hemisphe</td>
+		<td>Northern hemisphere</td>
 		<td>251.56, 32.28</td>
 		<td>347.64</td>
 		<td>2027&nbsp;May&nbsp;10</td>
@@ -173,7 +173,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 
 		<tr>
 		<td><a href="sector114_summary.html">s114</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>192.22, -56.62</td>
 		<td>213.77</td>
 		<td>2027&nbsp;Feb&nbsp;13</td>
@@ -186,7 +186,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 
 		<tr>
 		<td><a href="sector113_summary.html">s113</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>166.48, -45.53</td>
 		<td> 213.97</td>
 		<td>2027&nbsp;Jan&nbsp;17</td>
@@ -200,10 +200,10 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</tr>
 		<tr>
 		<td><a href="sector112_summary.html">s112</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>145.16, -35.69</td>
 		<td>219.77</td>
-		<td>2026&nbsp;Dec&nbsp26</td>
+		<td>2026&nbsp;Dec&nbsp22</td>
 		<td>2027&nbsp;Jan&nbsp;17</td>
 		<!---<td><a href="data/target_lists/sector112_targets_lists/GI_S112.csv">Download</a></td>--->
 		<td></td>
@@ -215,11 +215,11 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</tr>
 		<tr>
 		<td><a href="sector111_summary.html">s111</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>125.46, -28.27</td>
 		<td>228.41</td>
 		<td>2026&nbsp;Nov&nbsp26</td>
-		<td>2026&nbsp;Dec&nbsp;26</td>
+		<td>2026&nbsp;Dec&nbsp;22</td>
 		<!--<td><a href="data/target_lists/sector111_targets_lists/GI_S111.csv">Download</a></td>-->
 		<td></td>
 		<td style="min-width: 12em;">
@@ -229,7 +229,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</tr>
 		<tr>
 		<td><a href="sector110_summary.html">s110</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>106.07, -23.79</td>
 		<td>238.70</td>
 		<td>2026&nbsp;Oct&nbsp31</td>
@@ -243,10 +243,10 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</tr>
 		<tr>
 		<td><a href="sector109_summary.html">s109</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>86.38, -22.67</td>
 		<td>249.90</td>
-		<td>2025&nbsp;Oct&nbsp05</td>
+		<td>2026&nbsp;Oct&nbsp05</td>
 		<td>2026&nbsp;Oct&nbsp;31</td>
 		<!---<td><a href="data/target_lists/sector109_targets_lists/GI_S109.csv">Download</a></td>--->
 		<td></td>
@@ -256,11 +256,11 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		
 		<tr>
 	    	<td><a href="sector108_summary.html">s108</a></td>
-		<td>Southern ecliptic hemisphere</td>
+		<td>Southern hemisphere</td>
 		<td>66.27, -25.18</td>
 		<td>261.16</td>
-		<td>2025&nbsp;Sep&nbsp;07</td>
-		<td>2025&nbsp;Oct&nbsp;05</td>
+		<td>2026&nbsp;Sep&nbsp;07</td>
+		<td>2026&nbsp;Oct&nbsp;05</td>
 		<!---<td><a href="data/target_lists/sector108_targets_lists/GI_S108.csv">Download</a></td>--->
 		<td></td>
 		<td style="min-width: 12em;">Cycle 9 begins
