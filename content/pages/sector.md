@@ -71,11 +71,11 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 <div class="accordion" id="accordionPointings">
   <div class="accordion-item">
      <h2 class="accordion-header" id="headingSec10">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec10" aria-expanded="false" aria-controls="collapseSec10">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSec10" aria-expanded="false" aria-controls="collapseSec10">
         Cycle 10
       </button>
       </h2>
-      <div id="collapseSec10" class="accordion-collapse collapse show" aria-labelledby="headingSec10" data-bs-parent="#accordionPointings" style="">
+      <div id="collapseSec10" class="accordion-collapse collapse" aria-labelledby="headingSec10" data-bs-parent="#accordionPointings" style="">
         <div class="accordion-body">
           <table class="table table-striped table-hover" style="font-size: 0.77em;">
             <thead>
