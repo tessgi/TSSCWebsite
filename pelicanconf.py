@@ -135,6 +135,7 @@ MENUITEMS = (
             ('Sector Information', 'sector.html'),
             #('TESS Data', 'data-handling.html'),
             ('Data Products', 'data-products.html'),
+            ('Data Release Notes', 'data_release_notes.html'),
             ('Follow-up Program', 'tfop.html'),
             ('Users Committee', 'tuc.html'),
             ('Media Requests', 'mediarequest.html'),
