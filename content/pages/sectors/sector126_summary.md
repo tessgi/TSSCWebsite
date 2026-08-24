@@ -24,4 +24,4 @@ author: Amy Tuson
 
 {! data-release-notes/sector_126.html !}
 
-<img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.126.jpeg">
+<!--<img class="img-responsive" style="max-width:90%;" src="images/sector-plots/sector-plots.126.jpeg">-->
