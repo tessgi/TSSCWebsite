@@ -119,6 +119,94 @@ Dervișoğlu, Ahmet, Adalalı, Simge, Güney, Ferhat, et al.
 Martínez-Sebastián, C., Gamen, R., Benvenuto, O. G., et al.    
 2026, not refereed ([2026arXiv260805421M](http://adsabs.harvard.edu/abs/2026arXiv260805421M))  
 
+29. [CLEANING TESS IMAGES TO REVEAL SOLAR SYSTEM OBJECTS](http://adsabs.harvard.edu/abs/2026PSJ.....7..192A)  
+Alexandersen, Mike, Holman, Matthew J., Payne, Matthew J.    
+2026, refereed ([2026PSJ.....7..192A](http://adsabs.harvard.edu/abs/2026PSJ.....7..192A))  
+
+30. [DISCOVERY OF THE Λ BOOTIS PHENOMENON IN AN EARLY B-TYPE STAR](http://adsabs.harvard.edu/abs/2026A&A...712A..68O)  
+Olbermann, J., Aschenbrenner, P., Przybilla, N.    
+2026, refereed ([2026A&A...712A..68O](http://adsabs.harvard.edu/abs/2026A&A...712A..68O))  
+
+31. [OPTICAL AND X-RAY INVESTIGATIONS OF THREE INTERMEDIATE POLARS: IGR J17040-4305, SWIFT J170800-402551.8, AND AX J1832.3-0840](http://adsabs.harvard.edu/abs/2026ApJ..1007...79Y)  
+Yan, Fang-Zhou, Qian, Sheng-Bang, Qian, Ming-Yu, et al.    
+2026, refereed ([2026ApJ..1007...79Y](http://adsabs.harvard.edu/abs/2026ApJ..1007...79Y))  
+
+32. [HIDDEN MASSIVE ECLIPSING BINARIES IN RED SUPERGIANT SYSTEMS: THE HIERARCHICAL TRIPLE SYSTEM KQ PUPPIS AND OTHER CANDIDATES](http://adsabs.harvard.edu/abs/2026A&A...712A..30J)  
+Jadlovský, D., Molnár, L., Ercolino, A., et al.    
+2026, refereed ([2026A&A...712A..30J](http://adsabs.harvard.edu/abs/2026A&A...712A..30J))  
+
+33. [MICROLENSIFY: A TRANSFORMER BASED MACHINE LEARNING CLASSIFIER FOR MICROLENSING EVENTS TRAINED ON TESS LIGHT CURVES](http://adsabs.harvard.edu/abs/2026arXiv260819419K)  
+Kalantari, Atousa, Khakpash, Somayeh, Sajadian, Sedighe, et al.    
+2026, not refereed ([2026arXiv260819419K](http://adsabs.harvard.edu/abs/2026arXiv260819419K))  
+
+34. [ASTRONOMICAL CARDIOLOGY II: A SEARCH FOR HEARTBEAT STARS USING APOGEE AND TESS](http://adsabs.harvard.edu/abs/2026arXiv260812474C)  
+Callahan, Jowen, Rowan, D. M., Kochanek, C. S., et al.    
+2026, not refereed ([2026arXiv260812474C](http://adsabs.harvard.edu/abs/2026arXiv260812474C))  
+
+35. [AT 2020AFJZ (TSS2020A): THE FIRST FAST EXTRAGALACTIC TRANSIENT DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2026arXiv260817242R)  
+Ridden-Harper, Ryan, Roxburgh, Hugh, Montilla, Clarinda, et al.    
+2026, not refereed ([2026arXiv260817242R](http://adsabs.harvard.edu/abs/2026arXiv260817242R))  
+
+36. [REVISITING NEUTRINO EVENT EPOCHS FOR THE BLAZAR PKS 0735+178 WITH TESS](http://adsabs.harvard.edu/abs/2026arXiv260817651K)  
+Kishore, Shubham, Gupta, Alok C., Bose, Debanjan    
+2026, not refereed ([2026arXiv260817651K](http://adsabs.harvard.edu/abs/2026arXiv260817651K))  
+
+37. [THE KEPLER AND TESS ASTEROSEISMIC CONSORTIA - A HISTORICAL OVERVIEW](http://adsabs.harvard.edu/abs/2026arXiv260806937L)  
+Lund, Mikkel N., Campante, Tiago L.    
+2026, not refereed ([2026arXiv260806937L](http://adsabs.harvard.edu/abs/2026arXiv260806937L))  
+
+38. [RESULTS FROM THE FIRST SPECTROPOLARIMETRIC SURVEY OF $Γ$ DOR PULSATORS](http://adsabs.harvard.edu/abs/2026arXiv260811854L)  
+Labadie-Bartz, J., Ouazzani, R., Neiner, C., et al.    
+2026, not refereed ([2026arXiv260811854L](http://adsabs.harvard.edu/abs/2026arXiv260811854L))  
+
+39. [THE $Δ$ SCUTI PULSATOR OCCURRENCE AS A FUNCTION OF AGE, $T_{\RM EFF}$, ROTATION, AND METALLICITY](http://adsabs.harvard.edu/abs/2026arXiv260807792B)  
+Berry, Ian, Huber, Daniel, Li, Yaguang, et al.    
+2026, not refereed ([2026arXiv260807792B](http://adsabs.harvard.edu/abs/2026arXiv260807792B))  
+
+40. [TIC 433545934: THE FIRST 2+2 TYPE DOUBLY ECLIPSING BINARY WITH EXTRA, MUTUAL ECLIPSES](http://adsabs.harvard.edu/abs/2026arXiv260813034B)  
+Borkovits, Tamás, Rappaport, Saul A., Zasche, Petr, et al.    
+2026, not refereed ([2026arXiv260813034B](http://adsabs.harvard.edu/abs/2026arXiv260813034B))  
+
+41. [ASTEROSEISMOLOGY OF THE MULTIPERIODIC FIELD SX PHE PULSATOR BL CAMELOPARDALIS](http://adsabs.harvard.edu/abs/2026arXiv260819076S)  
+Szewczuk, W., Daszyńska-Daszkiewicz, J., Walczak, P., et al.    
+2026, not refereed ([2026arXiv260819076S](http://adsabs.harvard.edu/abs/2026arXiv260819076S))  
+
+42. [CHARACTERIZING STELLAR FLARES IN ARIEL TARGETS: ACTIVITY ANALYSIS AND TRANSIT CONTAMINATION](http://adsabs.harvard.edu/abs/2026arXiv260816301G)  
+Galletta, G., Colombo, S., Micela, G.    
+2026, not refereed ([2026arXiv260816301G](http://adsabs.harvard.edu/abs/2026arXiv260816301G))  
+
+43. [GRAVITY MODES AND POTENTIAL EVIDENCE FOR ROSSBY WAVES IN LATE O-TYPE SUPERGIANTS](http://adsabs.harvard.edu/abs/2026arXiv260811010C)  
+Cidale, Lydia S., Christen, Alejandra, Alberici Adam, Aldana, et al.    
+2026, not refereed ([2026arXiv260811010C](http://adsabs.harvard.edu/abs/2026arXiv260811010C))  
+
+44. [FIRST AND COMPREHENSIVE STUDY OF V0757 PUP : $Γ-$DORADUS PULSATOR IN DETACHED ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2026arXiv260811896D)  
+Danang Setyo Budi, Bakuh, Randolph, Bryant, Nanda Akilah, Rafa, et al.    
+2026, not refereed ([2026arXiv260811896D](http://adsabs.harvard.edu/abs/2026arXiv260811896D))  
+
+45. [FILLING THE GAP: CALIBRATING GYROCHRONOLOGY AT 1.3 GYR WITH THE BENCHMARK CLUSTER NGC-752](http://adsabs.harvard.edu/abs/2026arXiv260810077B)  
+Boyle, Andrew W., Mann, Andrew W.    
+2026, not refereed ([2026arXiv260810077B](http://adsabs.harvard.edu/abs/2026arXiv260810077B))  
+
+46. [DISCOVERY OF THE $Λ$ BOOTIS PHENOMENON IN AN EARLY B-TYPE STAR](http://adsabs.harvard.edu/abs/2026arXiv260806954O)  
+Olbermann, J., Aschenbrenner, P., Przybilla, N.    
+2026, not refereed ([2026arXiv260806954O](http://adsabs.harvard.edu/abs/2026arXiv260806954O))  
+
+47. [A HELIUM-SHELL BURNING BLUE HORIZONTAL BRANCH STAR PRODUCED FROM COMMON ENVELOPE EVOLUTION](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1417L)  
+Li, Jiao, Luo, Changqing, Chen, Hai-Liang, et al.    
+2026, refereed ([2026MNRAS.tmp.1417L](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1417L))  
+
+48. [DIAMETERS AND TEMPERATURES VII: HIGH-ANGULAR RESOLUTION MEASUREMENTS OF SOLAR-TYPE STARS WITH THE CHARA ARRAY](http://adsabs.harvard.edu/abs/2026arXiv260811440B)  
+Boyajian, Tabetha S., Elliott, Ashley A., Tiburcio, Emelly D., et al.    
+2026, not refereed ([2026arXiv260811440B](http://adsabs.harvard.edu/abs/2026arXiv260811440B))  
+
+49. [SOUTHERN MASSIVE STARS AT HIGH ANGULAR RESOLUTION (SMASH+): PROPERTIES OF HIERARCHICAL MASSIVE TRIPLES](http://adsabs.harvard.edu/abs/2026A&A...712A..53B)  
+Bordier, E., Sana, H., Frost, A. J., et al.    
+2026, refereed ([2026A&A...712A..53B](http://adsabs.harvard.edu/abs/2026A&A...712A..53B))  
+
+50. [ATLAS22KJN (AT 2022FPX): A CORONAL LINE EMITTER WITH AN EARLY LIGHT CURVE BUMP AND MID-INFRARED DUST ECHO](http://adsabs.harvard.edu/abs/2026arXiv260811300E)  
+Engholm, Athena C., Hinkle, Jason T., Shappee, Benjamin J., et al.    
+2026, not refereed ([2026arXiv260811300E](http://adsabs.harvard.edu/abs/2026arXiv260811300E))  
+
 
 2026-07
 -------

@@ -95,6 +95,62 @@ Fukuda, Izuru, Narita, Norio, Fukui, Akihiko, et al.
 Garai, Z., Szabó, Gy. M., Gandolfi, D., et al.    
 2026, not refereed ([2026arXiv260801120G](http://adsabs.harvard.edu/abs/2026arXiv260801120G))  
 
+23. [ASTRO-HUNTERS: MACHINE LEARNING FOR EXOPLANET TRANSIT DETECTION IN TESS PHOTOMETRY](http://adsabs.harvard.edu/abs/2026arXiv260818172E)  
+Emad Eldin, Fatimah    
+2026, not refereed ([2026arXiv260818172E](http://adsabs.harvard.edu/abs/2026arXiv260818172E))  
+
+24. [THE GAPS PROGRAMME AT TNG: LXXIV. A REANALYSIS OF THE PLANETARY SYSTEMS TOI-1272 AND TOI-1694 WITH HARPS-N AND RETRACTION OF THE PLANETARY INTERPRETATION OF TOI-1272 C](http://adsabs.harvard.edu/abs/2026A&A...712A.147M)  
+Mancini, L., Naponiello, L., Damasso, M., et al.    
+2026, refereed ([2026A&A...712A.147M](http://adsabs.harvard.edu/abs/2026A&A...712A.147M))  
+
+25. [TOI-2147 B AND TOI-6019 B: TWO ECCENTRIC WARM JUPITERS DETECTED AND CHARACTERIZED WITH TESS AND MAHPS](http://adsabs.harvard.edu/abs/2026A&A...712A.157T)  
+Thomas, Luis, Nielsen, Louise D., Kellermann, Hanna, et al.    
+2026, refereed ([2026A&A...712A.157T](http://adsabs.harvard.edu/abs/2026A&A...712A.157T))  
+
+26. [TOI-7475 SPECTROSCOPIC FOLLOW UP - DETECTION OF A MASSIVE HOT JUPITER ON AN ECCENTRIC ORBIT](http://adsabs.harvard.edu/abs/2026arXiv260809679P)  
+Pietrucha, Joanna, Jerzy Tokarek, Jakub, Witczak, Mateusz, et al.    
+2026, not refereed ([2026arXiv260809679P](http://adsabs.harvard.edu/abs/2026arXiv260809679P))  
+
+27. [THE SENSITIVITY OF TESS TO TRANSITING PLANETS IN TOIS WITH CLOSE-IN STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2026arXiv260813527L)  
+Littlefield, Colin, Lester, Kathryn V., Ciardi, David R., et al.    
+2026, not refereed ([2026arXiv260813527L](http://adsabs.harvard.edu/abs/2026arXiv260813527L))  
+
+28. [THREE NEW EXOPLANET SYSTEMS FROM THE DISPERSED MATTER PLANET PROJECT](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1422B)  
+Barnes, J. R., Haswell, C. A., Ross, Z. O. B., et al.    
+2026, refereed ([2026MNRAS.tmp.1422B](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1422B))  
+
+29. [DISCOVERY OF AN ECCENTRIC HOT SUPER-JUPITER LEAVING THE TRANSITING GEOMETRY OF THE EARLY-A-TYPE STAR TOI-1355](http://adsabs.harvard.edu/abs/2026arXiv260817387W)  
+Watanabe, Noriharu, Narita, Norio, Fukui, Akihiko, et al.    
+2026, not refereed ([2026arXiv260817387W](http://adsabs.harvard.edu/abs/2026arXiv260817387W))  
+
+30. [A CHEMO-DYNAMICAL SEARCH FOR PLANET-CANDIDATE HOSTS OF POSSIBLE EXTRAGALACTIC ORIGIN](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1403S)  
+Sun, Tiancheng, Chen, Xunzhou, Xiang, Maosheng, et al.    
+2026, refereed ([2026MNRAS.tmp.1403S](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1403S))  
+
+31. [CONFIRMATION OF THE LONG-PERIOD EXOPLANET TOI-4409 B](http://adsabs.harvard.edu/abs/2026A&A...712A.142R)  
+Reller, Patricio, Brahm, Rafael, Merín, Bruno, et al.    
+2026, refereed ([2026A&A...712A.142R](http://adsabs.harvard.edu/abs/2026A&A...712A.142R))  
+
+32. [A PAIR OF WARM SATURN-MASS PLANETS NEAR THE 2:1 MEAN MOTION RESONANCE AROUND TOI-3850](http://adsabs.harvard.edu/abs/2026arXiv260811328C)  
+Collins, Sean, Kunimoto, Michelle, Cowan, Nicolas B., et al.    
+2026, not refereed ([2026arXiv260811328C](http://adsabs.harvard.edu/abs/2026arXiv260811328C))  
+
+33. [STELLAR TIDAL SYSTEMATICS IN APSIDAL-MOTION SEARCHES FOR CIRCUMBINARY PLANETS: CH IND AND SW CMA](http://adsabs.harvard.edu/abs/2026arXiv260813269J)  
+Jiang, Qunfeng    
+2026, not refereed ([2026arXiv260813269J](http://adsabs.harvard.edu/abs/2026arXiv260813269J))  
+
+34. [ARE HOT JUPITERS TIDALLY DISRUPTED DURING STELLAR MAIN SEQUENCE?](http://adsabs.harvard.edu/abs/2026arXiv260812790H)  
+Hu, Qingru, Zhu, Wei, Huang, Yang, et al.    
+2026, not refereed ([2026arXiv260812790H](http://adsabs.harvard.edu/abs/2026arXiv260812790H))  
+
+35. [A SEARCH FOR HELIUM IN THE ATMOSPHERES OF THREE SUB-NEPTUNES AND A SUPER-EARTH AROUND M-DWARFS](http://adsabs.harvard.edu/abs/2026arXiv260819030K)  
+Kawauchi, Kiyoe, Narita, Norio, Ito, Yuichi, et al.    
+2026, not refereed ([2026arXiv260819030K](http://adsabs.harvard.edu/abs/2026arXiv260819030K))  
+
+36. [THE TIDAL VENUS PHENOMENON: DEMOGRAPHICS AND CASE STUDIES](http://adsabs.harvard.edu/abs/2026arXiv260818290K)  
+Kane, Stephen R., Miles, Emma L.    
+2026, not refereed ([2026arXiv260818290K](http://adsabs.harvard.edu/abs/2026arXiv260818290K))  
+
 
 2026-07
 -------
