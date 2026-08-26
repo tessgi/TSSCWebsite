@@ -92,7 +92,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               </tr>
 	      
             </thead>
-	    	<tr>
+	  <tr>
 		<td><a href="sector134_summary.html">s134</a></td>
 		<td>Ecliptic</td>
 		<td>314.21, -16.82</td>
@@ -101,10 +101,11 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>2028&nbsp;Sep&nbsp;13</td>
 		<!---<td><a href="data/target_lists/sector134_targets_lists/GI_S134.csv">Download</a></td>--->
 		<td></td>
-	   	<td style="min-width: 12em;">
-    	   	</td>		      
+	  <td style="min-width: 12em;">
+	  </td>		      
 		</tr>
 
+		<tr>
 		<td><a href="sector133_summary.html">s133</a></td>
 		<td>Ecliptic</td>
 		<td>236.48, -18.90</td>
@@ -129,7 +130,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td style="min-width: 12em;">
 		</td>
 		</tr>
-		<tr>
 
 		<tr>
 		<td><a href="sector131_summary.html">s131</a></td>
@@ -196,7 +196,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector126_summary.html">s126</a></td>
 		<td>Northern hemisphere</td>
@@ -210,8 +209,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-
-		</tr>
 		<tr>
 		<td><a href="sector125_summary.html">s125</a></td>
 		<td>Northern hemisphere</td>
@@ -225,7 +222,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector124_summary.html">s124</a></td>
 		<td>Northern hemisphere</td>
@@ -239,7 +235,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector123_summary.html">s123</a></td>
 		<td>Northern hemisphere</td>
@@ -253,7 +248,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector122_summary.html">s122</a></td>
 		<td>Northern hemisphere</td>
@@ -263,21 +257,9 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>2027&nbsp;Oct&nbsp;17</td>
 		<!---<td><a href="data/target_lists/sector122_targets_lists/GI_S122.csv">Download</a></td>--->
 		<td></td>
-		<td style="min-width: 12em;">
-		</td>
-		</tr>
-		
-		<tr>
-	  <td><a href="sector121_summary.html">s121</a></td>
-		<td>Northern hemisphere</td>
-		<td>281.23, 64.67</td>
-		<td>62.67</td>
-		<td>2027&nbsp;Aug&nbsp;23</td>
-		<td>2027&nbsp;Sep&nbsp;19</td>
-		<!---<td><a href="data/target_lists/sector121_targets_lists/GI_S121.csv">Download</a></td>--->
-		<td></td>
 		<td style="min-width: 12em;">Cycle 10 begins
 		</td>
+		</tr>
 
           </table>
         </div>
@@ -308,7 +290,20 @@ The spacecraft and individual camera pointing positions are [available from MIT]
               </tr>
 	      
             </thead>
-	    	<tr>
+	  <tr>
+	  <td><a href="sector121_summary.html">s121</a></td>
+		<td>Northern hemisphere</td>
+		<td>281.23, 64.67</td>
+		<td>62.67</td>
+		<td>2027&nbsp;Aug&nbsp;23</td>
+		<td>2027&nbsp;Sep&nbsp;19</td>
+		<!---<td><a href="data/target_lists/sector121_targets_lists/GI_S121.csv">Download</a></td>--->
+		<td></td>
+		<td style="min-width: 12em;">
+		</td>
+		</tr>
+
+		<tr>
 		<td><a href="sector120_summary.html">s120</a></td>
 		<td>Northern hemisphere</td>
 		<td>278.15, 62.96</td>
@@ -317,10 +312,11 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td>2027&nbsp;Aug&nbsp;23</td>
 		<!---<td><a href="data/target_lists/sector120_targets_lists/GI_S120.csv">Download</a></td>--->
 		<td></td>
-	   	<td style="min-width: 12em;">
-    	   	</td>		      
+	  <td style="min-width: 12em;">
+	  </td>		      
 		</tr>
 
+		<tr>
 		<td><a href="sector119_summary.html">s119</a></td>
 		<td>Northern hemisphere</td>
 		<td>274.19, 61.90</td>
@@ -345,7 +341,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td style="min-width: 12em;">
 		</td>
 		</tr>
-		<tr>
 
 		<tr>
 		<td><a href="sector117_summary.html">s117</a></td>
@@ -412,7 +407,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector112_summary.html">s112</a></td>
 		<td>Southern hemisphere</td>
@@ -426,8 +420,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-
-		</tr>
 		<tr>
 		<td><a href="sector111_summary.html">s111</a></td>
 		<td>Southern hemisphere</td>
@@ -441,7 +433,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector110_summary.html">s110</a></td>
 		<td>Southern hemisphere</td>
@@ -455,7 +446,6 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		</td>
 		</tr>
 
-		</tr>
 		<tr>
 		<td><a href="sector109_summary.html">s109</a></td>
 		<td>Southern hemisphere</td>
@@ -468,9 +458,9 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td style="min-width: 12em;">
 		</td>
 		</tr>
-		
+
 		<tr>
-	    	<td><a href="sector108_summary.html">s108</a></td>
+	  <td><a href="sector108_summary.html">s108</a></td>
 		<td>Southern hemisphere</td>
 		<td>66.27, -25.18</td>
 		<td>261.16</td>
@@ -480,6 +470,7 @@ The spacecraft and individual camera pointing positions are [available from MIT]
 		<td></td>
 		<td style="min-width: 12em;">Cycle 9 begins
 		</td>
+		</tr>
 
           </table>
         </div>
