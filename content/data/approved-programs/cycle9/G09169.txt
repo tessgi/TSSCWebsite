@@ -1,0 +1,10 @@
+# TESS Program G09169
+
+Title: Moving Beyond The Classics: New Benchmark Star Clusters For Gyrochronology
+
+PI: Curtis, Jason - Columbia University
+
+Type: SMALL
+
+Summary: Gyrochronology is a promising yet flawed clock. Stars do not spin down continuously; instead, once converged onto tight sequences of slowly rotating stars, they temporarily stall for an unknown extended period of time, heavily biasing rotation-ages. We propose to conduct a rotation census with TESS and ZTF of 5 older nearby clusters (0.8-1.5 Gyr) to determine how long stars remain stalled. Once completed, we will follow up with optical spectroscopy and X-rays to measure their chromospheric and coronal emission to determine the physical mechanism behind stalling and constrain the high-energy environments at these older ages. In Cycle 9, we will also survey NGC 6633 & Collinder, as they are coeval with Hyades but with lower [Fe/H], to test how sensitive gyrochronology is to metallicity.
+

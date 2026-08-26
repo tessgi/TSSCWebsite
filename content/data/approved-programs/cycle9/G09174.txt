@@ -1,0 +1,10 @@
+# TESS Program G09174
+
+Title: TESS Extragalactic Survey Of The Fast Time Domain
+
+PI: Rest, Armin - Space Telescope Science Institute
+
+Type: LARGE
+
+Summary: In the last decade, an increasing number of fast extragalactic transients with time scales of about one week have been discovered, yet pushing this frontier to events evolving on timescales shorter than a day has remained challenging. In Cycle 9 we can push the limits by optimizing TESS for the discovery of transients that evolve from minutes to days. We join TESS high-cadence and long-baseline coverage with deep multi-band imaging from the Vera C. Rubin Observatory s LSST survey to fill in the high-cadence blanks of what LSST misses. Further still, we will undertake a large-scale 20s cadence survey of 8200 galaxies to search for sub-minute events. With this program we will uncover new phenomena in unexplored phase space and begin to understand the physics that power them.
+

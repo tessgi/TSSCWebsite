@@ -1,0 +1,29 @@
+# TESS Program G09114
+
+Title: A Systematic Search For Temporal Atmospheric Variability On Exoplanets
+
+PI: Wong, Ian - Space Telescope Science Institute
+
+Type: SMALL
+
+Summary: TESS light curves offer a full view of the orbital phase, capturing the transit, secondary eclipse, and sinusoidal phase modulations. The secondary eclipse depth and the shape of the modulations reveal key details about the planet s atmosphere. We propose to extend a systematic search for temporal atmospheric variability of hot Jupiters through Cycle 9, motivated by theoretical predictions and prior observational evidence. Combining Cycle 9 data with earlier cycles will extend the TESS time baseline and provide an additional measurement of targets observed only in 2-4 previous cycles, enabling a deeper investigation of atmospheric changes and improving phase-curve quality. This project maximizes TESS's scientific return by extracting all temporal information encoded in the light curves.
+
+
+# Sector 108 targets observed (2 min: 17, 20 s: 17)
+268766053,31.9091,-20.6618,11.76,G09058;G09114;G09031;20SECONDTARGET
+1129033,37.1558,-7.0607,9.63,G09194;G09114;20SECONDTARGET
+382391899,43.6881,-10.898,11.05,G09058;G09114;20SECONDTARGET
+268532343,14.827,-19.7711,10.83,G09058;G09114;20SECONDTARGET
+139528693,63.7563,-22.1164,11.83,G09114;20SECONDTARGET
+178284730,60.3855,-20.4509,10.31,G09114;G09031;G09180;20SECONDTARGET
+178289267,60.9482,-19.0569,11.71,G09058;G09114;20SECONDTARGET
+122612091,41.0401,-30.1691,10.46,G09058;G09114;20SECONDTARGET
+209459275,46.8185,-31.1632,10.57,G09058;G09114;20SECONDTARGET
+170634116,66.3709,-30.6004,9.68,G09058;G09114;20SECONDTARGET
+47911178,98.3511,-23.486,9.79,G09058;G09114;20SECONDTARGET
+147977348,99.7346,-36.6461,10.04,G09058;G09114;20SECONDTARGET
+53458803,102.8474,-29.0587,11.87,G09058;G09114;20SECONDTARGET
+97921547,107.8333,-35.8505,11.1,G09058;G09114;20SECONDTARGET
+100389539,109.3883,-19.8289,10.9,G09058;G09114;20SECONDTARGET
+409594381,110.2495,-13.9263,11.01,G09058;G09114;20SECONDTARGET
+415276070,114.9426,-21.4856,11.4,G09058;G09114;20SECONDTARGET

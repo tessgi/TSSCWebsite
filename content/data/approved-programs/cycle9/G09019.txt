@@ -1,0 +1,10 @@
+# TESS Program G09019
+
+Title: Resolving The Multiplicity Bottleneck: Dual-Band Imaging Of TESS Planetary Environments
+
+PI: Baranec, Christoph - University Of Hawaii (Manoa)
+
+Type: LARGE
+
+Summary: High-angular-resolution imaging of the 6,000 candidate exoplanet systems identified by TESS is essential for confirming the planetary nature of transit signals and for characterizing confirmed exoplanets. We propose a comprehensive, high-cadence, and vis/IR imaging survey using the automated Robo-AO-2 system to image ~4,000 unverified TOIs to provide robust companion star data essential for statistical validation; identify ~600 close binaries to refine system architectures; refine planetary radii by correcting for transit signal dilution; and to monitor known and suspected binaries over a two-year baseline to measure relative motion, constrain orbital parameters, and confirm physical association.
+

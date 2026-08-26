@@ -1,0 +1,10 @@
+# TESS Program G09182
+
+Title: A Five-Fold Increase In ``Holy Grail'' Calibrators: Addressing Uncertainties In Stellar Models With TESS
+
+PI: Joyce, Meridith - University Of Wyoming
+
+Type: SMALL
+
+Summary: We propose to obtain 200-s cadence TESS FFIs for 156 wide binary systems likely to host detectable oscillations in both components. The targets are drawn from a Gaia wide binary catalog and have XGBoost temperatures, gravities, and metallicities. From TESS power spectra we will measure the asteroseismic quantities $\nu_{\max}$ and $\Delta\nu$, which combined with these physical parameters yield stellar masses via standard scaling relations. These masses, together with Gaia-based metallicities, provide the constraints needed to calibrate stellar models known as isochrones. Such calibration systems are rare: this campaign will increase by a factor of five the number of Holy Grail binaries pairs that share an age and composition but have different masses allowing direct discrimination betwe
+

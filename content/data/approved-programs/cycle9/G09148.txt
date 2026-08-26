@@ -1,0 +1,10 @@
+# TESS Program G09148
+
+Title: Observations Of Comets During TESS Cycle 9
+
+PI: Farnham, Tony - University Of Maryland (College Park)
+
+Type: SMALL
+
+Summary: Comets represent the most primitive bodies in our solar system, and understanding their physical characteristics, behavior, and evolutionary processes provides insight into the formation and evolution of the solar system. The TESS spacecraft is an excellent platform for studying these dynamic bodies. Its high frequency sampling cadence, long-duration 27-day pointing, and instrumental stability produce unique and extensive datasets that can be used for exploring many different aspects of cometary behavior. The work proposed here will use full-frame images (FFI) to investigate both temporal and spatial phenomena in comets that serendipitously pass through the TESS fields of view during Cycle 9 of the mission.
+

@@ -1,0 +1,13 @@
+# TESS Program G09034
+
+Title: Refining Exoplanet Dynamics With Enhanced Ttv Analyses
+
+PI: Becker, Juliette - University Of Wisconsin-Madison
+
+Type: SMALL
+
+Summary: We propose to refine the dynamical characterization of multi-planet systems near mean-motion resonance using transit timing variations (TTVs) observed with TESS Cycle 9. By extending the observational baseline with new 20-s and 120-s cadence data, we will improve constraints on planetary masses, eccentricities, and orbital configurations. Our analysis will incorporate a more complete resonance model using the mixed resonant angle to more reliably identify resonant systems. These improved dynamical solutions will provide stronger constraints on planetary system architectures and help test theories of disk-driven migration and planetary system formation.
+
+
+# Sector 108 targets observed (2 min: 1, 20 s: 1)
+279401253,57.6573,-15.0263,11.26,G09034;G09123;20SECONDTARGET

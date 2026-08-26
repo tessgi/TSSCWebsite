@@ -1,0 +1,10 @@
+# TESS Program G09040
+
+Title: Characterising Exocomets And Host Stars With High Cadence TESS Data
+
+PI: Pollard, Karen - University Of Canterbury
+
+Type: MINI
+
+Summary: Nearby young stars hosting circumstellar disks are ideal astrophysical laboratories for studying the processes and mechanisms of planetary system formation. The presence and interaction of exoplanets, exocomets and stellar pulsations offers a unique glimpse into the early lives of stars and planets. We have compiled a target list of young stars with reported exocometary behaviour. The requested high cadence TESS observations will allow us to characterise the variability of the host stars, including any asteroseismological constraints; and detect and model any exocomet transits which occur. These high-cadence datasets will also be useful for the wider community, providing a high-cadence, high S/N time-series sample of young exocomet host stars for detailed study.
+

@@ -1,0 +1,10 @@
+# TESS Program G09095
+
+Title: Calibrating Long-Period Stellar Rotation With TESS: A Kepler-Field Benchmark
+
+PI: Mann, Andrew - University Of North Carolina
+
+Type: SMALL
+
+Summary: Stellar rotation is a vital diagnostic for stellar age and activity. TESS rotation recovery is currently limited for periods >12 days by its 27-day observing pattern and data systematics. We propose to solve this using TESS Cycle 9 rolling-sector observations of the original Kepler field. This strategy provides 52 104 days of near-continuous data for >10,000 high-quality Kepler long-period rotators, offering an unmatched ground-truth dataset. We will test five extraction methods including modified Lomb-Scargle and Gaussian Processes to produce the first comprehensive completeness and reliability maps for long-period TESS rotation. We will provide these maps and a calibrated rotation catalog as a public community resource to enable rotation period measurements for millions of stars.
+

@@ -1,0 +1,10 @@
+# TESS Program G09084
+
+Title: Coordinated TESS And Radio Monitoring Of Flares On UV Ceti And Surrounding Stars
+
+PI: Tristan, Isaiah - Rice University
+
+Type: SMALL
+
+Summary: M-dwarf flares significantly impact the atmospheres and potential habitability of orbiting exoplanets, yet the multiwavelength observations needed to fully characterize these energy releases remain critically sparse. We propose a 200-hour coordinated observation campaign using TESS and the Allen Telescope Array (ATA) to simultaneously monitor the active late-M dwarf UV Ceti and approximately 50 surrounding field stars. By capturing dozens of simultaneous optical and radio flares, including very energetic superflares, we will constrain optical-radio association rates, investigate flare timing and energy partitions, and probe if radio observations can serve as proxies for overall stellar flaring activity.
+

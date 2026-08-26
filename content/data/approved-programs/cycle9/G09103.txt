@@ -1,0 +1,10 @@
+# TESS Program G09103
+
+Title: Linking Magnetism And Rotation Across The Pre-Main-Sequence
+
+PI: Hillenbrand, Lynne - California Institute Of Technology
+
+Type: SMALL
+
+Summary: Magnetic activity arises from dynamos driven by the interplay of rotation and convection. On the main sequence, rotation activity relations are well established. At young ages, however, empirical constraints on stellar magnetic properties remain sparse, though spectroscopy is now providing direct measurements of surface magnetic fields and spot filling factors. Homogeneous rotation periods and variability amplitudes are still lacking. TESS Cycle 9 observations will close this gap by delivering uniform periods and amplitudes. Combined with magnetic diagnostics, TESS will enable tests across stellar mass and age of how rotational modulation depends on field strength, spot filling factor, and temperature contrast, providing the empirical link between rotational and magnetic evolution.
+
