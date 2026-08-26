@@ -1,0 +1,18 @@
+# TESS Program G09117
+
+Title: Calibrating Asteroseismic Scaling Relations With Totally Eclipsing Binaries From TESS And Gaia
+
+PI: Wrona, Marcin - Villanova University
+
+Type: SMALL
+
+Summary: Asteroseismic scaling relations allow the determination of stellar masses and radii from solar-like oscillations (SLOs), yet their accuracy remains debated due to poorly constrained correction factors. The most rigorous calibration requires benchmark stars with fundamental parameters independently derived from binary dynamics. Currently, only about a dozen such double-lined, totally eclipsing binaries (EBs) with detected SLOs are known. We propose high-cadence TESS observations of 44 totally eclipsing EBs identified through multi-stage filtering as likely SLO hosts. Combined with epoch radial velocities from the upcoming Gaia DR4, TESS photometry will yield precise dynamical masses and radii for direct comparison with asteroseismic estimates, significantly expanding the benchmark sample.
+
+
+# Sector 108 targets observed (2 min: 6, 20 s: 0)
+407686084,96.7094,-23.2516,8.72,G09117
+141019807,116.7898,-18.1033,12.27,G09117
+259157383,113.5409,-13.0641,11.55,G09117
+349318274,114.3764,-19.4104,11.9,G09117
+412743856,111.2169,-21.9641,10.3,G09117
+50648349,112.6139,-14.9132,10.59,G09117

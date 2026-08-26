@@ -1,0 +1,10 @@
+# TESS Program G09143
+
+Title: Study Of Optical/Near-Ultraviolet Energy Fractionation In Flares On An Active K-Dwarf Using Simultaneous 20-s TESS And S
+
+PI: Barclay, Thomas - NASA/GSFC
+
+Type: SMALL
+
+Summary: We propose simultaneous TESS 20-s cadence and Swift UVOT NUV observations of the highly active K dwarf TIC 394030788 (Teff = 5231 K) during TESS Cycle 9 to measure the optical/NUV energy fractionation of stellar flares. No previous study has obtained simultaneous optical+NUV flare detections for G/K dwarfs; existing constraints rely on upper limits. We will test whether the inverse correlation between optical-to-NUV energy ratio and NUV flare energy, established for M dwarfs, extends to K dwarfs. We request 100 ks of Swift UVOT time, expecting 10-12 simultaneous flare detections. Results will constrain radiative-hydrodynamic flare models and improve UV irradiance inputs for photochemical models of exoplanetary atmospheres around solar-type stars, with direct relevance to JWST.
+

@@ -1,0 +1,10 @@
+# TESS Program G09035
+
+Title: The Benchmark M-Dwarf Eclipsing Binary - Cm Draconis
+
+PI: Martin, David - Tufts University
+
+Type: SMALL
+
+Summary: CM Draconis is the benchmark fully convective eclipsing binary, consisting of two nearly identical M dwarfs whose deep eclipses enable extremely precise measurements of fundamental stellar parameters. The first four years of TESS observations revealed abundant flares, active spot longitudes, and a 4-year activity cycle, but these results remain statistically tentative. We request 20s and 120s Cycle 9 observations to double the temporal baseline, enabling improved modeling of eclipses, spots, and flares, testing the activity cycle, and increasing the chances of detecting circumbinary planets.
+

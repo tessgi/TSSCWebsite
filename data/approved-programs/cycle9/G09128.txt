@@ -1,0 +1,10 @@
+# TESS Program G09128
+
+Title: Migrating Giants: Probing Hot Jupiter Formation With Young Warm Jupiters
+
+PI: Barber, Madyson - University Of North Carolina
+
+Type: SMALL
+
+Summary: Hot Jupiters, with their large radii, masses, and quick orbits, provide high SNR signals in photometric and spectroscopic data, making them prime targets for follow-up studies. However, their origins are still uncertain. The lack of young (<50Myr) hot Jupiters suggest mature hot Jupiters likely migrated from longer orbits. Prior to Cycle 9, limited consecutive sector observations of young stellar associations limited the discovery of young long-period (10-200 day), Jupiter-sized planets (warm Jupiters). Here we propose to search for young warm Jupiters in the multi-consecutive sector observations of Orion, Sco-Cen, Cep-Her, and Vela in order to calculate the occurrence rate of young warm Jupiters and probe the slow migration pathway of hot Jupiter formation.
+

@@ -1,0 +1,22 @@
+# TESS Program G09052
+
+Title: Understanding The Origin And Evolutionary Context Of Variability In Alpha Cygni Variables
+
+PI: Guzik, Joyce - Los Alamos National Laboratory
+
+Type: SMALL
+
+Summary: This project leverages TESS s photometry to observe 74 Alpha Cygni variables luminous B- and A-type supergiants exhibiting quasi-periodic or aperiodic low-amplitude brightness variations (0.01 0.1 mag) on timescales of days to weeks. Ground-based observations lack the cadence, precision, and continuity to characterize the variability and detect transient phenomena. Using TESS Cycle 9 observations, with some targets observable for up to 80 days in rolled sectors, we will quantify light curve properties and search for recurrent phenomena such as those reported in the prototype Deneb. We will use TESS data in conjunction with evolution and pulsation models to investigate causes of variability and inform interior properties and evolutionary state of these stars.
+
+
+# Sector 108 targets observed (2 min: 10, 20 s: 5)
+63198307,104.6565,-28.9722,2.48,G09052;20SECONDTARGET
+107415639,111.0237,-29.3031,4.06,G09052;20SECONDTARGET
+126441970,115.9519,-28.9548,3.7,G09052;20SECONDTARGET
+148982298,115.3055,-32.6439,7.17,G09052
+306537275,107.5701,-16.6469,12.38,G09052
+306949865,108.1356,-14.4918,7.46,G09052
+348744589,113.9227,-21.4825,7.73,G09052
+409195416,109.5401,-15.6283,8.77,G09052
+5214630,112.4642,-23.0243,4.57,G09052;20SECONDTARGET
+95513457,107.389,-16.2345,6.0,G09052;20SECONDTARGET

@@ -1,0 +1,10 @@
+# TESS Program G09048
+
+Title: A Rotational And Asteroseismic Search For Merger And Engulfment Remnants With TESS
+
+PI: Ong, Joel - University Of Hawaii (Manoa)
+
+Type: LARGE
+
+Summary: First-ascent red giants exhibit no perceptible surface rotation, and have radiative cores whose thermal and structural properties are tightly bound to those of their convective envelopes. However, the products of mass transfers onto red giant stars, or stellar mergers involving them, generally rotate rapidly, and possess different internal structures than single giants. Rapid rotation is directly detectible in photometry, and asteroseismology permits the internal structures of giant stars to be directly probed. Such signatures of past mergers or engulfments have now become newly observationally accessible with the 80-day continuous pointings that are available in TESS Cycles 8 and 9. This proposal aims to search for red giants showing these signs of past companion interactions.
+

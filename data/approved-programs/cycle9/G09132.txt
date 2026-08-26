@@ -1,0 +1,14 @@
+# TESS Program G09132
+
+Title: Linking The Formation History Of Brown Dwarf Atmospheres To Their Stellar Host Environments
+
+PI: Walker, Raenessa - Texas A&M University
+
+Type: SMALL
+
+Summary: The study of brown dwarf (BD) atmospheres through transmission spectroscopy provides a unique opportunity to compare the environmental histories of various BD populations. This proposal seeks to study how environmental effects could alter the evolution of BD atmospheres through the combination of inexpensive ground-based transmission spectroscopy (to characterize the relative abundance of each BD atmosphere) and Transiting Exoplanet Survey Satellite short-cadence light curves (to investigate potential host stellar variability). This study will provide insight into many questions related to star and planet formation, as well as generate an immediate prioritization for a set of interesting BDs suitable for follow-up with space observatories, such as the James Webb Space Telescope.
+
+
+# Sector 108 targets observed (2 min: 2, 20 s: 0)
+29918916,24.7403,-7.281,10.95,G09132
+142532090,103.4105,-13.4364,11.99,G09132

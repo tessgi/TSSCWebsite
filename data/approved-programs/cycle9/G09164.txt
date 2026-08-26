@@ -1,0 +1,21 @@
+# TESS Program G09164
+
+Title: The Rotation-Pulsation Connection In Be Stars In Binary And Hierarchical Systems
+
+PI: Da Rocha, Danilo - Laboratorio Nacional De Astrofisica
+
+Type: MINI
+
+Summary: Classical Be stars are rapidly rotating B-type stars surrounded by circumstellar disks and showing hydrogen emission lines. Their variability is often linked to the interaction between stellar rotation and non-radial pulsations (NRPs), which may be further affected by binarity and hierarchical interactions. This project investigates the rotation pulsation connection in Be stars in multiple systems using TESS photometry combined with ground-based spectroscopy. Time-series analysis will identify pulsation and rotational frequencies, while spectroscopic data will provide projected rotational velocities, allowing us to explore how multiplicity influences pulsations in rapidly rotating stars.
+
+
+# Sector 108 targets observed (2 min: 9, 20 s: 5)
+140214221,84.9123,-34.0743,2.65,G09164;20SECONDTARGET
+201373582,91.7653,-34.312,5.85,G09164;20SECONDTARGET
+29628522,97.1635,-32.3712,6.09,G09164;G09194
+52982382,102.4602,-32.5084,3.55,G09164;20SECONDTARGET
+53063082,102.5973,-31.7059,5.37,G09164;20SECONDTARGET
+65903024,108.7026,-26.7726,4.05,G09164;20SECONDTARGET
+354770601,107.4041,-16.0963,9.16,G09164
+405216722,114.1762,-13.0638,9.03,G09164
+81744320,107.0616,-23.4317,8.68,G09164
