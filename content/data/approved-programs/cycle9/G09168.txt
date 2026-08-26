@@ -1,0 +1,10 @@
+# TESS Program G09168
+
+Title: The Evolution Of Dippers From Years To A Decade
+
+PI: Zsidi, Gabriella - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: The dipper phenomenon - recurring dimming events in young stars caused by occulting dust - probe the sub-au regions of protoplanetary disks. We will study the short- and long-term evolution of hundreds of dippers in Upper Sco and &#961; Oph by combining new TESS observations (S115 116) with archival TESS (S91) and K2 (C2) data. We will measure changes in light-curve asymmetry and quasiperiodicity across observing seasons, tracing variability from annual to decadal timescales. By linking dipper behavior with system properties and long-term photometric evolution using data from public surveys, we will connect dipper variability to evolving disk structure, accretion rate, or stellar magnetic field changes, providing the first large-scale study of dipper evolution over decade-long baselines.
+

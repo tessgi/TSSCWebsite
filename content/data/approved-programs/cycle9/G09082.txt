@@ -1,0 +1,10 @@
+# TESS Program G09082
+
+Title: Ophion: Fossil Population Or False Alarm?
+
+PI: Bouma, Luke - California Institute Of Technology
+
+Type: SMALL
+
+Summary: We propose a distance- and flux-limited variability census for stars with T<16 and d<500 pc in the Cycle 9 TESS full-frame images. Our primary goal is to test whether the newly reported Ophion population, located in a longstanding gap in TESS coverage north-east of the Galactic center, is a real pre-main sequence population. The key test is whether the Ophion region is unusually rich in young stars relative to analogous volumes around other Sco-Cen subgroups. We will extract and release light curves, measure rotation periods, and combine rotational youth with Gaia-based age diagnostics. The resulting public dataset will also support broad community studies of stellar variability and nearby star formation.
+

@@ -1,0 +1,10 @@
+# TESS Program G09077
+
+Title: Resolving The TESS-Kepler Tension In Warm Jupiter Companion Rates
+
+PI: Dong, Jiayin - University Of Illinois At Urbana-Champaign
+
+Type: SMALL
+
+Summary: TESS has transformed our view of warm Jupiter dynamics. Recent discoveries suggest that warm Jupiters are dynamically hot, consistent with local planet-planet scattering. Yet this picture is in tension with Kepler, which suggested that 38+/-17% of warm Jupiters have nearby companions and are dynamically cold. While the Kepler result is limited by small-number statistics, the lower companion rate from TESS (12+/-2%) is also likely incomplete because of TESS's shorter, discontinuous baseline. We show that the rolled pointing in TESS Cycles 8 and 9 extends sensitivity to Neptune-size planets with periods up to 27 days, allowing companion detections. We propose a survey of warm Jupiters to constrain their companion rates and establish a more complete view of warm Jupiter system architectures.
+

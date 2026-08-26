@@ -1,0 +1,10 @@
+# TESS Program G09063
+
+Title: Maximizing The Red Giant Asteroseismic Yield Of TESS
+
+PI: Grunblatt, Samuel - University Of Alabama
+
+Type: LARGE
+
+Summary: The red giant asteroseismic yield of TESS has not yet reached its full potential. Although >100 new planets and candidates have now been discovered transiting red giant and subgiant stars with TESS, fewer than 20% of these systems have been characterized with asteroseismology. In addition, asteroseismic studies of red giant stars without transiting planets have successfully characterized more targets, but largely ignored the lowest frequencies for which red giants could be characterized, particularly below 10 microHz. This program aims to leverage Cycle 9 data to measure oscillations in 10-30 additional transiting planet host stars, and characterize >1000 oscillating luminous red giants with TESS Cycle 9 data to enhance exoplanet demographics and galactic archaeology with TESS.
+

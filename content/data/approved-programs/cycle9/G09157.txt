@@ -1,0 +1,15 @@
+# TESS Program G09157
+
+Title: Rotation Periods And X-Ray Fluxes Of F-Stars With TESS And Swift
+
+PI: Wilson, David - University Of Colorado At Boulder
+
+Type: SMALL
+
+Summary: F-type stars are increasingly important as planet host targets for atmosphere escape studies today and as HWO targets in the future. However there are key gaps in our understanding of these stars due to the traditional focus on smaller stars. We propose to observe a sample of F stars with TESS and Swift, many of which are likely HWO targets, to provide accurate rotation periods and fill out the X-ray-Rossby number activity diagram.
+
+
+# Sector 108 targets observed (2 min: 3, 20 s: 3)
+326242565,41.2783,-18.5723,4.03,G09062;G09157;20SECONDTARGET
+93280676,86.1135,-22.4511,3.1,G09062;G09157;20SECONDTARGET
+150796339,118.0635,-34.7037,4.64,G09062;G09157;20SECONDTARGET

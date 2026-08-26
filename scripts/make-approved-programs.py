@@ -12,8 +12,9 @@ from tqdm import tqdm
 PROPOSALS_URL = "https://heasarc.gsfc.nasa.gov/docs/tess/data/approved-programs/"
 TARGETS_URL = "https://heasarc.gsfc.nasa.gov/docs/tess/data/target_lists"
 
-approved_programs = pd.read_csv('./content/data/approved-programs/approved_program_list.csv').values
-fnames = np.sort(glob("./content/data/approved-programs/cycle*/*.txt"))
+approved_programs = pd.read_csv('../content/data/approved-programs/approved_program_list.csv').values
+fnames = np.sort(glob("../content/data/approved-programs/cycle*/*.txt"))
+print(len(fnames))
 
 attrs = ['Title', 'PI', 'Type', 'Summary']
 htmlstrs = []
@@ -84,5 +85,5 @@ htmlstr = f"""<table data-toggle="table" data-pagination="true" data-search="tru
     </thead>
 </table>"""
 
-with open("./htmlcontent/tables/approved-programs.table.html", "w") as file:
+with open("../htmlcontent/tables/approved-programs.table.html", "w") as file:
     file.write(htmlstr)

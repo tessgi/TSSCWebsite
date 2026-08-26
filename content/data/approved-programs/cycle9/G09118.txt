@@ -1,0 +1,10 @@
+# TESS Program G09118
+
+Title: In-Depth Study Of Selected Tri-Axial Pulsators
+
+PI: Jayaraman, Rahul - Cornell University
+
+Type: MINI
+
+Summary: We propose to observe 20 carefully selected tri-axial pulsators in an attempt to study stellar interiors in three dimensions.
+

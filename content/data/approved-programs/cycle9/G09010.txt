@@ -1,0 +1,14 @@
+# TESS Program G09010
+
+Title: Searching For Orbital Decay In Ultra-Short-Period Planets To Constrain Planet Formation Models
+
+PI: Becker, Juliette - University Of Wisconsin-Madison
+
+Type: SMALL
+
+Summary: Ultra-short-period (USP) planets, with orbital periods $\lesssim 1$ day, occupy the extreme inner edge of the exoplanet population and provide important clues to planet formation and migration. Competing models predict different levels of ongoing tidal orbital decay, making decay measurements a key test of USP formation pathways. We propose to obtain new 20-s and 120-s cadence observations from TESS Cycle 9 to extend the observational baseline for 54 known USP planets. By measuring precise transit times and searching for deviations from a linear ephemeris, we will detect or constrain orbital period decay and translate these results into limits on the stellar tidal quality factor $Q_*$. These measurements will probe stellar tidal dissipation and help determine the dominant dynamical pathway
+
+
+# Sector 108 targets observed (2 min: 2, 20 s: 2)
+10837041,20.9221,-8.7021,10.42,G09123;G09010;20SECONDTARGET
+37348844,91.8723,-25.5949,13.61,G09142;G09010;20SECONDTARGET

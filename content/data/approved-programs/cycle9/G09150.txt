@@ -1,0 +1,50 @@
+# TESS Program G09150
+
+Title: The Symphony Of Stellar Pulsations Among Massive Stars
+
+PI: Bowman, Dominic - Newcastle University (England)
+
+Type: SMALL
+
+Summary: Massive stars are important chemical factories in the Universe and progenitors of core-collapse supernovae that enrich the host galaxy. However, a major limitation of stellar evolution models is their uncalibrated prescriptions for interior rotation and mixing processes. This is because we lack detailed empirical constraints on massive star interiors. Fortunately, most massive stars pulsate in pressure and gravity modes, which are highly sensitive to a star's interior physics. The TESS mission is providing the first all-sky, long-duration and high-precision light curve data set for the largest ever sample of massive stars. In this project, asteroseismology applied to 2-min TESS light curves will allow us to mitigate the large rotation and mixing uncertainties in stellar evolution theory.
+
+
+# Sector 108 targets observed (2 min: 38, 20 s: 8)
+65516748,43.42,-26.1557,8.71,G09150
+100589904,86.4996,-32.3066,5.47,G09150;20SECONDTARGET
+143108992,89.3842,-35.2832,4.54,G09150;20SECONDTARGET
+287913071,97.7492,-14.4889,8.71,G09150
+34590771,95.6749,-17.9559,9.36,G09150
+47763235,97.964,-23.4184,4.65,G09150;20SECONDTARGET
+78897024,103.3871,-20.2242,5.05,G09150;20SECONDTARGET
+79437840,104.3115,-22.2028,6.81,G09150
+106830354,110.2288,-26.9638,6.16,G09150
+112923257,112.6419,-34.0906,7.81,G09150
+126586580,116.1423,-24.674,5.82,G09150;20SECONDTARGET
+127648842,117.1381,-28.4037,11.19,G09150
+127746973,117.3669,-26.3412,9.85,G09150
+127977898,117.5752,-27.2509,10.73,G09150
+128051438,117.6474,-24.8766,11.68,G09150
+128127465,117.7853,-26.4693,11.84,G09150
+128564719,118.11,-26.6572,11.19,G09150
+128564945,118.1033,-26.6031,11.97,G09150
+128808726,118.4092,-26.234,9.31,G09150
+129269428,118.7938,-29.0169,9.72,G09150
+129364361,118.9316,-27.9015,11.64,G09150
+129371913,118.8884,-26.0067,11.45,G09150
+129526049,119.11,-29.4239,9.58,G09150
+129876891,119.3921,-29.182,11.32,G09150
+130100502,119.7371,-28.5584,11.23,G09150
+130101059,119.6789,-28.4388,10.89,G09150
+130348163,119.9346,-29.0153,10.84,G09150
+144535458,121.4868,-33.0061,11.22,G09150
+144746973,121.8041,-33.2659,11.24,G09150
+148794925,115.0294,-33.5423,11.86,G09150
+149085381,115.4377,-33.0855,9.68,G09150
+65664136,108.4018,-27.3563,6.36,G09150
+65803653,108.5633,-26.3525,4.72,G09150;20SECONDTARGET
+139385056,111.7478,-23.086,5.61,G09150;20SECONDTARGET
+140882409,116.5287,-22.5028,11.21,G09150
+349043273,114.1709,-19.7023,5.91,G09150;20SECONDTARGET
+50374471,112.4737,-14.1547,9.19,G09150
+5051420,109.8754,-22.0048,8.55,G09150

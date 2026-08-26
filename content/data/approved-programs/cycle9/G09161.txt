@@ -1,0 +1,10 @@
+# TESS Program G09161
+
+Title: Planet Migration And The Ringing Of Tidal Pulsations
+
+PI: Hambleton, Kelly - Villanova University
+
+Type: SMALL
+
+Summary: High eccentricity migration is thought to produce many hot Jupiters, yet the efficiency of tidal dissipation driving this process remains poorly constrained. TIC 271164883 is an extreme system in which a highly eccentric, substellar companion excites strong tidally excited pulsations (TEPs) in its host star. The Kepler light curve reveals a transit and pulsations at high orbital harmonics, indicating impulsive tidal forcing at periastron. We request 2-minute TESS observations to measure the pulsation spectrum and capture the transit more than a decade after the Kepler observations. Combined with existing 2024 TESS data, these observations will test the stability of the tidal response and search for evidence of orbital evolution.
+

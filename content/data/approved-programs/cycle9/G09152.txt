@@ -1,0 +1,14 @@
+# TESS Program G09152
+
+Title: Probing Pulsar Wind Interaction: Linking Redbacks And Transitional Millisecond Pulsar
+
+PI: Veresvarska, Martina - Institut De Ciencies De L'Espai (Ice-Csic)
+
+Type: MINI
+
+Summary: Millisecond pulsars have greatly increased in number thanks to the detection of their GeV emission with Fermi. Those in compact binaries with non-degenerate companions, the redbacks, challenge the evolutionary link between neutron-star low-mass X-ray binaries and rotation-powered radio pulsars, with three systems observed to transition between these states. Long-term optical monitoring of systems in either state can identify candidates likely to transition, probe the role of the intra-binary shock between pulsar and companion winds, and constrain the conditions for disc formation and disappearance. We propose TESS observations at 2min cadence of ten systems currently in the rotation-powered state to study the impact of the intra-binary shock on the irradiation-driven wind of the companion.
+
+
+# Sector 108 targets observed (2 min: 2, 20 s: 0)
+31091702,80.8206,-25.4603,15.93,G09152
+114300451,114.2403,-32.5459,15.74,G09152

@@ -1,0 +1,10 @@
+# TESS Program G09078
+
+Title: Rescuing The Lost TESS Planets: Updated Models Of Transit Timing Variations From Cycle 9
+
+PI: Greklek-Mckeon, Michael - Carnegie Institution Of Washington
+
+Type: SMALL
+
+Summary: The compositions of small (1 - 4 Earth radius) planets are not yet fully understood. TESS has identified many planets well-suited to investigate this question, but several of the most promising TESS systems exhibit poorly constrained transit timing variations (TTVs), making follow-up observations un-schedulable. We propose to use Cycle 9 data to update TTV analyses for the five high-value small planet TESS systems with known TTVs but no precise models of future transit times (TOI-125, 396, 402, 836, and 1266). All 5 systems have been identified as top priority follow-up targets. Our updated dynamical models will produce minute-level timing predictions valid for 10+ years, characterize non-transiting external planets, and yield more precise planet masses, eccentricities, and compositions.
+

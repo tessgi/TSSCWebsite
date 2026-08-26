@@ -1,0 +1,10 @@
+# TESS Program G09172
+
+Title: The TESS And Lsst Era For Thermonuclear Supernovae
+
+PI: Hoogendam, Willem - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: Type Ia supernovae (SNe Ia) are premier cosmological distance indicators, yet their progenitors and explosion mechanisms remain uncertain. Early-time light curves encode the explosion configuration, while late-time light curves constrain the nickel mass and ejecta structure. No single survey captures both regimes. We propose to leverage the capabilities of TESS, LSST, and complementary ground-based surveys to construct complete light curves from the explosion through the nebular phase for a statistical sample of SNe Ia observed in Cycle 9, combining TESS's continuous early-time coverage with LSST's late-time depth. These end-to-end light curves will provide unique population-level constraints on SN Ia explosion physics across subtypes.
+

@@ -1,0 +1,18 @@
+# TESS Program G09126
+
+Title: TESS Cycle 9 Monitoring Of Young And Resonant Planetary Systems
+
+PI: Dai, Fei - University Of Hawaii (Manoa)
+
+Type: SMALL
+
+Summary: We propose a Cycle 9 program to monitor ~85 planetary systems that can directly test the Break-the-Chains model of close-in planet formation. Our sample includes ~8 confirmed systems younger than 100 Myr, ~17 systems younger than 1 Gyr, and ~60 additional TTV systems that are likely young. Recent work suggests that young planetary systems are preferentially found near mean-motion resonances, but this picture is still based on only a small number of confirmed young systems. Cycle 9's longer coverage improves sensitivity to missed outer companions and extends the timing baseline for Kepler/K2 systems by up to a decade. We will search for additional transiting planets, identify resonant chains, constrain masses, orbital architectures, and ephemerides especially for the JWST targets
+
+
+# Sector 108 targets observed (2 min: 6, 20 s: 6)
+179034327,64.1839,-26.7668,9.06,G09031;G09123;G09126;20SECONDTARGET
+178155732,42.9854,-30.8137,5.91,G09062;G09123;G09126;20SECONDTARGET
+146520535,76.6497,-20.2456,11.05,G09031;G09123;G09126;20SECONDTARGET
+1167538,70.9976,-31.9067,10.01,G09123;G09126;20SECONDTARGET
+93125144,84.8466,-19.5585,9.68,G09123;G09126;20SECONDTARGET
+320411045,110.1704,-33.9223,12.32,G09058;G09126;20SECONDTARGET

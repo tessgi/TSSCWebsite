@@ -1,0 +1,10 @@
+# TESS Program G09071
+
+Title: Light Curves And Periodicity Catalog For A
+
+PI: Chickles, Emma - Massachusetts Institute Of Technology
+
+Type: LARGE
+
+Summary: We propose to extract light curves for all 1.6 billion Gaia DR3 sources in the TESS Cycles 5-9 footprint from 200s cadence full-frame images, and search for periodic variability on minute timescales using GPU-accelerated algorithms. A pilot search of 1.3 million Gaia white dwarfs has yielded 479 compact binary candidates confirmed via ZTF cross-matching, demonstrating technical readiness. Deliverables are an HDF5 light curve catalog, a billion-row periodicity catalog, and an interactive sky viewer -- the largest TESS variability catalog ever produced. Science cases include double white dwarfs, AM CVn systems, hot subdwarf pulsators, and ultracompact binaries with exotic companions. This program opens unprecedented discovery space for rapid variability across the full Gaia catalog.
+

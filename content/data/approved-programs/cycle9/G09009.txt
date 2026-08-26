@@ -1,0 +1,10 @@
+# TESS Program G09009
+
+Title: Phase-Step Pulsating Variable Stars: Delta Scuti, Rr Lyrae, And Cepheids
+
+PI: Hintz, Eric - Brigham Young University
+
+Type: MINI
+
+Summary: A recent publication with 8 delta Scuti stars discussed phase-step patterns in O-C diagrams depending on the choice of period. While this shape is mostly explained by a beat frequency of two close frequencies, the pattern is not completely repeatable. To further examine what was found in the previous work, we propose to examine longer baselines on 5 delta Scuti, plus look for similar effects in 2 RR Lyrae, and one Cepheid. The Cepheid has previously been reported to have a phase-step. The TESS data will establish a clear interpretation of period changes in these targets, where ground-based observations could be interpreted as a constant period change. With strong models from TESS we would be able to analyze ground-based data to determine if wrong predictions would be made.
+

@@ -1,0 +1,29 @@
+# TESS Program G09020
+
+Title: TESS Photometry Of A Sample Of Sb2 Eclipsing Binaries
+
+PI: Helminiak, Krzysztof - Nicolaus Copernicus Astronomical Center (Pas)
+
+Type: MINI
+
+Summary: We intend to obtain very high precision light curves of a sample of detached eclipsing and double-lined spectroscopic (SB2) binaries, which have a large number of new and unpublished high-resolution spectra (from our own observations). In total, there are over 380 stars in the program, of which 129 were selected for TESS in Cycle 9. The light curves will be combined with the precise radial velocity (RV) measurements in order to obtain accurate and precise, absolute stellar parameters.
+
+
+# Sector 108 targets observed (2 min: 17, 20 s: 2)
+257395987,34.8436,-18.0752,9.48,G09020
+404477044,37.4491,-13.2479,8.02,G09020;G09062
+4629065,37.8744,-9.0593,10.85,G09020
+66572840,37.6624,-12.8983,10.04,G09020;20SECONDTARGET
+167440233,26.5656,-8.1135,10.0,G09020
+144539611,52.3471,-24.1001,8.09,G09020;G09123
+121568625,69.3542,-21.6456,9.25,G09020
+178858648,66.8505,-27.9354,9.45,G09020
+153166843,89.6218,-27.8221,10.36,G09020
+201432628,92.5687,-33.3558,8.39,G09020
+31303242,82.8069,-27.1513,10.14,G09020
+33419790,87.4027,-21.2397,9.49,G09020
+299903137,97.3599,-25.2248,10.86,G09020
+35481236,101.969,-16.7157,9.97,G09020
+78568736,102.8913,-22.1908,9.14,G09020;G09036
+78817217,103.3203,-19.5855,8.31,G09020
+126446153,116.0132,-27.8266,10.44,G09020;20SECONDTARGET
