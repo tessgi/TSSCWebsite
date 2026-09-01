@@ -4,6 +4,42 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2026-09
+-------
+
+1. [EXOPLANETS IN ANCIENT STELLAR POPULATIONS: OCCURRENCE CONSTRAINTS AND HOT-JUPITER CANDIDATES IN THE GALACTIC HALO](http://adsabs.harvard.edu/abs/2026MNRAS.551g1386B)  
+Bashi, Dolev, Kunimoto, Michelle, Hardegree-Ullman, Kevin K., et al.    
+2026, refereed ([2026MNRAS.551g1386B](http://adsabs.harvard.edu/abs/2026MNRAS.551g1386B))  
+
+2. [TESS PHOTOMETRY AND RADIAL-VELOCITY ANALYSIS OF THE SUB-NEPTUNE EXOPLANET Π MENSAE C AND THE WIDER Π MENSAE PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2026AJ....172..159L)  
+Larsen, Skylar S., Turner, Jake D., Lewis, Nikole K., et al.    
+2026, refereed ([2026AJ....172..159L](http://adsabs.harvard.edu/abs/2026AJ....172..159L))  
+
+3. [COMPARATIVE WHITE LIGHT FLARE ACTIVITY OF YOUNG AND OLD PLANET HOSTING M DWARFS: AU MIC AND PROXIMA CENTAURI](http://adsabs.harvard.edu/abs/2026MNRAS.551g1463Y)  
+Yoldaș, E., Dal, H. A.    
+2026, refereed ([2026MNRAS.551g1463Y](http://adsabs.harvard.edu/abs/2026MNRAS.551g1463Y))  
+
+4. [HD 715 B, A WARM JUPITER ORBITING A MASSIVE SUBGIANT DISCOVERED FROM A SINGLE TESS TRANSIT](http://adsabs.harvard.edu/abs/2026AJ....172..162V)  
+Venner, Alexander, Wittenmyer, Robert A., Vanderburg, Andrew, et al.    
+2026, refereed ([2026AJ....172..162V](http://adsabs.harvard.edu/abs/2026AJ....172..162V))  
+
+5. [CONFIRMATION OF THE LOW-ECCENTRICITY WARM JUPITER HD 278555 B WITH NEID](http://adsabs.harvard.edu/abs/2026AJ....172..158B)  
+Ball, James, Gupta, Arvind F., Dragomir, Diana, et al.    
+2026, refereed ([2026AJ....172..158B](http://adsabs.harvard.edu/abs/2026AJ....172..158B))  
+
+6. [THE ORBITAL ECCENTRICITY─RADIUS DISTRIBUTION FOR WARM, SINGLE PLANETS IN TESS](http://adsabs.harvard.edu/abs/2026ApJ..1008L...6F)  
+Fairnington, Tyler R., Dong, Jiayin, Huang, Chelsea X., et al.    
+2026, refereed ([2026ApJ..1008L...6F](http://adsabs.harvard.edu/abs/2026ApJ..1008L...6F))  
+
+7. [CHEOPS OBSERVATIONS OF V1298 TAU: UPDATED PLANETARY DENSITIES AND IMPLICATIONS ON THE EARLY EVOLUTION OF THE YOUNG SYSTEM](http://adsabs.harvard.edu/abs/2026MNRAS.551g1277S)  
+Shivkumar, Hinna, Gomes, Sérgio, Désert, Jean-Michel, et al.    
+2026, refereed ([2026MNRAS.551g1277S](http://adsabs.harvard.edu/abs/2026MNRAS.551g1277S))  
+
+8. [A CHEMO-DYNAMICAL SEARCH FOR PLANET-CANDIDATE HOSTS OF POSSIBLE EXTRAGALACTIC ORIGIN](http://adsabs.harvard.edu/abs/2026MNRAS.551g1502S)  
+Sun, Tiancheng, Chen, Xunzhou, Xiang, Maosheng, et al.    
+2026, refereed ([2026MNRAS.551g1502S](http://adsabs.harvard.edu/abs/2026MNRAS.551g1502S))  
+
+
 2026-08
 -------
 
@@ -150,6 +186,58 @@ Kawauchi, Kiyoe, Narita, Norio, Ito, Yuichi, et al.
 36. [THE TIDAL VENUS PHENOMENON: DEMOGRAPHICS AND CASE STUDIES](http://adsabs.harvard.edu/abs/2026arXiv260818290K)  
 Kane, Stephen R., Miles, Emma L.    
 2026, not refereed ([2026arXiv260818290K](http://adsabs.harvard.edu/abs/2026arXiv260818290K))  
+
+37. [OBSERVING A 542-DAY TRANSITING GIANT WITH LARGE TRANSIT-TIMING VARIATIONS: THE 2025 TRANSIT OF HIP 41378 F AND NEW CONSTRAINTS ON THE OUTER SYSTEM](http://adsabs.harvard.edu/abs/2026A&A...712A.130L)  
+Leonardi, P., Santerne, A., Borsato, L., et al.    
+2026, refereed ([2026A&A...712A.130L](http://adsabs.harvard.edu/abs/2026A&A...712A.130L))  
+
+38. [HIDDEN WORLDS: A NON-TRANSITING CANDIDATE PLANET IN THE NEPTUNIAN DESERT AROUND THE SOLAR-TYPE PULSATOR KIC 9139163](http://adsabs.harvard.edu/abs/2026A&A...712A.237B)  
+Breton, S. N., Dyrek, A., Allende Prieto, C., et al.    
+2026, refereed ([2026A&A...712A.237B](http://adsabs.harvard.edu/abs/2026A&A...712A.237B))  
+
+39. [ASSESSING THE IMPACT OF HIGH-RESOLUTION IMAGING ON STATISTICAL VALIDATION OF TESS PLANET CANDIDATES](http://adsabs.harvard.edu/abs/2026arXiv260821560C)  
+Collier, Michael, Giacalone, Steven, Derfer, Brian, et al.    
+2026, not refereed ([2026arXiv260821560C](http://adsabs.harvard.edu/abs/2026arXiv260821560C))  
+
+40. [SOAR TESS SURVEY III: MAPPING THE STELLAR COMPANION DEFICIT AROUND TESS PLANET CANDIDATES](http://adsabs.harvard.edu/abs/2026arXiv260826250Z)  
+Ziegler, Carl, Tokovinin, Andrei, Briceño, César, et al.    
+2026, not refereed ([2026arXiv260826250Z](http://adsabs.harvard.edu/abs/2026arXiv260826250Z))  
+
+41. [SPIN-ORBIT ALIGNMENT OF TWO NEPTUNE-SIZE PLANETS YOUNGER THAN 500 MYR: TOI-560 B AND TOI-5082 B](http://adsabs.harvard.edu/abs/2026arXiv260822611Z)  
+Zhang, Elina Y., Dai, Fei, Howard, Andrew W., et al.    
+2026, not refereed ([2026arXiv260822611Z](http://adsabs.harvard.edu/abs/2026arXiv260822611Z))  
+
+42. [DISCOVERY AND CHARACTERIZATION OF THE TOI-4468 PLANETARY SYSTEM: A TRANSITING HOT JUPITER WITH A LONE NEARBY OUTER COMPANION](http://adsabs.harvard.edu/abs/2026arXiv260825208L)  
+Livesey, Joseph R., Hord, Benjamin J., Becker, Juliette, et al.    
+2026, not refereed ([2026arXiv260825208L](http://adsabs.harvard.edu/abs/2026arXiv260825208L))  
+
+43. [CHIANTE I: OBLIQUITY MEASUREMENTS OF FOUR HIGH-PRIORITY ARIEL TARGETS IN BINARIES](http://adsabs.harvard.edu/abs/2026arXiv260823662P)  
+Polanski, Alex S., Rice, Malena, Clark, Catherine A., et al.    
+2026, not refereed ([2026arXiv260823662P](http://adsabs.harvard.edu/abs/2026arXiv260823662P))  
+
+44. [THE HOT NEPTUNE INITIATIVE (HONEI) III. AN ULTRA-HOT SUPER NEPTUNE ORBITING THE METAL-RICH SUBGIANT STAR TOI-5646: THE LARGEST HOST FOR A DESERT DWELLER](http://adsabs.harvard.edu/abs/2026arXiv260824311M)  
+Mancini, L., Manni, F., Kubyshkina, D., et al.    
+2026, not refereed ([2026arXiv260824311M](http://adsabs.harvard.edu/abs/2026arXiv260824311M))  
+
+45. [A SEARCH FOR HELIUM IN THE ATMOSPHERES OF THREE SUB-NEPTUNES AND A SUPER-EARTH AROUND M-DWARFS](http://adsabs.harvard.edu/abs/2026PASJ..tmp..198K)  
+Kawauchi, Kiyoe, Narita, Norio, Ito, Yuichi, et al.    
+2026, refereed ([2026PASJ..tmp..198K](http://adsabs.harvard.edu/abs/2026PASJ..tmp..198K))  
+
+46. [ALFRED: A FLEXIBLE, USER-FRIENDLY PYTHON PACKAGE FOR EXOPLANET CONFIRMATION](http://adsabs.harvard.edu/abs/2026arXiv260826227K)  
+Kroft, Maxwell A.    
+2026, not refereed ([2026arXiv260826227K](http://adsabs.harvard.edu/abs/2026arXiv260826227K))  
+
+47. [DYNAMICAL MASS DEMOGRAPHY OF SINGLE S-TYPE PLANETS SHAPED BY STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2026arXiv260829140H)  
+Huang, Xiumin, Ji, Jianghui    
+2026, not refereed ([2026arXiv260829140H](http://adsabs.harvard.edu/abs/2026arXiv260829140H))  
+
+48. [DOES CUMULATIVE XUV UNIFY THE NEPTUNIAN DESERT?](http://adsabs.harvard.edu/abs/2026arXiv260821285J)  
+Jiang, Qunfeng    
+2026, not refereed ([2026arXiv260821285J](http://adsabs.harvard.edu/abs/2026arXiv260821285J))  
+
+49. [STELLAR FLARES RATHER THAN HIGH $T_{INT}$ AS POSSIBLE CAUSE FOR THE MISSING METHANE IN YOUNG EXOPLANETS: THE CASE STUDY OF V1298~TAU\,B](http://adsabs.harvard.edu/abs/2026arXiv260827576A)  
+Adams, Danica, Roy, Pierre-Alexis, Schlichting, Hilke, et al.    
+2026, not refereed ([2026arXiv260827576A](http://adsabs.harvard.edu/abs/2026arXiv260827576A))  
 
 
 2026-07
