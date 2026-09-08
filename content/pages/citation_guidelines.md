@@ -19,8 +19,8 @@ save_as: citation_guidelines.html
         <ul>
           <li>FFIs: <a href="https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ">Jenkins et al. (2016)</a></li>
           <li>SAP_FLUX light curves: <a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7740/1/Photometric-analysis-in-the-Kepler-Science-Operations-Center-pipeline/10.1117/12.856790.full">Twicken et al. (2010)</a>, <a href="https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ">Jenkins et al. (2016)</a>, <a href="https://archive.stsci.edu/files/live/sites/mast/files/home/missions-and-data/kepler/_documents/KSCI-19081-003-KDPH.pdf">Morris et al. (2020)</a></li>
-          <li>PDC_SAP light curves: Stumpe et al. <a href="https://iopscience.iop.org/article/10.1086/667698/pdf">(2012</a>, <a href="https://iopscience.iop.org/article/10.1086/674989/pdf">2014)</a>, <a href="https://iopscience.iop.org/article/10.1086/667697/pdf">Smith et al. (2012)</a></li>
-          <li>TESS-SPOC FFI light curves: <a href="https://iopscience.iop.org/article/10.3847/2515-5172/abc9b3">Caldwell et al. (2020)</a></li>
+          <li>PDC_SAP light curves: Stumpe et al. <a href="https://iopscience.iop.org/article/10.1086/667698/pdf">(2012</a>, <a href="https://iopscience.iop.org/article/10.1086/674989/pdf">2014)</a>, <a href="https://iopscience.iop.org/article/10.1086/667697/pdf">Smith et al. (2012)</a>,  <a href="https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ">Jenkins et al. (2016)</a></li>
+          <li>TESS-SPOC FFI light curves: <a href="https://iopscience.iop.org/article/10.3847/2515-5172/abc9b3">Caldwell et al. (2020)</a>,  <a href="https://ui.adsabs.harvard.edu/abs/2016SPIE.9913E..3EJ">Jenkins et al. (2016)</a></li>
         </ul>
         <h3>Suggested acknowledgments:</h3>
         <p>“We acknowledge the use of TESS data processed by the TESS Science Processing Operations Center at NASA Ames Research Center, which are publicly available from the Mikulski Archive for Space Telescopes (MAST). Funding for the TESS mission is provided by NASA's Science Mission Directorate.”</p>
