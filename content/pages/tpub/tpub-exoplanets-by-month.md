@@ -39,6 +39,34 @@ Shivkumar, Hinna, Gomes, Sérgio, Désert, Jean-Michel, et al.
 Sun, Tiancheng, Chen, Xunzhou, Xiang, Maosheng, et al.    
 2026, refereed ([2026MNRAS.551g1502S](http://adsabs.harvard.edu/abs/2026MNRAS.551g1502S))  
 
+9. [THE JWST SEARCH FOR EARTH-LUNA ANALOGS: UPPER LIMITS ON EXOMOONS AND REFINED EPHEMERIDES FOR TOI 700 D AND E](http://adsabs.harvard.edu/abs/2026AJ....172..175P)  
+Pass, Emily K., Charbonneau, David, Vanderburg, Andrew, et al.    
+2026, refereed ([2026AJ....172..175P](http://adsabs.harvard.edu/abs/2026AJ....172..175P))  
+
+10. [THE NEPTUNIAN RIDGE PLANET WASP-156 B DOES NOT HAVE A POLAR ORBIT](http://adsabs.harvard.edu/abs/2026MNRAS.551ag996L)  
+Lafarga, M., Espinoza-Retamal, J. I., Cegla, H. M., et al.    
+2026, refereed ([2026MNRAS.551ag996L](http://adsabs.harvard.edu/abs/2026MNRAS.551ag996L))  
+
+11. [RADIAL VELOCITY DETECTION OF THE TRAPPIST-1 PLANETARY SYSTEM WITH SPIROU AND NIRPS](http://adsabs.harvard.edu/abs/2026arXiv260903006L)  
+L'Heureux, Alexandrine, Doyon, René, Cadieux, Charles, et al.    
+2026, not refereed ([2026arXiv260903006L](http://adsabs.harvard.edu/abs/2026arXiv260903006L))  
+
+12. [EXOPLANETS IN STAR CLUSTERS](http://adsabs.harvard.edu/abs/2026arXiv260901013B)  
+Broza, T., Paunzen, E.    
+2026, not refereed ([2026arXiv260901013B](http://adsabs.harvard.edu/abs/2026arXiv260901013B))  
+
+13. [MASS CONSTRAINTS FOR THE K2-223 SYSTEM PLANETS: AN ULTRA-SHORT-PERIOD SUB-EARTH, A SHORT-PERIOD SUPER-EARTH, AND A TENTATIVE LONG-PERIOD GIANT PLANET](http://adsabs.harvard.edu/abs/2026arXiv260901721J)  
+Jankowski, Dawid, Nowak, Grzegorz, Lacedelli, Gaia, et al.    
+2026, not refereed ([2026arXiv260901721J](http://adsabs.harvard.edu/abs/2026arXiv260901721J))  
+
+14. [POSEIDON III: THE ALIGNED ORBIT OF THE HOT NEPTUNE AROUND THE HOT STAR WASP-195](http://adsabs.harvard.edu/abs/2026arXiv260902888E)  
+Espinoza-Retamal, Juan I., Winn, Joshua N., Brahm, Rafael, et al.    
+2026, not refereed ([2026arXiv260902888E](http://adsabs.harvard.edu/abs/2026arXiv260902888E))  
+
+15. [JWST MIRI REVEALS A POTENTIAL ATMOSPHERE ON THE ULTRA-HOT ROCKY PLANET TOI-431B](http://adsabs.harvard.edu/abs/2026arXiv260903029S)  
+Smith, Cole, Park Coy, Brandon, Weiner Mansfield, Megan, et al.    
+2026, not refereed ([2026arXiv260903029S](http://adsabs.harvard.edu/abs/2026arXiv260903029S))  
+
 
 2026-08
 -------

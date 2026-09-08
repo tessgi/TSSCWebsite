@@ -43,6 +43,38 @@ Maxted, Pierre F. L., Storm, Nicholas, Korn, Andreas J., et al.
 Çinar, D. C., Bisht, D., Jiang, Ing-Guey, et al.    
 2026, refereed ([2026AJ....172..140C](http://adsabs.harvard.edu/abs/2026AJ....172..140C))  
 
+10. [UNRAVELLING MASS TRANSFER IN ALGOLS FROM SURFACE ABUNDANCES - I. Z VULPECULAE](http://adsabs.harvard.edu/abs/2026MNRAS.551g1476D)  
+Dervișoǧlu, A., Adalalı, S., Güney, F., et al.    
+2026, refereed ([2026MNRAS.551g1476D](http://adsabs.harvard.edu/abs/2026MNRAS.551g1476D))  
+
+11. [NGC 1901: A NEW BENCHMARK CLUSTER FOR GYROCHRONOLOGY IN THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2026arXiv260903310B)  
+Bernizzoni, Mara, Bedding, Timothy R., Mani, Prasad, et al.    
+2026, not refereed ([2026arXiv260903310B](http://adsabs.harvard.edu/abs/2026arXiv260903310B))  
+
+12. [DISCOVERY OF THE FIRST-EVER RECORDED FADING EVENT OF THE WOLF-RAYET STAR WR 59](http://adsabs.harvard.edu/abs/2026arXiv260900630S)  
+Stubbings, Rod    
+2026, not refereed ([2026arXiv260900630S](http://adsabs.harvard.edu/abs/2026arXiv260900630S))  
+
+13. [SURFACE BRIGHTNESS INHOMOGENEITY ON THE HELIUM-RICH HOT SUBDWARF IN THE X-RAY BINARY HD 49798](http://adsabs.harvard.edu/abs/2026arXiv260902314J)  
+Jeffery, C. Simon, Ramsay, Gavin    
+2026, not refereed ([2026arXiv260902314J](http://adsabs.harvard.edu/abs/2026arXiv260902314J))  
+
+14. [REVISITING ORBITAL RECURRENCE IN THE DIMMINGS OF BOYAJIAN'S STAR (KIC~8462852)](http://adsabs.harvard.edu/abs/2026arXiv260902726S)  
+Socas-Navarro, Hector    
+2026, not refereed ([2026arXiv260902726S](http://adsabs.harvard.edu/abs/2026arXiv260902726S))  
+
+15. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - IX. CHARACTERISATION OF 5 SOLAR-TYPE SCLIPSING BINARIES WITH M-DWARF COMPANIONS](http://adsabs.harvard.edu/abs/2026arXiv260901033H)  
+Hahlin, Axel, Maxted, Pierre F. L., Hernandez-Araya, Ivanna, et al.    
+2026, not refereed ([2026arXiv260901033H](http://adsabs.harvard.edu/abs/2026arXiv260901033H))  
+
+16. [IONIZED NEBULAE AROUND TWO NEW SYMBIOTIC STARS: GR CYGNI AND [D75] 141](http://adsabs.harvard.edu/abs/2026arXiv260904036B)  
+Bond, Howard E., Carter, Calvin, Eklund, Sven E., et al.    
+2026, not refereed ([2026arXiv260904036B](http://adsabs.harvard.edu/abs/2026arXiv260904036B))  
+
+17. [MULTIPLICITY OF COOL STARS AND THEIR EVOLUTION](http://adsabs.harvard.edu/abs/2026arXiv260902400S)  
+Swayne, Matthew I., Decin, Leen, Khouri, Theo, et al.    
+2026, not refereed ([2026arXiv260902400S](http://adsabs.harvard.edu/abs/2026arXiv260902400S))  
+
 
 2026-08
 -------

@@ -75,6 +75,66 @@ Maxted, Pierre F. L., Storm, Nicholas, Korn, Andreas J., et al.
 Çinar, D. C., Bisht, D., Jiang, Ing-Guey, et al.    
 2026, refereed ([2026AJ....172..140C](http://adsabs.harvard.edu/abs/2026AJ....172..140C))  
 
+18. [THE JWST SEARCH FOR EARTH-LUNA ANALOGS: UPPER LIMITS ON EXOMOONS AND REFINED EPHEMERIDES FOR TOI 700 D AND E](http://adsabs.harvard.edu/abs/2026AJ....172..175P)  
+Pass, Emily K., Charbonneau, David, Vanderburg, Andrew, et al.    
+2026, refereed ([2026AJ....172..175P](http://adsabs.harvard.edu/abs/2026AJ....172..175P))  
+
+19. [UNRAVELLING MASS TRANSFER IN ALGOLS FROM SURFACE ABUNDANCES - I. Z VULPECULAE](http://adsabs.harvard.edu/abs/2026MNRAS.551g1476D)  
+Dervișoǧlu, A., Adalalı, S., Güney, F., et al.    
+2026, refereed ([2026MNRAS.551g1476D](http://adsabs.harvard.edu/abs/2026MNRAS.551g1476D))  
+
+20. [THE NEPTUNIAN RIDGE PLANET WASP-156 B DOES NOT HAVE A POLAR ORBIT](http://adsabs.harvard.edu/abs/2026MNRAS.551ag996L)  
+Lafarga, M., Espinoza-Retamal, J. I., Cegla, H. M., et al.    
+2026, refereed ([2026MNRAS.551ag996L](http://adsabs.harvard.edu/abs/2026MNRAS.551ag996L))  
+
+21. [NGC 1901: A NEW BENCHMARK CLUSTER FOR GYROCHRONOLOGY IN THE TESS SOUTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2026arXiv260903310B)  
+Bernizzoni, Mara, Bedding, Timothy R., Mani, Prasad, et al.    
+2026, not refereed ([2026arXiv260903310B](http://adsabs.harvard.edu/abs/2026arXiv260903310B))  
+
+22. [DISCOVERY OF THE FIRST-EVER RECORDED FADING EVENT OF THE WOLF-RAYET STAR WR 59](http://adsabs.harvard.edu/abs/2026arXiv260900630S)  
+Stubbings, Rod    
+2026, not refereed ([2026arXiv260900630S](http://adsabs.harvard.edu/abs/2026arXiv260900630S))  
+
+23. [RADIAL VELOCITY DETECTION OF THE TRAPPIST-1 PLANETARY SYSTEM WITH SPIROU AND NIRPS](http://adsabs.harvard.edu/abs/2026arXiv260903006L)  
+L'Heureux, Alexandrine, Doyon, René, Cadieux, Charles, et al.    
+2026, not refereed ([2026arXiv260903006L](http://adsabs.harvard.edu/abs/2026arXiv260903006L))  
+
+24. [SURFACE BRIGHTNESS INHOMOGENEITY ON THE HELIUM-RICH HOT SUBDWARF IN THE X-RAY BINARY HD 49798](http://adsabs.harvard.edu/abs/2026arXiv260902314J)  
+Jeffery, C. Simon, Ramsay, Gavin    
+2026, not refereed ([2026arXiv260902314J](http://adsabs.harvard.edu/abs/2026arXiv260902314J))  
+
+25. [EXOPLANETS IN STAR CLUSTERS](http://adsabs.harvard.edu/abs/2026arXiv260901013B)  
+Broza, T., Paunzen, E.    
+2026, not refereed ([2026arXiv260901013B](http://adsabs.harvard.edu/abs/2026arXiv260901013B))  
+
+26. [REVISITING ORBITAL RECURRENCE IN THE DIMMINGS OF BOYAJIAN'S STAR (KIC~8462852)](http://adsabs.harvard.edu/abs/2026arXiv260902726S)  
+Socas-Navarro, Hector    
+2026, not refereed ([2026arXiv260902726S](http://adsabs.harvard.edu/abs/2026arXiv260902726S))  
+
+27. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - IX. CHARACTERISATION OF 5 SOLAR-TYPE SCLIPSING BINARIES WITH M-DWARF COMPANIONS](http://adsabs.harvard.edu/abs/2026arXiv260901033H)  
+Hahlin, Axel, Maxted, Pierre F. L., Hernandez-Araya, Ivanna, et al.    
+2026, not refereed ([2026arXiv260901033H](http://adsabs.harvard.edu/abs/2026arXiv260901033H))  
+
+28. [MASS CONSTRAINTS FOR THE K2-223 SYSTEM PLANETS: AN ULTRA-SHORT-PERIOD SUB-EARTH, A SHORT-PERIOD SUPER-EARTH, AND A TENTATIVE LONG-PERIOD GIANT PLANET](http://adsabs.harvard.edu/abs/2026arXiv260901721J)  
+Jankowski, Dawid, Nowak, Grzegorz, Lacedelli, Gaia, et al.    
+2026, not refereed ([2026arXiv260901721J](http://adsabs.harvard.edu/abs/2026arXiv260901721J))  
+
+29. [POSEIDON III: THE ALIGNED ORBIT OF THE HOT NEPTUNE AROUND THE HOT STAR WASP-195](http://adsabs.harvard.edu/abs/2026arXiv260902888E)  
+Espinoza-Retamal, Juan I., Winn, Joshua N., Brahm, Rafael, et al.    
+2026, not refereed ([2026arXiv260902888E](http://adsabs.harvard.edu/abs/2026arXiv260902888E))  
+
+30. [JWST MIRI REVEALS A POTENTIAL ATMOSPHERE ON THE ULTRA-HOT ROCKY PLANET TOI-431B](http://adsabs.harvard.edu/abs/2026arXiv260903029S)  
+Smith, Cole, Park Coy, Brandon, Weiner Mansfield, Megan, et al.    
+2026, not refereed ([2026arXiv260903029S](http://adsabs.harvard.edu/abs/2026arXiv260903029S))  
+
+31. [IONIZED NEBULAE AROUND TWO NEW SYMBIOTIC STARS: GR CYGNI AND [D75] 141](http://adsabs.harvard.edu/abs/2026arXiv260904036B)  
+Bond, Howard E., Carter, Calvin, Eklund, Sven E., et al.    
+2026, not refereed ([2026arXiv260904036B](http://adsabs.harvard.edu/abs/2026arXiv260904036B))  
+
+32. [MULTIPLICITY OF COOL STARS AND THEIR EVOLUTION](http://adsabs.harvard.edu/abs/2026arXiv260902400S)  
+Swayne, Matthew I., Decin, Leen, Khouri, Theo, et al.    
+2026, not refereed ([2026arXiv260902400S](http://adsabs.harvard.edu/abs/2026arXiv260902400S))  
+
 
 2026-08
 -------
