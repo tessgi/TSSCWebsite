@@ -11,3 +11,7 @@ Summary: We propose to refine the dynamical characterization of multi-planet sys
 
 # Sector 108 targets observed (2 min: 1, 20 s: 1)
 279401253,57.6573,-15.0263,11.26,G09034;G09123;20SECONDTARGET
+
+# Sector 109 targets observed (2 min: 2, 20 s: 2)
+279401253,57.6573,-15.0263,11.26,G09034;G09123;20SECONDTARGET
+118339710,129.572,-23.5502,10.35,G09034;G09126;20SECONDTARGET
