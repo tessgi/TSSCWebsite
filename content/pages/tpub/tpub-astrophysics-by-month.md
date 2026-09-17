@@ -75,6 +75,86 @@ Bond, Howard E., Carter, Calvin, Eklund, Sven E., et al.
 Swayne, Matthew I., Decin, Leen, Khouri, Theo, et al.    
 2026, not refereed ([2026arXiv260902400S](http://adsabs.harvard.edu/abs/2026arXiv260902400S))  
 
+18. [CPD-82 291: MULTI-SECTOR TESS PHOTOMETRY AND SED ANALYSIS OF AN ACTIVE ECLIPSING BINARY](http://adsabs.harvard.edu/abs/2026PASP..138i4202B)  
+Bakıș, Volkan, Yücel, Gökhan    
+2026, refereed ([2026PASP..138i4202B](http://adsabs.harvard.edu/abs/2026PASP..138i4202B))  
+
+19. [UNVEILING THE PROPERTIES OF PULSATING LOW-MASS HELIUM-CORE WHITE DWARFS THROUGH TESS ASTEROSEISMOLOGY: I. FIRST RESULTS](http://adsabs.harvard.edu/abs/2026A&A...713A.106C)  
+Calcaferro, Leila M., Hosseininezhad, Nikoo, Uzundag, Murat, et al.    
+2026, refereed ([2026A&A...713A.106C](http://adsabs.harvard.edu/abs/2026A&A...713A.106C))  
+
+20. [SUPEROUTBURSTS AND SUPERHUMPS OF CATACLYSMIC VARIABLES OBSERVED WITH TESS](http://adsabs.harvard.edu/abs/2026arXiv260912461S)  
+Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
+2026, not refereed ([2026arXiv260912461S](http://adsabs.harvard.edu/abs/2026arXiv260912461S))  
+
+21. [CHARACTERIZING BRIGHT $Δ$ SCUTI PULSATORS USING TESS LIGHT CURVES:II. PULSATION AMPLITUDE AND ENERGY DISTRIBUTIONS](http://adsabs.harvard.edu/abs/2026arXiv260916445M)  
+Mani, Prasad, Bedding, Timothy, Murphy, Simon, et al.    
+2026, not refereed ([2026arXiv260916445M](http://adsabs.harvard.edu/abs/2026arXiv260916445M))  
+
+22. [INVESTIGATING POTENTIAL RELATIONSHIPS BETWEEN MASS TRANSFER INDICATORS AND $Δ$ SCUTI PULSATIONS IN OEA SYSTEMS](http://adsabs.harvard.edu/abs/2026arXiv260908004C)  
+Çelik, E., Kahraman Aliçavuș, F.    
+2026, not refereed ([2026arXiv260908004C](http://adsabs.harvard.edu/abs/2026arXiv260908004C))  
+
+23. [STAGE-DEPENDENT SUPERHUMP WAVEFORM EVOLUTION AND NON-STATIONARY POSITIVE-SUPERHUMP TIMING IN THE NEAR-PERIOD-GAP DWARF NOVA YZ CANCRI](http://adsabs.harvard.edu/abs/2026arXiv260906566D)  
+Dai, Zhibin, Chen, Xuefei, Han, Zhanwen    
+2026, not refereed ([2026arXiv260906566D](http://adsabs.harvard.edu/abs/2026arXiv260906566D))  
+
+24. [ECLIPSE PROPERTIES AND SUPERHUMP EVOLUTION IN THE SU UMA-TYPE DWARF NOVA Z CHA](http://adsabs.harvard.edu/abs/2026arXiv260910966S)  
+Sun, Qi-Bin, Qian, Sheng-Bang, Zhu, Li-Ying, et al.    
+2026, not refereed ([2026arXiv260910966S](http://adsabs.harvard.edu/abs/2026arXiv260910966S))  
+
+25. [SURFACE BRIGHTNESS INHOMOGENEITY ON THE HELIUM-RICH HOT SUBDWARF IN THE X-RAY BINARY HD 49798](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1539J)  
+Jeffery, C. Simon, Ramsay, Gavin    
+2026, refereed ([2026MNRAS.tmp.1539J](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1539J))  
+
+26. [UX MEN: DETACHED ECLIPSING BINARY AS A BENCHMARK CANDIDATE](http://adsabs.harvard.edu/abs/2026arXiv260910786P)  
+Pawar, Ganesh N., Hełminiak, Krzysztof G., Miller, Nicola J., et al.    
+2026, not refereed ([2026arXiv260910786P](http://adsabs.harvard.edu/abs/2026arXiv260910786P))  
+
+27. [A MICRONOVA BURST IN THE INTERMEDIATE POLAR IGR J17014-4306](http://adsabs.harvard.edu/abs/2026MNRAS.551g1579O)  
+Oliveira, Alexandre S., Souza, D. C., Luna, G. J. M., et al.    
+2026, refereed ([2026MNRAS.551g1579O](http://adsabs.harvard.edu/abs/2026MNRAS.551g1579O))  
+
+28. [IPHAS J190812.63+045728.1: A DEEPLY ECLIPSING, X-RAY BRIGHT CATACLYSMIC VARIABLE WITH FREQUENT OUTBURSTS](http://adsabs.harvard.edu/abs/2026arXiv260906352L)  
+Lopes de Oliveira, Raimundo, Bruch, Albert, Mukai, Koji, et al.    
+2026, not refereed ([2026arXiv260906352L](http://adsabs.harvard.edu/abs/2026arXiv260906352L))  
+
+29. [FUNDAMENTAL EFFECTIVE TEMPERATURE MEASUREMENTS FOR ECLIPSING BINARY STARS - IX. CHARACTERISATION OF 5 SOLAR-TYPE ECLIPSING BINARIES WITH M-DWARF COMPANIONS](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1557H)  
+Hahlin, Axel, Maxted, Pierre F. L., Hernández-Araya, Ivanna, et al.    
+2026, refereed ([2026MNRAS.tmp.1557H](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1557H))  
+
+30. [NGTS CLUSTERS SURVEY - VI. STELLAR ROTATION IN SEVEN YOUNG OPEN CLUSTERS WITHIN THE PLATO LOPS2 FIELD](http://adsabs.harvard.edu/abs/2026MNRAS.551g1557H)  
+Hughes, Alexander, Gillen, Edward, Battley, Matthew, et al.    
+2026, refereed ([2026MNRAS.551g1557H](http://adsabs.harvard.edu/abs/2026MNRAS.551g1557H))  
+
+31. [TIDALLY PERTURBED PULSATIONS IN OO DRA](http://adsabs.harvard.edu/abs/2026arXiv260908046P)  
+Parthasarathy, Niveditha, Kovalev, Mikhail, Asa'd, Randa    
+2026, not refereed ([2026arXiv260908046P](http://adsabs.harvard.edu/abs/2026arXiv260908046P))  
+
+32. [THE CHANGING OPTICAL AND X-RAY EMISSION OF THE DORMANT $Γ$ CAS STAR HD 45314](http://adsabs.harvard.edu/abs/2026arXiv260909780R)  
+Rauw, G., Nazé, Y., Bryssinck, E., et al.    
+2026, not refereed ([2026arXiv260909780R](http://adsabs.harvard.edu/abs/2026arXiv260909780R))  
+
+33. [STELLAR ACTIVITY IN A POST-MERGER GIANT STAR](http://adsabs.harvard.edu/abs/2026arXiv260915652G)  
+GGunther, Hans Moritz, Melis, C., Shen, K. J., et al.    
+2026, not refereed ([2026arXiv260915652G](http://adsabs.harvard.edu/abs/2026arXiv260915652G))  
+
+34. [OPEN CLUSTERS AS LABORATORIES FOR COOL STAR EVOLUTION: HIGHLIGHTS FROM THE COOL STARS 23 SPLINTER SESSION](http://adsabs.harvard.edu/abs/2026arXiv260909026C)  
+Chahal, Deepak, Caccherano, Beatrice, Gillen, Edward, et al.    
+2026, not refereed ([2026arXiv260909026C](http://adsabs.harvard.edu/abs/2026arXiv260909026C))  
+
+35. [A HELIUM-SHELL-BURNING BLUE HORIZONTAL BRANCH STAR PRODUCED FROM COMMON ENVELOPE EVOLUTION](http://adsabs.harvard.edu/abs/2026MNRAS.551g1525L)  
+Li, Jiao, Luo, Changqing, Chen, Hai-Liang, et al.    
+2026, refereed ([2026MNRAS.551g1525L](http://adsabs.harvard.edu/abs/2026MNRAS.551g1525L))  
+
+36. [WHITE DWARFS WITHIN 13 PC: INSIGHTS FROM ULTRAVIOLET SPECTROSCOPY](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1547O)  
+O'Brien, Mairi W, Tremblay, Pier-Emmanuel, Gänsicke, Boris T, et al.    
+2026, refereed ([2026MNRAS.tmp.1547O](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1547O))  
+
+37. [CLASSICAL NOVA V1405 CAS HAD $M_{\RM EJECTA}$$&GT;$$M_{\RM ACCRETED}$ AND SO IS UNLIKELY TO BE A TYPE IA SUPERNOVA PROGENITOR](http://adsabs.harvard.edu/abs/2026arXiv260910990S)  
+Schaefer, Bradley E.    
+2026, not refereed ([2026arXiv260910990S](http://adsabs.harvard.edu/abs/2026arXiv260910990S))  
+
 
 2026-08
 -------

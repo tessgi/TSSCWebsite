@@ -67,6 +67,50 @@ Espinoza-Retamal, Juan I., Winn, Joshua N., Brahm, Rafael, et al.
 Smith, Cole, Park Coy, Brandon, Weiner Mansfield, Megan, et al.    
 2026, not refereed ([2026arXiv260903029S](http://adsabs.harvard.edu/abs/2026arXiv260903029S))  
 
+16. [THE OCCURRENCE RATE OF NEARBY PLANETARY COMPANIONS TO HOT JUPITERS](http://adsabs.harvard.edu/abs/2026AJ....172..183S)  
+Sha, Lizhou, Vanderburg, Andrew M., Huang, Chelsea X., et al.    
+2026, refereed ([2026AJ....172..183S](http://adsabs.harvard.edu/abs/2026AJ....172..183S))  
+
+17. [DISTINCT E-Λ TRENDS IN THREE GAS-GIANT MASS REGIMES](http://adsabs.harvard.edu/abs/2026ApJ..1008L..29W)  
+Wang, Xian-Yu, Wang, Songhu, Batygin, Konstantin    
+2026, refereed ([2026ApJ..1008L..29W](http://adsabs.harvard.edu/abs/2026ApJ..1008L..29W))  
+
+18. [WASP-43B TESS PHASE CURVE MAPPING: EVIDENCE FOR A HOT INTERIOR](http://adsabs.harvard.edu/abs/2026arXiv260910719L)  
+Lally, Maura, Challener, Ryan C., Lee, Elspeth, et al.    
+2026, not refereed ([2026arXiv260910719L](http://adsabs.harvard.edu/abs/2026arXiv260910719L))  
+
+19. [TWO EXTREMELY IRRADIATED VOLATILE-RICH SUB-NEPTUNES WITH COMPANIONS IN THE TOI-426 AND TOI-1839 SYSTEMS: INSIGHTS INTO ARRIVAL AND SURVIVAL NEAR THE LOWER EDGE OF THE NEPTUNIAN DESERT](http://adsabs.harvard.edu/abs/2026arXiv260905413C)  
+Castro-González, A., Barragán, O., Armstrong, D. J., et al.    
+2026, not refereed ([2026arXiv260905413C](http://adsabs.harvard.edu/abs/2026arXiv260905413C))  
+
+20. [THREE NEW EXOPLANET SYSTEMS FROM THE DISPERSED MATTER PLANET PROJECT](http://adsabs.harvard.edu/abs/2026MNRAS.551g1486B)  
+Barnes, J. R., Haswell, C. A., Ross, Z. O. B., et al.    
+2026, refereed ([2026MNRAS.551g1486B](http://adsabs.harvard.edu/abs/2026MNRAS.551g1486B))  
+
+21. [THE GAPS PROGRAMME AT TNG: LXXVI. TOI-1533: A COMPACT SYSTEM HOSTING A SUPER-NEPTUNE-MASS PAIR WITH DISPARATE RADII](http://adsabs.harvard.edu/abs/2026A&A...713A..22M)  
+Mantovan, G., Nascimbeni, V., Desidera, S., et al.    
+2026, refereed ([2026A&A...713A..22M](http://adsabs.harvard.edu/abs/2026A&A...713A..22M))  
+
+22. [TRANSIT TIMING AND STARSPOT-INDUCED TRANSIT DEPTH VARIATIONS IN THE ~17 MYR OLD HIP 67522 SYSTEM](http://adsabs.harvard.edu/abs/2026A&A...713A..32C)  
+Chakraborty, H., Lendl, M., Nigioni, A., et al.    
+2026, refereed ([2026A&A...713A..32C](http://adsabs.harvard.edu/abs/2026A&A...713A..32C))  
+
+23. [EVIDENCE FOR LP 890-9D VIA TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2026arXiv260905312S)  
+Stevenson, Kevin B., Fu, Guangwei, Sotzen, Kristin S., et al.    
+2026, not refereed ([2026arXiv260905312S](http://adsabs.harvard.edu/abs/2026arXiv260905312S))  
+
+24. [HABITABLE-ZONE EARTHS AT THE DETECTION FRONTIER: MEASURED COMPLETENESS AND FALSE-ALARM RATE OF A TRANSIT PIPELINE FOR THE PLATO M-DWARF SAMPLE](http://adsabs.harvard.edu/abs/2026arXiv260904887T)  
+Tschudi, Yohann    
+2026, not refereed ([2026arXiv260904887T](http://adsabs.harvard.edu/abs/2026arXiv260904887T))  
+
+25. [THE DISCOVERY OF K2-232C: DIVERGENT FORMATION HISTORIES FOR HOT AND WARM JUPITERS BASED ON OUTER COMPANION ECCENTRICITY](http://adsabs.harvard.edu/abs/2026arXiv260909077R)  
+Ranshaw, Jessica A., Wang, Xian-Yu, Burt, Jennifer A., et al.    
+2026, not refereed ([2026arXiv260909077R](http://adsabs.harvard.edu/abs/2026arXiv260909077R))  
+
+26. [INHOMOGENEOUS CLOUD COVERAGE AND ALTITUDE-DEPENDENT HEAT TRANSPORT ON THE HOT-JUPITER NGTS-10 AB FROM ITS OPTICAL-TO-INFRARED PHASE CURVE](http://adsabs.harvard.edu/abs/2026arXiv260916115C)  
+Coulombe, Louis-Philippe, Parmentier, Vivien, Stevenson, Kevin B., et al.    
+2026, not refereed ([2026arXiv260916115C](http://adsabs.harvard.edu/abs/2026arXiv260916115C))  
+
 
 2026-08
 -------
