@@ -11,8 +11,8 @@ the TESS mission is provided by the NASA's Science Mission Directorate.*
 
 The TESS Science Support Center curates a list of scientific publications
 pertaining to TESS.
-The database contains 4514 publications,
-of which 3473 are peer-reviewed.
+The database contains 4561 publications,
+of which 3491 are peer-reviewed.
 It demonstrates the important impact of TESS data
 on astronomical research.
 
@@ -28,7 +28,7 @@ Or seach by topic:
 If you spot an error in the database, such as a missing entry,
 please get in touch or open an issue in the <a href="https://github.com/tessgi/tpub">GitHub repository</a> of the database.
 
-Last update: 17 Sep 2026.
+Last update: 29 Sep 2026.
 
 <hr/>
 
@@ -45,9 +45,9 @@ of year.
 
 Both TESS data have been used for scientific applications
 that reach far beyond exoplanet research.
-While 1766 works relate to exoplanets
+While 1778 works relate to exoplanets
 (39%),
-a total of 2748
+a total of 2783
 pertain to other areas of astrophysics
 (61%).
 
@@ -129,69 +129,69 @@ within the last 90 days.
 <!-- ## Most-active authors
 
 The entries in the publication database have been authored and co-authored
-by a total of 11165 unique author names.
+by a total of 11212 unique author names.
 Here we list the most-active authors, defined as those with six or more first-author publications in our database.
 
 
  * Southworth, J (34 publications)
 
- * Poro, A (21 publications)
+ * Poro, A (22 publications)
 
  * Lee, J (20 publications)
 
  * Sun, Q (16 publications)
 
- * Zasche, P (15 publications)
+ * Zasche, P (16 publications)
 
  * Gan, T (15 publications)
 
  * Kostov, V (13 publications)
 
- * Kunimoto, M (13 publications)
-
  * Cakirli, O (13 publications)
 
  * Maciejewski, G (13 publications)
 
- * Bouma, L (12 publications)
+ * Kunimoto, M (13 publications)
 
  * Kahraman Alicavus, F (12 publications)
 
- * Doyle, L (11 publications)
+ * Bouma, L (12 publications)
 
- * Schaefer, B (11 publications)
-
- * Espinoza-Retamal, J (11 publications)
-
- * Naze, Y (11 publications)
+ * Naponiello, L (11 publications)
 
  * Borkovits, T (11 publications)
 
- * Lund, M (10 publications)
+ * Naze, Y (11 publications)
+
+ * Espinoza-Retamal, J (11 publications)
+
+ * Schaefer, B (11 publications)
+
+ * Doyle, L (11 publications)
+
+ * Koen, C (10 publications)
 
  * Mantovan, G (10 publications)
 
- * Powell, B (10 publications)
-
  * Barber, M (10 publications)
-
- * Zhang, B (10 publications)
-
- * Naponiello, L (10 publications)
 
  * Balona, L (10 publications)
 
  * Maxted, P (10 publications)
 
- * Kishore, S (9 publications)
+ * Powell, B (10 publications)
 
- * Almenara, J (9 publications)
+ * Lund, M (10 publications)
 
- * Koen, C (9 publications)
+ * Zhang, B (10 publications)
 
- * Littlefield, C (9 publications)
+ * Damasso, M (9 publications)
 
- * Yildirim, M (9 publications)
+ * Boyle, A (9 publications)
+
+ * Howard, W (9 publications)
+
+ * Bryant, E (9 publications)
 
  * Yee, S (9 publications)
 
@@ -199,189 +199,191 @@ Here we list the most-active authors, defined as those with six or more first-au
 
  * Bruch, A (9 publications)
 
+ * Kishore, S (9 publications)
+
  * Ramsay, G (9 publications)
-
- * Bryant, E (9 publications)
-
- * Howard, W (9 publications)
 
  * Jeffery, C (9 publications)
 
- * Damasso, M (8 publications)
+ * Littlefield, C (9 publications)
 
- * Carleo, I (8 publications)
+ * Almenara, J (9 publications)
 
- * Savanov, I (8 publications)
+ * Knudstrup, E (9 publications)
 
- * Bognar, Z (8 publications)
-
- * Joshi, A (8 publications)
-
- * Dransfield, G (8 publications)
-
- * Zhou, A (8 publications)
-
- * Kanodia, S (8 publications)
-
- * Shi, X (8 publications)
-
- * Kalman, S (8 publications)
-
- * Meng, F (8 publications)
-
- * Knudstrup, E (8 publications)
+ * Yildirim, M (9 publications)
 
  * Hobson, M (8 publications)
 
- * Lillo-Box, J (8 publications)
-
- * Frasca, A (8 publications)
-
- * Feinstein, A (8 publications)
-
- * Wang, X (8 publications)
+ * Ilin, E (8 publications)
 
  * Li, M (8 publications)
 
+ * Feinstein, A (8 publications)
+
+ * Bognar, Z (8 publications)
+
+ * Lillo-Box, J (8 publications)
+
+ * Shi, X (8 publications)
+
+ * Meng, F (8 publications)
+
+ * Wang, X (8 publications)
+
+ * Kanodia, S (8 publications)
+
+ * Joshi, A (8 publications)
+
+ * Savanov, I (8 publications)
+
+ * Kalman, S (8 publications)
+
+ * Dransfield, G (8 publications)
+
  * Uzundag, M (8 publications)
 
- * Ilin, E (8 publications)
+ * Namekata, K (8 publications)
 
- * Boyle, A (8 publications)
+ * Frasca, A (8 publications)
 
- * Wang, Q (7 publications)
+ * Carleo, I (8 publications)
 
- * Thomson-Paressant, K (7 publications)
-
- * Pass, E (7 publications)
-
- * Yang, Y (7 publications)
-
- * Cloutier, R (7 publications)
-
- * Garai, Z (7 publications)
-
- * Rao, S (7 publications)
-
- * Yakut, K (7 publications)
+ * Zhou, A (8 publications)
 
  * Eschen, Y (7 publications)
 
- * Jayasinghe, T (7 publications)
-
- * Metcalfe, T (7 publications)
-
- * Gaidos, E (7 publications)
-
- * Wang, M (7 publications)
-
- * Li, K (7 publications)
-
- * Lacedelli, G (7 publications)
-
- * Namekata, K (7 publications)
-
- * Kovalev, M (7 publications)
-
  * Barkaoui, K (7 publications)
-
- * Subjak, J (7 publications)
-
- * Bowman, D (7 publications)
-
- * Wang, S (7 publications)
-
- * Liakos, A (7 publications)
-
- * Sajadian, S (7 publications)
-
- * Yucel, G (7 publications)
-
- * Rauw, G (7 publications)
-
- * Tripathi, A (7 publications)
 
  * Wolf, M (7 publications)
 
+ * Wang, M (7 publications)
+
+ * Metcalfe, T (7 publications)
+
+ * Yang, Y (7 publications)
+
+ * Jayasinghe, T (7 publications)
+
+ * Wang, Q (7 publications)
+
+ * Rao, S (7 publications)
+
+ * Rappaport, S (7 publications)
+
+ * Rowan, D (7 publications)
+
+ * Yucel, G (7 publications)
+
+ * Li, K (7 publications)
+
  * Rawat, N (7 publications)
+
+ * Pass, E (7 publications)
+
+ * Bowman, D (7 publications)
+
+ * Lacedelli, G (7 publications)
+
+ * Kovalev, M (7 publications)
+
+ * Tripathi, A (7 publications)
+
+ * Sajadian, S (7 publications)
+
+ * Thomson-Paressant, K (7 publications)
+
+ * Garai, Z (7 publications)
+
+ * Subjak, J (7 publications)
 
  * Fernandes, R (7 publications)
 
- * Spejcher, B (6 publications)
+ * Liakos, A (7 publications)
 
- * Rappaport, S (6 publications)
+ * Yakut, K (7 publications)
 
- * Guzik, J (6 publications)
+ * Wang, S (7 publications)
 
- * Li, L (6 publications)
+ * Cloutier, R (7 publications)
 
- * Marcadon, F (6 publications)
+ * Rauw, G (7 publications)
 
- * Battley, M (6 publications)
+ * Gaidos, E (7 publications)
 
- * Zhou, G (6 publications)
-
- * Chen, Y (6 publications)
-
- * Wells, T (6 publications)
-
- * Tokovinin, A (6 publications)
+ * Kato, T (6 publications)
 
  * Mancini, L (6 publications)
+
+ * Spejcher, B (6 publications)
+
+ * Martioli, E (6 publications)
+
+ * Labadie-Bartz, J (6 publications)
+
+ * Barragan, O (6 publications)
 
  * Canas, C (6 publications)
 
  * Ding, X (6 publications)
 
- * Labadie-Bartz, J (6 publications)
-
- * Mugrauer, M (6 publications)
-
- * Chang, L (6 publications)
-
  * Kane, S (6 publications)
-
- * Gill, S (6 publications)
-
- * Vach, S (6 publications)
-
- * Ikuta, K (6 publications)
-
- * Erdem, A (6 publications)
-
- * Murphy, S (6 publications)
-
- * Ulas, B (6 publications)
 
  * Bonfanti, A (6 publications)
 
- * Stassun, K (6 publications)
+ * Gill, S (6 publications)
 
- * Rowan, D (6 publications)
+ * Luque, R (6 publications)
 
- * Lafarga, M (6 publications)
+ * Guzik, J (6 publications)
 
- * Nardiello, D (6 publications)
-
- * Castro-Gonzalez, A (6 publications)
-
- * Wong, I (6 publications)
-
- * Barragan, O (6 publications)
-
- * Kato, T (6 publications)
+ * Mugrauer, M (6 publications)
 
  * Beard, C (6 publications)
 
- * Zhang, H (6 publications)
+ * Zhou, G (6 publications)
 
- * Saha, S (6 publications)
+ * Li, L (6 publications)
+
+ * Wong, I (6 publications)
 
  * Mathys, G (6 publications)
 
+ * Ikuta, K (6 publications)
+
+ * Castro-Gonzalez, A (6 publications)
+
+ * Vach, S (6 publications)
+
  * Murgas, F (6 publications)
 
- * Martioli, E (6 publications)
+ * Lafarga, M (6 publications)
+
+ * Ulas, B (6 publications)
+
+ * Erdem, A (6 publications)
+
+ * Stassun, K (6 publications)
+
+ * Murphy, S (6 publications)
 
  * Moharana, A (6 publications)
+
+ * Zhang, H (6 publications)
+
+ * Chang, L (6 publications)
+
+ * Saha, S (6 publications)
+
+ * Chen, Y (6 publications)
+
+ * Marcadon, F (6 publications)
+
+ * Wells, T (6 publications)
+
+ * Tokovinin, A (6 publications)
+
+ * Battley, M (6 publications)
+
+ * Nardiello, D (6 publications)
 -->

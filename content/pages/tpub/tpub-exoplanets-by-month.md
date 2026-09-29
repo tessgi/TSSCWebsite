@@ -111,6 +111,54 @@ Ranshaw, Jessica A., Wang, Xian-Yu, Burt, Jennifer A., et al.
 Coulombe, Louis-Philippe, Parmentier, Vivien, Stevenson, Kevin B., et al.    
 2026, not refereed ([2026arXiv260916115C](http://adsabs.harvard.edu/abs/2026arXiv260916115C))  
 
+27. [REVISITING TOI-4438 AND TOI-442 PLANETARY SYSTEMS WITH NEW OBSERVATIONS FROM SPIROU AND TESS](http://adsabs.harvard.edu/abs/2026A&A...713A.166S)  
+Serrano Bell, J., Hébrard, G., Martioli, E., et al.    
+2026, refereed ([2026A&A...713A.166S](http://adsabs.harvard.edu/abs/2026A&A...713A.166S))  
+
+28. [REVEALING THE SHINY NATURE OF LAVA WORLDS: SMALL PLANET PHASE CURVES WITH TESS](http://adsabs.harvard.edu/abs/2026arXiv260926874P)  
+Park Coy, Brandon, Zhang, Michael, Dai, Fei, et al.    
+2026, not refereed ([2026arXiv260926874P](http://adsabs.harvard.edu/abs/2026arXiv260926874P))  
+
+29. [TOI-4616 B: AN EARTH-SIZED PLANET TRANSITING A NEARBY M4 DWARF](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1622L)  
+Lang, F. Zong, Demory, B. O., Gómez Maqueo Chew, Y., et al.    
+2026, refereed ([2026MNRAS.tmp.1622L](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1622L))  
+
+30. [HOT ROCKS SURVEY VI: AN ANOMALOUSLY HOT DAYSIDE FOR THE ROCKY PLANET GJ 357 B](http://adsabs.harvard.edu/abs/2026arXiv260930552Z)  
+Zgraggen, Merlin, Demory, Brice-Olivier, Diamond-Lowe, Hannah, et al.    
+2026, not refereed ([2026arXiv260930552Z](http://adsabs.harvard.edu/abs/2026arXiv260930552Z))  
+
+31. [CHARACTERIZATION OF THE COMPACT MULTI-PLANET SYSTEM TOI-789: VALIDATION OF THREE TERRESTRIAL PLANETS, DYNAMICAL CHARACTERIZATION, AND DETECTION OF A FOURTH TEMPERATE CANDIDATE](http://adsabs.harvard.edu/abs/2026arXiv260922945P)  
+Pagés Navarrete, Juan F.    
+2026, not refereed ([2026arXiv260922945P](http://adsabs.harvard.edu/abs/2026arXiv260922945P))  
+
+32. [REFINED PARAMETERS, FORMATION, AND DYNAMICAL STABILITY OF THE WILD EXOPLANET SYSTEM K2-312≡HD 80653](http://adsabs.harvard.edu/abs/2026A&A...713A.140N)  
+Naponiello, L., Poretti, E., Rice, K., et al.    
+2026, refereed ([2026A&A...713A.140N](http://adsabs.harvard.edu/abs/2026A&A...713A.140N))  
+
+33. [TS23/MCDONALD AND FIES/NOT STRIKE AGAIN. TWO NEW WARM JUPITER SYSTEMS AND OUTER COMPANIONS IN A THIRD](http://adsabs.harvard.edu/abs/2026arXiv260930915K)  
+Knudstrup, E., Gandolfi, D., Cochran, W. D., et al.    
+2026, not refereed ([2026arXiv260930915K](http://adsabs.harvard.edu/abs/2026arXiv260930915K))  
+
+34. [JWST AND HST CONFIRM TRANSIT TIMING VARIATIONS FOR THE ULTRA-HOT JUPITER TOI-2109 B](http://adsabs.harvard.edu/abs/2026arXiv260926894G)  
+Greklek-McKeon, Michael, Inglis, Julie, Wallack, Nicole L., et al.    
+2026, not refereed ([2026arXiv260926894G](http://adsabs.harvard.edu/abs/2026arXiv260926894G))  
+
+35. [A SEARCH FOR SUBSTELLAR COMPANIONS AROUND A-TYPE STARS: PULSATION TIMING DETECTION OF EIGHT BROWN DWARF CANDIDATES AND A POSSIBLE HABITABLE-ZONE PLANET](http://adsabs.harvard.edu/abs/2026ApJ..1009...78W)  
+Wilson, Logan G., Hey, Daniel, Shappee, Benjamin J., et al.    
+2026, refereed ([2026ApJ..1009...78W](http://adsabs.harvard.edu/abs/2026ApJ..1009...78W))  
+
+36. [THE GAPS PROGRAMME WITH HARPS-N AT TNG: LXXVII. OCCURRENCE RATES OF SMALL CLOSE-IN PLANETS IN THE PRESENCE OF COLD JUPITERS](http://adsabs.harvard.edu/abs/2026A&A...713A..78R)  
+Ruggieri, A., Desidera, S., Pinamonti, M., et al.    
+2026, refereed ([2026A&A...713A..78R](http://adsabs.harvard.edu/abs/2026A&A...713A..78R))  
+
+37. [EXOPLANET DETECTION TECHNIQUES: RADIAL VELOCITY](http://adsabs.harvard.edu/abs/2026arXiv260929378L)  
+Luque, Rafael, Standing, Matthew R.    
+2026, not refereed ([2026arXiv260929378L](http://adsabs.harvard.edu/abs/2026arXiv260929378L))  
+
+38. [THE GAPS PROGRAMME AT TNG LXXIX. NEW MASS CONSTRAINTS FOR THE INFANT PLANETS IN THE V1298 TAU SYSTEM THROUGH A LONG-TERM RADIAL VELOCITY MONITORING WITH HARPS-N](http://adsabs.harvard.edu/abs/2026arXiv260930038D)  
+Damasso, M., Leonardi, P., Borsato, L., et al.    
+2026, not refereed ([2026arXiv260930038D](http://adsabs.harvard.edu/abs/2026arXiv260930038D))  
+
 
 2026-08
 -------
