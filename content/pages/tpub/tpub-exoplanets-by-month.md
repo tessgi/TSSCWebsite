@@ -4,6 +4,38 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2026-10
+-------
+
+1. [SPIN-ORBIT ALIGNMENT OF TWO NEPTUNE-SIZE PLANETS YOUNGER THAN 500 MYR: TOI-560 B AND TOI-5082 B](http://adsabs.harvard.edu/abs/2026AJ....172..201Z)  
+Zhang, Elina Y., Dai, Fei, Howard, Andrew W., et al.    
+2026, refereed ([2026AJ....172..201Z](http://adsabs.harvard.edu/abs/2026AJ....172..201Z))  
+
+2. [COUNTESS. I. A UNIFORMLY VETTED CATALOG OF KNOWN AND NEW TRANSITING EXOPLANETS IN THE TESS NORTHERN CONTINUOUS VIEWING ZONE](http://adsabs.harvard.edu/abs/2026ApJS..286...42H)  
+Hotnisky, Andrew, Fernandes, Rachel B., Hardegree-Ullman, Kevin K., et al.    
+2026, refereed ([2026ApJS..286...42H](http://adsabs.harvard.edu/abs/2026ApJS..286...42H))  
+
+3. [CONSTRAINING THE PLANETARY OBLIQUITY DISTRIBUTION OF WARM JUPITERS](http://adsabs.harvard.edu/abs/2026AJ....172..224L)  
+Lammers, Caleb, Winn, Joshua N.    
+2026, refereed ([2026AJ....172..224L](http://adsabs.harvard.edu/abs/2026AJ....172..224L))  
+
+4. [WASP-43B TESS PHASE CURVE MAPPING: EVIDENCE FOR A HOT INTERIOR](http://adsabs.harvard.edu/abs/2026AJ....172..216L)  
+Lally, Maura, Challener, Ryan C., Lee, Elspeth, et al.    
+2026, refereed ([2026AJ....172..216L](http://adsabs.harvard.edu/abs/2026AJ....172..216L))  
+
+5. [ARE HOT JUPITERS TIDALLY DISRUPTED DURING STELLAR MAIN SEQUENCE?](http://adsabs.harvard.edu/abs/2026AJ....172..210H)  
+Hu, Qingru, Zhu, Wei, Huang, Yang, et al.    
+2026, refereed ([2026AJ....172..210H](http://adsabs.harvard.edu/abs/2026AJ....172..210H))  
+
+6. [DYNAMICAL MASS DEMOGRAPHY OF SINGLE S-TYPE PLANETS SHAPED BY STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2026ApJS..286...48H)  
+Huang, Xiumin, Ji, Jianghui    
+2026, refereed ([2026ApJS..286...48H](http://adsabs.harvard.edu/abs/2026ApJS..286...48H))  
+
+7. [GIANT PLANETS AND ECCENTRIC ORBITS ARE COMMON AROUND GALACTIC THICK DISK STARS](http://adsabs.harvard.edu/abs/2026AJ....172..211F)  
+Ferreira, Thiago, Yana Galarza, Jhon, Reggiani, Henrique, et al.    
+2026, refereed ([2026AJ....172..211F](http://adsabs.harvard.edu/abs/2026AJ....172..211F))  
+
+
 2026-09
 -------
 
@@ -158,6 +190,46 @@ Luque, Rafael, Standing, Matthew R.
 38. [THE GAPS PROGRAMME AT TNG LXXIX. NEW MASS CONSTRAINTS FOR THE INFANT PLANETS IN THE V1298 TAU SYSTEM THROUGH A LONG-TERM RADIAL VELOCITY MONITORING WITH HARPS-N](http://adsabs.harvard.edu/abs/2026arXiv260930038D)  
 Damasso, M., Leonardi, P., Borsato, L., et al.    
 2026, not refereed ([2026arXiv260930038D](http://adsabs.harvard.edu/abs/2026arXiv260930038D))  
+
+39. [THE OCCURRENCE RATE OF PLANETS AROUND SUBGIANT STARS FROM TESS PHOTOMETRIC SURVEY](http://adsabs.harvard.edu/abs/2026arXiv260937517D)  
+Dutta, Arkaprova, Chaturvedi, Priyanka    
+2026, not refereed ([2026arXiv260937517D](http://adsabs.harvard.edu/abs/2026arXiv260937517D))  
+
+40. [REVEALING THE SHINY NATURE OF LAVA WORLDS: SMALL PLANET PHASE CURVES WITH TESS](http://adsabs.harvard.edu/abs/2026arXiv260926874C)  
+Coy, Brandon Park, Zhang, Michael, Dai, Fei, et al.    
+2026, not refereed ([2026arXiv260926874C](http://adsabs.harvard.edu/abs/2026arXiv260926874C))  
+
+41. [MIGRATION AND EVOLUTION OF GIANT EXOPLANETS (MEEP). III. TWENTY-NINE GIANT PLANETS FROM THE TESS MISSION](http://adsabs.harvard.edu/abs/2026arXiv260938468S)  
+Schulte, Jack, Rodriguez, Joseph E., Latham, David W., et al.    
+2026, not refereed ([2026arXiv260938468S](http://adsabs.harvard.edu/abs/2026arXiv260938468S))  
+
+42. [A TEMPERATE SUB-NEPTUNE TRANSITING THE M4 DWARF TOI-210 IDENTIFIED BY NIRPS AND TESS -- UNCOVERING HIDDEN M-DWARF PLANETARY SYSTEMS IN THE NEAR-INFRARED](http://adsabs.harvard.edu/abs/2026arXiv260935747C)  
+Cadieux, C., Skinner, B. N., Bouchy, F., et al.    
+2026, not refereed ([2026arXiv260935747C](http://adsabs.harvard.edu/abs/2026arXiv260935747C))  
+
+43. [AN INFANT SUB-SATURN IN SCORPIUS-CENTAURUS](http://adsabs.harvard.edu/abs/2026arXiv260938315K)  
+Kathuria, Gurmeher, Bouma, Luke G., Boyle, Andrew W., et al.    
+2026, not refereed ([2026arXiv260938315K](http://adsabs.harvard.edu/abs/2026arXiv260938315K))  
+
+44. [THE FIRST HUBBLE DETECTION OF A SECONDARY ECLIPSE FROM A ROCKY EXOPLANET: THE 5.4-HOUR PLANET TOI-2431 B](http://adsabs.harvard.edu/abs/2026arXiv260931966Z)  
+Zieba, Sebastian, Edwards, Billy, Quinn, Samuel N., et al.    
+2026, not refereed ([2026arXiv260931966Z](http://adsabs.harvard.edu/abs/2026arXiv260931966Z))  
+
+45. [THE NEID EARTH TWIN SURVEY. VI. DISCOVERY OF A LOW-MASS PLANET ORBITING HD 126053 AND RV SIGNALS NEAR THE ROTATION PERIODS OF HD 168009 AND HD 10780](http://adsabs.harvard.edu/abs/2026arXiv260932097G)  
+Gupta, Arvind F., Logsdon, Sarah E., Luhn, Jacob K., et al.    
+2026, not refereed ([2026arXiv260932097G](http://adsabs.harvard.edu/abs/2026arXiv260932097G))  
+
+46. [THE TIDAL VENUS PHENOMENON: DEMOGRAPHICS AND CASE STUDIES](http://adsabs.harvard.edu/abs/2026ApJ..1009...84K)  
+Kane, Stephen R., Miles, Emma L.    
+2026, refereed ([2026ApJ..1009...84K](http://adsabs.harvard.edu/abs/2026ApJ..1009...84K))  
+
+47. [TODDLERS IN RESONANCE I: LOW MASSES AND ECCENTRICITIES OF THE 17 MYR GIANT PLANETS HIP 67522 BC FROM TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2026arXiv260935979J)  
+James, Hannah R., Barber, Madyson G., Mann, Andrew W., et al.    
+2026, not refereed ([2026arXiv260935979J](http://adsabs.harvard.edu/abs/2026arXiv260935979J))  
+
+48. [JWST NIRSPEC G395H TRANSMISSION SPECTRA OF TWO SIMILAR SUB-NEPTUNES IN THE TOI-125 SYSTEM](http://adsabs.harvard.edu/abs/2026arXiv260935607C)  
+Chai, Yiwei, Espinoza, Néstor, Fisher, Chloe, et al.    
+2026, not refereed ([2026arXiv260935607C](http://adsabs.harvard.edu/abs/2026arXiv260935607C))  
 
 
 2026-08
