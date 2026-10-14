@@ -16,3 +16,6 @@ Summary: Ultra-short-period (USP) planets, with orbital periods $\lesssim 1$ day
 # Sector 109 targets observed (2 min: 2, 20 s: 2)
 439867639,43.3163,0.0523,13.13,G09142;G09123;G09010;20SECONDTARGET
 37348844,91.8723,-25.5949,13.61,G09142;G09010;20SECONDTARGET
+
+# Sector 110 targets observed (2 min: 1, 20 s: 1)
+37348844,91.8723,-25.5949,13.61,G09142;G09010;20SECONDTARGET
