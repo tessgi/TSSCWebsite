@@ -6,7 +6,7 @@ We have some exciting news to share — more than 1,000 exoplanets discovered by
 
 <figure style="width: 75%; max-width: 100%; margin: 24px auto;">
 <a href="https://heasarc.gsfc.nasa.gov/docs/tess/images/news/TESS_both_bin4.png" target="_blank" rel="noopener">
-  <img src="images/news/TESS_both_bin4.png" alt="Confirmed TESS exoplanets plotted on an all-sky map." style="display: block; width: 100%; height: auto; cursor: zoom-in;" />
+  <img src="images/news/TESS_both_bin4_low-res.png" alt="Confirmed TESS exoplanets plotted on an all-sky map." style="display: block; width: 100%; height: auto; cursor: zoom-in;" />
 </a>
     <figcaption style="margin-top: 8px; text-align: left; font-size: 12px;">
     <strong>Figure 1:</strong> All-sky map showing the 1,008 confirmed exoplanets discovered by TESS (pink dots). The background image was created using observations from the first 96 TESS sectors. Black regions inside the oval represent parts of the sky that TESS has not yet observed. Image credit: NASA/MIT/TESS and Nicole Schanche (UMD&nbsp;/&nbsp;NASA&nbsp;GSFC).
