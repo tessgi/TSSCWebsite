@@ -35,6 +35,58 @@ Huang, Xiumin, Ji, Jianghui
 Ferreira, Thiago, Yana Galarza, Jhon, Reggiani, Henrique, et al.    
 2026, refereed ([2026AJ....172..211F](http://adsabs.harvard.edu/abs/2026AJ....172..211F))  
 
+8. [SOPHIE AND TESS CHARACTERIZATION OF FOURTEEN TESS OBJECTS OF INTEREST: NINE PLANETARY SYSTEMS AND FIVE LOW-MASS STELLAR COMPANIONS](http://adsabs.harvard.edu/abs/2026arXiv261008584H)  
+Heidari, N., Hébrard, G., Sousa, S., et al.    
+2026, not refereed ([2026arXiv261008584H](http://adsabs.harvard.edu/abs/2026arXiv261008584H))  
+
+9. [HD 715 B, A WARM JUPITER ORBITING A MASSIVE SUBGIANT DISCOVERED FROM A SINGLE TESS TRANSIT](http://adsabs.harvard.edu/abs/2026arXiv261008065V)  
+Venner, Alexander, Wittenmyer, Robert A., Vanderburg, Andrew, et al.    
+2026, not refereed ([2026arXiv261008065V](http://adsabs.harvard.edu/abs/2026arXiv261008065V))  
+
+10. [THE GAPS PROGRAMME AT TNG. LXXX. CHARACTERISATION OF THE 400 MYR OLD MULTI-PLANET SYSTEM K2-233](http://adsabs.harvard.edu/abs/2026arXiv261009954F)  
+Fardella, V., Benatti, S., Spinelli, R., et al.    
+2026, not refereed ([2026arXiv261009954F](http://adsabs.harvard.edu/abs/2026arXiv261009954F))  
+
+11. [A JUPITER-LIKE RADIO AURORA IN THE L3.5 DWARF LSPM J0036+1821](http://adsabs.harvard.edu/abs/2026arXiv261009854M)  
+Martín-Carrero, D., Climent, J. B., Miles-Páez, P. A., et al.    
+2026, not refereed ([2026arXiv261009854M](http://adsabs.harvard.edu/abs/2026arXiv261009854M))  
+
+12. [TOI-1408: THE LIMB DARKENING MODELS, PHOTOMETRIC AND DOPPLER NOISES, AND THE EXOPLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2026arXiv261002434B)  
+Baluev, Roman V.    
+2026, not refereed ([2026arXiv261002434B](http://adsabs.harvard.edu/abs/2026arXiv261002434B))  
+
+13. [SEARCHING FOR HOT WATER WORLD CANDIDATES WITH CHEOPS: II. A LOW-DENSITY SUPER-EARTH ORBITING THE K DWARF TOI-2211](http://adsabs.harvard.edu/abs/2026arXiv261008922E)  
+Egger, J. A., Cortés-Zuleta, P., Kubyshkina, D., et al.    
+2026, not refereed ([2026arXiv261008922E](http://adsabs.harvard.edu/abs/2026arXiv261008922E))  
+
+14. [DISCOVERY OF AN ECCENTRIC HOT SUPER-JUPITER LEAVING THE TRANSITING GEOMETRY OF THE EARLY-A-TYPE STAR TOI-1355](http://adsabs.harvard.edu/abs/2026PASJ...78.1992W)  
+Watanabe, Noriharu, Narita, Norio, Fukui, Akihiko, et al.    
+2026, refereed ([2026PASJ...78.1992W](http://adsabs.harvard.edu/abs/2026PASJ...78.1992W))  
+
+15. [STELLAR MAGNETIC ACTIVITY AND ROCKY PLANETS IN COOL DWARF STARS](http://adsabs.harvard.edu/abs/2026arXiv261004497S)  
+Stefanov, A. K.    
+2026, not refereed ([2026arXiv261004497S](http://adsabs.harvard.edu/abs/2026arXiv261004497S))  
+
+16. [A SEARCH FOR HELIUM IN THE ATMOSPHERES OF THREE SUB-NEPTUNES AND A SUPER-EARTH AROUND M-DWARFS](http://adsabs.harvard.edu/abs/2026PASJ...78.1815K)  
+Kawauchi, Kiyoe, Narita, Norio, Ito, Yuichi, et al.    
+2026, refereed ([2026PASJ...78.1815K](http://adsabs.harvard.edu/abs/2026PASJ...78.1815K))  
+
+17. ["MEGA-EARTHS" ARE LIKELY AN ARTIFACT OF STELLAR ACTIVITY](http://adsabs.harvard.edu/abs/2026arXiv261012600B)  
+Brinkman, Casey L., Cowan, Nicolas    
+2026, not refereed ([2026arXiv261012600B](http://adsabs.harvard.edu/abs/2026arXiv261012600B))  
+
+18. [ASSESSING PLATO'S DISCOVERY POTENTIAL ACROSS DIFFERENT OBSERVING STRATEGIES](http://adsabs.harvard.edu/abs/2026arXiv261013686E)  
+Eschen, Yoshi Nike Emilia, Kunimoto, Michelle, Cabrera, Juan, et al.    
+2026, not refereed ([2026arXiv261013686E](http://adsabs.harvard.edu/abs/2026arXiv261013686E))  
+
+19. [SIMULATIONS OF STELLAR ACTIVITY IN PYTHON AND ITS IMPACTS ON THE STAR'S LIGHT CURVE](http://adsabs.harvard.edu/abs/2026IAUS..400..188D)  
+Duque Estrada, Beatriz, Pinho, Felipe, Valio, Adriana    
+2026, refereed ([2026IAUS..400..188D](http://adsabs.harvard.edu/abs/2026IAUS..400..188D))  
+
+20. [PHASE-CURVE APPROACH TO STUDY ATMOSPHERIC FLOWS IN HOT JUPITERS](http://adsabs.harvard.edu/abs/2026A&A...714A.149S)  
+Shulyak, D., Dietrich, W., Parmentier, V., et al.    
+2026, refereed ([2026A&A...714A.149S](http://adsabs.harvard.edu/abs/2026A&A...714A.149S))  
+
 
 2026-09
 -------
