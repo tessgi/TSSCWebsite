@@ -1,5 +1,5 @@
 Title: Notice of call for community-requested targets: expanded TESS-SPOC FFI light curve processing
-Date: 2026-10-14 00:00
+Date: 2026-10-19 00:00
 Author: Amy Tuson
 
 The <a href="https://archive.stsci.edu/hlsp/tess-spoc" target="_blank" rel="noopener">TESS-SPOC</a> pipeline is expanding its Full Frame Image (FFI) light curve target list by approximately 4x beginning with Sector 97.  
