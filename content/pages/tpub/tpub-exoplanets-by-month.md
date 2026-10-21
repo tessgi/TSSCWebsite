@@ -87,6 +87,26 @@ Duque Estrada, Beatriz, Pinho, Felipe, Valio, Adriana
 Shulyak, D., Dietrich, W., Parmentier, V., et al.    
 2026, refereed ([2026A&A...714A.149S](http://adsabs.harvard.edu/abs/2026A&A...714A.149S))  
 
+21. [A NEPTUNE SIZED PLANET CANDIDATE ORBITING K-DWARF TIC 392664683 FROM TESS DATA](http://adsabs.harvard.edu/abs/2026RNAAS..10..284M)  
+Mason, Ian R., Aigrain, Suzanne, Lee, Sam, et al.    
+2026, not refereed ([2026RNAAS..10..284M](http://adsabs.harvard.edu/abs/2026RNAAS..10..284M))  
+
+22. [EXOVETTER AND A TESS EXOPLANET TRANSIT SEARCH OF KEPLER STARS AS GROUND TRUTH](http://adsabs.harvard.edu/abs/2026PASP..138j4504D)  
+Dallas, Matthew M., Mullally, Susan E., Mullally, Fergal, et al.    
+2026, refereed ([2026PASP..138j4504D](http://adsabs.harvard.edu/abs/2026PASP..138j4504D))  
+
+23. [A 36.34-DAY SUB-NEPTUNE CANDIDATE TRANSITING THE NEARBY K DWARF TIC 402710280](http://adsabs.harvard.edu/abs/2026arXiv261026056V)  
+Vora, Rishit    
+2026, not refereed ([2026arXiv261026056V](http://adsabs.harvard.edu/abs/2026arXiv261026056V))  
+
+24. [THE OCCURRENCE OF CIRCUMBINARY PLANETS AROUND TESS M-DWARF ECLIPSING BINARIES](http://adsabs.harvard.edu/abs/2026arXiv261022625O)  
+Oddo, Dominic, Dragomir, Diana, Martin, David V., et al.    
+2026, not refereed ([2026arXiv261022625O](http://adsabs.harvard.edu/abs/2026arXiv261022625O))  
+
+25. [SINGLE-TRANSIT PARAMETER ESTIMATION WITH CALIBRATED UNCERTAINTIES](http://adsabs.harvard.edu/abs/2026arXiv261024882S)  
+Salinas, Helem, Brahm, Rafael, Olmschenk, Greg, et al.    
+2026, not refereed ([2026arXiv261024882S](http://adsabs.harvard.edu/abs/2026arXiv261024882S))  
+
 
 2026-09
 -------
