@@ -403,6 +403,94 @@ Lund, M. N., Grundahl, F., Fredslund, M. S., et al.
 Pauli, D., Parsons, T. N., Prinja, R. K.    
 2026, refereed ([2026A&A...714A.222P](http://adsabs.harvard.edu/abs/2026A&A...714A.222P))  
 
+100. [A SYSTEMATIC STUDY OF THE QUIESCENT AND OUTBURST PROPERTIES OF X-RAY-BRIGHT YOUNG STELLAR OBJECTS USING XMM-NEWTON](http://adsabs.harvard.edu/abs/2026A&A...714A.168S)  
+Sakuta, Koki, Mitsuishi, Ikuyuki, Sasamata, Seiya, et al.    
+2026, refereed ([2026A&A...714A.168S](http://adsabs.harvard.edu/abs/2026A&A...714A.168S))  
+
+101. [A PRECISE TESS EPHEMERIS FOR THE SHORT-PERIOD BINARY TIC-259864042](http://adsabs.harvard.edu/abs/2026arXiv261031076K)  
+Khan, Rana    
+2026, not refereed ([2026arXiv261031076K](http://adsabs.harvard.edu/abs/2026arXiv261031076K))  
+
+102. [RELATION OF ROTATION AND PULSATION PROPERTIES IN $Γ$ DORADUS STARS](http://adsabs.harvard.edu/abs/2026arXiv261030029S)  
+Sódor, Á., Plachy, E., Bognár, Zs.    
+2026, not refereed ([2026arXiv261030029S](http://adsabs.harvard.edu/abs/2026arXiv261030029S))  
+
+103. [ACCRETION GEOMETRY AND VARIABILITY IN QS TELESCOPII FROM MULTI-EPOCH OBSERVATIONS](http://adsabs.harvard.edu/abs/2026arXiv261033324B)  
+Booi, L, Potter, S. B., Khangale, Z. N., et al.    
+2026, not refereed ([2026arXiv261033324B](http://adsabs.harvard.edu/abs/2026arXiv261033324B))  
+
+104. [TWO VALIDATED PLANETS AND 179 CANDIDATES FROM A TESS FAINT STAR TRANSIT SEARCH IN THE ULTRASAT FIELDS](http://adsabs.harvard.edu/abs/2026arXiv261028518L)  
+Lastovka, Matthew, Barclay, Thomas, Wilson, Robert F., et al.    
+2026, not refereed ([2026arXiv261028518L](http://adsabs.harvard.edu/abs/2026arXiv261028518L))  
+
+105. [EXOVETTER AND A TESS EXOPLANET TRANSIT SEARCH OF KEPLER STARS AS GROUND TRUTH](http://adsabs.harvard.edu/abs/2026arXiv261032949D)  
+Dallas, Matthew M., Mullally, Susan E., Mullally, Fergal, et al.    
+2026, not refereed ([2026arXiv261032949D](http://adsabs.harvard.edu/abs/2026arXiv261032949D))  
+
+106. [TIC65910228 B: A SINGLE-TRANSIT DISCOVERY OF A MASSIVE LONG-PERIOD WARM JUPITER WITH TESS](http://adsabs.harvard.edu/abs/2026A&A...714A.333R)  
+Rojas, Felipe I., Brahm, Rafael, Jones, Matías I., et al.    
+2026, refereed ([2026A&A...714A.333R](http://adsabs.harvard.edu/abs/2026A&A...714A.333R))  
+
+107. [TIME-RESOLVED CONNECTION BETWEEN STARSPOTS AND FLARES IN NEARBY YOUNG SOLAR-TYPE STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2026PASJ..tmp..223H)  
+Hitotsuyanagi, Daijiro, Yamada, Hiroto, Yamashiki, Daisuke, et al.    
+2026, refereed ([2026PASJ..tmp..223H](http://adsabs.harvard.edu/abs/2026PASJ..tmp..223H))  
+
+108. [TOI-3686: A HOT JUPITER AND SUB-NEPTUNE IN A 2:1 MEAN-MOTION RESONANCE](http://adsabs.harvard.edu/abs/2026arXiv261028533Y)  
+Yee, Samuel W., Dziire, Tarisai, Collins, Karen A., et al.    
+2026, not refereed ([2026arXiv261028533Y](http://adsabs.harvard.edu/abs/2026arXiv261028533Y))  
+
+109. [PHOTOMETRIC VARIABILITY OF BLUE SUPERGIANTS: CONSTRAINTS ON STELLAR MASSES AND EVOLUTIONARY STAGES](http://adsabs.harvard.edu/abs/2026arXiv261028352A)  
+Alberici Adam, A., Cidale, L. S., Kourniotis, M., et al.    
+2026, not refereed ([2026arXiv261028352A](http://adsabs.harvard.edu/abs/2026arXiv261028352A))  
+
+110. [A SUB-EARTH-SIZED TESS PLANET CANDIDATE IN THE NEARBY M-DWARF BINARY GJ 774, MOST LIKELY ORBITING GJ 774 A (TIC 351339274)](http://adsabs.harvard.edu/abs/2026arXiv261028575T)  
+Tripp, Jaden    
+2026, not refereed ([2026arXiv261028575T](http://adsabs.harvard.edu/abs/2026arXiv261028575T))  
+
+111. [THE ANOMALOUSLY LARGE TRANSITING PLANET AROUND BOYAJIAN'S STAR: EVIDENCE FOR A CIRCUMPLANETARY RING](http://adsabs.harvard.edu/abs/2026arXiv261034806Z)  
+Zhu, Wei, Liu, Quanyi    
+2026, not refereed ([2026arXiv261034806Z](http://adsabs.harvard.edu/abs/2026arXiv261034806Z))  
+
+112. [THE EBLM PROJECT - XX. ABSOLUTE DYNAMICAL MASSES OF FIVE LOW-MASS ECLIPSING BINARIES, AND AN EVALUATION OF MASS ESTIMATION METHODS](http://adsabs.harvard.edu/abs/2026arXiv261018339S)  
+Stevenson, Adam T., Davis, Yasmin T., Sebastian, Daniel, et al.    
+2026, not refereed ([2026arXiv261018339S](http://adsabs.harvard.edu/abs/2026arXiv261018339S))  
+
+113. [REPRODUCIBILITY, METHODOLOGICAL ROBUSTNESS, AND SYNTHETIC-DOMAIN SELECTION PROPERTIES OF AFINO FOR TESS STELLAR-FLARE QPP ANALYSIS](http://adsabs.harvard.edu/abs/2026arXiv261034627B)  
+Balboa Corominas, Marc    
+2026, not refereed ([2026arXiv261034627B](http://adsabs.harvard.edu/abs/2026arXiv261034627B))  
+
+114. [UNVEILING THE PERIOD-BOUNCE POPULATION OF CATACLYSMIC VARIABLES: SPECTROSCOPIC AND TIME-DOMAIN FOLLOW-UP OF EROSITA-SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2026A&A...714A.387H)  
+Hernández-Díaz, S., Stelzer, B., Schwope, A., et al.    
+2026, refereed ([2026A&A...714A.387H](http://adsabs.harvard.edu/abs/2026A&A...714A.387H))  
+
+115. [DEMOGRAPHICS OF CLOSE-IN TESS EXOPLANETS ORBITING FGK MAIN-SEQUENCE STARS II. SPECTRAL-TYPE DEPENDENCE AND THE NEPTUNIAN LANDSCAPE](http://adsabs.harvard.edu/abs/2026arXiv261031784C)  
+Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.    
+2026, not refereed ([2026arXiv261031784C](http://adsabs.harvard.edu/abs/2026arXiv261031784C))  
+
+116. [DEMOGRAPHICS OF CLOSE-IN TESS EXOPLANETS ORBITING FGK MAIN-SEQUENCE STARS - II. SPECTRAL-TYPE DEPENDENCE AND THE NEPTUNIAN LANDSCAPE](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1862C)  
+Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.    
+2026, refereed ([2026MNRAS.tmp.1862C](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1862C))  
+
+117. [A COMPREHENSIVE REANALYSIS OF HD 99458. NOT A MAGNETIC AP STAR BUT AN OSCILLATING ALGOL WITH ONGOING MASS TRANSFER](http://adsabs.harvard.edu/abs/2026arXiv261032406S)  
+Semenko, E., Mikulášek, Z., Mkrtichian, D., et al.    
+2026, not refereed ([2026arXiv261032406S](http://adsabs.harvard.edu/abs/2026arXiv261032406S))  
+
+118. [EIGHT NEW, TRIPLY ECLIPSING TRIPLE STAR SYSTEMS](http://adsabs.harvard.edu/abs/2026arXiv261031200B)  
+Borkovits, T., Rappaport, S. A., Torres, G., et al.    
+2026, not refereed ([2026arXiv261031200B](http://adsabs.harvard.edu/abs/2026arXiv261031200B))  
+
+119. [GRANULATION-DRIVEN SPECTRAL IRRADIANCE VARIABILITY OF SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2026arXiv261031561N)  
+Nèmec, N.-E., Kopp, G., Witzke, V., et al.    
+2026, not refereed ([2026arXiv261031561N](http://adsabs.harvard.edu/abs/2026arXiv261031561N))  
+
+120. [MAGNETIC ACTIVITY AS A DRIVER OF LOW-GRAVITY-LIKE SPECTRAL MORPHOLOGY IN LATE-M DWARFS](http://adsabs.harvard.edu/abs/2026arXiv261031647L)  
+Lin, Chia-Lung, Apai, Daniel, Rackham, Benjamin V., et al.    
+2026, not refereed ([2026arXiv261031647L](http://adsabs.harvard.edu/abs/2026arXiv261031647L))  
+
+121. [LISTENING TO THE STANDARD CANDLES: A SURVEY-SCALE SEARCH FOR PHASE-CODED BEACONS IN CEPHEIDS, RR~LYRAE AND $Β$~CEPHEI STARS](http://adsabs.harvard.edu/abs/2026arXiv261031860G)  
+Guillochon, James    
+2026, not refereed ([2026arXiv261031860G](http://adsabs.harvard.edu/abs/2026arXiv261031860G))  
+
 
 2026-09
 -------

@@ -303,6 +303,62 @@ Lund, M. N., Grundahl, F., Fredslund, M. S., et al.
 Pauli, D., Parsons, T. N., Prinja, R. K.    
 2026, refereed ([2026A&A...714A.222P](http://adsabs.harvard.edu/abs/2026A&A...714A.222P))  
 
+75. [A SYSTEMATIC STUDY OF THE QUIESCENT AND OUTBURST PROPERTIES OF X-RAY-BRIGHT YOUNG STELLAR OBJECTS USING XMM-NEWTON](http://adsabs.harvard.edu/abs/2026A&A...714A.168S)  
+Sakuta, Koki, Mitsuishi, Ikuyuki, Sasamata, Seiya, et al.    
+2026, refereed ([2026A&A...714A.168S](http://adsabs.harvard.edu/abs/2026A&A...714A.168S))  
+
+76. [A PRECISE TESS EPHEMERIS FOR THE SHORT-PERIOD BINARY TIC-259864042](http://adsabs.harvard.edu/abs/2026arXiv261031076K)  
+Khan, Rana    
+2026, not refereed ([2026arXiv261031076K](http://adsabs.harvard.edu/abs/2026arXiv261031076K))  
+
+77. [RELATION OF ROTATION AND PULSATION PROPERTIES IN $Γ$ DORADUS STARS](http://adsabs.harvard.edu/abs/2026arXiv261030029S)  
+Sódor, Á., Plachy, E., Bognár, Zs.    
+2026, not refereed ([2026arXiv261030029S](http://adsabs.harvard.edu/abs/2026arXiv261030029S))  
+
+78. [ACCRETION GEOMETRY AND VARIABILITY IN QS TELESCOPII FROM MULTI-EPOCH OBSERVATIONS](http://adsabs.harvard.edu/abs/2026arXiv261033324B)  
+Booi, L, Potter, S. B., Khangale, Z. N., et al.    
+2026, not refereed ([2026arXiv261033324B](http://adsabs.harvard.edu/abs/2026arXiv261033324B))  
+
+79. [TIME-RESOLVED CONNECTION BETWEEN STARSPOTS AND FLARES IN NEARBY YOUNG SOLAR-TYPE STARS OBSERVED BY TESS](http://adsabs.harvard.edu/abs/2026PASJ..tmp..223H)  
+Hitotsuyanagi, Daijiro, Yamada, Hiroto, Yamashiki, Daisuke, et al.    
+2026, refereed ([2026PASJ..tmp..223H](http://adsabs.harvard.edu/abs/2026PASJ..tmp..223H))  
+
+80. [PHOTOMETRIC VARIABILITY OF BLUE SUPERGIANTS: CONSTRAINTS ON STELLAR MASSES AND EVOLUTIONARY STAGES](http://adsabs.harvard.edu/abs/2026arXiv261028352A)  
+Alberici Adam, A., Cidale, L. S., Kourniotis, M., et al.    
+2026, not refereed ([2026arXiv261028352A](http://adsabs.harvard.edu/abs/2026arXiv261028352A))  
+
+81. [THE EBLM PROJECT - XX. ABSOLUTE DYNAMICAL MASSES OF FIVE LOW-MASS ECLIPSING BINARIES, AND AN EVALUATION OF MASS ESTIMATION METHODS](http://adsabs.harvard.edu/abs/2026arXiv261018339S)  
+Stevenson, Adam T., Davis, Yasmin T., Sebastian, Daniel, et al.    
+2026, not refereed ([2026arXiv261018339S](http://adsabs.harvard.edu/abs/2026arXiv261018339S))  
+
+82. [REPRODUCIBILITY, METHODOLOGICAL ROBUSTNESS, AND SYNTHETIC-DOMAIN SELECTION PROPERTIES OF AFINO FOR TESS STELLAR-FLARE QPP ANALYSIS](http://adsabs.harvard.edu/abs/2026arXiv261034627B)  
+Balboa Corominas, Marc    
+2026, not refereed ([2026arXiv261034627B](http://adsabs.harvard.edu/abs/2026arXiv261034627B))  
+
+83. [UNVEILING THE PERIOD-BOUNCE POPULATION OF CATACLYSMIC VARIABLES: SPECTROSCOPIC AND TIME-DOMAIN FOLLOW-UP OF EROSITA-SELECTED CANDIDATES](http://adsabs.harvard.edu/abs/2026A&A...714A.387H)  
+Hernández-Díaz, S., Stelzer, B., Schwope, A., et al.    
+2026, refereed ([2026A&A...714A.387H](http://adsabs.harvard.edu/abs/2026A&A...714A.387H))  
+
+84. [A COMPREHENSIVE REANALYSIS OF HD 99458. NOT A MAGNETIC AP STAR BUT AN OSCILLATING ALGOL WITH ONGOING MASS TRANSFER](http://adsabs.harvard.edu/abs/2026arXiv261032406S)  
+Semenko, E., Mikulášek, Z., Mkrtichian, D., et al.    
+2026, not refereed ([2026arXiv261032406S](http://adsabs.harvard.edu/abs/2026arXiv261032406S))  
+
+85. [EIGHT NEW, TRIPLY ECLIPSING TRIPLE STAR SYSTEMS](http://adsabs.harvard.edu/abs/2026arXiv261031200B)  
+Borkovits, T., Rappaport, S. A., Torres, G., et al.    
+2026, not refereed ([2026arXiv261031200B](http://adsabs.harvard.edu/abs/2026arXiv261031200B))  
+
+86. [GRANULATION-DRIVEN SPECTRAL IRRADIANCE VARIABILITY OF SUN-LIKE STARS](http://adsabs.harvard.edu/abs/2026arXiv261031561N)  
+Nèmec, N.-E., Kopp, G., Witzke, V., et al.    
+2026, not refereed ([2026arXiv261031561N](http://adsabs.harvard.edu/abs/2026arXiv261031561N))  
+
+87. [MAGNETIC ACTIVITY AS A DRIVER OF LOW-GRAVITY-LIKE SPECTRAL MORPHOLOGY IN LATE-M DWARFS](http://adsabs.harvard.edu/abs/2026arXiv261031647L)  
+Lin, Chia-Lung, Apai, Daniel, Rackham, Benjamin V., et al.    
+2026, not refereed ([2026arXiv261031647L](http://adsabs.harvard.edu/abs/2026arXiv261031647L))  
+
+88. [LISTENING TO THE STANDARD CANDLES: A SURVEY-SCALE SEARCH FOR PHASE-CODED BEACONS IN CEPHEIDS, RR~LYRAE AND $Β$~CEPHEI STARS](http://adsabs.harvard.edu/abs/2026arXiv261031860G)  
+Guillochon, James    
+2026, not refereed ([2026arXiv261031860G](http://adsabs.harvard.edu/abs/2026arXiv261031860G))  
+
 
 2026-09
 -------

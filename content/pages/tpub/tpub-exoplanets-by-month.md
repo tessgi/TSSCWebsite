@@ -107,6 +107,38 @@ Oddo, Dominic, Dragomir, Diana, Martin, David V., et al.
 Salinas, Helem, Brahm, Rafael, Olmschenk, Greg, et al.    
 2026, not refereed ([2026arXiv261024882S](http://adsabs.harvard.edu/abs/2026arXiv261024882S))  
 
+26. [TWO VALIDATED PLANETS AND 179 CANDIDATES FROM A TESS FAINT STAR TRANSIT SEARCH IN THE ULTRASAT FIELDS](http://adsabs.harvard.edu/abs/2026arXiv261028518L)  
+Lastovka, Matthew, Barclay, Thomas, Wilson, Robert F., et al.    
+2026, not refereed ([2026arXiv261028518L](http://adsabs.harvard.edu/abs/2026arXiv261028518L))  
+
+27. [EXOVETTER AND A TESS EXOPLANET TRANSIT SEARCH OF KEPLER STARS AS GROUND TRUTH](http://adsabs.harvard.edu/abs/2026arXiv261032949D)  
+Dallas, Matthew M., Mullally, Susan E., Mullally, Fergal, et al.    
+2026, not refereed ([2026arXiv261032949D](http://adsabs.harvard.edu/abs/2026arXiv261032949D))  
+
+28. [TIC65910228 B: A SINGLE-TRANSIT DISCOVERY OF A MASSIVE LONG-PERIOD WARM JUPITER WITH TESS](http://adsabs.harvard.edu/abs/2026A&A...714A.333R)  
+Rojas, Felipe I., Brahm, Rafael, Jones, Matías I., et al.    
+2026, refereed ([2026A&A...714A.333R](http://adsabs.harvard.edu/abs/2026A&A...714A.333R))  
+
+29. [TOI-3686: A HOT JUPITER AND SUB-NEPTUNE IN A 2:1 MEAN-MOTION RESONANCE](http://adsabs.harvard.edu/abs/2026arXiv261028533Y)  
+Yee, Samuel W., Dziire, Tarisai, Collins, Karen A., et al.    
+2026, not refereed ([2026arXiv261028533Y](http://adsabs.harvard.edu/abs/2026arXiv261028533Y))  
+
+30. [A SUB-EARTH-SIZED TESS PLANET CANDIDATE IN THE NEARBY M-DWARF BINARY GJ 774, MOST LIKELY ORBITING GJ 774 A (TIC 351339274)](http://adsabs.harvard.edu/abs/2026arXiv261028575T)  
+Tripp, Jaden    
+2026, not refereed ([2026arXiv261028575T](http://adsabs.harvard.edu/abs/2026arXiv261028575T))  
+
+31. [THE ANOMALOUSLY LARGE TRANSITING PLANET AROUND BOYAJIAN'S STAR: EVIDENCE FOR A CIRCUMPLANETARY RING](http://adsabs.harvard.edu/abs/2026arXiv261034806Z)  
+Zhu, Wei, Liu, Quanyi    
+2026, not refereed ([2026arXiv261034806Z](http://adsabs.harvard.edu/abs/2026arXiv261034806Z))  
+
+32. [DEMOGRAPHICS OF CLOSE-IN TESS EXOPLANETS ORBITING FGK MAIN-SEQUENCE STARS II. SPECTRAL-TYPE DEPENDENCE AND THE NEPTUNIAN LANDSCAPE](http://adsabs.harvard.edu/abs/2026arXiv261031784C)  
+Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.    
+2026, not refereed ([2026arXiv261031784C](http://adsabs.harvard.edu/abs/2026arXiv261031784C))  
+
+33. [DEMOGRAPHICS OF CLOSE-IN TESS EXOPLANETS ORBITING FGK MAIN-SEQUENCE STARS - II. SPECTRAL-TYPE DEPENDENCE AND THE NEPTUNIAN LANDSCAPE](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1862C)  
+Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.    
+2026, refereed ([2026MNRAS.tmp.1862C](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1862C))  
+
 
 2026-09
 -------
