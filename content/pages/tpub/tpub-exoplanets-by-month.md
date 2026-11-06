@@ -4,6 +4,58 @@ Save_as: tpub-exoplanets-by-month.html
 
 
 
+2026-11
+-------
+
+1. [CHARACTERIZATION OF THE COMPACT MULTIPLANET SYSTEM TOI-789: VALIDATION OF THREE TERRESTRIAL PLANETS, DYNAMICAL CHARACTERIZATION, AND DETECTION OF A FOURTH TEMPERATE CANDIDATE](http://adsabs.harvard.edu/abs/2026AJ....172..251P)  
+Pagés Navarrete, Juan F.    
+2026, refereed ([2026AJ....172..251P](http://adsabs.harvard.edu/abs/2026AJ....172..251P))  
+
+2. [THE DISCOVERY OF K2-232C: DIVERGENT FORMATION HISTORIES FOR HOT AND WARM JUPITERS BASED ON OUTER COMPANION ECCENTRICITY](http://adsabs.harvard.edu/abs/2026AJ....172..254R)  
+Ranshaw, Jessica A., Wang, Xian-Yu, Burt, Jennifer A., et al.    
+2026, refereed ([2026AJ....172..254R](http://adsabs.harvard.edu/abs/2026AJ....172..254R))  
+
+3. [ASSESSING THE IMPACT OF HIGH-RESOLUTION IMAGING ON STATISTICAL VALIDATION OF TESS PLANET CANDIDATES](http://adsabs.harvard.edu/abs/2026AJ....172..247C)  
+Collier, Michael, Giacalone, Steven, Derfer, Brian, et al.    
+2026, refereed ([2026AJ....172..247C](http://adsabs.harvard.edu/abs/2026AJ....172..247C))  
+
+4. [TOI-4616 B: AN EARTH-SIZED PLANET TRANSITING A NEARBY M4 DWARF](http://adsabs.harvard.edu/abs/2026MNRAS.553g1610L)  
+Lang, F. Zong, Demory, B. O., Chew, Y. Gómez Maqueo, et al.    
+2026, refereed ([2026MNRAS.553g1610L](http://adsabs.harvard.edu/abs/2026MNRAS.553g1610L))  
+
+5. [JWST MIRI REVEALS A POTENTIAL ATMOSPHERE ON THE ULTRAHOT ROCKY PLANET TOI-431B](http://adsabs.harvard.edu/abs/2026AJ....172..262S)  
+Smith, Cole, Coy, Brandon Park, Mansfield, Megan Weiner, et al.    
+2026, refereed ([2026AJ....172..262S](http://adsabs.harvard.edu/abs/2026AJ....172..262S))  
+
+6. [DISCOVERY AND CHARACTERIZATION OF THE TOI-4468 PLANETARY SYSTEM: A TRANSITING HOT JUPITER WITH A LONE NEARBY OUTER COMPANION](http://adsabs.harvard.edu/abs/2026AJ....172..287L)  
+Livesey, Joseph R., Hord, Benjamin J., Becker, Juliette, et al.    
+2026, refereed ([2026AJ....172..287L](http://adsabs.harvard.edu/abs/2026AJ....172..287L))  
+
+7. [NGTS CLUSTERS SURVEY - VII. AN ENIGMATIC SHORT-PERIOD CIRCUMSECONDARY DISC CANDIDATE IN ORION](http://adsabs.harvard.edu/abs/2026MNRAS.552g1802M)  
+Mallaghan, Niamh, de Mooij, Ernst J. W., Watson, Christopher A., et al.    
+2026, refereed ([2026MNRAS.552g1802M](http://adsabs.harvard.edu/abs/2026MNRAS.552g1802M))  
+
+8. [THE NEPTUNIAN RIDGE THROUGH THE LENS OF TESS](http://adsabs.harvard.edu/abs/2026arXiv261103643C)  
+Castro-González, Amadeo    
+2026, not refereed ([2026arXiv261103643C](http://adsabs.harvard.edu/abs/2026arXiv261103643C))  
+
+9. [ARE HABITABLE-ZONE TESS OBJECTS OF INTEREST REALLY THERE? PERIOD RESOLUTION FROM THE FULL ARCHIVE](http://adsabs.harvard.edu/abs/2026arXiv261103019P)  
+Pagés Navarrete, Juan F.    
+2026, not refereed ([2026arXiv261103019P](http://adsabs.harvard.edu/abs/2026arXiv261103019P))  
+
+10. [GERBLS-A RAPID BOX LEAST SQUARES ALGORITHM FOR EXOPLANET DETECTION THAT SCALES WELL FOR LARGE DATASETS](http://adsabs.harvard.edu/abs/2026AJ....172..249M)  
+Ment, Kristo, Ford, Eric B., Mahadevan, Suvrath, et al.    
+2026, refereed ([2026AJ....172..249M](http://adsabs.harvard.edu/abs/2026AJ....172..249M))  
+
+11. [THE MONTREAL OPEN CLUSTERS AND ASSOCIATIONS (MOCA) DATABASE: A CENSUS OF NEARBY ASSOCIATIONS, OPEN CLUSTERS, AND YOUNG SUBSTELLAR OBJECTS WITHIN 500 PC OF THE SUN](http://adsabs.harvard.edu/abs/2026ApJS..287....8G)  
+Gagné, Jonathan, Moranta, Leslie, Faherty, Jacqueline K., et al.    
+2026, refereed ([2026ApJS..287....8G](http://adsabs.harvard.edu/abs/2026ApJS..287....8G))  
+
+12. [THE HOT NEPTUNE INITIATIVE (HONEI): IV. TOI-4129 B, AN ADOLESCENT NEPTUNE IN THE RIDGE](http://adsabs.harvard.edu/abs/2026arXiv261103810L)  
+Lakhanpal, Sureena, Vissapragada, Shreyas, Naponiello, Luca, et al.    
+2026, not refereed ([2026arXiv261103810L](http://adsabs.harvard.edu/abs/2026arXiv261103810L))  
+
+
 2026-10
 -------
 
@@ -138,6 +190,30 @@ Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.
 33. [DEMOGRAPHICS OF CLOSE-IN TESS EXOPLANETS ORBITING FGK MAIN-SEQUENCE STARS - II. SPECTRAL-TYPE DEPENDENCE AND THE NEPTUNIAN LANDSCAPE](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1862C)  
 Cui, Kaiming, Armstrong, David J., Hadjigeorghiou, Andreas, et al.    
 2026, refereed ([2026MNRAS.tmp.1862C](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1862C))  
+
+34. [AN END-TO-END CNN SEARCH FOR ULTRA-SHORT-PERIOD PLANETS IN TESS: FROM THE BLEND CEILING TO THE INDEPENDENT VALIDATION OF TOI-6662 B](http://adsabs.harvard.edu/abs/2026arXiv261042009P)  
+Pagés Navarrete, Juan F.    
+2026, not refereed ([2026arXiv261042009P](http://adsabs.harvard.edu/abs/2026arXiv261042009P))  
+
+35. [HD 210058 B AND BD+37 4838 B: A PRECESSING ECCENTRIC HOT JUPITER AND A MISALIGNED SUBSTELLAR COMPANION AROUND TWO A-TYPE STARS](http://adsabs.harvard.edu/abs/2026arXiv261100378B)  
+Balkóová, Z., Žák, J., Skarka, M., et al.    
+2026, not refereed ([2026arXiv261100378B](http://adsabs.harvard.edu/abs/2026arXiv261100378B))  
+
+36. [TWO EXTREMELY IRRADIATED VOLATILE-RICH SUB-NEPTUNES WITH COMPANIONS IN THE TOI-426 AND TOI-1839 SYSTEMS: INSIGHTS INTO ARRIVAL AND SURVIVAL NEAR THE LOWER EDGE OF THE NEPTUNIAN DESERT](http://adsabs.harvard.edu/abs/2026A&A...714A.425C)  
+Castro-González, A., Barragán, O., Armstrong, D. J., et al.    
+2026, refereed ([2026A&A...714A.425C](http://adsabs.harvard.edu/abs/2026A&A...714A.425C))  
+
+37. [RADIAL VELOCITY DETECTION OF THE TRAPPIST-1 PLANETARY SYSTEM WITH SPIROU AND NIRPS](http://adsabs.harvard.edu/abs/2026A&A...714A.359L)  
+L'Heureux, Alexandrine, Doyon, René, Cadieux, Charles, et al.    
+2026, refereed ([2026A&A...714A.359L](http://adsabs.harvard.edu/abs/2026A&A...714A.359L))  
+
+38. [TS23/MCDONALD AND FIES/NOT STRIKE AGAIN: TWO NEW WARM JUPITER SYSTEMS AND OUTER COMPANIONS IN A THIRD](http://adsabs.harvard.edu/abs/2026A&A...714A.496K)  
+Knudstrup, E., Gandolfi, D., Cochran, W. D., et al.    
+2026, refereed ([2026A&A...714A.496K](http://adsabs.harvard.edu/abs/2026A&A...714A.496K))  
+
+39. [THE HOT NEPTUNE INITIATIVE (HONEI): III. AN ULTRA-HOT SUPER NEPTUNE ORBITING THE METAL-RICH SUBGIANT STAR TOI-5646: THE LARGEST HOST FOR A DESERT DWELLER](http://adsabs.harvard.edu/abs/2026A&A...714A.461M)  
+Mancini, L., Manni, F., Kubyshkina, D., et al.    
+2026, refereed ([2026A&A...714A.461M](http://adsabs.harvard.edu/abs/2026A&A...714A.461M))  
 
 
 2026-09
