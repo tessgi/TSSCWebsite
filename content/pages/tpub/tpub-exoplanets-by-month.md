@@ -55,6 +55,54 @@ Gagné, Jonathan, Moranta, Leslie, Faherty, Jacqueline K., et al.
 Lakhanpal, Sureena, Vissapragada, Shreyas, Naponiello, Luca, et al.    
 2026, not refereed ([2026arXiv261103810L](http://adsabs.harvard.edu/abs/2026arXiv261103810L))  
 
+13. [THE FIRST HUBBLE DETECTION OF A SECONDARY ECLIPSE FROM A ROCKY EXOPLANET: THE 5.4 HR PLANET TOI-2431 B](http://adsabs.harvard.edu/abs/2026ApJ..1011L..32Z)  
+Zieba, Sebastian, Edwards, Billy, Quinn, Samuel N., et al.    
+2026, refereed ([2026ApJ..1011L..32Z](http://adsabs.harvard.edu/abs/2026ApJ..1011L..32Z))  
+
+14. [PLATTE: AN AUTOMATED 24-DIAGNOSTIC LIGHT CURVE ANALYSIS AND VETTING SUITE FOR TRANSITING EXOPLANETS](http://adsabs.harvard.edu/abs/2026RNAAS..10..317G)  
+Gühne, Gerd    
+2026, not refereed ([2026RNAAS..10..317G](http://adsabs.harvard.edu/abs/2026RNAAS..10..317G))  
+
+15. [THE KPF SLOPE SURVEY: SMALL, COMPACT MULTIPLANET SYSTEMS APPEAR SPIN-ORBIT ALIGNED](http://adsabs.harvard.edu/abs/2026ApJ..1011...42H)  
+Handley, Luke B., Howard, Andrew W., Dai, Fei, et al.    
+2026, refereed ([2026ApJ..1011...42H](http://adsabs.harvard.edu/abs/2026ApJ..1011...42H))  
+
+16. [THE OCCURRENCE RATE OF PLANETS AROUND SUBGIANT STARS FROM THE TESS PHOTOMETRIC SURVEY](http://adsabs.harvard.edu/abs/2026A&A...715A.207D)  
+Dutta, A., Chaturvedi, P.    
+2026, refereed ([2026A&A...715A.207D](http://adsabs.harvard.edu/abs/2026A&A...715A.207D))  
+
+17. [A TESS DISAPPEARING ACT: THE VANISHING TRANSITS OF TOI-2535 B](http://adsabs.harvard.edu/abs/2026arXiv261113343Y)  
+Yee, Samuel W., Petigura, Erik A., Brahm, Rafael, et al.    
+2026, not refereed ([2026arXiv261113343Y](http://adsabs.harvard.edu/abs/2026arXiv261113343Y))  
+
+18. [A TESS DISAPPEARING ACT: THE VANISHING TRANSITS OF TOI-2535 B](http://adsabs.harvard.edu/abs/2026ApJ..1011L..60Y)  
+Yee, Samuel W., Petigura, Erik A., Brahm, Rafael, et al.    
+2026, refereed ([2026ApJ..1011L..60Y](http://adsabs.harvard.edu/abs/2026ApJ..1011L..60Y))  
+
+19. [A POSSIBLE NON-TRANSITING COMPANION IN THE TOI-2109 SYSTEM SUPPORTED BY TRANSIT TIMING VARIATIONS](http://adsabs.harvard.edu/abs/2026arXiv261113505P)  
+Parthasarathy, Kaviya, Cherdwongsung, Prangsutip, Jiang, Ing-Guey, et al.    
+2026, not refereed ([2026arXiv261113505P](http://adsabs.harvard.edu/abs/2026arXiv261113505P))  
+
+20. [THE TIERRAS OBSERVATORY: ULTRA-PRECISE PHOTOMETRY FOR CHARACTERIZING EXOPLANETS AND THEIR HOST STARS](http://adsabs.harvard.edu/abs/2026arXiv261112849G)  
+García-Mejía, Juliana, Tamburo, Patrick, Charbonneau, David, et al.    
+2026, not refereed ([2026arXiv261112849G](http://adsabs.harvard.edu/abs/2026arXiv261112849G))  
+
+21. [THE SLOWER ROTATION OF PLANET-HOSTING STARS REVISITED](http://adsabs.harvard.edu/abs/2026arXiv261108267B)  
+Binnenfeld, Avraham, Sussholz, Amitay, Faigler, Simchon, et al.    
+2026, not refereed ([2026arXiv261108267B](http://adsabs.harvard.edu/abs/2026arXiv261108267B))  
+
+22. [THE NEPTUNIAN RIDGE DEPENDS ON THE CHOICE OF LINEAR OR LOGARITHMIC PERIOD](http://adsabs.harvard.edu/abs/2026arXiv261112560C)  
+Cui, Kaiming, Armstrong, David J.    
+2026, not refereed ([2026arXiv261112560C](http://adsabs.harvard.edu/abs/2026arXiv261112560C))  
+
+23. [PROSPECTS FOR DETECTING HOT-JUPITER TIDAL DECAY THROUGH TRANSIT TIMING WITH THE MISSION EARTH 2.0](http://adsabs.harvard.edu/abs/2026arXiv261107427W)  
+Wang, Wenqin, Wang, Yue, Chen, Di-Chang, et al.    
+2026, not refereed ([2026arXiv261107427W](http://adsabs.harvard.edu/abs/2026arXiv261107427W))  
+
+24. [THE SLOWER ROTATION OF PLANET-HOSTING STARS REVISITED](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1957B)  
+Binnenfeld, Avraham, Sussholz, Amitay, Faigler, Simchon, et al.    
+2026, refereed ([2026MNRAS.tmp.1957B](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1957B))  
+
 
 2026-10
 -------
