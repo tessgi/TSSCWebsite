@@ -19,3 +19,7 @@ Summary: Millisecond pulsars have greatly increased in number thanks to the dete
 
 # Sector 110 targets observed (2 min: 1, 20 s: 0)
 114300451,114.2403,-32.5459,15.74,G09152
+
+# Sector 111 targets observed (2 min: 2, 20 s: 0)
+114300451,114.2403,-32.5459,15.74,G09152
+296448570,125.4319,-14.63,15.03,G09152
