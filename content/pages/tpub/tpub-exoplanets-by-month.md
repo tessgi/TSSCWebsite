@@ -103,6 +103,50 @@ Wang, Wenqin, Wang, Yue, Chen, Di-Chang, et al.
 Binnenfeld, Avraham, Sussholz, Amitay, Faigler, Simchon, et al.    
 2026, refereed ([2026MNRAS.tmp.1957B](http://adsabs.harvard.edu/abs/2026MNRAS.tmp.1957B))  
 
+25. [COMPANION ARCHITECTURES OF SUB-SATURNS: DISTINCT MIGRATION PATHWAYS ACROSS THE NEPTUNIAN LANDSCAPE](http://adsabs.harvard.edu/abs/2026A&A...715A.179T)  
+Thomas, Luis, Nielsen, Louise D., Cridland, Alex J., et al.    
+2026, refereed ([2026A&A...715A.179T](http://adsabs.harvard.edu/abs/2026A&A...715A.179T))  
+
+26. [``MEGA-EARTHS'' ARE LIKELY AN ARTIFACT OF STELLAR ACTIVITY](http://adsabs.harvard.edu/abs/2026ApJ..1011L..62B)  
+Brinkman, Casey L., Cowan, Nicolas B.    
+2026, refereed ([2026ApJ..1011L..62B](http://adsabs.harvard.edu/abs/2026ApJ..1011L..62B))  
+
+27. [VALIDATION AND PHYSICAL CHARACTERIZATION OF SEVEN TESS EXOPLANETS: A COMPACT MULTI-PLANET SYSTEM AND TARGETS FOR ATMOSPHERIC SPECTROSCOPY](http://adsabs.harvard.edu/abs/2026arXiv261125079E)  
+Escolà-Rodrigo, Biel    
+2026, not refereed ([2026arXiv261125079E](http://adsabs.harvard.edu/abs/2026arXiv261125079E))  
+
+28. [TOI-2665 B: A HIGHLY IRRADIATED GIANT IN THE HOT NEPTUNE DESERT](http://adsabs.harvard.edu/abs/2026arXiv261119724D)  
+Daniels, Darya, Kunimoto, Michelle, Jenkins, James S., et al.    
+2026, not refereed ([2026arXiv261119724D](http://adsabs.harvard.edu/abs/2026arXiv261119724D))  
+
+29. [NEMESIS: EXOPLANET TRANSIT SURVEY OF NEARBY M-DWARFS IN TESS FFIS II - 262 TRANSITING PLANET CANDIDATES FROM THE TESS PRIMARY MISSION](http://adsabs.harvard.edu/abs/2026arXiv261121758F)  
+Feliz, Dax L., Maldonado Gutierrez, Madeline, Adams, Maliyah, et al.    
+2026, not refereed ([2026arXiv261121758F](http://adsabs.harvard.edu/abs/2026arXiv261121758F))  
+
+30. [TOI-1699A: A SUB-NEPTUNE AND A SUPER-JOVIAN IN AN S-TYPE PLANETARY SYSTEM](http://adsabs.harvard.edu/abs/2026arXiv261118481P)  
+Psaridi, Angelica, Stalport, Manu, Mantovan, Giacomo, et al.    
+2026, not refereed ([2026arXiv261118481P](http://adsabs.harvard.edu/abs/2026arXiv261118481P))  
+
+31. [ON THE EXISTENCE OF A THIRD PLANET AND AN APSIDAL RESONANCE CHAIN IN THE KEPLER-396 SYSTEM THROUGH TESS DATA](http://adsabs.harvard.edu/abs/2026arXiv261117667Y)  
+Yeh, Li-Chin, Jiang, Ing-Guey, Cherdwongsung, Prangsutip, et al.    
+2026, not refereed ([2026arXiv261117667Y](http://adsabs.harvard.edu/abs/2026arXiv261117667Y))  
+
+32. [MAGELLAN PFS DISCOVERY OF A COLD GAS GIANT EXOPLANET LIKELY FORMED BY A GAS DISK GRAVITATIONAL INSTABILITY](http://adsabs.harvard.edu/abs/2026arXiv261116032B)  
+Boss, Alan P., Butler, R. Paul, Teske, Johanna K., et al.    
+2026, not refereed ([2026arXiv261116032B](http://adsabs.harvard.edu/abs/2026arXiv261116032B))  
+
+33. [WHERE DID THE ANGULAR MOMENTUM GO? WASP-12 B MAY HAVE CIRCULARIZED ON A RETROGRADE ORBIT](http://adsabs.harvard.edu/abs/2026arXiv261125203Z)  
+Zhang, Elina Y., Dai, Fei, Li, Yaguang, et al.    
+2026, not refereed ([2026arXiv261125203Z](http://adsabs.harvard.edu/abs/2026arXiv261125203Z))  
+
+34. [EXOPLANETS ARE PREDOMINATELY ALIGNED WITH EXO-KUIPER BELTS](http://adsabs.harvard.edu/abs/2026arXiv261117423Z)  
+Zhang, Jingwen, Millar-Blanchaer, Maxwell A., Bowler, Brendan P., et al.    
+2026, not refereed ([2026arXiv261117423Z](http://adsabs.harvard.edu/abs/2026arXiv261117423Z))  
+
+35. [VALIDATION OF ARIEL CANDIDATES ORBITING K-M STARS](http://adsabs.harvard.edu/abs/2026arXiv261120785P)  
+Piccinini, Giulia, Di Maio, Claudia, Micela, Giuseppina, et al.    
+2026, not refereed ([2026arXiv261120785P](http://adsabs.harvard.edu/abs/2026arXiv261120785P))  
+
 
 2026-10
 -------

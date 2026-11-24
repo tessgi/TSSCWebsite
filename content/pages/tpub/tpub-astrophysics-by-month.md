@@ -183,6 +183,62 @@ Zhao, Zhanhao, Cheng, Xin, Kou, Yuankun, et al.
 Klement, R., Rivinius, Th., Carciofi, A. C., et al.    
 2026, refereed ([2026A&A...715A.194K](http://adsabs.harvard.edu/abs/2026A&A...715A.194K))  
 
+45. [SEVEN YEARS OF TESS PRECOVERY OBSERVATIONS OF THE DWARF-PLANET CANDIDATE 2026 ED<SUB>138</SUB>](http://adsabs.harvard.edu/abs/2026RNAAS..10..332H)  
+Han, Te, Audenaert, Jeroen, Muthukrishna, Daniel, et al.    
+2026, not refereed ([2026RNAAS..10..332H](http://adsabs.harvard.edu/abs/2026RNAAS..10..332H))  
+
+46. [TWO LONG-PERIOD LOW-MASS ECLIPSING BINARIES RECOVERED FROM GAIA DR3 SPECTROSCOPIC ORBITS AND TESS ECLIPSES AT THE PREDICTED CONJUNCTIONS](http://adsabs.harvard.edu/abs/2026RNAAS..10..323C)  
+Chopard-Vilhem, Théo    
+2026, not refereed ([2026RNAAS..10..323C](http://adsabs.harvard.edu/abs/2026RNAAS..10..323C))  
+
+47. [ABSOLUTE PROPERTIES OF THREE NEAR-CONTACT BINARIES UNDERGOING ORBITAL PERIOD DECREASE AT A CRITICAL EVOLUTIONARY STAGE](http://adsabs.harvard.edu/abs/2026ApJ..1012...62Z)  
+Zhang, Bin, Yan, Xin-Jie, Zhang, Xu-Dong, et al.    
+2026, refereed ([2026ApJ..1012...62Z](http://adsabs.harvard.edu/abs/2026ApJ..1012...62Z))  
+
+48. [THE ECLIPSING $Δ$ SCUTI BINARY HIP 7666: ABSOLUTE DIMENSIONS AND PULSATION PROPERTIES](http://adsabs.harvard.edu/abs/2026arXiv261117590L)  
+Lee, Jae Woo, Hong, Kyeongsoo, Jeong, Min-Ji, et al.    
+2026, not refereed ([2026arXiv261117590L](http://adsabs.harvard.edu/abs/2026arXiv261117590L))  
+
+49. [ALL-SKY SPECTROSCOPIC SURVEY OF BRIGHT Δ SCUTI STARS FROM TESS PROJECTED ROTATIONAL VELOCITIES AND PULSATION CHARACTERISTICS](http://adsabs.harvard.edu/abs/2026arXiv261121245Z)  
+Zummer, M., Skarka, M., Korčáková, D., et al.    
+2026, not refereed ([2026arXiv261121245Z](http://adsabs.harvard.edu/abs/2026arXiv261121245Z))  
+
+50. [ASTEROSEISMOLOGY OF AI VELORUM: A PROTOTYPE OF HIGH-AMPLITUDE DELTA SCUTI STARS](http://adsabs.harvard.edu/abs/2026arXiv261124796W)  
+Walczak, Przemysław, Daszyńska-Daszkiewicz, Jadwiga, Niewiadomski, Wojciech, et al.    
+2026, not refereed ([2026arXiv261124796W](http://adsabs.harvard.edu/abs/2026arXiv261124796W))  
+
+51. [SOFT EXCESS VARIABILITY AND A TEST OF X-RAY REPROCESSING IN AGN MRK 359 AND NGC 4051 USING NICER AND TESS](http://adsabs.harvard.edu/abs/2026arXiv261117439S)  
+Sewak, Tejas, Fausnaugh, Michael M., Cackett, Edward M., et al.    
+2026, not refereed ([2026arXiv261117439S](http://adsabs.harvard.edu/abs/2026arXiv261117439S))  
+
+52. [REDISCUSSION OF ECLIPSING BINARIES. PAPER 33. THE A-TYPE SYSTEM CW CANIS MAJORIS IN THE PLATO SOUTHERN FIELD](http://adsabs.harvard.edu/abs/2026arXiv261125217S)  
+Southworth, John, Overall, Stephen    
+2026, not refereed ([2026arXiv261125217S](http://adsabs.harvard.edu/abs/2026arXiv261125217S))  
+
+53. [STARSPOTS ON ECLIPSING GIANT STARS II.: TESS CONTINUOUS VIEWING ZONE GIANT V521 DRA](http://adsabs.harvard.edu/abs/2026arXiv261117080H)  
+Haris, A., Seli, B., Oláh, K., et al.    
+2026, not refereed ([2026arXiv261117080H](http://adsabs.harvard.edu/abs/2026arXiv261117080H))  
+
+54. [ELEVEN TRANS-NEPTUNIAN OBJECTS AND EIGHT CANDIDATES DISCOVERED BY TESS](http://adsabs.harvard.edu/abs/2026arXiv261118452H)  
+Han, Te, Audenaert, Jeroen, Shporer, Avi, et al.    
+2026, not refereed ([2026arXiv261118452H](http://adsabs.harvard.edu/abs/2026arXiv261118452H))  
+
+55. [SUBSEQUENT DUST-FADING EVENTS OF THE WOLF-RAYET STAR WR 59: A CONTINUOUS VISUAL RECORD](http://adsabs.harvard.edu/abs/2026arXiv261123780S)  
+Stubbings, Rod    
+2026, not refereed ([2026arXiv261123780S](http://adsabs.harvard.edu/abs/2026arXiv261123780S))  
+
+56. [MINING THE TIME AXIS WITH TRON. IV. MEERKAT DETECTS A RADIO BURST FROM A NEARBY M~DWARF](http://adsabs.harvard.edu/abs/2026arXiv261123447R)  
+Ramaila, A. J. T., Smirnov, O. M., Myburgh, T., et al.    
+2026, not refereed ([2026arXiv261123447R](http://adsabs.harvard.edu/abs/2026arXiv261123447R))  
+
+57. [COMPARATIVE ANALYSIS OF TWO DELTA SCUTI STARS APPROACHING THE TAMS USING MESA-GYRE MODELS](http://adsabs.harvard.edu/abs/2026arXiv261121819P)  
+Pamos Ortega, David    
+2026, not refereed ([2026arXiv261121819P](http://adsabs.harvard.edu/abs/2026arXiv261121819P))  
+
+58. [ASASSN-15AF: AN ECLIPSING CATACLYSMIC VARIABLE ABOVE THE PERIOD GAP SHOWING BOTH POSITIVE AND NEGATIVE SUPERHUMP-LIKE SIGNALS](http://adsabs.harvard.edu/abs/2026arXiv261119093O)  
+Ogunwale, Bisi Bernard, Shara, Michael, Shporer, Avi, et al.    
+2026, not refereed ([2026arXiv261119093O](http://adsabs.harvard.edu/abs/2026arXiv261119093O))  
+
 
 2026-10
 -------
